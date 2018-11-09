@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00024184.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 2 Imports: 3 Game: 801A
+Loading Texture2D Game_RaidScene_Preview from package 00024184.upk
+Loaded in 0.006 sec, 52 allocs, 0.01 MBytes serialized in 233 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_RaidScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

@@ -1,0 +1,215 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00055362.upk Ver: 573/1 Engine: 4205 Names: 104 Exports: 40 Imports: 13 Game: 801A
+Loading SkeletalMesh3 990964_GhostMaskMonsterC_L from package 00055362.upk
+Loading package: 00055364.upk Ver: 573/1 Engine: 4205 Names: 197 Exports: 410 Imports: 55 Game: 801A
+Loading SkeletalMesh3 990964_GhostMaskMonsterC_R from package 00055362.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_52 from package 00055362.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_53 from package 00055362.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_106 from package 00055362.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_107 from package 00055362.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_108 from package 00055362.upk
+Loading StaticMesh3 990964Weapon from package 00055362.upk
+Loading MaterialInstanceConstant col2 from package 00055364.upk
+Loading package: 00008412.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00055363.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00055364.upk
+Loading Texture2D wp_n from package 00008412.upk
+Loading Texture2D Wp_mk from package 00008412.upk
+Loading Texture2D Wp_df from package 00008412.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D 990964_GhostMaskMonsterC_Col1_FX from package 00055363.upk
+Loading Texture2D Wp_sc from package 00008412.upk
+Loading TextureCube mirror2 from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D 990964_FX from package 00055364.upk
+Loading Material3 BasicFXL from package 00055364.upk
+Loading Material3 BasicFXR from package 00055364.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.17 sec, 3240 allocs, 1.25 MBytes serialized in 255459 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 990964_GhostMaskMonsterC_L
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[2] =
+    {
+        Sockets[0] = SkeletalMeshSocket'990964_GhostMaskMonsterC_L.SkeletalMeshSocket_52'
+        Sockets[1] = SkeletalMeshSocket'990964_GhostMaskMonsterC_L.SkeletalMeshSocket_53'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col2' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col2', FirstIndex=0, NumFaces=690 }
+            }
+            NumVerts = 724
+            IndexCount = 2070
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 8
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 990964_GhostMaskMonsterC_R
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[3] =
+    {
+        Sockets[0] = SkeletalMeshSocket'990964_GhostMaskMonsterC_R.SkeletalMeshSocket_106'
+        Sockets[1] = SkeletalMeshSocket'990964_GhostMaskMonsterC_R.SkeletalMeshSocket_107'
+        Sockets[2] = SkeletalMeshSocket'990964_GhostMaskMonsterC_R.SkeletalMeshSocket_108'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=690 }
+            }
+            NumVerts = 724
+            IndexCount = 2070
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 8
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_52
+
+    SocketName = Trail_start_L
+    BoneName = Bone_Weapon_L_Key
+    RelativeLocation = { X=69.5835, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_53
+
+    SocketName = Trail_end_L
+    BoneName = Bone_Weapon_L_Key
+    RelativeLocation = { X=170.935, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_106
+
+    SocketName = trail_start_R
+    BoneName = Bone_Weapon_R_Key
+    RelativeLocation = { X=72.0857, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_107
+
+    SocketName = trail_end_R
+    BoneName = Bone_Weapon_R_Key
+    RelativeLocation = { X=168.864, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_108
+
+    SocketName = FX_Center
+    BoneName = Bone_Weapon_R_Key
+    RelativeLocation = { X=117.048, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 990964Weapon
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.279549, Y=0.0459499, Z=39.4426 }
+        BoxExtent = { X=46.007, Y=6.30845, Z=114.867 }
+        SphereRadius = 115.856
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col2', FirstIndex=0, NumFaces=678 }
+            }
+            NumVerts = 1334
+            IndexCount = 2034
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1

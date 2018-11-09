@@ -1,0 +1,404 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00052020.upk Ver: 573/1 Engine: 4205 Names: 221 Exports: 316 Imports: 18 Game: 801A
+Loading SkeletalMesh3 PirateGhostStaffCaptain from package 00052020.upk
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::LowNameHeight" was not found
+Loading package: 00052019.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 1 Imports: 20 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_185 from package 00052020.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_186 from package 00052020.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_187 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_194 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_195 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_196 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_197 from package 00052020.upk
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_198 from package 00052020.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_199 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_201 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_202 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_203 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_204 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_205 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_206 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_207 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_208 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_209 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_210 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_211 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_212 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_213 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_216 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_217 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_218 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_219 from package 00052020.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_228 from package 00052020.upk
+Loading MaterialInstanceConstant col1 from package 00052019.upk
+Loading package: 00052018.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D PirateGhostStaffCaptain_col1_N from package 00052018.upk
+Loading Texture2D PirateGhostStaffCaptain_col1_M from package 00052018.upk
+Loading Texture2D PirateGhostStaffCaptain_col1_D from package 00052018.upk
+Loading Texture2D PirateGhostStaffCaptain_col1_S from package 00052018.upk
+Loading TextureCube Cube_Suicide2 from package 00002640.upk
+Loading Texture2D PirateGhostStaffCaptain_col1_E from package 00052018.upk
+Loading Material3 Basic from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.19 sec, 3161 allocs, 4.48 MBytes serialized in 566731 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: PirateGhostStaffCaptain
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[2] = { true, true }
+        }
+    }
+    Sockets[27] =
+    {
+        Sockets[0] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_185'
+        Sockets[1] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_186'
+        Sockets[2] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_187'
+        Sockets[3] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_194'
+        Sockets[4] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_195'
+        Sockets[5] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_196'
+        Sockets[6] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_197'
+        Sockets[7] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_198'
+        Sockets[8] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_199'
+        Sockets[9] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_201'
+        Sockets[10] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_202'
+        Sockets[11] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_203'
+        Sockets[12] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_204'
+        Sockets[13] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_205'
+        Sockets[14] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_206'
+        Sockets[15] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_207'
+        Sockets[16] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_208'
+        Sockets[17] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_209'
+        Sockets[18] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_210'
+        Sockets[19] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_211'
+        Sockets[20] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_212'
+        Sockets[21] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_213'
+        Sockets[22] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_216'
+        Sockets[23] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_217'
+        Sockets[24] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_218'
+        Sockets[25] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_219'
+        Sockets[26] = SkeletalMeshSocket'PirateGhostStaffCaptain.SkeletalMeshSocket_228'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=13719 }
+                Sections[1] = { Material=MaterialInstanceConstant'col1', FirstIndex=41157, NumFaces=280 }
+            }
+            NumVerts = 10695
+            IndexCount = 41997
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 109
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_185
+
+    SocketName = WeaponL
+    BoneName = WeaponL
+    RelativeLocation = { X=-3.34357, Y=0.369962, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_186
+
+    SocketName = WeaponR
+    BoneName = WeaponR
+    RelativeLocation = { X=-2.03786, Y=-0.468259, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_187
+
+    SocketName = target_high
+    BoneName = Bip01Head
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_194
+
+    SocketName = Catch_Neck
+    BoneName = Bip01Neck
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_195
+
+    SocketName = socket_force
+    BoneName = Root
+    RelativeLocation = { X=40, Y=33, Z=7 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_196
+
+    SocketName = Mount_Socket
+    BoneName = Root
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_197
+
+    SocketName = ATTACH_EFFECT
+    BoneName = Bip01
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_198
+
+    SocketName = X_Root_Find_Test
+    BoneName = Root
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_199
+
+    SocketName = Mount_Ambar_Socket
+    BoneName = Bip01LClavicle
+    RelativeLocation = { X=-10, Y=-2, Z=-12 }
+    RelativeRotation = { Yaw=-285, Pitch=9970, Roll=22850 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_201
+
+    SocketName = Decap_Socket
+    BoneName = Bip01Neck
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_202
+
+    SocketName = Socket_Caster
+    BoneName = Root
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_203
+
+    SocketName = SD_A
+    BoneName = BoneShoulderTwistL01
+    RelativeLocation = { X=-1.3, Y=-1.56, Z=5.68 }
+    RelativeRotation = { Yaw=-18659, Pitch=-3640, Roll=18841 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_204
+
+    SocketName = Soul_a_1
+    BoneName = Root
+    RelativeLocation = { X=0, Y=0, Z=65 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_205
+
+    SocketName = Soul_c_1
+    BoneName = Root
+    RelativeLocation = { X=5, Y=5, Z=50 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_206
+
+    SocketName = Soul_c_2
+    BoneName = Root
+    RelativeLocation = { X=5, Y=-5, Z=55 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_207
+
+    SocketName = Soul_c_3
+    BoneName = Root
+    RelativeLocation = { X=-5, Y=5, Z=55 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_208
+
+    SocketName = Socket_Rosary
+    BoneName = Bip01LForeArm
+    RelativeLocation = { X=10, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_209
+
+    SocketName = Soul_c_4
+    BoneName = Root
+    RelativeLocation = { X=-5, Y=-5, Z=50 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_210
+
+    SocketName = LC_Socket_1
+    BoneName = Root
+    RelativeLocation = { X=5, Y=60, Z=75 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_211
+
+    SocketName = LC_Socket_2
+    BoneName = Root
+    RelativeLocation = { X=-15, Y=70, Z=55 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_212
+
+    SocketName = LC_Socket_3
+    BoneName = Root
+    RelativeLocation = { X=-10, Y=-60, Z=75 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_213
+
+    SocketName = LC_Socket_4
+    BoneName = Root
+    RelativeLocation = { X=10, Y=-60, Z=50 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_216
+
+    SocketName = Soul_L_1
+    BoneName = Bip01LHand
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_217
+
+    SocketName = Soul_L_2
+    BoneName = Bip01LHand
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_218
+
+    SocketName = Soul_L_3
+    BoneName = Bip01LHand
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_219
+
+    SocketName = Wing
+    BoneName = Bip01Spine2
+    RelativeLocation = { X=7, Y=11, Z=0 }
+    RelativeRotation = { Yaw=14563, Pitch=32768, Roll=-16384 }
+    RelativeScale = { X=0.85, Y=0.85, Z=0.85 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_228
+
+    SocketName = Mount_Choke_Socket
+    BoneName = Root
+    RelativeLocation = { X=1.5, Y=0, Z=0 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

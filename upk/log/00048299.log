@@ -1,0 +1,1634 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00048299.upk Ver: 573/1 Engine: 4205 Names: 465 Exports: 1191 Imports: 128 Game: 801A
+Loading Material3 01 from package 00048299.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 CheondoongFX_RuneDecal_MATB from package 00048299.upk
+WARNING: BoolProperty "UMaterial3::bUsedWithMaterialEffect" was not found
+Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
+Loading Material3 Epic9_AkEmpress_ThornVine_Grow from package 00048299.upk
+Loading Material3 Hongseoggeun_Crack from package 00048299.upk
+Loading Material3 M_BaseMaterial_v001 from package 00048299.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 M_Decal_10x10_v001 from package 00048299.upk
+Loading Material3 M_Decalmaterial_v001 from package 00048299.upk
+Loading Material3 M_Helix_v001 from package 00048299.upk
+Loading Material3 M_MeshTrail_v001 from package 00048299.upk
+Loading Material3 M_PannerTexture_v001 from package 00048299.upk
+Loading Material3 M_SampleMaterial_v001 from package 00048299.upk
+Loading Material3 M_Sequence_v001 from package 00048299.upk
+Loading Material3 M_Sequence_v002 from package 00048299.upk
+Loading Material3 M_TrailMaterial_v001 from package 00048299.upk
+Loading Material3 Mob_Fire_MAT_add from package 00048299.upk
+Loading Material3 RuneMechaCGiant2_hongsil_ball from package 00048299.upk
+Loading Material3 SandTemple_TimeStun_ADD_mat from package 00048299.upk
+Loading MaterialInstanceConstant DoubleSword_FXcol1 from package 00048299.upk
+Loading package: 00057274.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00053097.upk Ver: 573/1 Engine: 4205 Names: 200 Exports: 251 Imports: 56 Game: 801A
+Loading MaterialInstanceConstant DoubleSword_FXcol2 from package 00048299.upk
+Loading MaterialInstanceConstant Epic9_Ryu_Berserk_Wolf from package 00048299.upk
+Loading package: 00026127.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 9 Imports: 2 Game: 801A
+Loading package: 00026128.upk Ver: 573/1 Engine: 4205 Names: 207 Exports: 287 Imports: 59 Game: 801A
+Loading MaterialInstanceConstant Gadget_Bomb_MAT from package 00048299.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant MI_Decal_10x10_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_Decal_FireDecal_v001 from package 00048299.upk
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading MaterialInstanceConstant MI_DoubleSword_Decal_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_DoubleSword_Decal_v002 from package 00048299.upk
+Loading MaterialInstanceConstant MI_DoubleSword_Helix_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_DoubleSword_Helix_v002 from package 00048299.upk
+Loading MaterialInstanceConstant MI_Helix_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_MeshTrail_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_PannerTexture_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_PannerTexture_v002 from package 00048299.upk
+Loading MaterialInstanceConstant MI_Sequence_v001 from package 00048299.upk
+Loading MaterialInstanceConstant MI_Sequence_v002 from package 00048299.upk
+Loading MaterialInstanceConstant MI_Sequence_v003 from package 00048299.upk
+Loading MaterialInstanceConstant MI_TrailMaterial_v001 from package 00048299.upk
+Loading MaterialInstanceConstant Mob_Fire_MAT_add_INST_GiantDragon from package 00048299.upk
+Loading package: 00052716.upk Ver: 573/1 Engine: 4205 Names: 232 Exports: 656 Imports: 58 Game: 801A
+Loading Texture2D Epic9_Ryu_SorcererDWolf_col1_FX from package 00048299.upk
+Loading Texture2D Barrier_signal from package 00012963.upk
+Loading Texture2D T_MagicCircle_Decal_v001 from package 00037791.upk
+Loading Texture2D Plant_004_06_N from package 00012963.upk
+Loading Texture2D lava01 from package 00012963.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Plant_004_06_M from package 00012963.upk
+Loading Texture2D Normal_Noise_004 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D crack_tile_nomal from package 00012963.upk
+Loading Texture2D crack_tile from package 00012963.upk
+Loading Texture2D Noise_021 from package 00012963.upk
+Loading Texture2D Gradient_Beam_Clamp from package 00012963.upk
+Loading Texture2D T_BaseTexture_v001 from package 00037791.upk
+Loading Texture2D T_Decal10x10_v001_D from package 00037791.upk
+Loading Texture2D UV_Checker from package 00037791.upk
+Loading Texture2D T_Gradient_v001 from package 00037791.upk
+Loading Texture2D T_Black_v001 from package 00037791.upk
+Loading Texture2D T_Sequnce_v003 from package 00037791.upk
+Loading Texture2D T_Sequnce_v001 from package 00037791.upk
+Loading Texture2D T_Sequnce_v002 from package 00037791.upk
+Loading Texture2D T_ColorGradient_v001 from package 00037791.upk
+Loading Texture2D T_Flow_v002 from package 00037791.upk
+Loading Texture2D T_Trail_v001 from package 00037791.upk
+Loading Texture2D T_Flow_v001 from package 00037791.upk
+Loading Texture2D Noise_Wave_000_Normal from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Noise_017 from package 00012963.upk
+Loading Texture2D Normal_Noise_000 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D SoulNPC_BloodPan from package 00012963.upk
+Loading Texture2D Noise_010 from package 00012963.upk
+Loading Texture2D Noise_003 from package 00012963.upk
+Loading Texture2D RedOverLoardNew_col1_N from package 00057274.upk
+Loading Texture2D RedOverLoardNew_col1_M from package 00057274.upk
+Loading Texture2D RedOverLoardNew_col1_D from package 00057274.upk
+Loading Texture2D RedOverLoardNew_col1_S from package 00057274.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D RedOverLoardNew_col1_FX from package 00037791.upk
+Loading Material3 FX_body_reflect from package 00053097.upk
+Loading Texture2D RedOverLoardNew_col2_FX from package 00037791.upk
+Loading Texture2D SorcererDWolf_col1_N from package 00026127.upk
+Loading Texture2D SorcererDWolf_col1_D from package 00026127.upk
+Loading Texture2D SorcererDWolf_col1_M from package 00026127.upk
+Loading Texture2D SorcererDWolf_col1_S from package 00026127.upk
+Loading Material3 SorcererDWolf_Basic01 from package 00026128.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Texture2D Gadget_Bomb_N from package 00012963.upk
+Loading Texture2D Damage02_poison_Decal4 from package 00012963.upk
+Loading Texture2D Gadget_Bomb_D from package 00012963.upk
+Loading Texture2D Gadget_Bomb_S from package 00012963.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Texture2D Ring_SharpBlur_000 from package 00012963.upk
+Loading Material3 Basic from package 00002620.upk
+Loading Material3 Mesh_Decal_FireDecal001_MatM from package 00012850.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Texture2D T_Decal_v001 from package 00037791.upk
+Loading Texture2D T_Noise_v002 from package 00037791.upk
+Loading Texture2D T_Decal_v002 from package 00037791.upk
+Loading Texture2D T_Trail_v002C from package 00037791.upk
+Loading Texture2D T_Trail_v003 from package 00037791.upk
+Loading Texture2D T_Noise_v001 from package 00037791.upk
+Loading Texture2D T_Grad_v001 from package 00037791.upk
+Loading Texture2D Noise_011 from package 00012963.upk
+Loading Texture2D T_Mask_v002 from package 00037791.upk
+Loading Texture2D FX_ADD_T from package 00052716.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Beam_007 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Normal_Stone_001 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Decal_DarkSmoke_000 from package 00012963.upk
+Loading Texture2D Noise_013 from package 00012963.upk
+Loading Texture2D Noise_007 from package 00012963.upk
+Loading Texture2D Sparkle_005 from package 00012963.upk
+Loaded in 2.4 sec, 7934 allocs, 16.10 MBytes serialized in 837571 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: 01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Barrier_signal' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: CheondoongFX_RuneDecal_MATB
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'T_MagicCircle_Decal_v001' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Epic9_AkEmpress_ThornVine_Grow
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[7] =
+    {
+        ReferencedTextures[0] = Texture2D'Plant_004_06_N'
+        ReferencedTextures[1] = Texture2D'lava01'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[4] = Texture2D'Plant_004_06_M'
+        ReferencedTextures[5] = Texture2D'Normal_Noise_004'
+        ReferencedTextures[6] = Texture2D'Gradient_Line_003'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Hongseoggeun_Crack
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'crack_tile_nomal'
+        ReferencedTextures[1] = Texture2D'crack_tile'
+        ReferencedTextures[2] = Texture2D'Noise_021'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_Clamp'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_BaseMaterial_v001
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'T_BaseTexture_v001' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_Decal_10x10_v001
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'T_Decal10x10_v001_D' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_Decalmaterial_v001
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'UV_Checker' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_Helix_v001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'T_Gradient_v001', Texture2D'T_Black_v001', Texture2D'UV_Checker' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_MeshTrail_v001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'UV_Checker', Texture2D'T_Black_v001' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_PannerTexture_v001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'UV_Checker' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_SampleMaterial_v001
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[0] = {}
+    BlendMode = BLEND_Opaque (0)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_Sequence_v001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'T_Sequnce_v003', Texture2D'T_Sequnce_v001' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_Sequence_v002
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'T_Sequnce_v002', Texture2D'T_Sequnce_v001' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_TrailMaterial_v001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'T_ColorGradient_v001'
+        ReferencedTextures[1] = Texture2D'T_Flow_v002'
+        ReferencedTextures[2] = Texture2D'T_Trail_v001'
+        ReferencedTextures[3] = Texture2D'T_Flow_v001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Mob_Fire_MAT_add
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_Wave_000_Normal'
+        ReferencedTextures[1] = Texture2D'Noise_017'
+        ReferencedTextures[2] = Texture2D'Normal_Noise_000'
+        ReferencedTextures[3] = Texture2D'Noise_Plazma_002'
+        ReferencedTextures[4] = Texture2D'SoulNPC_BloodPan'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: RuneMechaCGiant2_hongsil_ball
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[0] = {}
+    BlendMode = BLEND_Opaque (0)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: SandTemple_TimeStun_ADD_mat
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Noise_010', Texture2D'Noise_003' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: DoubleSword_FXcol1
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=80 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=0.5 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=3 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=0.5 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=Ghost_Fresnel_Power, ParameterValue=25 }
+    }
+    TextureParameterValues[7] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'RedOverLoardNew_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'RedOverLoardNew_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'RedOverLoardNew_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'RedOverLoardNew_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'RedOverLoardNew_col1_FX' }
+        TextureParameterValues[6] = { ParameterName=FX_Add, ParameterValue=Texture2D'RedOverLoardNew_col1_FX' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.259027, G=0.259027, B=0.259027, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.781751, G=0.505433, B=0.183549, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=2, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=5, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Tex_RGB
+            ParameterValue = { R=5, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Ghost_Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+    }
+    Parent = Material3'FX_body_reflect'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: DoubleSword_FXcol2
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=80 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=0.5 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=3 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=0.5 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=Ghost_Fresnel_Power, ParameterValue=25 }
+    }
+    TextureParameterValues[7] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'RedOverLoardNew_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'RedOverLoardNew_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'RedOverLoardNew_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'RedOverLoardNew_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'RedOverLoardNew_col2_FX' }
+        TextureParameterValues[6] = { ParameterName=FX_Add, ParameterValue=Texture2D'RedOverLoardNew_col2_FX' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.259027, G=0.259027, B=0.259027, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.781751, G=0.505433, B=0.183549, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.1, G=2, B=0.1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=1, G=5, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Tex_RGB
+            ParameterValue = { R=5, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Ghost_Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+    }
+    Parent = Material3'FX_body_reflect'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Epic9_Ryu_Berserk_Wolf
+
+    ScalarParameterValues[9] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Glossiness1, ParameterValue=2 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness2, ParameterValue=100 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[3] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_glossiness, ParameterValue=10 }
+        ScalarParameterValues[5] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Fresnel Value, ParameterValue=10 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel exponent, ParameterValue=20 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'SorcererDWolf_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'SorcererDWolf_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Mask_GB, ParameterValue=Texture2D'SorcererDWolf_col1_M' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'SorcererDWolf_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] =
+        {
+            ParameterName = Emissive
+            ParameterValue = Texture2D'Epic9_Ryu_SorcererDWolf_col1_FX'
+        }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.965815, G=0.306635, B=0.160444, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=10, B=100, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'SorcererDWolf_Basic01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Gadget_Bomb_MAT
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=30 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Gadget_Bomb_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Damage02_poison_Decal4' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Gadget_Bomb_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Gadget_Bomb_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Ring_SharpBlur_000' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.21952, G=0.2468, B=0.325037, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.8, G=0.8, B=0.8, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=5, G=0.1, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=3, G=0.05, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Decal_10x10_v001
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[0] = {}
+    VectorParameterValues[0] = {}
+    Parent = Material3'M_Decal_10x10_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Decal_FireDecal_v001
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[0] = {}
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=5, G=0.2, B=0.1, A=1 }
+        }
+    }
+    Parent = Material3'Mesh_Decal_FireDecal001_MatM'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_DoubleSword_Decal_v001
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Emissive01_Int, ParameterValue=5 }
+        ScalarParameterValues[2] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=Dissolve_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=dissolve_power, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Dissolve_Int, ParameterValue=5 }
+        ScalarParameterValues[8] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=opacity01_Power, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=opacity01_Int, ParameterValue=5 }
+        ScalarParameterValues[12] = { ParameterName=Rotator_G, ParameterValue=0.5 }
+        ScalarParameterValues[13] = { ParameterName=OutDensity, ParameterValue=0.5 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Decal_v001' }
+        TextureParameterValues[1] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+        TextureParameterValues[2] = { ParameterName=opacity01_Tex, ParameterValue=Texture2D'T_Decal_v001' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Emissive_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = dissolve_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = RadialSize
+            ParameterValue = { R=-1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_Decalmaterial_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_DoubleSword_Decal_v002
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Emissive01_Int, ParameterValue=30 }
+        ScalarParameterValues[2] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=Dissolve_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=dissolve_power, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Dissolve_Int, ParameterValue=5 }
+        ScalarParameterValues[8] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=opacity01_Power, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=opacity01_Int, ParameterValue=5 }
+        ScalarParameterValues[12] = { ParameterName=Rotator_G, ParameterValue=0.05 }
+        ScalarParameterValues[13] = { ParameterName=OutDensity, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Decal_v002' }
+        TextureParameterValues[1] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+        TextureParameterValues[2] = { ParameterName=opacity01_Tex, ParameterValue=Texture2D'T_Decal_v002' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Emissive_color
+            ParameterValue = { R=5, G=1, B=0.1, A=0 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = dissolve_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = RadialSize
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_Decalmaterial_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_DoubleSword_Helix_v001
+
+    ScalarParameterValues[26] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Diffuse_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Diffuse_Add_U, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Diffuse_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=Diffuse_Tile_V, ParameterValue=0.44 }
+        ScalarParameterValues[4] = { ParameterName=Diffuse_Power, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Diffuse_Int, ParameterValue=2 }
+        ScalarParameterValues[6] = { ParameterName=Diffuse_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Diffuse_Add_V, ParameterValue=-0.27 }
+        ScalarParameterValues[8] = { ParameterName=Desaturation, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Emissive01_Tile_U, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Emissive01_Add_U, ParameterValue=-0.5 }
+        ScalarParameterValues[11] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=Emissive01_Tile_V, ParameterValue=2 }
+        ScalarParameterValues[13] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Emissive01_Int, ParameterValue=12 }
+        ScalarParameterValues[15] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Add_V, ParameterValue=-0.9463 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[19] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Dissolve_Spd_U, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[22] = { ParameterName=dissolve_power, ParameterValue=1 }
+        ScalarParameterValues[23] = { ParameterName=Dissolve_Int, ParameterValue=0.2 }
+        ScalarParameterValues[24] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[25] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse_Tex, ParameterValue=Texture2D'T_Gradient_v001' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Trail_v002C' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = UV_Control
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = DInt(R)APower(G)
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_Helix_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_DoubleSword_Helix_v002
+
+    ScalarParameterValues[26] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Diffuse_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Diffuse_Add_U, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Diffuse_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=Diffuse_Tile_V, ParameterValue=0.44 }
+        ScalarParameterValues[4] = { ParameterName=Diffuse_Power, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Diffuse_Int, ParameterValue=2 }
+        ScalarParameterValues[6] = { ParameterName=Diffuse_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Diffuse_Add_V, ParameterValue=0.32 }
+        ScalarParameterValues[8] = { ParameterName=Desaturation, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Emissive01_Tile_U, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Emissive01_Add_U, ParameterValue=-0.5 }
+        ScalarParameterValues[11] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=Emissive01_Tile_V, ParameterValue=2 }
+        ScalarParameterValues[13] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Emissive01_Int, ParameterValue=12 }
+        ScalarParameterValues[15] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Add_V, ParameterValue=-0.9463 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[19] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Dissolve_Spd_U, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[22] = { ParameterName=dissolve_power, ParameterValue=1 }
+        ScalarParameterValues[23] = { ParameterName=Dissolve_Int, ParameterValue=0.2 }
+        ScalarParameterValues[24] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[25] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse_Tex, ParameterValue=Texture2D'T_Gradient_v001' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Trail_v002C' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = UV_Control
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = DInt(R)APower(G)
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_Helix_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Helix_v001
+
+    ScalarParameterValues[26] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Diffuse_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Diffuse_Add_U, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Diffuse_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=Diffuse_Tile_V, ParameterValue=0.44 }
+        ScalarParameterValues[4] = { ParameterName=Diffuse_Power, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Diffuse_Int, ParameterValue=2 }
+        ScalarParameterValues[6] = { ParameterName=Diffuse_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Diffuse_Add_V, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Desaturation, ParameterValue=0.2 }
+        ScalarParameterValues[9] = { ParameterName=Emissive01_Tile_U, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Emissive01_Add_U, ParameterValue=-0.5 }
+        ScalarParameterValues[11] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=Emissive01_Tile_V, ParameterValue=2 }
+        ScalarParameterValues[13] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Emissive01_Int, ParameterValue=12 }
+        ScalarParameterValues[15] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Add_V, ParameterValue=-0.9463 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[19] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Dissolve_Spd_U, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[22] = { ParameterName=dissolve_power, ParameterValue=1 }
+        ScalarParameterValues[23] = { ParameterName=Dissolve_Int, ParameterValue=0.2 }
+        ScalarParameterValues[24] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[25] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse_Tex, ParameterValue=Texture2D'T_Gradient_v001' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Trail_v002C' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = UV_Control
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = DInt(R)APower(G)
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_Helix_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_MeshTrail_v001
+
+    ScalarParameterValues[25] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Diffuse_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Diffuse_Add_U, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Diffuse_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=Diffuse_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Diffuse_Power, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Diffuse_Int, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=Diffuse_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Diffuse_Add_V, ParameterValue=0.82 }
+        ScalarParameterValues[8] = { ParameterName=Desaturation, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Emissive01_Tile_U, ParameterValue=1.5 }
+        ScalarParameterValues[10] = { ParameterName=Emissive01_Add_U, ParameterValue=-0.25 }
+        ScalarParameterValues[11] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=Emissive01_Tile_V, ParameterValue=1.5 }
+        ScalarParameterValues[13] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Emissive01_Int, ParameterValue=3 }
+        ScalarParameterValues[15] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Add_V, ParameterValue=-0.26 }
+        ScalarParameterValues[17] = { ParameterName=Dissolve_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[19] = { ParameterName=Dissolve_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Dissolve_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=dissolve_power, ParameterValue=1 }
+        ScalarParameterValues[22] = { ParameterName=Dissolve_Int, ParameterValue=0.1 }
+        ScalarParameterValues[23] = { ParameterName=Dissolve_Spd_V, ParameterValue=0.5 }
+        ScalarParameterValues[24] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse_Tex, ParameterValue=Texture2D'T_Gradient_v001' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'T_Trail_v003' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'M_MeshTrail_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_PannerTexture_v001
+
+    ScalarParameterValues[30] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity01_Int, ParameterValue=2 }
+        ScalarParameterValues[1] = { ParameterName=opacity01_Power, ParameterValue=0.8 }
+        ScalarParameterValues[2] = { ParameterName=opacity01_Add_V, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=opacity01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=opacity01_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=opacity01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=opacity01_Add_U, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=opacity01_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=opacity01_Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[9] = { ParameterName=opacity_Int, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Opacity_power, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=Dissolve_Int, ParameterValue=0.2 }
+        ScalarParameterValues[12] = { ParameterName=dissolve_power, ParameterValue=2 }
+        ScalarParameterValues[13] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[14] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Dissolve_Tile_V, ParameterValue=2 }
+        ScalarParameterValues[16] = { ParameterName=Dissolve_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[17] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Tile_U, ParameterValue=2 }
+        ScalarParameterValues[19] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Emissive01_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[21] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[22] = { ParameterName=Emissive01_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[23] = { ParameterName=Emissive01_Int, ParameterValue=2 }
+        ScalarParameterValues[24] = { ParameterName=Emissive01_Power, ParameterValue=2 }
+        ScalarParameterValues[25] = { ParameterName=Emissive01_Rotator, ParameterValue=0 }
+        ScalarParameterValues[26] = { ParameterName=Emissive01_Add_U, ParameterValue=0 }
+        ScalarParameterValues[27] = { ParameterName=Emissive01_Add_V, ParameterValue=0 }
+        ScalarParameterValues[28] = { ParameterName=Fresnel_Power, ParameterValue=1 }
+        ScalarParameterValues[29] = { ParameterName=Fresnel_Int, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=opacity01_Tex, ParameterValue=Texture2D'T_Grad_v001' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'Noise_011' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Emssive_UV
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_PannerTexture_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_PannerTexture_v002
+
+    ScalarParameterValues[28] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity01_Int, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=opacity01_Power, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=opacity01_Add_V, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=opacity01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=opacity01_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=opacity01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=opacity01_Add_U, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=opacity01_Tile_U, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=opacity01_Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[9] = { ParameterName=opacity_Int, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Opacity_power, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=Dissolve_Int, ParameterValue=0.2 }
+        ScalarParameterValues[12] = { ParameterName=dissolve_power, ParameterValue=2 }
+        ScalarParameterValues[13] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[14] = { ParameterName=Dissolve_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Dissolve_Tile_V, ParameterValue=2 }
+        ScalarParameterValues[16] = { ParameterName=Dissolve_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[17] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[18] = { ParameterName=Dissolve_Tile_U, ParameterValue=2 }
+        ScalarParameterValues[19] = { ParameterName=Emissive01_Spd_V, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=Emissive01_Tile_V, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=Emissive01_Spd_U, ParameterValue=0 }
+        ScalarParameterValues[22] = { ParameterName=Emissive01_Tile_U, ParameterValue=5 }
+        ScalarParameterValues[23] = { ParameterName=Emissive01_Int, ParameterValue=3 }
+        ScalarParameterValues[24] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+        ScalarParameterValues[25] = { ParameterName=Emissive01_Rotator, ParameterValue=0 }
+        ScalarParameterValues[26] = { ParameterName=Emissive01_Add_U, ParameterValue=0 }
+        ScalarParameterValues[27] = { ParameterName=Emissive01_Add_V, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=opacity01_Tex, ParameterValue=Texture2D'T_Mask_v002' }
+        TextureParameterValues[1] = { ParameterName=Emissive01_Tex, ParameterValue=Texture2D'Noise_011' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Noise_v002' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Emssive_UV
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'M_PannerTexture_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Sequence_v001
+
+    ScalarParameterValues[18] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity01_Int, ParameterValue=2 }
+        ScalarParameterValues[1] = { ParameterName=opacity01_Power, ParameterValue=2 }
+        ScalarParameterValues[2] = { ParameterName=CoreHilightPower, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=HilightDetailPower, ParameterValue=50 }
+        ScalarParameterValues[4] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Dissolve_Spd_V, ParameterValue=0.2 }
+        ScalarParameterValues[6] = { ParameterName=Dissolve_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[7] = { ParameterName=Dissolve_Spd_U, ParameterValue=0.3 }
+        ScalarParameterValues[8] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Dissolve_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[10] = { ParameterName=Dissolve02_Add_V, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=Dissolve02_Spd_V, ParameterValue=-0.2 }
+        ScalarParameterValues[12] = { ParameterName=Dissolve02_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[13] = { ParameterName=Dissolve02_Spd_U, ParameterValue=-0.2 }
+        ScalarParameterValues[14] = { ParameterName=Dissolve02_Add_U, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Dissolve02_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Int, ParameterValue=1 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=None, ParameterValue=Texture2D'T_Sequnce_v003' }
+        TextureParameterValues[1] = { ParameterName=Dissolve02_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=-1, G=-2, B=-2, A=1 }
+        }
+    }
+    Parent = Material3'M_Sequence_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Sequence_v002
+
+    ScalarParameterValues[18] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity01_Int, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=opacity01_Power, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=CoreHilightPower, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=HilightDetailPower, ParameterValue=20 }
+        ScalarParameterValues[4] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Dissolve_Spd_V, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=Dissolve_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[7] = { ParameterName=Dissolve_Spd_U, ParameterValue=0.3 }
+        ScalarParameterValues[8] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Dissolve_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[10] = { ParameterName=Dissolve02_Add_V, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=Dissolve02_Spd_V, ParameterValue=-0.2 }
+        ScalarParameterValues[12] = { ParameterName=Dissolve02_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[13] = { ParameterName=Dissolve02_Spd_U, ParameterValue=-0.2 }
+        ScalarParameterValues[14] = { ParameterName=Dissolve02_Add_U, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Dissolve02_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Int, ParameterValue=1 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=None, ParameterValue=Texture2D'T_Sequnce_v002' }
+        TextureParameterValues[1] = { ParameterName=Dissolve02_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=5, G=0.2, B=0.1, A=1 }
+        }
+    }
+    Parent = Material3'M_Sequence_v002'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_Sequence_v003
+
+    ScalarParameterValues[18] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity01_Int, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=opacity01_Power, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=CoreHilightPower, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=HilightDetailPower, ParameterValue=20 }
+        ScalarParameterValues[4] = { ParameterName=Dissolve_Add_V, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Dissolve_Spd_V, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=Dissolve_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[7] = { ParameterName=Dissolve_Spd_U, ParameterValue=0.3 }
+        ScalarParameterValues[8] = { ParameterName=Dissolve_Add_U, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Dissolve_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[10] = { ParameterName=Dissolve02_Add_V, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=Dissolve02_Spd_V, ParameterValue=-0.2 }
+        ScalarParameterValues[12] = { ParameterName=Dissolve02_Tile_V, ParameterValue=4 }
+        ScalarParameterValues[13] = { ParameterName=Dissolve02_Spd_U, ParameterValue=-0.2 }
+        ScalarParameterValues[14] = { ParameterName=Dissolve02_Add_U, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Dissolve02_Tile_U, ParameterValue=4 }
+        ScalarParameterValues[16] = { ParameterName=Emissive01_Int, ParameterValue=1 }
+        ScalarParameterValues[17] = { ParameterName=Emissive01_Power, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=None, ParameterValue=Texture2D'T_Sequnce_v002' }
+        TextureParameterValues[1] = { ParameterName=Dissolve02_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+        TextureParameterValues[2] = { ParameterName=Dissolve_Tex, ParameterValue=Texture2D'T_Sequnce_v001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=0.1, G=5, B=0.2, A=1 }
+        }
+    }
+    Parent = Material3'M_Sequence_v002'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_TrailMaterial_v001
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[0] = {}
+    VectorParameterValues[0] = {}
+    Parent = Material3'M_TrailMaterial_v001'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Mob_Fire_MAT_add_INST_GiantDragon
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_power, ParameterValue=1.1 }
+        ScalarParameterValues[1] = { ParameterName=RGB_Mask_on_off, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=FX_RGB_Mask_V, ParameterValue=0.5 }
+        ScalarParameterValues[3] = { ParameterName=FX_RGB_Mask_U, ParameterValue=0.5 }
+        ScalarParameterValues[4] = { ParameterName=UV_Wave_noise2_PannerSpeed, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=UV_Wave_noise1_PannerSpeed, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_multiply, ParameterValue=0.5 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_Sine_Time_Speed, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_Sine_value2, ParameterValue=2 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_Sine_value1, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Emissive_Fresnel_power, ParameterValue=0.85 }
+        ScalarParameterValues[11] = { ParameterName=Emissive_Fresnel_Multiply, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=RGB_mask_texture, ParameterValue=Texture2D'FX_ADD_T' }
+        TextureParameterValues[1] = { ParameterName=Noise_Texture2, ParameterValue=Texture2D'Noise_Plazma_002' }
+        TextureParameterValues[2] = { ParameterName=Noise_Texture1, ParameterValue=Texture2D'Noise_Plazma_002' }
+        TextureParameterValues[3] = { ParameterName=UV_Wave_noise2, ParameterValue=Texture2D'Normal_Noise_000' }
+        TextureParameterValues[4] = { ParameterName=UV_Wave_noise1, ParameterValue=Texture2D'Noise_017' }
+        TextureParameterValues[5] = { ParameterName=Fresnel_Normal, ParameterValue=Texture2D'Noise_Wave_000_Normal' }
+    }
+    VectorParameterValues[4] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = RGB_Mask_Transition
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = FX_RGB_Mask_TexChangeD_position
+            ParameterValue = { R=0.5, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=4, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=2, G=0.2, B=0.1, A=1 }
+        }
+    }
+    Parent = Material3'Mob_Fire_MAT_add'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Epic9_Ryu_SorcererDWolf_col1_FX
+
+    SizeX = 256
+    SizeY = 128
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

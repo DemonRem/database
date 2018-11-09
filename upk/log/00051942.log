@@ -1,0 +1,863 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00051942.upk Ver: 573/1 Engine: 4205 Names: 53 Exports: 13 Imports: 5 Game: 801A
+Loading AnimSet 990307_Autoscale_AnimSet from package 00051942.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_69 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_70 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_71 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_72 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_73 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_74 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_75 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_76 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_77 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_78 from package 00051942.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loaded in 0.067 sec, 386 allocs, 0.10 MBytes serialized in 1087 calls.
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_0
+
+    SequenceName = SW_B_None_Skl_respectTarget
+    SequenceLength = 3
+    NumFrames = 90
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 90
+        CompressedTrackOffsets[6] = 1104
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 1116
+        CompressedTrackOffsets[9] = 90
+        CompressedTrackOffsets[10] = 2196
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 2208
+        CompressedTrackOffsets[13] = 90
+        CompressedTrackOffsets[14] = 3288
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 3300
+        CompressedTrackOffsets[17] = 90
+        CompressedTrackOffsets[18] = 4380
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 4392
+        CompressedTrackOffsets[21] = 90
+        CompressedTrackOffsets[22] = 5472
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 5484
+        CompressedTrackOffsets[25] = 90
+        CompressedTrackOffsets[26] = 6564
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 6576
+        CompressedTrackOffsets[29] = 90
+        CompressedTrackOffsets[30] = 7656
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 7668
+        CompressedTrackOffsets[33] = 90
+        CompressedTrackOffsets[34] = 8748
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 8760
+        CompressedTrackOffsets[37] = 90
+        CompressedTrackOffsets[38] = 9840
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 9852
+        CompressedTrackOffsets[41] = 90
+        CompressedTrackOffsets[42] = 10932
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 10944
+        CompressedTrackOffsets[45] = 90
+        CompressedTrackOffsets[46] = 12024
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSet ObjectName: 990307_Autoscale_AnimSet
+
+    bAnimRotationOnly = false
+    TrackBoneNames[12] =
+    {
+        TrackBoneNames[0] = WeaponRoot
+        TrackBoneNames[1] = Bone_ShieldParts08
+        TrackBoneNames[2] = Bone_ShieldParts10
+        TrackBoneNames[3] = Bone_ShieldMouth
+        TrackBoneNames[4] = Bone_ShieldParts06
+        TrackBoneNames[5] = Bone_ShieldParts01
+        TrackBoneNames[6] = Bone_ShieldParts02
+        TrackBoneNames[7] = Bone_ShieldParts09
+        TrackBoneNames[8] = Bone_ShieldParts03
+        TrackBoneNames[9] = Bone_ShieldParts04
+        TrackBoneNames[10] = Bone_ShieldParts07
+        TrackBoneNames[11] = Bone_ShieldParts05
+    }
+    Sequences[11] =
+    {
+        Sequences[0] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_69'
+        Sequences[1] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_70'
+        Sequences[2] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_71'
+        Sequences[3] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_72'
+        Sequences[4] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_73'
+        Sequences[5] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_0'
+        Sequences[6] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_74'
+        Sequences[7] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_75'
+        Sequences[8] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_76'
+        Sequences[9] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_77'
+        Sequences[10] = AnimSequence'990307_Autoscale_AnimSet.AnimSequence_78'
+    }
+    UseTranslationBoneNames[0] = {}
+    ForceMeshTranslationBoneNames[0] = {}
+    PreviewSkelMeshName = 00050166.990307_Autoscale
+    BulkDataBlocks[0] = {}
+    KeyFrameSize = 0
+    RotationChannels = 0
+    TranslationChannels = 0
+    m_pBioAnimSetData = None
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_69
+
+    SequenceName = SW_B_None_Skl_FuryExplosion_cast
+    SequenceLength = 0.5
+    NumFrames = 15
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 1
+        CompressedTrackOffsets[6] = 36
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 48
+        CompressedTrackOffsets[9] = 1
+        CompressedTrackOffsets[10] = 60
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 72
+        CompressedTrackOffsets[13] = 1
+        CompressedTrackOffsets[14] = 84
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 96
+        CompressedTrackOffsets[17] = 1
+        CompressedTrackOffsets[18] = 108
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 120
+        CompressedTrackOffsets[21] = 15
+        CompressedTrackOffsets[22] = 300
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 312
+        CompressedTrackOffsets[25] = 1
+        CompressedTrackOffsets[26] = 324
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 336
+        CompressedTrackOffsets[29] = 1
+        CompressedTrackOffsets[30] = 348
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 360
+        CompressedTrackOffsets[33] = 15
+        CompressedTrackOffsets[34] = 540
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 552
+        CompressedTrackOffsets[37] = 1
+        CompressedTrackOffsets[38] = 564
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 576
+        CompressedTrackOffsets[41] = 1
+        CompressedTrackOffsets[42] = 588
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 600
+        CompressedTrackOffsets[45] = 1
+        CompressedTrackOffsets[46] = 612
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_70
+
+    SequenceName = SW_B_None_Skl_FuryExplosion_exec1
+    SequenceLength = 6
+    NumFrames = 180
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 180
+        CompressedTrackOffsets[6] = 2184
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 2196
+        CompressedTrackOffsets[9] = 180
+        CompressedTrackOffsets[10] = 4356
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 4368
+        CompressedTrackOffsets[13] = 180
+        CompressedTrackOffsets[14] = 6528
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 6540
+        CompressedTrackOffsets[17] = 180
+        CompressedTrackOffsets[18] = 8700
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 8712
+        CompressedTrackOffsets[21] = 180
+        CompressedTrackOffsets[22] = 10872
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 10884
+        CompressedTrackOffsets[25] = 180
+        CompressedTrackOffsets[26] = 13044
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 13056
+        CompressedTrackOffsets[29] = 180
+        CompressedTrackOffsets[30] = 15216
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 15228
+        CompressedTrackOffsets[33] = 180
+        CompressedTrackOffsets[34] = 17388
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 17400
+        CompressedTrackOffsets[37] = 180
+        CompressedTrackOffsets[38] = 19560
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 19572
+        CompressedTrackOffsets[41] = 180
+        CompressedTrackOffsets[42] = 21732
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 21744
+        CompressedTrackOffsets[45] = 180
+        CompressedTrackOffsets[46] = 23904
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_71
+
+    SequenceName = SW_B_None_Skl_FuryExplosion_exec2
+    SequenceLength = 4.66667
+    NumFrames = 140
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 140
+        CompressedTrackOffsets[6] = 1704
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 1716
+        CompressedTrackOffsets[9] = 140
+        CompressedTrackOffsets[10] = 3396
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 3408
+        CompressedTrackOffsets[13] = 140
+        CompressedTrackOffsets[14] = 5088
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 5100
+        CompressedTrackOffsets[17] = 140
+        CompressedTrackOffsets[18] = 6780
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 6792
+        CompressedTrackOffsets[21] = 140
+        CompressedTrackOffsets[22] = 8472
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 8484
+        CompressedTrackOffsets[25] = 140
+        CompressedTrackOffsets[26] = 10164
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 10176
+        CompressedTrackOffsets[29] = 140
+        CompressedTrackOffsets[30] = 11856
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 11868
+        CompressedTrackOffsets[33] = 140
+        CompressedTrackOffsets[34] = 13548
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 13560
+        CompressedTrackOffsets[37] = 140
+        CompressedTrackOffsets[38] = 15240
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 15252
+        CompressedTrackOffsets[41] = 140
+        CompressedTrackOffsets[42] = 16932
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 16944
+        CompressedTrackOffsets[45] = 140
+        CompressedTrackOffsets[46] = 18624
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_72
+
+    SequenceName = SW_B_None_Skl_mortalSpace_cast
+    SequenceLength = 2
+    NumFrames = 60
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 60
+        CompressedTrackOffsets[6] = 744
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 756
+        CompressedTrackOffsets[9] = 60
+        CompressedTrackOffsets[10] = 1476
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 1488
+        CompressedTrackOffsets[13] = 60
+        CompressedTrackOffsets[14] = 2208
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 2220
+        CompressedTrackOffsets[17] = 60
+        CompressedTrackOffsets[18] = 2940
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 2952
+        CompressedTrackOffsets[21] = 60
+        CompressedTrackOffsets[22] = 3672
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 3684
+        CompressedTrackOffsets[25] = 60
+        CompressedTrackOffsets[26] = 4404
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 4416
+        CompressedTrackOffsets[29] = 60
+        CompressedTrackOffsets[30] = 5136
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 5148
+        CompressedTrackOffsets[33] = 60
+        CompressedTrackOffsets[34] = 5868
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 5880
+        CompressedTrackOffsets[37] = 60
+        CompressedTrackOffsets[38] = 6600
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 6612
+        CompressedTrackOffsets[41] = 60
+        CompressedTrackOffsets[42] = 7332
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 7344
+        CompressedTrackOffsets[45] = 60
+        CompressedTrackOffsets[46] = 8064
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_73
+
+    SequenceName = SW_B_None_Skl_mortalSpace_exec
+    SequenceLength = 3
+    NumFrames = 90
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 90
+        CompressedTrackOffsets[6] = 1104
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 1116
+        CompressedTrackOffsets[9] = 90
+        CompressedTrackOffsets[10] = 2196
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 2208
+        CompressedTrackOffsets[13] = 90
+        CompressedTrackOffsets[14] = 3288
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 3300
+        CompressedTrackOffsets[17] = 90
+        CompressedTrackOffsets[18] = 4380
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 4392
+        CompressedTrackOffsets[21] = 90
+        CompressedTrackOffsets[22] = 5472
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 5484
+        CompressedTrackOffsets[25] = 90
+        CompressedTrackOffsets[26] = 6564
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 6576
+        CompressedTrackOffsets[29] = 90
+        CompressedTrackOffsets[30] = 7656
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 7668
+        CompressedTrackOffsets[33] = 90
+        CompressedTrackOffsets[34] = 8748
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 8760
+        CompressedTrackOffsets[37] = 90
+        CompressedTrackOffsets[38] = 9840
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 9852
+        CompressedTrackOffsets[41] = 90
+        CompressedTrackOffsets[42] = 10932
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 10944
+        CompressedTrackOffsets[45] = 90
+        CompressedTrackOffsets[46] = 12024
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_74
+
+    SequenceName = SW_B_None_Skl_shieldBash_cast
+    SequenceLength = 0.5
+    NumFrames = 15
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 15
+        CompressedTrackOffsets[6] = 204
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 216
+        CompressedTrackOffsets[9] = 15
+        CompressedTrackOffsets[10] = 396
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 408
+        CompressedTrackOffsets[13] = 15
+        CompressedTrackOffsets[14] = 588
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 600
+        CompressedTrackOffsets[17] = 15
+        CompressedTrackOffsets[18] = 780
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 792
+        CompressedTrackOffsets[21] = 15
+        CompressedTrackOffsets[22] = 972
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 984
+        CompressedTrackOffsets[25] = 15
+        CompressedTrackOffsets[26] = 1164
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 1176
+        CompressedTrackOffsets[29] = 15
+        CompressedTrackOffsets[30] = 1356
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 1368
+        CompressedTrackOffsets[33] = 15
+        CompressedTrackOffsets[34] = 1548
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 1560
+        CompressedTrackOffsets[37] = 15
+        CompressedTrackOffsets[38] = 1740
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 1752
+        CompressedTrackOffsets[41] = 15
+        CompressedTrackOffsets[42] = 1932
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 1944
+        CompressedTrackOffsets[45] = 15
+        CompressedTrackOffsets[46] = 2124
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_75
+
+    SequenceName = SW_B_None_Skl_shieldBash_exec1
+    SequenceLength = 0.8
+    NumFrames = 24
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 1
+        CompressedTrackOffsets[6] = 36
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 48
+        CompressedTrackOffsets[9] = 1
+        CompressedTrackOffsets[10] = 60
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 72
+        CompressedTrackOffsets[13] = 1
+        CompressedTrackOffsets[14] = 84
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 96
+        CompressedTrackOffsets[17] = 1
+        CompressedTrackOffsets[18] = 108
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 120
+        CompressedTrackOffsets[21] = 1
+        CompressedTrackOffsets[22] = 132
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 144
+        CompressedTrackOffsets[25] = 1
+        CompressedTrackOffsets[26] = 156
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 168
+        CompressedTrackOffsets[29] = 1
+        CompressedTrackOffsets[30] = 180
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 192
+        CompressedTrackOffsets[33] = 1
+        CompressedTrackOffsets[34] = 204
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 216
+        CompressedTrackOffsets[37] = 1
+        CompressedTrackOffsets[38] = 228
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 240
+        CompressedTrackOffsets[41] = 1
+        CompressedTrackOffsets[42] = 252
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 264
+        CompressedTrackOffsets[45] = 1
+        CompressedTrackOffsets[46] = 276
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_76
+
+    SequenceName = SW_B_None_Skl_shieldBash_exec2
+    SequenceLength = 1.5
+    NumFrames = 45
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 45
+        CompressedTrackOffsets[6] = 564
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 576
+        CompressedTrackOffsets[9] = 45
+        CompressedTrackOffsets[10] = 1116
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 1128
+        CompressedTrackOffsets[13] = 45
+        CompressedTrackOffsets[14] = 1668
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 1680
+        CompressedTrackOffsets[17] = 45
+        CompressedTrackOffsets[18] = 2220
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 2232
+        CompressedTrackOffsets[21] = 45
+        CompressedTrackOffsets[22] = 2772
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 2784
+        CompressedTrackOffsets[25] = 45
+        CompressedTrackOffsets[26] = 3324
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 3336
+        CompressedTrackOffsets[29] = 45
+        CompressedTrackOffsets[30] = 3876
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 3888
+        CompressedTrackOffsets[33] = 45
+        CompressedTrackOffsets[34] = 4428
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 4440
+        CompressedTrackOffsets[37] = 45
+        CompressedTrackOffsets[38] = 4980
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 4992
+        CompressedTrackOffsets[41] = 45
+        CompressedTrackOffsets[42] = 5532
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 5544
+        CompressedTrackOffsets[45] = 45
+        CompressedTrackOffsets[46] = 6084
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_77
+
+    SequenceName = SW_B_None_Skl_speacialLaser_cast
+    SequenceLength = 2
+    NumFrames = 60
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 60
+        CompressedTrackOffsets[6] = 744
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 756
+        CompressedTrackOffsets[9] = 60
+        CompressedTrackOffsets[10] = 1476
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 1488
+        CompressedTrackOffsets[13] = 60
+        CompressedTrackOffsets[14] = 2208
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 2220
+        CompressedTrackOffsets[17] = 60
+        CompressedTrackOffsets[18] = 2940
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 2952
+        CompressedTrackOffsets[21] = 60
+        CompressedTrackOffsets[22] = 3672
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 3684
+        CompressedTrackOffsets[25] = 60
+        CompressedTrackOffsets[26] = 4404
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 4416
+        CompressedTrackOffsets[29] = 60
+        CompressedTrackOffsets[30] = 5136
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 5148
+        CompressedTrackOffsets[33] = 60
+        CompressedTrackOffsets[34] = 5868
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 5880
+        CompressedTrackOffsets[37] = 60
+        CompressedTrackOffsets[38] = 6600
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 6612
+        CompressedTrackOffsets[41] = 60
+        CompressedTrackOffsets[42] = 7332
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 7344
+        CompressedTrackOffsets[45] = 60
+        CompressedTrackOffsets[46] = 8064
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}
+
+Object info:
+============
+ClassName: AnimSequence ObjectName: AnimSequence_78
+
+    SequenceName = SW_B_None_Skl_speacialLaser_exec
+    SequenceLength = 1.9
+    NumFrames = 57
+    RateScale = 1
+    bNoLoopingInterpolation = false
+    RawAnimData[0] = {}
+    TranslationCompressionFormat = ACF_None (0)
+    RotationCompressionFormat = <unknown> (255)
+    KeyEncodingFormat = AKF_ConstantKeyLerp (0)
+    CompressedTrackOffsets[48] =
+    {
+        CompressedTrackOffsets[0] = 0
+        CompressedTrackOffsets[1] = 1
+        CompressedTrackOffsets[2] = 12
+        CompressedTrackOffsets[3] = 1
+        CompressedTrackOffsets[4] = 24
+        CompressedTrackOffsets[5] = 57
+        CompressedTrackOffsets[6] = 708
+        CompressedTrackOffsets[7] = 1
+        CompressedTrackOffsets[8] = 720
+        CompressedTrackOffsets[9] = 57
+        CompressedTrackOffsets[10] = 1404
+        CompressedTrackOffsets[11] = 1
+        CompressedTrackOffsets[12] = 1416
+        CompressedTrackOffsets[13] = 57
+        CompressedTrackOffsets[14] = 2100
+        CompressedTrackOffsets[15] = 1
+        CompressedTrackOffsets[16] = 2112
+        CompressedTrackOffsets[17] = 57
+        CompressedTrackOffsets[18] = 2796
+        CompressedTrackOffsets[19] = 1
+        CompressedTrackOffsets[20] = 2808
+        CompressedTrackOffsets[21] = 57
+        CompressedTrackOffsets[22] = 3492
+        CompressedTrackOffsets[23] = 1
+        CompressedTrackOffsets[24] = 3504
+        CompressedTrackOffsets[25] = 57
+        CompressedTrackOffsets[26] = 4188
+        CompressedTrackOffsets[27] = 1
+        CompressedTrackOffsets[28] = 4200
+        CompressedTrackOffsets[29] = 57
+        CompressedTrackOffsets[30] = 4884
+        CompressedTrackOffsets[31] = 1
+        CompressedTrackOffsets[32] = 4896
+        CompressedTrackOffsets[33] = 57
+        CompressedTrackOffsets[34] = 5580
+        CompressedTrackOffsets[35] = 1
+        CompressedTrackOffsets[36] = 5592
+        CompressedTrackOffsets[37] = 57
+        CompressedTrackOffsets[38] = 6276
+        CompressedTrackOffsets[39] = 1
+        CompressedTrackOffsets[40] = 6288
+        CompressedTrackOffsets[41] = 57
+        CompressedTrackOffsets[42] = 6972
+        CompressedTrackOffsets[43] = 1
+        CompressedTrackOffsets[44] = 6984
+        CompressedTrackOffsets[45] = 57
+        CompressedTrackOffsets[46] = 7668
+        CompressedTrackOffsets[47] = 1
+    }
+    bIsAdditive = false
+    AdditiveRefName = None
+    KeyFrameData[0] = {}
+    m_pBioAnimSetData = None
+    CompressedTrackTimeOffsets[0] = {}
+    Tracks[0] = {}
+    TrackOffsets[0] = {}

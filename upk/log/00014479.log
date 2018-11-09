@@ -1,0 +1,184 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00014479.upk Ver: 573/1 Engine: 4205 Names: 210 Exports: 301 Imports: 20 Game: 801A
+Loading SkeletalMesh3 SpiderQueen from package 00014479.upk
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PlayParticleSet" was not found
+WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::LowNameHeight" was not found
+Loading package: 00014478.upk Ver: 573/1 Engine: 4205 Names: 179 Exports: 179 Imports: 51 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_136 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_160 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_264 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_265 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_368 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_370 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_371 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_372 from package 00014479.upk
+WARNING: StructProperty "USkeletalMeshSocket::DependencyTrailTemplate" was not found
+Loading MaterialInstanceConstant col1 from package 00014478.upk
+Loading package: 00014477.upk Ver: 573/1 Engine: 4205 Names: 62 Exports: 32 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D SpiderQueen_N from package 00014477.upk
+Loading Texture2D SpiderQueen_M from package 00014477.upk
+Loading Texture2D SpiderQueen_D from package 00014477.upk
+Loading Texture2D SpiderQueen_S from package 00014477.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D SpiderQueen_E from package 00014477.upk
+WARNING: ByteProperty "UTexture2D::ManualLoadSwitchSettings" was not found
+Loading Texture2D Noise_Plazma_000 from package 00012963.upk
+Loading Texture2D SpiderQueen_FX from package 00014477.upk
+Loading Material3 SQ_FX from package 00014478.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.19 sec, 3294 allocs, 3.19 MBytes serialized in 519426 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: SpiderQueen
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[2] = { true, true }
+        }
+    }
+    Sockets[8] =
+    {
+        Sockets[0] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_264'
+        Sockets[1] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_265'
+        Sockets[2] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_160'
+        Sockets[3] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_136'
+        Sockets[4] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_368'
+        Sockets[5] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_370'
+        Sockets[6] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_371'
+        Sockets[7] = SkeletalMeshSocket'SpiderQueen.SkeletalMeshSocket_372'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=9279 }
+                Sections[1] = { Material=MaterialInstanceConstant'col1', FirstIndex=27837, NumFaces=252 }
+            }
+            NumVerts = 10251
+            IndexCount = 28593
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 90
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_136
+
+    SocketName = Decap_Socket
+    BoneName = Bip01Spine
+    RelativeLocation = { X=38.6501, Y=-2.7524, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_160
+
+    SocketName = Catch_Neck
+    BoneName = Bip01Neck
+    RelativeLocation = { X=-7.13135, Y=2.54407, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_264
+
+    SocketName = target_high
+    BoneName = Bip01Head
+    RelativeLocation = { X=0, Y=-20, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_265
+
+    SocketName = socket_force
+    BoneName = Root
+    RelativeLocation = { X=169.757, Y=33.0358, Z=-20 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_368
+
+    SocketName = Mount_Socket
+    BoneName = Bip01Pelvis
+    RelativeLocation = { X=-18.6715, Y=-39.3859, Z=-16.3541 }
+    RelativeRotation = { Yaw=0, Pitch=32768, Roll=-13289 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_370
+
+    SocketName = Mount_Ambar_Socket
+    BoneName = Bip01Spine
+    RelativeLocation = { X=-20.8525, Y=14.7042, Z=-67.012 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=16384 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_371
+
+    SocketName = Mount_Choke_Socket
+    BoneName = Root
+    RelativeLocation = { X=0.697307, Y=-8.53926e-017, Z=90.5 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_372
+
+    SocketName = Catch_Back
+    BoneName = Bip01
+    RelativeLocation = { X=15.1889, Y=46.9232, Z=10.3667 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

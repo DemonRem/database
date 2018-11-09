@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00017429.upk Ver: 573/1 Engine: 4205 Names: 305 Exports: 390 Imports: 66 Game: 801A
+Loading Texture2D Game_SystemInventoryScene_Preview from package 00017429.upk
+Loaded in 0.001 sec, 328 allocs, 0.05 MBytes serialized in 8486 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SystemInventoryScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

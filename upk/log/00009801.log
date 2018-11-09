@@ -1,0 +1,24 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00009801.upk Ver: 573/1 Engine: 4205 Names: 1315 Exports: 61727 Imports: 535 Game: 801A
+Loading Material3 M_AuraMaster_EnergyWall_Cast_MatM from package 00009801.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D Noise_000 from package 00012963.upk
+Loaded in 0.14 sec, 2718 allocs, 4.44 MBytes serialized in 1146982 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_AuraMaster_EnergyWall_Cast_MatM
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Noise_000' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

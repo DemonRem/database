@@ -1,0 +1,39 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00010937.upk Ver: 573/1 Engine: 4205 Names: 1416 Exports: 3672 Imports: 674 Game: 801A
+Loading StaticMesh3 AnthroEntmini_Dead_hand from package 00010937.upk
+Loaded in 0.008 sec, 1452 allocs, 0.41 MBytes serialized in 95638 calls.
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: AnthroEntmini_Dead_hand
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=11.8493, Y=7.1273, Z=23.4016 }
+        SphereRadius = 25.0045
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=None, FirstIndex=0, NumFaces=928 }
+            }
+            NumVerts = 1316
+            IndexCount = 2784
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1

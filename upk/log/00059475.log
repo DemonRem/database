@@ -1,0 +1,153 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00059475.upk Ver: 573/1 Engine: 4205 Names: 277 Exports: 491 Imports: 105 Game: 801A
+Loading SkeletalMesh3 130150_Autoscale from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+Loading package: 00059474.upk Ver: 573/1 Engine: 4205 Names: 132 Exports: 1 Imports: 22 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_102 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_65 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_69 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_73 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_94 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_98 from package 00059475.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading MaterialInstanceConstant col1 from package 00059474.upk
+Loading package: 00059473.upk Ver: 573/1 Engine: 4205 Names: 38 Exports: 10 Imports: 4 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading Texture2D 130150_Autoscale_col1_N from package 00059473.upk
+Loading Texture2D 130150_Autoscale_col1_M from package 00059473.upk
+Loading Texture2D 130150_Autoscale_col1_D from package 00059473.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D 130150_Autoscale_col1_S from package 00059473.upk
+Loading TextureCube MatelR2 from package 00002640.upk
+Loading Texture2D 130150_Autoscale_col1_E from package 00059473.upk
+Loading Texture2D AncientMechaMonk_BoxLine from package 00012963.upk
+Loading Material3 Basic_Fx_Weapon from package 00048300.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.18 sec, 4055 allocs, 2.23 MBytes serialized in 445014 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 130150_Autoscale
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[6] =
+    {
+        Sockets[0] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_65'
+        Sockets[1] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_69'
+        Sockets[2] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_73'
+        Sockets[3] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_94'
+        Sockets[4] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_98'
+        Sockets[5] = SkeletalMeshSocket'130150_Autoscale.SkeletalMeshSocket_102'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=3809 }
+            }
+            NumVerts = 3130
+            IndexCount = 11427
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 3
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_102
+
+    SocketName = FX_Add6
+    BoneName = WeaponPivot
+    RelativeLocation = { X=0, Y=0, Z=-21.25 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=2, Y=2, Z=2 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_65
+
+    SocketName = FX_Add
+    BoneName = WeaponPivot
+    RelativeLocation = { X=4.95517, Y=-3.52579, Z=-25.75 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1.2, Y=1.2, Z=1.2 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_69
+
+    SocketName = Fx_Add2
+    BoneName = WeaponPivot
+    RelativeLocation = { X=-2.95063, Y=4.46575, Z=-19.25 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1.2, Y=1.2, Z=1.2 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_73
+
+    SocketName = Fx_Add3
+    BoneName = WeaponPivot
+    RelativeLocation = { X=4.83501, Y=3.24405, Z=-24.25 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_94
+
+    SocketName = FX_Add4
+    BoneName = WeaponPivot
+    RelativeLocation = { X=-5.6655, Y=-4.73883, Z=-26.5 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_98
+
+    SocketName = FX_Add5
+    BoneName = WeaponPivot
+    RelativeLocation = { X=-4.29257, Y=3.23417, Z=-26.75 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

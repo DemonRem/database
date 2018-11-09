@@ -1,0 +1,1370 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00057702.upk Ver: 573/1 Engine: 4205 Names: 350 Exports: 852 Imports: 104 Game: 801A
+Loading Material3 Chromatic_Master_Mesh_Decal from package 00057702.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 Warrior_Blade_Slash_MatM from package 00057702.upk
+Loading Material3 Warrior_DepthAlpha_mat01 from package 00057702.upk
+Loading Material3 Warrior_ImpactDecal001_MatM from package 00057702.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Warrior_mat00_Test from package 00057702.upk
+Loading Material3 Warrior_mat01_IridescentSpecular_V01 from package 00057702.upk
+Loading Material3 Warrior_mat03 from package 00057702.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+check for DefaultTexture in 00057702
+check for DefaultTexture in 00012963
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loading Material3 Warrior_Warlock_RangeMoveBlock_Mat01 from package 00057702.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023412.upk Ver: 573/1 Engine: 4205 Names: 809 Exports: 4396 Imports: 192 Game: 801A
+Loading Material3 Warrior_Warlock_Signal_Mat01 from package 00057702.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading MaterialInstanceConstant Chromatic_inst_Warrior_Holy_mat01 from package 00057702.upk
+Loading package: 00048297.upk Ver: 573/1 Engine: 4205 Names: 443 Exports: 2787 Imports: 161 Game: 801A
+Loading MaterialInstanceConstant Chromatic_inst_Warrior_Holy_mat02_Mesh from package 00057702.upk
+Loading MaterialInstanceConstant Chromatic_inst_Warrior_Holy_mat03_Mesh from package 00057702.upk
+Loading MaterialInstanceConstant Chromatic_Master_Mesh_Decal_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Chromatic_Master_Mesh_Decal_INST02 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_Blade_Slash_MatM_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_dog_Chromatic_Beam from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_dog_Chromatic_Trail from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_ImpactDecal001_MatM_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_mat01_IridescentSpecular_V01_INST from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_mat01_IridescentSpecular_V01_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_mat01_IridescentSpecular_V01_INST02 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_mat01_IridescentSpecular_V01_INST03 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_mat03_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_Warlock_RangeMoveBlock_INST01 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_Warlock_RangeMoveBlock_Mat01_INST02 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_Warlock_RangeMoveBlock_Mat01_INST03 from package 00057702.upk
+Loading MaterialInstanceConstant Warrior_Warlock_Signal_Mat01_INST01 from package 00057702.upk
+Loading Texture2D Normal_Warrior_Shock_001_N from package 00057702.upk
+Loading Texture2D Warrior_Decal_Crack_001 from package 00057702.upk
+Loading Texture2D Warrior_Decal_Crack_001_N from package 00057702.upk
+Loading Texture2D warrior_RangeMoveBlock_Tex01 from package 00057702.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading Texture2D Fire_Blending_Pattern_Tex_Big from package 00012963.upk
+Loading Texture2D Noise_003 from package 00012963.upk
+Loading Texture2D Gradient_002 from package 00012963.upk
+Loading Texture2D Gradient_005 from package 00012963.upk
+Loading Texture2D Gradient_Light_Line_000_V from package 00012963.upk
+Loading Texture2D Gradient_001_Right from package 00012963.upk
+Loading Texture2D Gradient_001 from package 00012963.upk
+Loading Texture2D Smoke_009 from package 00012963.upk
+Loading Texture2D Normal_Noise_002 from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Gradient_Color_Rainbow_003 from package 00012963.upk
+Loading Texture2D Aura_Ripple_001 from package 00012963.upk
+Loading Texture2D Normal_JinGak_Shock_002 from package 00012963.upk
+Loading Texture2D Decal_Crack_004_Des from package 00012963.upk
+Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D Nail_decal_01 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Noise_006 from package 00012963.upk
+Loading Texture2D Unique_Stone_001 from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine2 from package 00012963.upk
+Loading Texture2D Noise_010 from package 00012963.upk
+Loading Texture2D Smoke_Dark from package 00012963.upk
+Loading Texture2D Noise_Distortion_000 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D Electric_Light_000 from package 00012963.upk
+Loading Texture2D BG_Sandfall_001_D from package 00012963.upk
+Loading Texture2D Smoke_Dust_002 from package 00012963.upk
+Loading Texture2D Gradient_Color_BlueToPurple_001 from package 00012963.upk
+Loading Texture2D Gradient_001_Left from package 00012963.upk
+Loading Texture2D Gradient_Beam_006_Yclamp from package 00012963.upk
+Loading Texture2D Warlock_RangeMoveBlock_Tex01 from package 00023412.upk
+Loading Texture2D Normal_Noise_000 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Warlock_Talisman_Alpha_Tex from package 00023412.upk
+Loading Texture2D Noise_017 from package 00012963.upk
+Loading Material3 Chromatic_Master_defalt from package 00048297.upk
+Loading Material3 Chromatic_Master_Mesh from package 00048297.upk
+Loading Texture2D BG_SandfallNoise_001_D from package 00012963.upk
+Loading Texture2D Glow_Trail_001 from package 00012963.upk
+Loading Texture2D Color_Ring_003 from package 00012963.upk
+Loading Texture2D Aura_Ripple_000 from package 00012963.upk
+Loading Texture2D Gradient_Color_Rainbow_002 from package 00012963.upk
+Loading Texture2D Takgi_Beam_001 from package 00012963.upk
+Loading Texture2D Gradient_Color_Rainbow_001 from package 00012963.upk
+Loading Material3 Warlock_RangeMoveBlock_Mat01 from package 00023412.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Texture2D Hex000_Tex from package 00012963.upk
+Loaded in 0.48 sec, 4435 allocs, 2.37 MBytes serialized in 197784 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Chromatic_Master_Mesh_Decal
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Smoke_Fractal_002', Texture2D'Fire_Blending_Pattern_Tex_Big' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_Blade_Slash_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_003'
+        ReferencedTextures[1] = Texture2D'Gradient_002'
+        ReferencedTextures[2] = Texture2D'Gradient_005'
+        ReferencedTextures[3] = Texture2D'Gradient_Light_Line_000_V'
+        ReferencedTextures[4] = Texture2D'Gradient_001_Right'
+        ReferencedTextures[5] = Texture2D'Gradient_001'
+        ReferencedTextures[6] = Texture2D'Smoke_009'
+        ReferencedTextures[7] = Texture2D'Normal_Noise_002'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_DepthAlpha_mat01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[1] = Texture2D'Gradient_Color_Rainbow_003'
+        ReferencedTextures[2] = Texture2D'Aura_Ripple_001'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_ImpactDecal001_MatM
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Normal_JinGak_Shock_002', Texture2D'Decal_Crack_004_Des' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_mat00_Test
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Nail_decal_01'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[3] = Texture2D'Noise_006'
+        ReferencedTextures[4] = Texture2D'Unique_Stone_001'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_mat01_IridescentSpecular_V01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'AncientMechaMonk_BoxLine', Texture2D'AncientMechaMonk_BoxLine2' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_mat03
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[10] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_010'
+        ReferencedTextures[1] = Texture2D'Noise_003'
+        ReferencedTextures[2] = Texture2D'Smoke_Dark'
+        ReferencedTextures[3] = Texture2D'Noise_Distortion_000'
+        ReferencedTextures[4] = Texture2D'Noise_Plazma_002'
+        ReferencedTextures[5] = Texture2D'Electric_Light_000'
+        ReferencedTextures[6] = Texture2D'BG_Sandfall_001_D'
+        ReferencedTextures[7] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[8] = Texture2D'Smoke_Dust_002'
+        ReferencedTextures[9] = None
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_Warlock_RangeMoveBlock_Mat01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Color_BlueToPurple_001'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Gradient_Beam_006_Yclamp'
+        ReferencedTextures[5] = Texture2D'Warlock_RangeMoveBlock_Tex01'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Warrior_Warlock_Signal_Mat01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Noise_003'
+        ReferencedTextures[2] = Texture2D'Normal_Noise_000'
+        ReferencedTextures[3] = Texture2D'AncientMechaMonk_BoxLine'
+        ReferencedTextures[4] = Texture2D'Warlock_Talisman_Alpha_Tex'
+        ReferencedTextures[5] = Texture2D'Noise_017'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Chromatic_inst_Warrior_Holy_mat01
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Poewr, ParameterValue=0.7 }
+        ScalarParameterValues[2] = { ParameterName=Main_UV_G, ParameterValue=1.1 }
+        ScalarParameterValues[3] = { ParameterName=Main_UV_R, ParameterValue=1.2 }
+        ScalarParameterValues[4] = { ParameterName=cromatic_value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Sub_texcoord_U, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=Sub_texcoord_V, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Sub_UV_Value, ParameterValue=0.1 }
+        ScalarParameterValues[8] = { ParameterName=Distortion_value, ParameterValue=5 }
+        ScalarParameterValues[9] = { ParameterName=opacity_SizeAlpha, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Sub_Pan_X, ParameterValue=0.2 }
+        ScalarParameterValues[11] = { ParameterName=Sub_Pan_Y, ParameterValue=0.2 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Main_Tex, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+        TextureParameterValues[2] =
+        {
+            ParameterName = opacity_tex
+            ParameterValue = Texture2D'Fire_Blending_Pattern_Tex_Big'
+        }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_defalt'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Chromatic_inst_Warrior_Holy_mat02_Mesh
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Distortion_value, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=opacity_SizeAlpha, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Emissive, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Poewr, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Sub_UV_Value, ParameterValue=0.1 }
+        ScalarParameterValues[5] = { ParameterName=Sub_Pan_Y, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=Sub_Pan_X, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Sub_texcoord_V, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Sub_texcoord_U, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=cromatic_value, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Main_UV_G, ParameterValue=0.5 }
+        ScalarParameterValues[11] = { ParameterName=Main_UV_R, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Main_Tex, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+        TextureParameterValues[2] =
+        {
+            ParameterName = opacity_tex
+            ParameterValue = Texture2D'Fire_Blending_Pattern_Tex_Big'
+        }
+    }
+    VectorParameterValues[5] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = cromatic_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = noise_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = noise_pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_Mesh'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Chromatic_inst_Warrior_Holy_mat03_Mesh
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Distortion_value, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=opacity_SizeAlpha, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Emissive, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Poewr, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Sub_UV_Value, ParameterValue=0.05 }
+        ScalarParameterValues[5] = { ParameterName=Sub_Pan_Y, ParameterValue=0.5 }
+        ScalarParameterValues[6] = { ParameterName=Sub_Pan_X, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Sub_texcoord_V, ParameterValue=0.5 }
+        ScalarParameterValues[8] = { ParameterName=Sub_texcoord_U, ParameterValue=0.5 }
+        ScalarParameterValues[9] = { ParameterName=cromatic_value, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Main_UV_G, ParameterValue=0.55 }
+        ScalarParameterValues[11] = { ParameterName=Main_UV_R, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Main_Tex, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+        TextureParameterValues[2] =
+        {
+            ParameterName = opacity_tex
+            ParameterValue = Texture2D'Fire_Blending_Pattern_Tex_Big'
+        }
+    }
+    VectorParameterValues[5] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = cromatic_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = noise_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = noise_pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_Mesh'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Chromatic_Master_Mesh_Decal_INST01
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Distortion_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=opacity_SizeAlpha, ParameterValue=0.5 }
+        ScalarParameterValues[2] = { ParameterName=Emissive, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Poewr, ParameterValue=0.25 }
+        ScalarParameterValues[4] = { ParameterName=Sub_UV_Value, ParameterValue=0.2 }
+        ScalarParameterValues[5] = { ParameterName=Sub_Pan_Y, ParameterValue=0.2 }
+        ScalarParameterValues[6] = { ParameterName=Sub_Pan_X, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Sub_texcoord_V, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Sub_texcoord_U, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=cromatic_value, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Main_UV_G, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=Main_UV_R, ParameterValue=1.5 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = opacity_tex
+            ParameterValue = Texture2D'Fire_Blending_Pattern_Tex_Big'
+        }
+        TextureParameterValues[1] = { ParameterName=Main_Tex, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[2] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+    }
+    VectorParameterValues[5] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = cromatic_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = noise_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = noise_pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_Mesh_Decal'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Chromatic_Master_Mesh_Decal_INST02
+
+    ScalarParameterValues[11] =
+    {
+        ScalarParameterValues[0] = { ParameterName=opacity_SizeAlpha, ParameterValue=2 }
+        ScalarParameterValues[1] = { ParameterName=Emissive, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Poewr, ParameterValue=0.25 }
+        ScalarParameterValues[3] = { ParameterName=Sub_UV_Value, ParameterValue=0.25 }
+        ScalarParameterValues[4] = { ParameterName=Sub_Pan_Y, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Sub_Pan_X, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=Sub_texcoord_V, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Sub_texcoord_U, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=cromatic_value, ParameterValue=3 }
+        ScalarParameterValues[9] = { ParameterName=Main_UV_G, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Main_UV_R, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = opacity_tex
+            ParameterValue = Texture2D'Fire_Blending_Pattern_Tex_Big'
+        }
+        TextureParameterValues[1] = { ParameterName=Main_Tex, ParameterValue=Texture2D'Fire_Blending_Pattern_Tex_Big' }
+        TextureParameterValues[2] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+    }
+    VectorParameterValues[5] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = cromatic_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = noise_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = noise_pan
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_Mesh_Decal'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_Blade_Slash_MatM_INST01
+
+    ScalarParameterValues[23] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_Mask_Noise_TEXTURE_Multi, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Emissive_Mask_Noise_Texture_TexCoord_V, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Emissive_Mask_Noise_Texture_TexCoord_U, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=Emissive_Mask_Noise_Texture_Tiling_V, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Emissive_Mask_Noise_Texture_Tiling_U, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Emissive_Mask02_TEXTURE_Multi, ParameterValue=3 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_Mask02_Texture_TexCoord_V, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_Mask02_Texture_TexCoord_U, ParameterValue=0.4 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_Mask02_Texture_Tiling_V, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_Mask02_Texture_Tiling_U, ParameterValue=0.5 }
+        ScalarParameterValues[10] = { ParameterName=Noise_Texture_TexCoord_V, ParameterValue=0.2 }
+        ScalarParameterValues[11] = { ParameterName=Noise_Texture_TexCoord_U, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=Noise_Texture_Tiling_V, ParameterValue=0.5 }
+        ScalarParameterValues[13] = { ParameterName=Noise_Texture_Tiling_U, ParameterValue=3 }
+        ScalarParameterValues[14] = { ParameterName=Point_Texture_TexCoord_V, ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Point_Texture_TexCoord_U, ParameterValue=-1 }
+        ScalarParameterValues[16] = { ParameterName=Point_Texture_Tiling_V, ParameterValue=0.9 }
+        ScalarParameterValues[17] = { ParameterName=Point_Texture_Tiling_U, ParameterValue=2 }
+        ScalarParameterValues[18] = { ParameterName=Point_Texture_multi, ParameterValue=15 }
+        ScalarParameterValues[19] = { ParameterName=color_Texture_Tiling_U, ParameterValue=1 }
+        ScalarParameterValues[20] = { ParameterName=Color_Texture_Tiling_V, ParameterValue=1 }
+        ScalarParameterValues[21] = { ParameterName=Color_Texture_TexCoord_U, ParameterValue=0 }
+        ScalarParameterValues[22] = { ParameterName=Color_Texture_TexCoord_V, ParameterValue=0 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive_Mask01_TEXTURE, ParameterValue=Texture2D'Gradient_002' }
+        TextureParameterValues[1] = { ParameterName=Emissive_Mask_Noise_TEXTURE, ParameterValue=Texture2D'Noise_003' }
+        TextureParameterValues[2] = { ParameterName=Opacity_Texture, ParameterValue=Texture2D'Smoke_009' }
+        TextureParameterValues[3] = { ParameterName=COLOR_TEXTURE, ParameterValue=Texture2D'BG_SandfallNoise_001_D' }
+        TextureParameterValues[4] =
+        {
+            ParameterName = Noise_Texture
+            ParameterValue = Texture2D'Gradient_Light_Line_000_V'
+        }
+        TextureParameterValues[5] = { ParameterName=Point_Texture, ParameterValue=Texture2D'Gradient_005' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Warrior_Blade_Slash_MatM'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_dog_Chromatic_Beam
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive, ParameterValue=3 }
+        ScalarParameterValues[1] = { ParameterName=Poewr, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Main_UV_G, ParameterValue=0.5 }
+        ScalarParameterValues[3] = { ParameterName=Main_UV_R, ParameterValue=0.5 }
+        ScalarParameterValues[4] = { ParameterName=cromatic_value, ParameterValue=0.6 }
+        ScalarParameterValues[5] = { ParameterName=Sub_texcoord_U, ParameterValue=0.5 }
+        ScalarParameterValues[6] = { ParameterName=Sub_texcoord_V, ParameterValue=0.75 }
+        ScalarParameterValues[7] = { ParameterName=Sub_UV_Value, ParameterValue=0.15 }
+        ScalarParameterValues[8] = { ParameterName=Distortion_value, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=opacity_SizeAlpha, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Sub_Pan_X, ParameterValue=-0.1 }
+        ScalarParameterValues[11] = { ParameterName=Sub_Pan_Y, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Main_Tex, ParameterValue=Texture2D'Fire_Blending_Pattern_Tex_Big' }
+        TextureParameterValues[1] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+        TextureParameterValues[2] = { ParameterName=opacity_tex, ParameterValue=Texture2D'Glow_Trail_001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_defalt'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_dog_Chromatic_Trail
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive, ParameterValue=3 }
+        ScalarParameterValues[1] = { ParameterName=Poewr, ParameterValue=3 }
+        ScalarParameterValues[2] = { ParameterName=Main_UV_G, ParameterValue=0.5 }
+        ScalarParameterValues[3] = { ParameterName=Main_UV_R, ParameterValue=0.5 }
+        ScalarParameterValues[4] = { ParameterName=cromatic_value, ParameterValue=0.6 }
+        ScalarParameterValues[5] = { ParameterName=Sub_texcoord_U, ParameterValue=0.5 }
+        ScalarParameterValues[6] = { ParameterName=Sub_texcoord_V, ParameterValue=0.75 }
+        ScalarParameterValues[7] = { ParameterName=Sub_UV_Value, ParameterValue=0.2 }
+        ScalarParameterValues[8] = { ParameterName=Distortion_value, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=opacity_SizeAlpha, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Sub_Pan_X, ParameterValue=-0.1 }
+        ScalarParameterValues[11] = { ParameterName=Sub_Pan_Y, ParameterValue=0 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Main_Tex, ParameterValue=Texture2D'Fire_Blending_Pattern_Tex_Big' }
+        TextureParameterValues[1] = { ParameterName=sub_Tex, ParameterValue=Texture2D'Smoke_Fractal_002' }
+        TextureParameterValues[2] = { ParameterName=opacity_tex, ParameterValue=Texture2D'Glow_Trail_001' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Main_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Chromatic_Master_defalt'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_ImpactDecal001_MatM_INST01
+
+    ScalarParameterValues[5] =
+    {
+        ScalarParameterValues[0] = { ParameterName=rotator_offset, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=opacity_multiply, ParameterValue=2 }
+        ScalarParameterValues[2] = { ParameterName=Clamp_Max, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=FalloffMulltiply, ParameterValue=3 }
+        ScalarParameterValues[4] = { ParameterName=FalloffExponent, ParameterValue=5 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Warrior_Decal_Crack_001_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'Warrior_Decal_Crack_001' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Warrior_ImpactDecal001_MatM'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_mat01_IridescentSpecular_V01_INST
+
+    ScalarParameterValues[5] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_Mask_Panner_Speed, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Emissive_Add_power, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Emissive_Add_thickness, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Emissive_Add_Panner_Speed, ParameterValue=0.5 }
+        ScalarParameterValues[4] = { ParameterName=Rodrigues' Rotation Formula, ParameterValue=2 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive_MASK, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=Emissive_add, ParameterValue=Texture2D'AncientMechaMonk_BoxLine2' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_power_RGB
+            ParameterValue = { R=1, G=3, B=2, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_multiply_RGB
+            ParameterValue = { R=1, G=10, B=20, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color_arm
+            ParameterValue = { R=0.8, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Emissive_MASK_RGB
+            ParameterValue = { R=10, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Emissive_MASK_UV
+            ParameterValue = { R=3, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Emissive_Add_UV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = float3v=C.xyz
+            ParameterValue = { R=0.5, G=0.5, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = K
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_mat01_IridescentSpecular_V01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_mat01_IridescentSpecular_V01_INST01
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_Mask_Panner_Speed, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Emissive_Add_Panner_Speed, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Emissive_Add_power, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Emissive_Add_thickness, ParameterValue=1 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = Emissive_MASK
+            ParameterValue = Texture2D'AncientMechaMonk_BoxLine2'
+        }
+        TextureParameterValues[1] = { ParameterName=Emissive_add, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+    }
+    VectorParameterValues[6] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_power_RGB
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_multiply_RGB
+            ParameterValue = { R=1, G=10, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color_arm
+            ParameterValue = { R=0.8, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Emissive_MASK_RGB
+            ParameterValue = { R=10, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Emissive_MASK_UV
+            ParameterValue = { R=7, G=7, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Emissive_Add_UV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_mat01_IridescentSpecular_V01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_mat01_IridescentSpecular_V01_INST02
+
+    ScalarParameterValues[5] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_Mask_Panner_Speed, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Emissive_Add_power, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Emissive_Add_thickness, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Emissive_Add_Panner_Speed, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Rodrigues' Rotation Formula, ParameterValue=2 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive_MASK, ParameterValue=Texture2D'Color_Ring_003' }
+        TextureParameterValues[1] = { ParameterName=Emissive_add, ParameterValue=Texture2D'Noise_006' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_power_RGB
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_multiply_RGB
+            ParameterValue = { R=1, G=10, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color_arm
+            ParameterValue = { R=0.8, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Emissive_MASK_RGB
+            ParameterValue = { R=10, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Emissive_MASK_UV
+            ParameterValue = { R=7, G=7, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Emissive_Add_UV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = float3v=C.xyz
+            ParameterValue = { R=0.5, G=0.5, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = K
+            ParameterValue = { R=0.9, G=1, B=1.2, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_mat01_IridescentSpecular_V01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_mat01_IridescentSpecular_V01_INST03
+
+    ScalarParameterValues[5] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive_Mask_Panner_Speed, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Emissive_Add_power, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Emissive_Add_thickness, ParameterValue=3 }
+        ScalarParameterValues[3] = { ParameterName=Emissive_Add_Panner_Speed, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Rodrigues' Rotation Formula, ParameterValue=2 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] = { ParameterName=Emissive_MASK, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=Emissive_add, ParameterValue=Texture2D'AncientMechaMonk_BoxLine2' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_power_RGB
+            ParameterValue = { R=1, G=3, B=2, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_multiply_RGB
+            ParameterValue = { R=1, G=10, B=20, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color_arm
+            ParameterValue = { R=0.8, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Emissive_MASK_RGB
+            ParameterValue = { R=10, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Emissive_MASK_UV
+            ParameterValue = { R=5, G=5, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Emissive_Add_UV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = float3v=C.xyz
+            ParameterValue = { R=0.5, G=0.5, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = K
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_mat01_IridescentSpecular_V01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_mat03_INST01
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Distance, ParameterValue=0.0002 }
+        ScalarParameterValues[1] = { ParameterName=ClampMin, ParameterValue=0.05 }
+        ScalarParameterValues[2] = { ParameterName=UV_WAVE, ParameterValue=100 }
+    }
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=T, ParameterValue=Texture2D'Aura_Ripple_000' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Warrior_mat03'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_Warlock_RangeMoveBlock_INST01
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=B, ParameterValue=12 }
+        ScalarParameterValues[1] = { ParameterName=G, ParameterValue=4 }
+        ScalarParameterValues[2] = { ParameterName=R, ParameterValue=2 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse, ParameterValue=Texture2D'Gradient_Color_Rainbow_002' }
+        TextureParameterValues[1] = { ParameterName=Opacity, ParameterValue=Texture2D'Takgi_Beam_001' }
+        TextureParameterValues[2] = { ParameterName=Gradient, ParameterValue=Texture2D'Gradient_Color_Rainbow_001' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = WavePower
+            ParameterValue = { R=-2, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = LargeWaveScale
+            ParameterValue = { R=-2, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Speed
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = RGBPower
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = WPMask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = RGB
+            ParameterValue = { R=2, G=3, B=4, A=1 }
+        }
+    }
+    Parent = Material3'Warlock_RangeMoveBlock_Mat01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_Warlock_RangeMoveBlock_Mat01_INST02
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=UV_Panner_Speed01, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=UV_Panner_Speed02, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Gradient_UV, ParameterValue=2 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse, ParameterValue=Texture2D'Gradient_Color_Rainbow_002' }
+        TextureParameterValues[1] = { ParameterName=Opacity, ParameterValue=Texture2D'Takgi_Beam_001' }
+        TextureParameterValues[2] = { ParameterName=Gradient, ParameterValue=Texture2D'Gradient_Color_Rainbow_001' }
+        TextureParameterValues[3] = { ParameterName=Emissive, ParameterValue=Texture2D'warrior_RangeMoveBlock_Tex01' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = WPMask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = WavePower
+            ParameterValue = { R=-2, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = LargeWaveScale
+            ParameterValue = { R=-2, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Speed
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = RGBPower
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = UV_Offset
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = RGB
+            ParameterValue = { R=2, G=3, B=4, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_Warlock_RangeMoveBlock_Mat01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_Warlock_RangeMoveBlock_Mat01_INST03
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=UV_Panner_Speed01, ParameterValue=0.1 }
+        ScalarParameterValues[1] = { ParameterName=UV_Panner_Speed02, ParameterValue=0.1 }
+        ScalarParameterValues[2] = { ParameterName=Gradient_UV, ParameterValue=5 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Diffuse, ParameterValue=Texture2D'AncientMechaMonk_BoxLine' }
+        TextureParameterValues[1] = { ParameterName=Opacity, ParameterValue=Texture2D'Gradient_Beam_006_Yclamp' }
+        TextureParameterValues[2] = { ParameterName=Gradient, ParameterValue=Texture2D'Gradient_Color_Rainbow_003' }
+        TextureParameterValues[3] = { ParameterName=Emissive, ParameterValue=Texture2D'warrior_RangeMoveBlock_Tex01' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = WPMask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = WavePower
+            ParameterValue = { R=5, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = LargeWaveScale
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Speed
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = RGBPower
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = UV_Offset
+            ParameterValue = { R=-0.4, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = RGB
+            ParameterValue = { R=4, G=4, B=4, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_Warlock_RangeMoveBlock_Mat01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Warrior_Warlock_Signal_Mat01_INST01
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=fX, ParameterValue=Texture2D'Hex000_Tex' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Trangition
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Depth
+            ParameterValue = { R=0, G=1, B=0, A=0 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Distortion
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Warrior_Warlock_Signal_Mat01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Normal_Warrior_Shock_001_N
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { -1, -1, -1, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Warrior_Decal_Crack_001
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Warrior_Decal_Crack_001_N
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: warrior_RangeMoveBlock_Tex01
+
+    SizeX = 1024
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Mirror (2)
+    AddressY = TA_Mirror (2)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

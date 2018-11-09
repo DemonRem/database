@@ -1,0 +1,277 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00046902.upk Ver: 573/1 Engine: 4205 Names: 114 Exports: 2 Imports: 33 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00046902.upk
+Loading package: 00046901.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 10 Imports: 4 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00046904.upk Ver: 573/1 Engine: 4205 Names: 643 Exports: 945 Imports: 157 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading MaterialInstanceConstant col1_1 from package 00046902.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D 10118_jinM_col1_N from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_M from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_D from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_S from package 00046901.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Texture2D 10118_jinM_col1_E from package 00046901.upk
+Loading Texture2D 10118_M_FX from package 00046904.upk
+Loading Texture2D Smoke_Pattern_000 from package 00012963.upk
+Loading Material3 Body_FX1 from package 00046904.upk
+Loading Texture2D 10118_jinM_col1_N_ac from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_M_ac from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_D_ac from package 00046901.upk
+Loading Texture2D 10118_jinM_col1_S_ac from package 00046901.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Noise_017 from package 00012963.upk
+Loading Texture2D 10118_M_ac_FX from package 00046904.upk
+Loading Material3 Body_FX2 from package 00046904.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D 10118_FX from package 00046904.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D 10118_ac_FX from package 00046904.upk
+Loaded in 0.25 sec, 3876 allocs, 3.84 MBytes serialized in 207221 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value, ParameterValue=0.5 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel Value, ParameterValue=10 }
+        ScalarParameterValues[10] = { ParameterName=Fresnel exponent, ParameterValue=5 }
+        ScalarParameterValues[11] = { ParameterName=Specular_value, ParameterValue=3 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'10118_jinM_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'10118_jinM_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'10118_jinM_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'10118_jinM_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'10118_jinM_col1_E' }
+        TextureParameterValues[6] = { ParameterName=Cloth_FX, ParameterValue=Texture2D'10118_M_FX' }
+        TextureParameterValues[7] = { ParameterName=Noise, ParameterValue=Texture2D'Smoke_Pattern_000' }
+    }
+    VectorParameterValues[17] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = fx_customcolor
+            ParameterValue = { R=20, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Multi_Cloth
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = UV_Cloth
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = fx_customcolor2
+            ParameterValue = { R=15, G=1, B=0.005, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = UV_Cloth2
+            ParameterValue = { R=2, G=2, B=0, A=1 }
+        }
+        VectorParameterValues[15] =
+        {
+            ParameterName = fx_customcolor3
+            ParameterValue = { R=20, G=10, B=2, A=1 }
+        }
+        VectorParameterValues[16] =
+        {
+            ParameterName = UV_Cloth_Center
+            ParameterValue = { R=5, G=5, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Body_FX1'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_1
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=3 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=40 }
+        ScalarParameterValues[4] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Skin_Spec_value, ParameterValue=3 }
+        ScalarParameterValues[6] = { ParameterName=Specular_value, ParameterValue=4 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=HighLight_glossiness, ParameterValue=40 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=Fresnel Value, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Fresnel exponent, ParameterValue=4 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'10118_jinM_col1_N_ac' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'10118_jinM_col1_M_ac' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'10118_jinM_col1_D_ac' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'10118_jinM_col1_S_ac' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+        TextureParameterValues[6] = { ParameterName=Noise, ParameterValue=Texture2D'Noise_017' }
+        TextureParameterValues[7] = { ParameterName=Cloth_FX, ParameterValue=Texture2D'10118_M_ac_FX' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Multi_Cloth
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = fx_customcolor
+            ParameterValue = { R=20, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = UV_Cloth_Center
+            ParameterValue = { R=2, G=1, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Body_FX2'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

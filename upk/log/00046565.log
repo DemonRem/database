@@ -1,0 +1,3008 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00046565.upk Ver: 573/1 Engine: 4205 Names: 573 Exports: 5864 Imports: 220 Game: 801A
+Loading Material3 _Shooter_Decal_fanwise01 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 _Shooter_Decal_fanwise01_line from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 _Shooter_Decal_fanwise02_Velocity from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 _Shooter_Decal_fanwise03 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 _Shooter_Decal_GlowGray from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+check for DefaultTexture in 00046565
+check for DefaultTexture in 00012963
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loading Material3 _Shooter_Decal_Masterskill_01 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 _Shooter_Decal_Water_01 from package 00046565.upk
+Loading Material3 _Shooter_Decal_wirestone from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 buttle from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 DarkWater_Decal from package 00046565.upk
+Loading Material3 decal_water_011 from package 00046565.upk
+Loading Material3 Fractalwave from package 00046565.upk
+Loading Material3 GlowGray_02 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Iorak_Shield_M_2side from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Masterskill_Special_Buff_Fresnel from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bUsedWithMaterialEffect" was not found
+Loading Material3 poisonwater_003 from package 00046565.upk
+Loading Material3 Shine_Mesh_MatM2 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Shine_Mesh_MatM3 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_001_6_mesh from package 00046565.upk
+Loading Material3 shooter_AddFX02 from package 00046565.upk
+Loading package: 00027513.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 7 Imports: 2 Game: 801A
+Loading Material3 shooter_Barrier_Sparkle_MatM from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00012508.upk Ver: 573/1 Engine: 4205 Names: 440 Exports: 1346 Imports: 145 Game: 801A
+Loading Material3 Shooter_Base_trail from package 00046565.upk
+Loading Material3 shooter_base_trail_01 from package 00046565.upk
+Loading Material3 shooter_Beam_thunder_1 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_decal_DarkBase from package 00046565.upk
+Loading Material3 shooter_Defualt_FX_Test from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Shooter_empty from package 00046565.upk
+Loading Material3 shooter_fx_cloudblow_mat3 from package 00046565.upk
+Loading Material3 shooter_Line_Boom from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Shooter_Log_Trail from package 00046565.upk
+Loading Material3 Shooter_Marble007 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_Mesh_MatM from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_projectile_002_translucent from package 00046565.upk
+Loading Material3 Shooter_Shield_M2 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_Smoke025_2_Mat_twoside from package 00046565.upk
+Loading Material3 shooter_Spread_Dark from package 00046565.upk
+Loading Material3 shooter_Spread_Fire from package 00046565.upk
+Loading Material3 Shooter_StarPoint_02 from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Shooter_TargetMark_Mat01 from package 00046565.upk
+Loading Material3 Shooter_TargetMark_Mat02 from package 00046565.upk
+Loading package: 00023412.upk Ver: 573/1 Engine: 4205 Names: 809 Exports: 4396 Imports: 192 Game: 801A
+Loading Material3 Shooter_TargetMark_Mat03 from package 00046565.upk
+Loading Material3 Shooter_Trail_M from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 shooter_Trail_purple from package 00046565.upk
+Loading Material3 Shooter_vertical_decal from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 shooter_vow_trail_mat from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Shotter_Decal_Mat01 from package 00046565.upk
+Loading Material3 sparcle_sub02 from package 00046565.upk
+Loading Material3 WaveLine from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Weapon_shooter_gem_Flare from package 00046565.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 wire_basic from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Material3 wire_basic1 from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 wire_basic_beam from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 wire_Beam02 from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 wire_ch from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 wire_TEST_M from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 wire_TEST_M2 from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 wire_TEST_M3 from package 00046565.upk
+Loading Material3 wire_TEST_M4 from package 00046565.upk
+Loading MaterialInstanceConstant item_0082_col1 from package 00046565.upk
+Loading package: 00047910.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00026060.upk Ver: 573/1 Engine: 4205 Names: 215 Exports: 255 Imports: 64 Game: 801A
+Loading MaterialInstanceConstant Shooter_Decal_INSTMat01 from package 00046565.upk
+Loading MaterialInstanceConstant shooter_Trail_fre from package 00046565.upk
+Loading MaterialInstanceConstant Shooter_vertical_decal_INST from package 00046565.upk
+Loading MaterialInstanceConstant tanpi_col1_add from package 00046565.upk
+Loading MaterialInstanceConstant wire_col1_add from package 00046565.upk
+Loading MaterialInstanceConstant wire_col1_add2 from package 00046565.upk
+Loading package: 00048016.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
+Loading StaticMesh3 080001_iorak_longgun from package 00046565.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 bullet_01 from package 00046565.upk
+Loading StaticMesh3 bullet_02 from package 00046565.upk
+Loading StaticMesh3 Item_0082 from package 00046565.upk
+Loading StaticMesh3 Item_0084 from package 00046565.upk
+Loading StaticMesh3 item_0084_loop from package 00046565.upk
+Loading StaticMesh3 item_0085_loop from package 00046565.upk
+Loading StaticMesh3 Tanpi from package 00046565.upk
+Loading Texture2D base_line11 from package 00046565.upk
+Loading Texture2D defense_dragon_01 from package 00046565.upk
+Loading Texture2D Lockon_point02 from package 00046565.upk
+Loading Texture2D Moon1 from package 00046565.upk
+Loading Texture2D Shooter_base_line09 from package 00046565.upk
+Loading Texture2D shooter_Wire_TEST02 from package 00046565.upk
+Loading Texture2D T01_shork_wave_decal_2 from package 00046565.upk
+Loading Texture2D Tanpi_D from package 00046565.upk
+Loading Texture2D Tanpi_M from package 00046565.upk
+Loading Texture2D Tanpi_mask from package 00046565.upk
+Loading Texture2D Tanpi_N from package 00046565.upk
+Loading Texture2D Tanpi_S from package 00046565.upk
+Loading Texture2D Tanpi_tex from package 00046565.upk
+Loading Texture2D Bullet_D from package 00046565.upk
+Loading Texture2D Bullet_M from package 00046565.upk
+Loading Texture2D Bullet_N from package 00046565.upk
+Loading Texture2D Bullet_S from package 00046565.upk
+Loading Texture2D defense_dragon_05 from package 00046565.upk
+Loading Texture2D Iem0084_mask_blue from package 00046565.upk
+Loading Texture2D Lockon_point01 from package 00046565.upk
+Loading Texture2D Lockon_point03 from package 00046565.upk
+Loading Texture2D Lockon_point04 from package 00046565.upk
+Loading Texture2D Lockon_point05 from package 00046565.upk
+Loading Texture2D wire_D from package 00046565.upk
+Loading Texture2D wire_fx_mask from package 00046565.upk
+Loading Texture2D wire_N from package 00046565.upk
+Loading Texture2D wire_s from package 00046565.upk
+Loading Texture2D SystemDecal_Circle_ring from package 00012963.upk
+Loading Texture2D SystemDecal_Mask01 from package 00012963.upk
+Loading Texture2D Smoke_Dust_000 from package 00012963.upk
+Loading Texture2D Gradient_002 from package 00012963.upk
+Loading Texture2D SystemDecal_Circle_Line from package 00012963.upk
+Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D Ring_Smoke_000 from package 00012963.upk
+Loading Texture2D SystemDecal_Circle_blur from package 00012963.upk
+Loading Texture2D Ring_Double_002 from package 00012963.upk
+Loading Texture2D Noise_Distortion_000 from package 00012963.upk
+Loading Texture2D Noise_009 from package 00012963.upk
+Loading Texture2D Fire_000 from package 00012963.upk
+Loading Texture2D SystemDecal_Shape_donut_001_02 from package 00012963.upk
+Loading Texture2D SystemDecal2_Circle_Full_001 from package 00012963.upk
+Loading Texture2D Ring_SharpBlur_000 from package 00012963.upk
+Loading Texture2D SystemDecal_Circle_ray_01 from package 00012963.upk
+Loading Texture2D Noise_003 from package 00012963.upk
+Loading Texture2D Smoke_Blur_000 from package 00012963.upk
+Loading Texture2D Glow_002 from package 00012963.upk
+Loading Texture2D Noise_013 from package 00012963.upk
+Loading Texture2D Gradient_Slash_001_Tex from package 00012963.upk
+Loading Texture2D Gradient_Line_010 from package 00012963.upk
+Loading Texture2D Normal_Noise_003 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Unique_Stone_001 from package 00012963.upk
+Loading Texture2D Noise_018 from package 00012963.upk
+Loading Texture2D Gradient_Line_001_YClamp from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Rune_Heal_000_Let from package 00012963.upk
+Loading Texture2D Noise_010 from package 00012963.upk
+Loading Texture2D Noise_Bubble_000 from package 00012963.upk
+Loading Texture2D Gradient_Line_005 from package 00012963.upk
+Loading Texture2D Ring_Shockwave_003 from package 00012963.upk
+Loading Texture2D Water_001_01_N_Wave3 from package 00012963.upk
+Loading Texture2D Gradient_Color_RedToOrange_000 from package 00012963.upk
+Loading Texture2D Env_Fx_Storm from package 00012963.upk
+Loading Texture2D Env_Fx_LightningCloud_Lightning from package 00012963.upk
+Loading Texture2D Gradient_Line_R_clamp from package 00012963.upk
+Loading Texture2D Glow_007 from package 00012963.upk
+Loading Texture2D Noise_022 from package 00012963.upk
+Loading Texture2D Gradient_Color_Rainbow_002 from package 00012963.upk
+Loading Texture2D Gradient_Beam_007 from package 00012963.upk
+Loading Texture2D Dragon_body_outside from package 00012963.upk
+Loading Texture2D Gradient_Flow_000 from package 00012963.upk
+Loading Texture2D Noise_007 from package 00012963.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D Gradient_Beam_004 from package 00012963.upk
+Loading Texture2D Glow_Flare_010 from package 00012963.upk
+Loading Texture2D Color_Ring_001 from package 00012963.upk
+Loading Texture2D Ring_ShockWave_001 from package 00012963.upk
+Loading Texture2D Glow_Flare_010_B from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Gradient_Color_YellowToOrange_000 from package 00012963.upk
+Loading Texture2D RuneMechaKingAsura_col1_D from package 00027513.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D RuneMechaKingAsura_col1_N from package 00027513.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Normal_Stone_001 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading TextureCube Illusion_cube_1 from package 00012963.upk
+Loading Texture2D Color_Sphere_000 from package 00012963.upk
+Loading Texture2D Streak_Left_000_Tex from package 00012508.upk
+Loading Texture2D Streak_Left_001_Tex from package 00012508.upk
+Loading Texture2D Fire_004 from package 00012963.upk
+Loading Texture2D Noise_006 from package 00012963.upk
+Loading Texture2D Glow_Flar_005 from package 00012963.upk
+Loading Texture2D Gradient_001_Left from package 00012963.upk
+Loading Texture2D Electric_Sprite_004 from package 00012963.upk
+Loading Texture2D Gradient_Trail_002 from package 00012963.upk
+Loading Texture2D Glow_Trail_001 from package 00012963.upk
+Loading Texture2D Normal_Noise_004 from package 00012963.upk
+Loading Texture2D Gradient_Color_PurpleToBlue_000 from package 00012963.upk
+Loading Texture2D Gradient_Beam_006_Yclamp from package 00012963.upk
+Loading Texture2D MM_return_Ink_Cloud_Blending_Tex from package 00012963.upk
+Loading Texture2D Gradient_001_Right from package 00012963.upk
+Loading Texture2D Gradient_Beam_005_YClamp from package 00012963.upk
+Loading Texture2D j_decal_circle008 from package 00012963.upk
+Loading Texture2D Smoke_Dust_001 from package 00012963.upk
+Loading Texture2D Aura_Ripple_000 from package 00012963.upk
+Loading Texture2D Noise_020 from package 00012963.upk
+Loading Texture2D Noise_004 from package 00012963.upk
+Loading Texture2D Smoke_Cloud_004 from package 00012963.upk
+Loading Texture2D Aura_Tail_002 from package 00012963.upk
+Loading Texture2D Gradient_Color_WhiteToPurple_000 from package 00012963.upk
+Loading Texture2D Gradient_Color_BtoS000_Tex from package 00012963.upk
+Loading Texture2D Gradient_004 from package 00012963.upk
+Loading Texture2D Targeting_Start_Mask01 from package 00012963.upk
+Loading Texture2D Unique_Star_000 from package 00012963.upk
+Loading Texture2D Noise_Water_000 from package 00012963.upk
+Loading Texture2D Unique_Tutorial_000 from package 00012963.upk
+Loading Texture2D Noise_Glow_000 from package 00012963.upk
+Loading Texture2D Gradient_Half_000 from package 00012963.upk
+Loading Texture2D Gradient_Line_R from package 00012963.upk
+Loading Texture2D Gradient_Beam_002 from package 00012963.upk
+Loading Texture2D Sparkle_Ink_007 from package 00012963.upk
+Loading Texture2D Smoke_Dusts_001 from package 00012963.upk
+Loading Texture2D Smoke_009 from package 00012963.upk
+Loading Texture2D Targeting_Start_decal from package 00012963.upk
+Loading Texture2D Glow_Flair_001 from package 00012963.upk
+Loading Texture2D TargetDecal_011 from package 00012963.upk
+Loading Texture2D t_Glow_Flar_012_2 from package 00012963.upk
+Loading Texture2D Glow_ink_000 from package 00012963.upk
+Loading Texture2D Ring_001 from package 00012963.upk
+Loading Texture2D TargetMark_Tex01 from package 00023412.upk
+Loading Texture2D Damage02_Fire_Signal_Decal_main08 from package 00012963.upk
+Loading Texture2D MuseongM_decal02 from package 00012963.upk
+Loading Texture2D MuseongM_decal03 from package 00012963.upk
+Loading Texture2D lava01 from package 00012963.upk
+Loading Texture2D Damage02_Fire_creake10 from package 00012963.upk
+Loading Texture2D Glow_ShockWave_004 from package 00012963.upk
+Loading Texture2D Takgi_Beam_001 from package 00012963.upk
+Loading Texture2D Glow_008 from package 00012963.upk
+Loading Texture2D Noise_Ripple_000_Inverse from package 00012963.upk
+Loading Texture2D Noise_019 from package 00012963.upk
+Loading Texture2D Sparkle_Sprite_003 from package 00012963.upk
+Loading Texture2D Sparkle_Sprite_Light_000 from package 00012963.upk
+Loading Texture2D Glow_Twiri_002 from package 00012963.upk
+Loading Texture2D Gradient_001 from package 00012963.upk
+Loading Texture2D Flare_Stripe from package 00012963.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Blood_Splatter_005 from package 00012963.upk
+Loading Texture2D T_MukHwa_Gradient_clamp from package 00012963.upk
+Loading Texture2D Dragon_body_outside_NRM from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Item_0082_col1_N from package 00047910.upk
+Loading Texture2D Item_0082_col1_M from package 00047910.upk
+Loading Texture2D Item_0082_col1_S from package 00047910.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D Item_0082_col1_D from package 00047910.upk
+Loading Material3 Basic_RE_HwanMa from package 00026060.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 Warlock_Decal_Mat01 from package 00023412.upk
+Loading Texture2D Decal_Crack_004_Des from package 00012963.upk
+Loading Texture2D Decal_Crack_Fire_000 from package 00012963.upk
+Loading TextureCube Cube_C from package 00002640.upk
+Loading Texture2D Item_0081_M from package 00048016.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D CubemapFace0 from package 00012963.upk
+Loading Texture2D CubemapFace1 from package 00012963.upk
+Loading Texture2D CubemapFace2 from package 00012963.upk
+Loading Texture2D CubemapFace3 from package 00012963.upk
+Loading Texture2D CubemapFace4 from package 00012963.upk
+Loading Texture2D CubemapFace5 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Texture2D Warlock_Decal_Tex01 from package 00023412.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 2.2 sec, 11128 allocs, 12.80 MBytes serialized in 878743 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_fanwise01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[13] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Mask01'
+        ReferencedTextures[2] = Texture2D'Smoke_Dust_000'
+        ReferencedTextures[3] = Texture2D'Gradient_002'
+        ReferencedTextures[4] = Texture2D'SystemDecal_Circle_Line'
+        ReferencedTextures[5] = Texture2D'Noise_005'
+        ReferencedTextures[6] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[7] = Texture2D'SystemDecal_Circle_blur'
+        ReferencedTextures[8] = Texture2D'Ring_Double_002'
+        ReferencedTextures[9] = Texture2D'Noise_Distortion_000'
+        ReferencedTextures[10] = Texture2D'Noise_009'
+        ReferencedTextures[11] = Texture2D'Fire_000'
+        ReferencedTextures[12] = Texture2D'Shooter_base_line09'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_fanwise01_line
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[13] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Mask01'
+        ReferencedTextures[2] = Texture2D'Smoke_Dust_000'
+        ReferencedTextures[3] = Texture2D'Gradient_002'
+        ReferencedTextures[4] = Texture2D'SystemDecal_Circle_Line'
+        ReferencedTextures[5] = Texture2D'Noise_005'
+        ReferencedTextures[6] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[7] = Texture2D'SystemDecal_Circle_blur'
+        ReferencedTextures[8] = Texture2D'Ring_Double_002'
+        ReferencedTextures[9] = Texture2D'Shooter_base_line09'
+        ReferencedTextures[10] = Texture2D'Noise_Distortion_000'
+        ReferencedTextures[11] = Texture2D'Noise_009'
+        ReferencedTextures[12] = Texture2D'Fire_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_fanwise02_Velocity
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Mask01'
+        ReferencedTextures[2] = Texture2D'SystemDecal_Circle_Line'
+        ReferencedTextures[3] = Texture2D'SystemDecal_Shape_donut_001_02'
+        ReferencedTextures[4] = Texture2D'SystemDecal2_Circle_Full_001'
+        ReferencedTextures[5] = Texture2D'Shooter_base_line09'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_fanwise03
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[12] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[1] = Texture2D'Ring_SharpBlur_000'
+        ReferencedTextures[2] = Texture2D'SystemDecal_Mask01'
+        ReferencedTextures[3] = Texture2D'Smoke_Dust_000'
+        ReferencedTextures[4] = Texture2D'Gradient_002'
+        ReferencedTextures[5] = Texture2D'SystemDecal_Circle_Line'
+        ReferencedTextures[6] = Texture2D'SystemDecal_Circle_blur'
+        ReferencedTextures[7] = Texture2D'SystemDecal_Circle_ray_01'
+        ReferencedTextures[8] = Texture2D'Noise_005'
+        ReferencedTextures[9] = Texture2D'Noise_003'
+        ReferencedTextures[10] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[11] = Texture2D'Shooter_base_line09'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_GlowGray
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Glow_002', None }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_Masterskill_01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_013'
+        ReferencedTextures[1] = Texture2D'Gradient_Slash_001_Tex'
+        ReferencedTextures[2] = Texture2D'base_line11'
+        ReferencedTextures[3] = Texture2D'Noise_005'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_010'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_Water_01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_003'
+        ReferencedTextures[1] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[2] = Texture2D'Moon1'
+        ReferencedTextures[3] = Texture2D'Noise_018'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_001_YClamp'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: _Shooter_Decal_wirestone
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ray_01'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Shape_donut_001_02'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[3] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[4] = Texture2D'Rune_Heal_000_Let'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: buttle
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[3] = { Texture2D'Tex.Bullet_N', Texture2D'Tex.Bullet_M', Texture2D'Tex.Bullet_S' }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: DarkWater_Decal
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_003'
+        ReferencedTextures[1] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[2] = Texture2D'Noise_010'
+        ReferencedTextures[3] = Texture2D'Noise_Bubble_000'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_005'
+        ReferencedTextures[5] = Texture2D'Noise_018'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: decal_water_011
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_003'
+        ReferencedTextures[1] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[2] = Texture2D'Moon1'
+        ReferencedTextures[3] = Texture2D'Noise_010'
+        ReferencedTextures[4] = Texture2D'Noise_Bubble_000'
+        ReferencedTextures[5] = Texture2D'Gradient_Line_005'
+        ReferencedTextures[6] = Texture2D'Ring_Shockwave_003'
+        ReferencedTextures[7] = Texture2D'Noise_005'
+        ReferencedTextures[8] = Texture2D'Gradient_Line_010'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Fractalwave
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_003'
+        ReferencedTextures[1] = Texture2D'Water_001_01_N_Wave3'
+        ReferencedTextures[2] = Texture2D'Gradient_Color_RedToOrange_000'
+        ReferencedTextures[3] = Texture2D'Env_Fx_Storm'
+        ReferencedTextures[4] = Texture2D'Env_Fx_LightningCloud_Lightning'
+        ReferencedTextures[5] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[6] = Texture2D'Gradient_Line_R_clamp'
+        ReferencedTextures[7] = Texture2D'Gradient_Line_005'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: GlowGray_02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Glow_007', Texture2D'Glow_002', None }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Iorak_Shield_M_2side
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Noise_022'
+        ReferencedTextures[2] = Texture2D'Gradient_Color_Rainbow_002'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[4] = Texture2D'Dragon_body_outside'
+        ReferencedTextures[5] = Texture2D'Gradient_Flow_000'
+        ReferencedTextures[6] = Texture2D'Noise_007'
+        ReferencedTextures[7] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[8] = Texture2D'Noise_009'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Masterskill_Special_Buff_Fresnel
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Smoke_Fractal_002', Texture2D'Noise_Plazma_002' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: poisonwater_003
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_003'
+        ReferencedTextures[1] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[2] = Texture2D'Noise_005'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_004'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shine_Mesh_MatM2
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Glow_Flare_010'
+        ReferencedTextures[1] = Texture2D'Color_Ring_001'
+        ReferencedTextures[2] = Texture2D'Ring_ShockWave_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shine_Mesh_MatM3
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Glow_Flare_010_B'
+        ReferencedTextures[1] = Texture2D'Color_Ring_001'
+        ReferencedTextures[2] = Texture2D'Ring_ShockWave_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_001_6_mesh
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[2] = Texture2D'Gradient_Color_YellowToOrange_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_AddFX02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'RuneMechaKingAsura_col1_D'
+        ReferencedTextures[1] = Texture2D'Water_001_01_N_Wave3'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[3] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_005'
+        ReferencedTextures[5] = Texture2D'RuneMechaKingAsura_col1_N'
+        ReferencedTextures[6] = Texture2D'Noise_Glass_000'
+        ReferencedTextures[7] = Texture2D'Normal_Stone_001'
+        ReferencedTextures[8] = TextureCube'Illusion_cube_1'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Barrier_Sparkle_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[10] =
+    {
+        ReferencedTextures[0] = Texture2D'Color_Sphere_000'
+        ReferencedTextures[1] = Texture2D'Streak_Left_000_Tex'
+        ReferencedTextures[2] = Texture2D'Streak_Left_001_Tex'
+        ReferencedTextures[3] = Texture2D'Fire_004'
+        ReferencedTextures[4] = Texture2D'Env_Fx_Storm'
+        ReferencedTextures[5] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[6] = Texture2D'Noise_006'
+        ReferencedTextures[7] = Texture2D'Noise_Plazma_002'
+        ReferencedTextures[8] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[9] = Texture2D'Glow_Flar_005'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_Base_trail
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[2] = Texture2D'Electric_Sprite_004'
+        ReferencedTextures[3] = Texture2D'Gradient_Color_RedToOrange_000'
+        ReferencedTextures[4] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[5] = Texture2D'Gradient_Trail_002'
+        ReferencedTextures[6] = Texture2D'Glow_Trail_001'
+        ReferencedTextures[7] = Texture2D'Normal_Noise_004'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_base_trail_01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[2] = Texture2D'Electric_Sprite_004'
+        ReferencedTextures[3] = Texture2D'Gradient_Color_PurpleToBlue_000'
+        ReferencedTextures[4] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[5] = Texture2D'Glow_Trail_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Beam_thunder_1
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Beam_006_Yclamp'
+        ReferencedTextures[1] = Texture2D'MM_return_Ink_Cloud_Blending_Tex'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Right'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_005_YClamp'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_decal_DarkBase
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'j_decal_circle008'
+        ReferencedTextures[1] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[2] = Texture2D'Noise_018'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Defualt_FX_Test
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Noise_005', Texture2D'Smoke_Dust_001', Texture2D'Aura_Ripple_000' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_empty
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[2] = { Texture2D'Noise_020', Texture2D'Noise_004' }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_fx_cloudblow_mat3
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Smoke_Cloud_004'
+        ReferencedTextures[1] = Texture2D'Aura_Tail_002'
+        ReferencedTextures[2] = Texture2D'Gradient_Color_WhiteToPurple_000'
+        ReferencedTextures[3] = None
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Line_Boom
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Color_BtoS000_Tex'
+        ReferencedTextures[1] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[2] = Texture2D'Gradient_004'
+        ReferencedTextures[3] = Texture2D'Targeting_Start_Mask01'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_Log_Trail
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Trail_002'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Glow_Trail_001'
+        ReferencedTextures[5] = Texture2D'Smoke_Cloud_004'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_Marble007
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Unique_Star_000'
+        ReferencedTextures[1] = Texture2D'Noise_Water_000'
+        ReferencedTextures[2] = Texture2D'Unique_Tutorial_000'
+        ReferencedTextures[3] = Texture2D'Noise_Glow_000'
+        ReferencedTextures[4] = Texture2D'Gradient_Half_000'
+        ReferencedTextures[5] = None
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Mesh_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Glow_Flare_010'
+        ReferencedTextures[1] = Texture2D'Color_Ring_001'
+        ReferencedTextures[2] = Texture2D'Ring_ShockWave_001'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_projectile_002_translucent
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Gradient_Line_R_clamp'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[3] = Texture2D'Noise_006'
+        ReferencedTextures[4] = Texture2D'Unique_Stone_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_Shield_M2
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Noise_022'
+        ReferencedTextures[2] = Texture2D'Gradient_Color_Rainbow_002'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[4] = Texture2D'defense_dragon_01'
+        ReferencedTextures[5] = Texture2D'Gradient_Flow_000'
+        ReferencedTextures[6] = Texture2D'Tex.defense_dragon_05'
+        ReferencedTextures[7] = Texture2D'Noise_007'
+        ReferencedTextures[8] = Texture2D'Gradient_Line_003'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Smoke025_2_Mat_twoside
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[2] = Texture2D'Noise_006'
+        ReferencedTextures[3] = Texture2D'Unique_Stone_001'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_R'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Spread_Dark
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Beam_002'
+        ReferencedTextures[1] = Texture2D'Sparkle_Ink_007'
+        ReferencedTextures[2] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[3] = Texture2D'Gradient_Color_RedToOrange_000'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Spread_Fire
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Beam_002'
+        ReferencedTextures[1] = Texture2D'Sparkle_Ink_007'
+        ReferencedTextures[2] = Texture2D'Gradient_Beam_007'
+        ReferencedTextures[3] = Texture2D'Gradient_Color_RedToOrange_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_StarPoint_02
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[12] =
+    {
+        ReferencedTextures[0] = Texture2D'SystemDecal_Circle_ring'
+        ReferencedTextures[1] = Texture2D'Ring_SharpBlur_000'
+        ReferencedTextures[2] = Texture2D'Targeting_Start_Mask01'
+        ReferencedTextures[3] = Texture2D'Noise_005'
+        ReferencedTextures[4] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[5] = Texture2D'Smoke_Dusts_001'
+        ReferencedTextures[6] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[7] = Texture2D'Smoke_009'
+        ReferencedTextures[8] = Texture2D'Targeting_Start_decal'
+        ReferencedTextures[9] = Texture2D'Glow_Flair_001'
+        ReferencedTextures[10] = Texture2D'TargetDecal_011'
+        ReferencedTextures[11] = Texture2D't_Glow_Flar_012_2'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_TargetMark_Mat01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[2] = Texture2D'Tex.Lockon_point01'
+        ReferencedTextures[3] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[4] = Texture2D'Glow_ink_000'
+        ReferencedTextures[5] = Texture2D'Tex.Lockon_point03'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_TargetMark_Mat02
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[2] = Texture2D'Ring_001'
+        ReferencedTextures[3] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[4] = Texture2D'Glow_ink_000'
+        ReferencedTextures[5] = Texture2D'TargetMark_Tex01'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_TargetMark_Mat03
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[2] = Texture2D'Tex.Lockon_point01'
+        ReferencedTextures[3] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[4] = Texture2D'Glow_ink_000'
+        ReferencedTextures[5] = Texture2D'Tex.Lockon_point05'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_Trail_M
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Color_RedToOrange_000'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Glow_Trail_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_Trail_purple
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Color_PurpleToBlue_000'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Glow_Trail_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shooter_vertical_decal
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'Damage02_Fire_Signal_Decal_main08'
+        ReferencedTextures[1] = Texture2D'MuseongM_decal02'
+        ReferencedTextures[2] = Texture2D'MuseongM_decal03'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'lava01'
+        ReferencedTextures[5] = Texture2D'Damage02_Fire_creake10'
+        ReferencedTextures[6] = Texture2D'Noise_Distortion_000'
+        ReferencedTextures[7] = Texture2D'Glow_ShockWave_004'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: shooter_vow_trail_mat
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Gradient_Trail_002'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Takgi_Beam_001'
+        ReferencedTextures[5] = Texture2D'Glow_008'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Shotter_Decal_Mat01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Ring_Smoke_000'
+        ReferencedTextures[2] = Texture2D'Ring_001'
+        ReferencedTextures[3] = Texture2D'Smoke_Blur_000'
+        ReferencedTextures[4] = Texture2D'Glow_ink_000'
+        ReferencedTextures[5] = Texture2D'Tanpi_tex'
+        ReferencedTextures[6] = Texture2D'Noise_Ripple_000_Inverse'
+        ReferencedTextures[7] = Texture2D'Gradient_Line_003'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: sparcle_sub02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Noise_005', Texture2D'Noise_019', Texture2D'Sparkle_Sprite_003' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: WaveLine
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Sparkle_Sprite_Light_000'
+        ReferencedTextures[1] = Texture2D'Gradient_Color_BtoS000_Tex'
+        ReferencedTextures[2] = Texture2D'Noise_010'
+        ReferencedTextures[3] = Texture2D'Glow_Twiri_002'
+        ReferencedTextures[4] = Texture2D'Gradient_001'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Weapon_shooter_gem_Flare
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Flare_Stripe'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[3] = Texture2D'Smoke_Dusts_001'
+        ReferencedTextures[4] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[5] = Texture2D'Gradient_Color_RedToOrange_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_basic
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[6] = Texture2D'Noise_020'
+        ReferencedTextures[7] = Texture2D'Noise_004'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_basic1
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'Tex.wire_fx_mask'
+        ReferencedTextures[2] = Texture2D'check'
+        ReferencedTextures[3] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[6] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[7] = Texture2D'Noise_020'
+        ReferencedTextures[8] = Texture2D'Noise_004'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_basic_beam
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[6] = Texture2D'Noise_020'
+        ReferencedTextures[7] = Texture2D'Noise_004'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_Beam02
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[7] =
+    {
+        ReferencedTextures[0] = Texture2D'Blood_Splatter_005'
+        ReferencedTextures[1] = Texture2D'Noise_005'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Left'
+        ReferencedTextures[3] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[4] = Texture2D'Gradient_Beam_005_YClamp'
+        ReferencedTextures[5] = Texture2D'T_MukHwa_Gradient_clamp'
+        ReferencedTextures[6] = Texture2D'Tex.wire_fx_mask'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_ch
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'shooter_Wire_TEST02' }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_TEST_M
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'shooter_Wire_TEST02' }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_TEST_M2
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Dragon_body_outside_NRM'
+        ReferencedTextures[1] = Texture2D'Dragon_body_outside'
+        ReferencedTextures[2] = Texture2D'shooter_Wire_TEST02'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_TEST_M3
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Dragon_body_outside_NRM'
+        ReferencedTextures[1] = Texture2D'Dragon_body_outside'
+        ReferencedTextures[2] = Texture2D'shooter_Wire_TEST02'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: wire_TEST_M4
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'shooter_Wire_TEST02' }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: item_0082_col1
+
+    ScalarParameterValues[11] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Glossiness1, ParameterValue=3 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness2, ParameterValue=15 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=4 }
+        ScalarParameterValues[3] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[5] = { ParameterName=SpeedX, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=LargeWaveScaleX, ParameterValue=0.1 }
+        ScalarParameterValues[7] = { ParameterName=WaveXPower, ParameterValue=0.05 }
+        ScalarParameterValues[8] = { ParameterName=SpeedY, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=LargeWaveScaleY, ParameterValue=0.05 }
+        ScalarParameterValues[10] = { ParameterName=WaveYPower, ParameterValue=0.1 }
+    }
+    TextureParameterValues[5] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Item_0082_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Item_0082_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Specular, ParameterValue=Texture2D'Item_0082_col1_S' }
+        TextureParameterValues[3] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[4] = { ParameterName=Diffuse, ParameterValue=Texture2D'Item_0082_col1_D' }
+    }
+    VectorParameterValues[10] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.325037, G=0.320382, B=0.201096, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.325037, G=0.399293, B=0.399293, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Diffuse_Fresnel
+            ParameterValue = { R=0.064, G=0.32, B=0.6, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Diffuse_trangition
+            ParameterValue = { R=0, G=0.6, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = LargeWaveScale
+            ParameterValue = { R=0.1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = WavePower
+            ParameterValue = { R=2, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Speed
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_RE_HwanMa'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Shooter_Decal_INSTMat01
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=DecalTexture, ParameterValue=Texture2D'Tanpi_tex' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = G_Color
+            ParameterValue = { R=0, G=0, B=0.1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = R_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = B_Color
+            ParameterValue = { R=0, G=0.3, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Warlock_Decal_Mat01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: shooter_Trail_fre
+
+    ScalarParameterValues[1] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Tex_Gradation_Rotator, ParameterValue=1 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = tex_Gradation
+            ParameterValue = Texture2D'Gradient_Color_WhiteToPurple_000'
+        }
+        TextureParameterValues[1] = { ParameterName=Tex, ParameterValue=Texture2D'Aura_Tail_002' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=3, G=0.9, B=1, A=1 }
+        }
+    }
+    Parent = Material3'shooter_fx_cloudblow_mat3'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Shooter_vertical_decal_INST
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = Tex_N
+            ParameterValue = Texture2D'Damage02_Fire_Signal_Decal_main08'
+        }
+        TextureParameterValues[1] = { ParameterName=Tex, ParameterValue=Texture2D'MuseongM_decal03' }
+        TextureParameterValues[2] =
+        {
+            ParameterName = Tex_01
+            ParameterValue = Texture2D'Damage02_Fire_Signal_Decal_main08'
+        }
+        TextureParameterValues[3] = { ParameterName=Tex_03, ParameterValue=Texture2D'Decal_Crack_004_Des' }
+        TextureParameterValues[4] = { ParameterName=Tex_04, ParameterValue=Texture2D'Decal_Crack_Fire_000' }
+        TextureParameterValues[5] = { ParameterName=Tex_02, ParameterValue=Texture2D'lava01' }
+    }
+    VectorParameterValues[4] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Lerp_value
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=1, G=0.1, B=6, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Value2
+            ParameterValue = { R=20, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Shooter_vertical_decal'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: tanpi_col1_add
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=None }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=None }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=None }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=None }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Tanpi_mask' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: wire_col1_add
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=0 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Tex.Bullet_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Tex.Bullet_N' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Tex.wire_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Tex.wire_fx_mask' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Tex.wire_fx_mask' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.2, G=0.06, B=0.05, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=6, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0.01, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: wire_col1_add2
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=30 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=30 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=0 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Tex.wire_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Item_0081_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Tex.wire_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Tex.wire_s' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Tex.wire_fx_mask' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.2, G=0.05, B=0.01, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=3, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 080001_iorak_longgun
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=14.9876, Y=-0.111, Z=1.43525 }
+        BoxExtent = { X=27.8473, Y=1.8172, Z=5.58445 }
+        SphereRadius = 28.0165
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1010 }
+            }
+            NumVerts = 1660
+            IndexCount = 3030
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: bullet_01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-9.18615, Z=-0.00139999 }
+        BoxExtent = { X=2.1097, Y=12.2698, Z=2.1097 }
+        SphereRadius = 12.4528
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=522 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 696
+            IndexCount = 1566
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: bullet_02
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.000849962, Y=-1.6591, Z=0.00419998 }
+        BoxExtent = { X=1.96395, Y=4.7428, Z=1.9639 }
+        SphereRadius = 5.02142
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=322 }
+            }
+            NumVerts = 442
+            IndexCount = 966
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Item_0082
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0.6224, Z=0.14905 }
+        BoxExtent = { X=2.5164, Y=17.2526, Z=17.6486 }
+        SphereRadius = 18.5598
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1836 }
+            }
+            NumVerts = 2480
+            IndexCount = 5508
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Item_0084
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0.77515, Z=12.7507 }
+        BoxExtent = { X=7.4357, Y=7.23735, Z=15.4464 }
+        SphereRadius = 15.6789
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=3032 }
+            }
+            NumVerts = 6398
+            IndexCount = 9096
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: item_0084_loop
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.275951, Y=-3.92985, Z=-1.222 }
+        BoxExtent = { X=16.2994, Y=14.6565, Z=8.5456 }
+        SphereRadius = 22.2918
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=3016 }
+            }
+            NumVerts = 6370
+            IndexCount = 9048
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: item_0085_loop
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.604649, Y=6.0773, Z=4.5108 }
+        BoxExtent = { X=23.3437, Y=21.5306, Z=6.0051 }
+        SphereRadius = 32.3196
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=3016 }
+            }
+            NumVerts = 6370
+            IndexCount = 9048
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Tanpi
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=2.1097, Y=10.5704, Z=2.1097 }
+        SphereRadius = 10.7823
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=272 }
+            }
+            NumVerts = 362
+            IndexCount = 816
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: Texture2D ObjectName: base_line11
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: defense_dragon_01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Lockon_point02
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Moon1
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Shooter_base_line09
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: shooter_Wire_TEST02
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T01_shork_wave_decal_2
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_D
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_M
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_mask
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_N
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_S
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tanpi_tex
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Bullet_D
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Bullet_M
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Bullet_N
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Bullet_S
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: defense_dragon_05
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Iem0084_mask_blue
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Lockon_point01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Lockon_point03
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Lockon_point04
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Lockon_point05
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: wire_D
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: wire_fx_mask
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: wire_N
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: wire_s
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

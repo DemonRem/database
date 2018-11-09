@@ -1,0 +1,93 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00040090.upk Ver: 573/1 Engine: 4205 Names: 2141 Exports: 88030 Imports: 911 Game: 801A
+Loading Material3 Flazard_AddFX02 from package 00040090.upk
+Loading package: 00027513.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00020473.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
+Loading StaticMesh3 RuneMechaTombSoldier_Bullet from package 00040090.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading Texture2D RuneMechaKingAsura_col1_D from package 00027513.upk
+Loading Texture2D Water_001_01_N_Wave3 from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_005 from package 00012963.upk
+Loading Texture2D Flazard_N from package 00020473.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Normal_Stone_001 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading TextureCube Illusion_cube_1 from package 00012963.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D CubemapFace0 from package 00012963.upk
+Loading Texture2D CubemapFace1 from package 00012963.upk
+Loading Texture2D CubemapFace2 from package 00012963.upk
+Loading Texture2D CubemapFace3 from package 00012963.upk
+Loading Texture2D CubemapFace4 from package 00012963.upk
+Loading Texture2D CubemapFace5 from package 00012963.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loaded in 0.32 sec, 5169 allocs, 8.36 MBytes serialized in 1750581 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Flazard_AddFX02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'RuneMechaKingAsura_col1_D'
+        ReferencedTextures[1] = Texture2D'Water_001_01_N_Wave3'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[3] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[4] = Texture2D'Gradient_Line_005'
+        ReferencedTextures[5] = Texture2D'Flazard_N'
+        ReferencedTextures[6] = Texture2D'Noise_Glass_000'
+        ReferencedTextures[7] = Texture2D'Normal_Stone_001'
+        ReferencedTextures[8] = TextureCube'Illusion_cube_1'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: RuneMechaTombSoldier_Bullet
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0.603499, Z=0 }
+        BoxExtent = { X=4.7015, Y=15.6711, Z=4.6292 }
+        SphereRadius = 16.1522
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=376 }
+            }
+            NumVerts = 712
+            IndexCount = 1128
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1

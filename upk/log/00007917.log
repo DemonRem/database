@@ -1,0 +1,67 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00007917.upk Ver: 573/1 Engine: 4205 Names: 1320 Exports: 5314 Imports: 498 Game: 801A
+Loading Texture2D Xmas_T_lollipop_D from package 00007917.upk
+Loading Texture2D Xmas_T_lollipop_M from package 00007917.upk
+Loading Texture2D Xmas_T_lollipop_N from package 00007917.upk
+Loading Texture2D Xmas_T_lollipop_S from package 00007917.upk
+Loaded in 0.051 sec, 1466 allocs, 0.69 MBytes serialized in 103865 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_D
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_M
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_N
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_S
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

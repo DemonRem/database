@@ -1,0 +1,56 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00007682.upk Ver: 573/1 Engine: 4205 Names: 77 Exports: 1 Imports: 20 Game: 801A
+Loading MaterialInstanceConstant col2 from package 00007682.upk
+Loading package: 00006158.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 15 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+check for Basic_color in 00007682
+check for Basic_color in 00006158
+check for Basic_color in 00002640
+WARNING: Import(Env_common.Basic_color) was not found
+Loading Texture2D Monster_Beast_Bigpig_col2_N from package 00006158.upk
+Loading Texture2D Monster_Beast_Bigpig_col1_M from package 00006158.upk
+Loading Texture2D Monster_Beast_Bigpig_col2_D from package 00006158.upk
+Loading Texture2D Monster_Beast_Bigpig_col2_S from package 00006158.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.08 sec, 726 allocs, 0.44 MBytes serialized in 13006 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col2
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Glossiness1, ParameterValue=5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=1.5 }
+    }
+    TextureParameterValues[5] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Monster_Beast_Bigpig_col2_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Monster_Beast_Bigpig_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Monster_Beast_Bigpig_col2_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Monster_Beast_Bigpig_col2_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'cube_orb' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = None
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

@@ -1,0 +1,69 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00016373.upk Ver: 573/1 Engine: 4205 Names: 115 Exports: 1 Imports: 49 Game: 801A
+Loading AnimSet Summon_Cat_Facial_AnimSet from package 00016373.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
+Loaded in 0 sec, 137 allocs, 0.00 MBytes serialized in 860 calls.
+
+Object info:
+============
+ClassName: AnimSet ObjectName: Summon_Cat_Facial_AnimSet
+
+    bAnimRotationOnly = true
+    TrackBoneNames[44] =
+    {
+        TrackBoneNames[0] = Bip01
+        TrackBoneNames[1] = Bip01Pelvis
+        TrackBoneNames[2] = Bip01Spine
+        TrackBoneNames[3] = Bip01Spine1
+        TrackBoneNames[4] = Bip01Spine2
+        TrackBoneNames[5] = Bip01Neck
+        TrackBoneNames[6] = Bip01Neck1
+        TrackBoneNames[7] = Bip01Head
+        TrackBoneNames[8] = Face_Root
+        TrackBoneNames[9] = mouth_jaw_DWN
+        TrackBoneNames[10] = mouth_DWN_MID
+        TrackBoneNames[11] = mouth_DWN_R
+        TrackBoneNames[12] = mouth_DWN_L
+        TrackBoneNames[13] = tongue_01
+        TrackBoneNames[14] = tongue_02
+        TrackBoneNames[15] = mouth_jaw_UP
+        TrackBoneNames[16] = mouth_UP_MID
+        TrackBoneNames[17] = mouth_UP_R
+        TrackBoneNames[18] = mouth_UP_L
+        TrackBoneNames[19] = nose_MID
+        TrackBoneNames[20] = nose_R
+        TrackBoneNames[21] = nose_L
+        TrackBoneNames[22] = Lear
+        TrackBoneNames[23] = Rear
+        TrackBoneNames[24] = mouth_MID_L
+        TrackBoneNames[25] = Reye_sideDWN
+        TrackBoneNames[26] = cheekUp_L
+        TrackBoneNames[27] = cheekUp_R
+        TrackBoneNames[28] = mouth_MID_R
+        TrackBoneNames[29] = Reye_UP
+        TrackBoneNames[30] = Reye_DWN
+        TrackBoneNames[31] = Leye_UP
+        TrackBoneNames[32] = Leye_DWN
+        TrackBoneNames[33] = Reyebrows_OUT
+        TrackBoneNames[34] = Reyebrows_IN
+        TrackBoneNames[35] = Leyebrows_IN
+        TrackBoneNames[36] = Leyebrows_OUT
+        TrackBoneNames[37] = Reye_sideUP
+        TrackBoneNames[38] = Reye_IN
+        TrackBoneNames[39] = Leye_IN
+        TrackBoneNames[40] = Leye_sideUP
+        TrackBoneNames[41] = Reye
+        TrackBoneNames[42] = Leye
+        TrackBoneNames[43] = Leye_sideDWN
+    }
+    Sequences[0] = {}
+    UseTranslationBoneNames[0] = {}
+    ForceMeshTranslationBoneNames[0] = {}
+    PreviewSkelMeshName = 00014424.Face_0001
+    BulkDataBlocks[0] = {}
+    KeyFrameSize = 0
+    RotationChannels = 0
+    TranslationChannels = 0
+    m_pBioAnimSetData = None

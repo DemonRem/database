@@ -1,0 +1,353 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00051219.upk Ver: 573/1 Engine: 4205 Names: 231 Exports: 631 Imports: 57 Game: 801A
+Loading Material3 Basic_Effect_HaeTaeArm from package 00051219.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 Basic_FX from package 00051219.upk
+Loading MaterialInstanceConstant col1 from package 00051219.upk
+Loading package: 00050227.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading Texture2D Tex_mix02 from package 00051219.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Noise_009 from package 00012963.upk
+Loading Texture2D Gradient_Line_001_YClamp from package 00012963.upk
+Loading Texture2D Noise_002 from package 00012963.upk
+Loading Texture2D Gradient_Half_000 from package 00012963.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_N from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_M from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_E from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_D from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_S from package 00050227.upk
+Loading TextureCube MatelR1 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.19 sec, 3120 allocs, 3.83 MBytes serialized in 197371 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_Effect_HaeTaeArm
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_FX
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[10] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'Noise_009'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_001_YClamp'
+        ReferencedTextures[3] = Texture2D'check'
+        ReferencedTextures[4] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[5] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[6] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[7] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[8] = Texture2D'Noise_002'
+        ReferencedTextures[9] = Texture2D'Gradient_Half_000'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=FX_Emissive_V, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=FX_Emissive_U, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Glossiness1, ParameterValue=7 }
+        ScalarParameterValues[4] = { ParameterName=Glossiness2, ParameterValue=80 }
+        ScalarParameterValues[5] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_Value, ParameterValue=3 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value2, ParameterValue=5 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=Fresnel exponent, ParameterValue=60 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] =
+        {
+            ParameterName = Normal
+            ParameterValue = Texture2D'Monster_Etc_AncientHaeTaeWing_col1_N'
+        }
+        TextureParameterValues[1] =
+        {
+            ParameterName = Mask_GB
+            ParameterValue = Texture2D'Monster_Etc_AncientHaeTaeWing_col1_M'
+        }
+        TextureParameterValues[2] =
+        {
+            ParameterName = Emissive
+            ParameterValue = Texture2D'Monster_Etc_AncientHaeTaeWing_col1_E'
+        }
+        TextureParameterValues[3] =
+        {
+            ParameterName = Diffuse
+            ParameterValue = Texture2D'Monster_Etc_AncientHaeTaeWing_col1_D'
+        }
+        TextureParameterValues[4] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Tex_mix02' }
+        TextureParameterValues[5] =
+        {
+            ParameterName = Specular
+            ParameterValue = Texture2D'Monster_Etc_AncientHaeTaeWing_col1_S'
+        }
+        TextureParameterValues[6] = { ParameterName=rf_cube, ParameterValue=TextureCube'MatelR1' }
+        TextureParameterValues[7] = { ParameterName=FX_Mask, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[37] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = TexChange
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = FX_TexChange_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.63878, G=0.275833, B=0.032876, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = FX_Emissive_position
+            ParameterValue = { R=0, G=0.5, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Tex_Emissive_switch
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[15] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[16] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[17] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[18] =
+        {
+            ParameterName = Fx_Glow_power_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[19] =
+        {
+            ParameterName = Glow_Trangition_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[20] =
+        {
+            ParameterName = Fx_Glow_color_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[21] =
+        {
+            ParameterName = Fx_Glow_power_G
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[22] =
+        {
+            ParameterName = Glow_Trangition_G
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[23] =
+        {
+            ParameterName = Fx_Glow_color_G
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[24] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[25] =
+        {
+            ParameterName = Fx_Glow_color_Acc
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[26] =
+        {
+            ParameterName = Fx_Glow_power_Acc
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[27] =
+        {
+            ParameterName = Tex_Mask_ACCswitch
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[28] =
+        {
+            ParameterName = FX_Mask_Accposition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[29] =
+        {
+            ParameterName = Fx_Glow_color2_Acc
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[30] =
+        {
+            ParameterName = Emissive_value3
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[31] =
+        {
+            ParameterName = Tex_Emissive_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[32] =
+        {
+            ParameterName = Fx_Emissive_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[33] =
+        {
+            ParameterName = Glow_Trangition_Acc
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[34] =
+        {
+            ParameterName = Acc_Alpha
+            ParameterValue = { R=0, G=-1, B=0, A=1 }
+        }
+        VectorParameterValues[35] =
+        {
+            ParameterName = Acc_Color01
+            ParameterValue = { R=1, G=0.151058, B=0, A=1 }
+        }
+        VectorParameterValues[36] =
+        {
+            ParameterName = ACC_power
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_Effect_HaeTaeArm'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Tex_mix02
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

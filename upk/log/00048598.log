@@ -1,0 +1,203 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00048598.upk Ver: 573/1 Engine: 4205 Names: 115 Exports: 2 Imports: 28 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00048598.upk
+Loading package: 00048599.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00048421.upk Ver: 573/1 Engine: 4205 Names: 212 Exports: 297 Imports: 57 Game: 801A
+Loading MaterialInstanceConstant col2 from package 00048598.upk
+Loading Texture2D 10128_GonF_col1_N from package 00048599.upk
+Loading Texture2D 10128_GonF_col1_M from package 00048599.upk
+Loading Texture2D 10128_GonF_col1_D from package 00048599.upk
+Loading Texture2D 10128_GonF_col1_S from package 00048599.upk
+Loading TextureCube MatelR1 from package 00002640.upk
+Loading Texture2D 10128_GonF_col1_Em from package 00048599.upk
+Loading Texture2D Rose_JinF_col1_FX from package 00048421.upk
+Loading Material3 Body_Rose_Fx from package 00048421.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D cube_cst_all from package 00002640.upk
+Loading Material3 Blend_OP_Rose_Fx from package 00048421.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D FX_Fatman_Invincible_PC_N from package 00012850.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loaded in 0.31 sec, 5151 allocs, 7.24 MBytes serialized in 771712 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[16] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=80 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=30 }
+        ScalarParameterValues[4] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=Skin_Spec_value, ParameterValue=5 }
+        ScalarParameterValues[6] = { ParameterName=Specular_value, ParameterValue=3 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_Value, ParameterValue=30 }
+        ScalarParameterValues[8] = { ParameterName=HighLight_glossiness, ParameterValue=40 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value, ParameterValue=0.5 }
+        ScalarParameterValues[10] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=panner_time, ParameterValue=0 }
+        ScalarParameterValues[12] = { ParameterName=HighLight_Value_FX, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=HighLight_glossiness_FX, ParameterValue=5 }
+        ScalarParameterValues[14] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[15] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+    }
+    TextureParameterValues[7] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'10128_GonF_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'10128_GonF_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'10128_GonF_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'10128_GonF_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'MatelR1' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'10128_GonF_col1_Em' }
+        TextureParameterValues[6] = { ParameterName=FX_Tex, ParameterValue=Texture2D'Rose_JinF_col1_FX' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.605484, G=0.394083, B=0.329729, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.306635, G=0.254916, B=0.306635, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Rose_Fx_power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Rose_Fx_color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Body_Rose_Fx'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col2
+
+    ScalarParameterValues[6] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Opacity, ParameterValue=2.5 }
+        ScalarParameterValues[1] = { ParameterName=Fresnel_Exp, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=0.03 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=0.01 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value_FX, ParameterValue=0.2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness_FX, ParameterValue=20 }
+    }
+    TextureParameterValues[5] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'10128_GonF_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'10128_GonF_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Specular, ParameterValue=Texture2D'10128_GonF_col1_S' }
+        TextureParameterValues[3] = { ParameterName=Lens_spec_cube, ParameterValue=Texture2D'cube_cst_all' }
+        TextureParameterValues[4] = { ParameterName=FX_Tex, ParameterValue=Texture2D'Rose_JinF_col1_FX' }
+    }
+    VectorParameterValues[5] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Rose_Fx_power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Rose_Fx_color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+    }
+    Parent = Material3'Blend_OP_Rose_Fx'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

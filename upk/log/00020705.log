@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00020705.upk Ver: 573/1 Engine: 4205 Names: 1072 Exports: 2517 Imports: 187 Game: 801A
+Loading Texture2D Game_DuelScene_Preview from package 00020705.upk
+Loaded in 0.012 sec, 1095 allocs, 0.24 MBytes serialized in 49920 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_DuelScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

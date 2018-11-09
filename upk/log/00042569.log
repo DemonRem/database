@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00042569.upk Ver: 573/1 Engine: 4205 Names: 22 Exports: 2 Imports: 4 Game: 801A
+Loading Texture2D Pet_Juria_col1_D from package 00042569.upk
+Loaded in 0.017 sec, 75 allocs, 0.63 MBytes serialized in 385 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Pet_Juria_col1_D
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

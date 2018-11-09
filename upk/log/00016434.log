@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00016434.upk Ver: 573/1 Engine: 4205 Names: 651 Exports: 2834 Imports: 107 Game: 801A
+Loading Texture2D Game_PartySerchNotificationScene_Preview from package 00016434.upk
+Loading Texture2D Game_PartySerchScene_Preview from package 00016434.upk
+Loaded in 0.009 sec, 679 allocs, 0.25 MBytes serialized in 53863 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_PartySerchNotificationScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_PartySerchScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

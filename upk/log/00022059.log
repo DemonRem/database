@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00022059.upk Ver: 573/1 Engine: 4205 Names: 761 Exports: 2103 Imports: 152 Game: 801A
+Loading Texture2D ArenaLobby_Dungeon_Preview from package 00022059.upk
+Loaded in 0.008 sec, 784 allocs, 0.19 MBytes serialized in 41290 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: ArenaLobby_Dungeon_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

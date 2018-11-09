@@ -1,0 +1,45 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00027646.upk Ver: 573/1 Engine: 4205 Names: 124 Exports: 18 Imports: 16 Game: 801A
+Loading AnimSet Item_0052_Anim from package 00027646.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_53 from package 00027646.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading SkeletalMesh3 Item_0052 from package 00027646.upk
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+Loading package: 00027645.upk Ver: 573/1 Engine: 4205 Names: 90 Exports: 1 Imports: 20 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00027645.upk
+Loading package: 00027647.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D Item_0052_N from package 00027647.upk
+Loading Texture2D Item_0052_M from package 00027647.upk
+Loading Texture2D Item_0052_D from package 00027647.upk
+Loading Texture2D Item_0052_S from package 00027647.upk
+Loading TextureCube cube_cst from package 00002640.upk
+Loading Texture2D Item_0052_E from package 00027647.upk
+Loading Material3 Basic from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00027646
+******** 00027646 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:Item_0052_Anim <- UObject::EndLoad <- LoadWholePackage:00027646 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

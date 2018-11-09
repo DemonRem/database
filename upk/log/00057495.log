@@ -1,0 +1,471 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00057495.upk Ver: 573/1 Engine: 4205 Names: 706 Exports: 2629 Imports: 208 Game: 801A
+Loading Material3 Glitch_heart_001 from package 00057495.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Loading Material3 Glitch_heart_002 from package 00057495.upk
+Loading Material3 Glitch_Master_Mat from package 00057495.upk
+Loading Material3 Light_basic from package 00057495.upk
+Loading Material3 pixel_002 from package 00057495.upk
+Loading Material3 Premium_pixel_holo_001_MAT from package 00057495.upk
+Loading Material3 Premium_pixel_holo_002_MAT from package 00057495.upk
+Loading Material3 Premium_pixel_holo_003_SMAT from package 00057495.upk
+Loading MaterialInstanceConstant Glitch_02 from package 00057495.upk
+Loading MaterialInstanceConstant Glitch_03 from package 00057495.upk
+Loading SkeletalMesh3 10183_JinF from package 00057495.upk
+WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
+WARNING: FloatProperty "USkeletalMesh3::EffectScale" was not found
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+WARNING: FloatProperty "USkeletalMesh3::AddFootOffsetValue" was not found
+WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
+WARNING: ArrayProperty "USkeletalMesh3::NameplateMeshScaleRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::NameplateHeightRatio" was not found
+WARNING: ArrayProperty "USkeletalMesh3::MeshScaleRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::HeightRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::HandRatio" was not found
+WARNING: ByteProperty "USkeletalMesh3::CommonPhysicsUseFlag" was not found
+Loading package: 00057497.upk Ver: 573/1 Engine: 4205 Names: 220 Exports: 4 Imports: 27 Game: 801A
+Loading StaticMesh3 Hexgrid_holo from package 00057495.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 Light_SM from package 00057495.upk
+Loading Texture2D holo_tex_01 from package 00057495.upk
+Loading Texture2D holo_tex_02 from package 00057495.upk
+Loading Texture2D holo_tex_03 from package 00057495.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading Texture2D Glitch_TEX_01 from package 00032237.upk
+Loading Texture2D AncientMechaScorpion_Naryu_pattern from package 00012963.upk
+Loading Texture2D T_heart_line from package 00037213.upk
+Loading Texture2D BG_FX_GeneralCircle_Logo_001_Blur from package 00012963.upk
+Loading Texture2D Glitch_TEX_02 from package 00032237.upk
+Loading Texture2D T_heart_nomal002 from package 00037213.upk
+Loading Texture2D cloud_Wide_Tex from package 00012963.upk
+Loading Texture2D Noise_013 from package 00012963.upk
+Loading Texture2D SystemDecal_Square_Line from package 00012963.upk
+Loading Texture2D Gradient_Beam_005 from package 00012963.upk
+Loading Texture2D Sparkle_005 from package 00012963.upk
+Loading MaterialInstanceConstant col1 from package 00057497.upk
+Loading package: 00057496.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00025178.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 46 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading MaterialInstanceConstant col2 from package 00057497.upk
+Loading package: 00048421.upk Ver: 573/1 Engine: 4205 Names: 212 Exports: 297 Imports: 57 Game: 801A
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D 10183_JinF_col1_N from package 00057496.upk
+Loading Texture2D 10183_JinF_col1_S from package 00057496.upk
+Loading Texture2D 10183_JinF_col1_M from package 00057496.upk
+Loading Texture2D 10183_JinF_col1_D from package 00057496.upk
+Loading Texture2D Mask_Default from package 00025178.upk
+Loading Texture2D FX_Glow_Trangition from package 00012963.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D fxr from package 00057496.upk
+Loading Material3 Custom_B from package 00048300.upk
+Loading Texture2D cube_c_DN from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Material3 Blend_OP_Rose_Fx from package 00048421.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loaded in 0.5 sec, 9237 allocs, 10.71 MBytes serialized in 1820252 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Glitch_heart_001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[1] = Texture2D'Glitch_TEX_01'
+        ReferencedTextures[2] = Texture2D'AncientMechaScorpion_Naryu_pattern'
+        ReferencedTextures[3] = Texture2D'T_heart_line'
+        ReferencedTextures[4] = Texture2D'BG_FX_GeneralCircle_Logo_001_Blur'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Glitch_heart_002
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[1] = Texture2D'Glitch_TEX_01'
+        ReferencedTextures[2] = Texture2D'AncientMechaScorpion_Naryu_pattern'
+        ReferencedTextures[3] = Texture2D'Glitch_TEX_02'
+        ReferencedTextures[4] = Texture2D'T_heart_nomal002'
+        ReferencedTextures[5] = Texture2D'BG_FX_GeneralCircle_Logo_001_Blur'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Glitch_Master_Mat
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[1] = Texture2D'Glitch_TEX_01'
+        ReferencedTextures[2] = Texture2D'AncientMechaScorpion_Naryu_pattern'
+        ReferencedTextures[3] = Texture2D'Glitch_TEX_02'
+        ReferencedTextures[4] = Texture2D'holo_tex_01'
+        ReferencedTextures[5] = Texture2D'BG_FX_GeneralCircle_Logo_001_Blur'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Light_basic
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'cloud_Wide_Tex' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: pixel_002
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_013'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Square_Line'
+        ReferencedTextures[2] = Texture2D'Gradient_Beam_005'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Premium_pixel_holo_001_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_013'
+        ReferencedTextures[1] = Texture2D'SystemDecal_Square_Line'
+        ReferencedTextures[2] = Texture2D'Gradient_Beam_005'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Premium_pixel_holo_002_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Noise_013', Texture2D'SystemDecal_Square_Line' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Premium_pixel_holo_003_SMAT
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Noise_013', Texture2D'Sparkle_005', Texture2D'Gradient_Beam_005' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Glitch_02
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=Texture, ParameterValue=Texture2D'holo_tex_02' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Glitch_Master_Mat'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Glitch_03
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=Texture, ParameterValue=Texture2D'holo_tex_03' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Glitch_Master_Mat'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 10183_JinF
+
+    LODInfo[2] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[2] = { true, true }
+        }
+        LODInfo[1] =
+        {
+            DisplayFactor = 0.25
+            LODHysteresis = 0.02
+            LODMaterialMap[1] = { 0 }
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[0] = {}
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[2] = { MaterialInstanceConstant'col1', MaterialInstanceConstant'col2' }
+
+
+    Lods[2] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=6414 }
+                Sections[1] = { Material=MaterialInstanceConstant'col2', FirstIndex=19242, NumFaces=1555 }
+            }
+            NumVerts = 5770
+            IndexCount = 23907
+            NumTexCoords = 1
+        }
+        Lods[1] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=3305 }
+            }
+            NumVerts = 2684
+            IndexCount = 9915
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 2
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 87
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Hexgrid_holo
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.3022, Y=0, Z=0.999149 }
+        BoxExtent = { X=36.9096, Y=0, Z=40.537 }
+        SphereRadius = 54.6679
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=11440 }
+            }
+            NumVerts = 34320
+            IndexCount = 34320
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Light_SM
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=-30.4863 }
+        BoxExtent = { X=15, Y=15, Z=30 }
+        SphereRadius = 33.541
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=144 }
+            }
+            NumVerts = 200
+            IndexCount = 432
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: Texture2D ObjectName: holo_tex_01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: holo_tex_02
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: holo_tex_03
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

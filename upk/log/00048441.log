@@ -1,0 +1,324 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00048441.upk Ver: 573/1 Engine: 4205 Names: 403 Exports: 691 Imports: 153 Game: 801A
+Loading MaterialInstanceConstant Sword_Deco_INST from package 00048441.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00039551.upk Ver: 573/1 Engine: 4205 Names: 524 Exports: 1255 Imports: 196 Game: 801A
+Loading SkeletalMesh3 060240_AutoScale from package 00048441.upk
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
+Loading package: 00048443.upk Ver: 573/1 Engine: 4205 Names: 105 Exports: 1 Imports: 27 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_338 from package 00048441.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_342 from package 00048441.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_373 from package 00048441.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading StaticMesh3 060240_MeshDeco01 from package 00048441.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 060240_MeshDeco02 from package 00048441.upk
+Loading StaticMesh3 060240_meshdeco03 from package 00048441.upk
+Loading Texture2D 060240_FX_MASK from package 00048441.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Unique_Stone_001 from package 00012963.upk
+Loading Material3 Weapon_Deco_Parent from package 00039551.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00048443.upk
+Loading package: 00048442.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00048435.upk Ver: 573/1 Engine: 4205 Names: 185 Exports: 181 Imports: 53 Game: 801A
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D Noise_006 from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D Gradient_Line_R from package 00012963.upk
+Loading Texture2D Ref_Cool from package 00012963.upk
+Loading Texture2D Noise_013 from package 00012963.upk
+Loading Texture2D 060240_Autoscale_col1_N from package 00048442.upk
+Loading Texture2D 060240_Autoscale_col1_M from package 00048442.upk
+Loading Texture2D 060240_Autoscale_col1_D from package 00048442.upk
+Loading Texture2D 060240_Autoscale_col1_S from package 00048442.upk
+Loading TextureCube lenscube from package 00002640.upk
+Loading Texture2D 060240_Autoscale_col1_E from package 00048442.upk
+Loading Material3 Basic_FX_010333 from package 00048435.upk
+Loading package: 00048433.upk Ver: 573/1 Engine: 4205 Names: 462 Exports: 638 Imports: 159 Game: 801A
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D 010333_Fx_mask from package 00048433.upk
+Loading Texture2D BGFX_Dots from package 00023713.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.3 sec, 6029 allocs, 2.52 MBytes serialized in 461256 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Sword_Deco_INST
+
+    ScalarParameterValues[1] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Change, ParameterValue=1 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Txture_B, ParameterValue=Texture2D'060240_FX_MASK' }
+        TextureParameterValues[1] = { ParameterName=sample2, ParameterValue=Texture2D'Smoke_Pattern_001' }
+        TextureParameterValues[2] = { ParameterName=Sample1, ParameterValue=Texture2D'Unique_Stone_001' }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Tex_RGB
+            ParameterValue = { R=10, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Power
+            ParameterValue = { R=5, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = dissolve_line_color
+            ParameterValue = { R=0.6, G=0.2, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fx_Glow_power_L
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Glow_Trangition_L
+            ParameterValue = { R=6, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fx_Glow_color_L
+            ParameterValue = { R=6, G=2, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Color2
+            ParameterValue = { R=1.1, G=0.7, B=0.165, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=1.5, G=1, B=0.5, A=1 }
+        }
+    }
+    Parent = Material3'Weapon_Deco_Parent'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 060240_AutoScale
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[3] =
+    {
+        Sockets[0] = SkeletalMeshSocket'060240_AutoScale.SkeletalMeshSocket_338'
+        Sockets[1] = SkeletalMeshSocket'060240_AutoScale.SkeletalMeshSocket_342'
+        Sockets[2] = SkeletalMeshSocket'060240_AutoScale.SkeletalMeshSocket_373'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=2373 }
+            }
+            NumVerts = 1986
+            IndexCount = 7119
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 6
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_338
+
+    SocketName = FX_Add
+    BoneName = WeaponRoot
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_342
+
+    SocketName = FX_Add_Trail
+    BoneName = WeaponRoot
+    RelativeLocation = { X=0, Y=0, Z=-30 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_373
+
+    SocketName = Fx_Add2
+    BoneName = WeaponRoot
+    RelativeLocation = { X=0, Y=0, Z=-3.5 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 060240_MeshDeco01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=4.0415 }
+        BoxExtent = { X=2.5791, Y=2.922, Z=34.8568 }
+        SphereRadius = 34.8568
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=940 }
+            }
+            NumVerts = 1722
+            IndexCount = 2820
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 060240_MeshDeco02
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=5.23075 }
+        BoxExtent = { X=1.0383, Y=1.0383, Z=27.5272 }
+        SphereRadius = 27.5311
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=208 }
+            }
+            NumVerts = 348
+            IndexCount = 624
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 060240_meshdeco03
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.2877, Y=0.10495, Z=26.9431 }
+        BoxExtent = { X=3.528, Y=6.39625, Z=20.2304 }
+        SphereRadius = 20.4086
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=563 }
+            }
+            NumVerts = 902
+            IndexCount = 1689
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 060240_FX_MASK
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

@@ -1,0 +1,64 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00053114.upk Ver: 573/1 Engine: 4205 Names: 221 Exports: 24 Imports: 19 Game: 801A
+Loading AnimSet Foxgirl_Animset from package 00053114.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_3 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_12 from package 00053114.upk
+Loading AnimNotify_Sound AnimNotify_Sound_13 from package 00053114.upk
+Loading AnimNotify_Sound AnimNotify_Sound_14 from package 00053114.upk
+Loading AnimSequence AnimSequence_4 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_15 from package 00053114.upk
+Loading AnimNotify_Sound AnimNotify_Sound_16 from package 00053114.upk
+Loading AnimNotify_Sound AnimNotify_Sound_17 from package 00053114.upk
+Loading AnimNotify_Sound AnimNotify_Sound_18 from package 00053114.upk
+Loading AnimSequence AnimSequence_8 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_19 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimSequence AnimSequence_9 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_20 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_22 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_23 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_24 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimNotify_Sound AnimNotify_Sound_25 from package 00053114.upk
+WARNING: IntProperty "UAnimNotify_Sound::RandomSkipPercent" was not found
+Loading AnimSequence AnimSequence_0 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_5 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_6 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_7 from package 00053114.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00053114
+******** 00053114 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:Foxgirl_Animset <- UObject::EndLoad <- LoadWholePackage:00053114 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

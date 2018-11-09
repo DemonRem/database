@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00008005.upk Ver: 573/1 Engine: 4205 Names: 386 Exports: 872 Imports: 66 Game: 801A
+Loading Texture2D Game_BattleScene_Preview from package 00008005.upk
+Loading Texture2D Game_HUDHigh_Preview from package 00008005.upk
+Loaded in 0.002 sec, 414 allocs, 0.09 MBytes serialized in 17465 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_BattleScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_HUDHigh_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

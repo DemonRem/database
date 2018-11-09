@@ -1,0 +1,24 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00002722.upk Ver: 573/1 Engine: 4205 Names: 48 Exports: 6 Imports: 6 Game: 801A
+Loading Material3 col1 from package 00002722.upk
+check for DefaultTexture in 00002722
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loaded in 0.005 sec, 70 allocs, 0.00 MBytes serialized in 417 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: col1
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[1] = { None }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

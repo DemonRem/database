@@ -1,0 +1,77 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00035689.upk Ver: 573/1 Engine: 4205 Names: 220 Exports: 59 Imports: 19 Game: 801A
+Loading AnimSet 090095_JinM_Animset from package 00035689.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::DynamicFixedBones" was not found
+Loading AnimSequence AnimSequence_0 from package 00035689.upk
+WARNING: BoolProperty "UAnimSequence::bUseDynamicFixedBone" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00035689.upk
+WARNING: BoolProperty "UAnimSequence::bUseDynamicFixedBone" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading SkeletalMesh3 090095_JinM from package 00035689.upk
+WARNING: BoolProperty "USkeletalMesh3::bUseAutoAnimset" was not found
+Loading package: 00035693.upk Ver: 573/1 Engine: 4205 Names: 97 Exports: 1 Imports: 18 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_1144 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1145 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1146 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1147 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1148 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1149 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1150 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1151 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1152 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1153 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1154 from package 00035689.upk
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1155 from package 00035689.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_1156 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1157 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1158 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1159 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1160 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1161 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1162 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1163 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1164 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1165 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1166 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1167 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1168 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1169 from package 00035689.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1170 from package 00035689.upk
+Loading MaterialInstanceConstant col1 from package 00035693.upk
+Loading package: 00035687.upk Ver: 573/1 Engine: 4205 Names: 30 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D 090095_JinM_col1_N from package 00035687.upk
+Loading Texture2D 090095_JinM_col1_M from package 00035687.upk
+Loading Texture2D 090095_JinM_col1_D from package 00035687.upk
+Loading Texture2D 090095_JinM_col1_S from package 00035687.upk
+Loading Texture2D check from package 00002620.upk
+Loading Material3 Basic from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00035689
+******** 00035689 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:090095_JinM_Animset <- UObject::EndLoad <- LoadWholePackage:00035689 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

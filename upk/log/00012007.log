@@ -1,0 +1,135 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00012007.upk Ver: 573/1 Engine: 4205 Names: 104 Exports: 2 Imports: 28 Game: 801A
+Loading MaterialInstanceConstant Basic_Bead_FX from package 00012007.upk
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00012006.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00012007.upk
+Loading TextureCube mirror2 from package 00002640.upk
+Loading Texture2D Monster_Etc_Tumor_col1_S from package 00012006.upk
+Loading Texture2D Nothing_A_n from package 00008613.upk
+Loading Texture2D Monster_Etc_Tumor_col1_M from package 00012006.upk
+Loading Texture2D Nothing_A from package 00008613.upk
+Loading TextureCube Lens_s from package 00002640.upk
+Loading Material3 Blend_Bead from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D Monster_Etc_Tumor_col1_N from package 00012006.upk
+Loading Texture2D Monster_Etc_Tumor_col1_D from package 00012006.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D E from package 00012006.upk
+Loading Material3 Basic from package 00002620.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading TextureCube eye_s from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.36 sec, 3599 allocs, 1.44 MBytes serialized in 188575 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Basic_Bead_FX
+
+    ScalarParameterValues[9] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Reflection_Fresnel exponent, ParameterValue=2.5 }
+        ScalarParameterValues[1] = { ParameterName=Specular_value, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=HighLight_Value, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Reflection_OUT_value, ParameterValue=20 }
+        ScalarParameterValues[4] = { ParameterName=Reflection_IN_value, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Refracion, ParameterValue=-1 }
+        ScalarParameterValues[6] = { ParameterName=Diffuse_IN_value, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=Diffuse_Fresnel exponent, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Specular_Fresnel exponent, ParameterValue=0.05 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=rf_cube, ParameterValue=TextureCube'mirror2' }
+        TextureParameterValues[1] = { ParameterName=Specular, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_S' }
+        TextureParameterValues[2] = { ParameterName=Normal, ParameterValue=Texture2D'Nothing_A_n' }
+        TextureParameterValues[3] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_M' }
+        TextureParameterValues[4] = { ParameterName=Diffuse, ParameterValue=Texture2D'Nothing_A' }
+        TextureParameterValues[5] = { ParameterName=HighLight_cube, ParameterValue=TextureCube'Lens_s' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Blend_Bead'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[6] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Glossiness1, ParameterValue=2 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness2, ParameterValue=20 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[3] = { ParameterName=HighLight_Value, ParameterValue=1.1 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_glossiness, ParameterValue=200 }
+        ScalarParameterValues[5] = { ParameterName=Emissive_value, ParameterValue=2 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Monster_Etc_Tumor_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'cube_orb' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'E' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.891262, G=0.74453, B=0.344026, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

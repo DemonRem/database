@@ -1,0 +1,338 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00042016.upk Ver: 573/1 Engine: 4205 Names: 164 Exports: 3 Imports: 41 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00042016.upk
+Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
+Loading package: 00008486.upk Ver: 573/1 Engine: 4205 Names: 61 Exports: 34 Imports: 2 Game: 801A
+Loading package: 00008484.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00004047.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 12 Imports: 2 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1_Body from package 00042016.upk
+Loading package: 00022727.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 10 Imports: 4 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading MaterialInstanceConstant col1_hair from package 00042016.upk
+Loading package: 00022730.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 2 Imports: 2 Game: 801A
+Loading Texture2D Nothing_A from package 00008613.upk
+Loading Texture2D LynM_face_BrowBeard1 from package 00008486.upk
+Loading Texture2D LynM_face_oldMask from package 00008484.upk
+Loading Texture2D Nothing_A_n from package 00008613.upk
+Loading Texture2D LynM_face_n from package 00004047.upk
+Loading Texture2D LynM_face_BrowBeard4 from package 00008486.upk
+Loading Texture2D LynF_face_d2 from package 00004047.upk
+Loading Texture2D LynM_face_M from package 00004047.upk
+Loading Texture2D LynM_face_s from package 00004047.upk
+Loading Material3 Face-LynM from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+check for DefaultTexture in 00042016
+check for DefaultTexture in 00008613
+check for DefaultTexture in 00008486
+check for DefaultTexture in 00008484
+check for DefaultTexture in 00004047
+check for DefaultTexture in 00002620
+check for DefaultTexture in 00022727
+check for DefaultTexture in 00002640
+check for DefaultTexture in 00022730
+check for DefaultTexture in 00012963
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loading Texture2D Cloth_0001_col1_N from package 00022727.upk
+Loading Texture2D Cloth_0001_col1_M from package 00022727.upk
+Loading Texture2D Cloth_0001_col1_D from package 00022727.upk
+Loading Texture2D Cloth_0001_col1_S from package 00022727.upk
+Loading TextureCube lenscube_c from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Material3 Body from package 00002620.upk
+Loading Texture2D Hair_0001_col1_n from package 00022730.upk
+Loading Texture2D Hair_0001_col1_D from package 00022730.upk
+Loading TextureCube ring from package 00002640.upk
+Loading Material3 Beard_Ring from package 00002620.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.4 sec, 3698 allocs, 2.69 MBytes serialized in 191044 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[20] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Decal_Up?r(0~1), ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=old4, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=old3, ParameterValue=0 }
+        ScalarParameterValues[3] = { ParameterName=old2, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=old1, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=EyeLine, ParameterValue=0 }
+        ScalarParameterValues[6] = { ParameterName=EyeLine_glossiness, ParameterValue=0 }
+        ScalarParameterValues[7] = { ParameterName=EyeShadow, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=EyeShadow_glossiness, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Lip, ParameterValue=0.3 }
+        ScalarParameterValues[10] = { ParameterName=Lip_Glossiness, ParameterValue=50 }
+        ScalarParameterValues[11] = { ParameterName=Skin_glossiness2, ParameterValue=50 }
+        ScalarParameterValues[12] = { ParameterName=Skin_glossiness1, ParameterValue=3 }
+        ScalarParameterValues[13] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Decal_OriginalColor(0~1), ParameterValue=0 }
+        ScalarParameterValues[15] = { ParameterName=Blusher, ParameterValue=0 }
+        ScalarParameterValues[16] = { ParameterName=SkinEffect_at_Lip, ParameterValue=0.3 }
+        ScalarParameterValues[17] = { ParameterName=Lip_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[18] = { ParameterName=eyebrow_OnOff(0~1), ParameterValue=1 }
+        ScalarParameterValues[19] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[11] =
+    {
+        TextureParameterValues[0] = { ParameterName=Decal_Diffuse, ParameterValue=Texture2D'Nothing_A' }
+        TextureParameterValues[1] = { ParameterName=eyebrow_mask, ParameterValue=Texture2D'LynM_face_BrowBeard1' }
+        TextureParameterValues[2] = { ParameterName=old_Mask, ParameterValue=Texture2D'LynM_face_oldMask' }
+        TextureParameterValues[3] = { ParameterName=old_Normal, ParameterValue=Texture2D'Nothing_A_n' }
+        TextureParameterValues[4] = { ParameterName=Face_Normal, ParameterValue=Texture2D'LynM_face_n' }
+        TextureParameterValues[5] = { ParameterName=Decal_Normal, ParameterValue=Texture2D'Nothing_A_n' }
+        TextureParameterValues[6] = { ParameterName=Beard_mask, ParameterValue=Texture2D'LynM_face_BrowBeard4' }
+        TextureParameterValues[7] = { ParameterName=Face_Diffuse, ParameterValue=Texture2D'LynF_face_d2' }
+        TextureParameterValues[8] = { ParameterName=makeup_mask, ParameterValue=Texture2D'Nothing_A' }
+        TextureParameterValues[9] = { ParameterName=Face_Mask, ParameterValue=Texture2D'LynM_face_M' }
+        TextureParameterValues[10] = { ParameterName=Face_Specular, ParameterValue=Texture2D'LynM_face_s' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = EyeLine_Specular
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = EyeShadow_Specular
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Lip_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = eyebrow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = EyeLine_Diffuse
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = EyeShadow_Diffuse
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Blusher_Diffuse
+            ParameterValue = { R=0.378676, G=0.005522, B=0.000107, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Lip_color
+            ParameterValue = { R=1, G=0.21952, B=0.21952, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = old_color
+            ParameterValue = { R=0.2, G=0.02, B=0.03, A=1 }
+        }
+    }
+    Parent = Material3'Face-LynM'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_Body
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=80 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=5 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=35 }
+        ScalarParameterValues[4] = { ParameterName=Skin_Spec_value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel Value, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Fresnel exponent, ParameterValue=2 }
+        ScalarParameterValues[11] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Cloth_0001_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Cloth_0001_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Cloth_0001_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Cloth_0001_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_c' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[10] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.20836, G=0.20836, B=0.20836, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Body'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_hair
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Hair_Glossiness, ParameterValue=4 }
+        ScalarParameterValues[1] = { ParameterName=high_Specular, ParameterValue=0.2 }
+        ScalarParameterValues[2] = { ParameterName=SpecularRing, ParameterValue=1.6 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Hair_normal, ParameterValue=Texture2D'Hair_0001_col1_n' }
+        TextureParameterValues[1] = { ParameterName=Hair_Diffuse, ParameterValue=Texture2D'Hair_0001_col1_D' }
+        TextureParameterValues[2] = { ParameterName=hair_SpecularRing, ParameterValue=TextureCube'ring' }
+        TextureParameterValues[3] = { ParameterName=None, ParameterValue=TextureCube'ring' }
+    }
+    VectorParameterValues[6] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = hair_color_S
+            ParameterValue = { R=0.529523, G=0.511398, B=0.47044, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = hair_color_L
+            ParameterValue = { R=0.058187, G=0.084642, B=0.121986, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = hair_color_D
+            ParameterValue = { R=0.00456, G=0.005522, B=0.010398, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Beard_Ring'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00015989.upk Ver: 573/1 Engine: 4205 Names: 421 Exports: 691 Imports: 98 Game: 801A
+Loading Texture2D Photo_Album_Scene_Preview from package 00015989.upk
+Loaded in 0.003 sec, 444 allocs, 0.07 MBytes serialized in 14476 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Photo_Album_Scene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

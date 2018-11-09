@@ -1,0 +1,128 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00041160.upk Ver: 573/1 Engine: 4205 Names: 43 Exports: 1 Imports: 7 Game: 801A
+Loading SkeletalMesh3 JinTaePyeongFace from package 00041160.upk
+Loading package: 00041159.upk Ver: 573/1 Engine: 4205 Names: 149 Exports: 5 Imports: 42 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00041159.upk
+Loading package: 00002665.upk Ver: 573/1 Engine: 4205 Names: 55 Exports: 27 Imports: 2 Game: 801A
+Loading package: 00008619.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00008621.upk Ver: 573/1 Engine: 4205 Names: 45 Exports: 16 Imports: 2 Game: 801A
+Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
+Loading package: 00008618.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant eye from package 00041159.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00007428.upk Ver: 573/1 Engine: 4205 Names: 130 Exports: 48 Imports: 19 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading MaterialInstanceConstant Beard from package 00041159.upk
+Loading MaterialInstanceConstant col1_hair from package 00041159.upk
+Loading package: 00024245.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 2 Imports: 2 Game: 801A
+Loading Texture2D normal_003 from package 00002665.upk
+Loading Texture2D old_n02 from package 00008619.upk
+Loading Texture2D old_Mask from package 00008619.upk
+Loading Texture2D JinM_borw07 from package 00008621.upk
+Loading Texture2D Nothing_A from package 00008613.upk
+Loading Texture2D Nothing_A_n from package 00008613.upk
+Loading Texture2D JinM_Makeup_M02 from package 00008618.upk
+Loading Texture2D diffuse_003 from package 00002665.upk
+Loading Texture2D Specular from package 00002665.upk
+Loading Texture2D Mask from package 00002665.upk
+Loading Material3 Face-M from package 00002620.upk
+check for DefaultTexture in 00041160
+check for DefaultTexture in 00041159
+check for DefaultTexture in 00002665
+check for DefaultTexture in 00008619
+check for DefaultTexture in 00008621
+check for DefaultTexture in 00008613
+check for DefaultTexture in 00008618
+check for DefaultTexture in 00002620
+check for DefaultTexture in 00012963
+check for DefaultTexture in 00007428
+check for DefaultTexture in 00002640
+check for DefaultTexture in 00024245
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D eye0_JinM00 from package 00007428.upk
+Loading Texture2D eye0_N from package 00007428.upk
+Loading TextureCube eye2 from package 00002640.upk
+Loading Material3 eye from package 00002620.upk
+Loading Texture2D Nothing_W from package 00008613.upk
+Loading Material3 Beard_Ac from package 00002620.upk
+Loading Texture2D JinM_043_col1_D from package 00024245.upk
+Loading Texture2D JinM_043_col1_N from package 00024245.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Sclera from package 00007428.upk
+Loading TextureCube eye1 from package 00002640.upk
+Loading TextureCube eye_s from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.49 sec, 4014 allocs, 2.34 MBytes serialized in 283336 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: JinTaePyeongFace
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[4] = { true, true, true, true }
+        }
+    }
+    Sockets[0] = {}
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[4] =
+    {
+        Materials[0] = MaterialInstanceConstant'col1'
+        Materials[1] = MaterialInstanceConstant'eye'
+        Materials[2] = MaterialInstanceConstant'Beard'
+        Materials[3] = MaterialInstanceConstant'col1_hair'
+    }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[4] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=1448 }
+                Sections[1] = { Material=MaterialInstanceConstant'eye', FirstIndex=4344, NumFaces=120 }
+                Sections[2] = { Material=MaterialInstanceConstant'col1_hair', FirstIndex=4704, NumFaces=1627 }
+                Sections[3] = { Material=MaterialInstanceConstant'Beard', FirstIndex=9585, NumFaces=554 }
+            }
+            NumVerts = 2656
+            IndexCount = 11247
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 17

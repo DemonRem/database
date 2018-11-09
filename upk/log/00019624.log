@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00019624.upk Ver: 573/1 Engine: 4205 Names: 1657 Exports: 5218 Imports: 159 Game: 801A
+Loading Texture2D ArenaLobby_DuelScene_Preview from package 00019624.upk
+Loading Texture2D ArenaLobby_SpectateDuelListScene_Preview from package 00019624.upk
+Loaded in 0.015 sec, 1685 allocs, 0.47 MBytes serialized in 100157 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: ArenaLobby_DuelScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: ArenaLobby_SpectateDuelListScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

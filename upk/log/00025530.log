@@ -1,0 +1,45 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00025530.upk Ver: 573/1 Engine: 4205 Names: 548 Exports: 1630 Imports: 200 Game: 801A
+Loading AnimSet QuestNavigation_Anim from package 00025530.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_3 from package 00025530.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading Material3 Glitch_Kabedong_MAT from package 00025530.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Loading Material3 holo_kabedong_MAT from package 00025530.upk
+Loading Material3 QuestNavigation_Mat01 from package 00025530.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading MaterialInstanceConstant Glitch_kabedong from package 00025530.upk
+Loading MaterialInstanceConstant Glitch_Kabedong_02 from package 00025530.upk
+Loading SkeletalMesh3 QuestNavigation_mesh from package 00025530.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading Texture2D Heart_02 from package 00025530.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading Texture2D Glitch_TEX_01 from package 00032237.upk
+Loading Texture2D AncientMechaScorpion_Naryu_pattern from package 00012963.upk
+Loading Texture2D Glitch_TEX_02 from package 00032237.upk
+Loading Texture2D T_heart_nomal002 from package 00037213.upk
+Loading Texture2D BG_FX_GeneralCircle_Logo_001_Blur from package 00012963.upk
+Loading Texture2D holo_box_TEX from package 00032237.upk
+Loading Texture2D AncientMechaMonk_BoxLine2 from package 00012963.upk
+Loading Texture2D Gradient_009 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D Butt from package 00012963.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00025530
+******** 00025530 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:QuestNavigation_Anim <- UObject::EndLoad <- LoadWholePackage:00025530 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

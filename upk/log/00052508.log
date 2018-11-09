@@ -1,0 +1,864 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00052508.upk Ver: 573/1 Engine: 4205 Names: 131 Exports: 170 Imports: 26 Game: 801A
+Loading Material3 CMA_PekingOpera_Ghost_MatM from package 00052508.upk
+WARNING: BoolProperty "UMaterial3::bUsedWithMaterialEffect" was not found
+Loading Material3 RuneMechaTombSoldierTW_hand_Mat from package 00052508.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading StaticMesh3 990964_WeaponUV from package 00052508.upk
+Loading package: 00055364.upk Ver: 573/1 Engine: 4205 Names: 197 Exports: 410 Imports: 55 Game: 801A
+Loading StaticMesh3 BBA_GiantDragon_Lava from package 00052508.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 BBA_GigantoDragon_Scale from package 00052508.upk
+Loading StaticMesh3 BBA_GigantoDragon_Scale_UV02 from package 00052508.upk
+Loading StaticMesh3 BlackFist_WeaponL from package 00052508.upk
+Loading StaticMesh3 CMA_PekingOpera_Ghost01 from package 00052508.upk
+Loading StaticMesh3 DemonGoldenBat_Wing from package 00052508.upk
+Loading StaticMesh3 GhostMask_Explosion from package 00052508.upk
+Loading StaticMesh3 GhostMask_Explosion2 from package 00052508.upk
+Loading StaticMesh3 GhostMask_Explosion3 from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Crystal from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Crystal2 from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Crystal3 from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Raid from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Watch from package 00052508.upk
+Loading StaticMesh3 GWF_CrystalLizard_Watch_Egde from package 00052508.upk
+Loading StaticMesh3 GWF_Shark_Watch from package 00052508.upk
+Loading StaticMesh3 RuneMechaTombSoldierTW_hand from package 00052508.upk
+Loading StaticMesh3 SM_CatHand_L from package 00052508.upk
+Loading StaticMesh3 SM_Plane_v001 from package 00052508.upk
+Loading StaticMesh3 SRG_MoonCat_WeaponR from package 00052508.upk
+Loading Texture2D RuneMechaTombSoldier_FXmask from package 00052508.upk
+Loading Texture2D Text_1 from package 00052508.upk
+Loading MaterialInstanceConstant col2 from package 00055364.upk
+Loading package: 00008412.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00055363.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading Texture2D wp_n from package 00008412.upk
+Loading Texture2D Wp_mk from package 00008412.upk
+Loading Texture2D Wp_df from package 00008412.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D 990964_GhostMaskMonsterC_Col1_FX from package 00055363.upk
+Loading Texture2D Wp_sc from package 00008412.upk
+Loading TextureCube mirror2 from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D 990964_FX from package 00055364.upk
+Loading Material3 BasicFXL from package 00055364.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.28 sec, 4786 allocs, 4.58 MBytes serialized in 984099 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: CMA_PekingOpera_Ghost_MatM
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[0] = {}
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: RuneMechaTombSoldierTW_hand_Mat
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'RuneMechaTombSoldier_FXmask' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: 990964_WeaponUV
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.279549, Y=0.0459499, Z=39.4426 }
+        BoxExtent = { X=46.007, Y=6.30845, Z=114.867 }
+        SphereRadius = 115.856
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col2', FirstIndex=0, NumFaces=678 }
+            }
+            NumVerts = 1334
+            IndexCount = 2034
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: BBA_GiantDragon_Lava
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-3.29485, Y=-1.203, Z=49.9908 }
+        BoxExtent = { X=32.105, Y=40.4306, Z=55.0631 }
+        SphereRadius = 68.6823
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=2144 }
+            }
+            NumVerts = 2888
+            IndexCount = 6432
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: BBA_GigantoDragon_Scale
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-1.73025, Y=-1.4285, Z=4.56175 }
+        BoxExtent = { X=42.1601, Y=66.7235, Z=7.18305 }
+        SphereRadius = 72.0328
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=164 }
+            }
+            NumVerts = 228
+            IndexCount = 492
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: BBA_GigantoDragon_Scale_UV02
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-1.73025, Y=-1.4285, Z=4.56175 }
+        BoxExtent = { X=42.1601, Y=66.7235, Z=7.18305 }
+        SphereRadius = 72.0328
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=164 }
+            }
+            NumVerts = 240
+            IndexCount = 492
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: BlackFist_WeaponL
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=25.1464, Y=0, Z=0 }
+        BoxExtent = { X=30.2045, Y=17.0866, Z=16.1706 }
+        SphereRadius = 33.8054
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=468 }
+            }
+            NumVerts = 718
+            IndexCount = 1404
+            NumTexCoords = 3
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: CMA_PekingOpera_Ghost01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-21.298, Z=-9.6794 }
+        BoxExtent = { X=20.949, Y=41.8922, Z=29.4998 }
+        SphereRadius = 49.0193
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=962 }
+            }
+            NumVerts = 1384
+            IndexCount = 2886
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: DemonGoldenBat_Wing
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-4.95911e-005, Z=0 }
+        BoxExtent = { X=15.9165, Y=28.5602, Z=52.8242 }
+        SphereRadius = 55.4039
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=300 }
+            }
+            NumVerts = 404
+            IndexCount = 900
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GhostMask_Explosion
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=240.13, Y=229.378, Z=0 }
+        BoxExtent = { X=1058.61, Y=1285.37, Z=0 }
+        SphereRadius = 1302.84
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=120 }
+            }
+            NumVerts = 526
+            IndexCount = 360
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GhostMask_Explosion2
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=240.135, Y=198.719, Z=264.945 }
+        BoxExtent = { X=1037.59, Y=1233.73, Z=264.945 }
+        SphereRadius = 1281.11
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=116 }
+            }
+            NumVerts = 236
+            IndexCount = 348
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GhostMask_Explosion3
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=240.135, Y=198.719, Z=264.945 }
+        BoxExtent = { X=1037.59, Y=1233.73, Z=264.945 }
+        SphereRadius = 1281.11
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=116 }
+            }
+            NumVerts = 236
+            IndexCount = 348
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Crystal
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=2.4349, Y=0.97765, Z=13.8061 }
+        BoxExtent = { X=26.6403, Y=19.1693, Z=24.0432 }
+        SphereRadius = 28.1223
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=592 }
+            }
+            NumVerts = 1136
+            IndexCount = 1776
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Crystal2
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=8.0968, Y=-1.2952, Z=16.1663 }
+        BoxExtent = { X=17.0236, Y=13.2032, Z=21.6831 }
+        SphereRadius = 25.8599
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=278 }
+            }
+            NumVerts = 664
+            IndexCount = 834
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Crystal3
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-1.59495, Y=-0.2227, Z=33.8369 }
+        BoxExtent = { X=12.0196, Y=11.6306, Z=49.1264 }
+        SphereRadius = 49.2033
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=284 }
+            }
+            NumVerts = 384
+            IndexCount = 852
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Raid
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=12.7589, Y=-0.116402, Z=6.05945 }
+        BoxExtent = { X=185.425, Y=65.043, Z=178.046 }
+        SphereRadius = 246.245
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=13137 }
+            }
+            NumVerts = 20844
+            IndexCount = 39411
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Watch
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=3.60505, Y=-0.0130501, Z=0.94315 }
+        BoxExtent = { X=29.4953, Y=32.7276, Z=24.1782 }
+        SphereRadius = 44.0291
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1375 }
+            }
+            NumVerts = 2094
+            IndexCount = 4125
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_CrystalLizard_Watch_Egde
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-1.1886, Y=0, Z=0.8002 }
+        BoxExtent = { X=25.2928, Y=33.4948, Z=24.7291 }
+        SphereRadius = 41.4912
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=386 }
+            }
+            NumVerts = 832
+            IndexCount = 1158
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: GWF_Shark_Watch
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=37.707, Y=-6.6351, Z=53.979 }
+        BoxExtent = { X=143.681, Y=121.123, Z=88.6387 }
+        SphereRadius = 169.111
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=2134 }
+            }
+            NumVerts = 3110
+            IndexCount = 6402
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: RuneMechaTombSoldierTW_hand
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=13.2817, Y=0, Z=0 }
+        BoxExtent = { X=24.8419, Y=7.5642, Z=8.436 }
+        SphereRadius = 25.8025
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1323 }
+            }
+            NumVerts = 1844
+            IndexCount = 3969
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: SM_CatHand_L
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=4.36535, Y=0.0421, Z=-0.96675 }
+        BoxExtent = { X=6.44565, Y=4.4878, Z=4.42065 }
+        SphereRadius = 7.20516
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=852 }
+            }
+            NumVerts = 1568
+            IndexCount = 2556
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: SM_Plane_v001
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.15795, Y=0.1912, Z=0 }
+        BoxExtent = { X=5.00008e-005, Y=75, Z=75 }
+        SphereRadius = 106.066
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=32 }
+            }
+            NumVerts = 50
+            IndexCount = 96
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: SRG_MoonCat_WeaponR
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.66, Y=0, Z=-5.00679e-005 }
+        BoxExtent = { X=45.1796, Y=46.8878, Z=3.81055 }
+        SphereRadius = 47.6667
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=3468 }
+            }
+            NumVerts = 5140
+            IndexCount = 10404
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: Texture2D ObjectName: RuneMechaTombSoldier_FXmask
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Text_1
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

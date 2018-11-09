@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00048832.upk Ver: 573/1 Engine: 4205 Names: 20 Exports: 1 Imports: 2 Game: 801A
+Loading Texture2D 040250_KunN_col2_D from package 00048832.upk
+Loaded in 0.013 sec, 73 allocs, 0.79 MBytes serialized in 347 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 040250_KunN_col2_D
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

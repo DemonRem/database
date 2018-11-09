@@ -1,0 +1,51 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00043122.upk Ver: 573/1 Engine: 4205 Names: 1077 Exports: 6177 Imports: 118 Game: 801A
+Loading Texture2D Game_SkillBook3Scene_Preview from package 00043122.upk
+Loading Texture2D Game_SkillBook3SimpleControlScene_Preview from package 00043122.upk
+Loading Texture2D Game_SkillBook3TrainingScene_Preview from package 00043122.upk
+Loaded in 0.019 sec, 1110 allocs, 0.53 MBytes serialized in 115452 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SkillBook3Scene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SkillBook3SimpleControlScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SkillBook3TrainingScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

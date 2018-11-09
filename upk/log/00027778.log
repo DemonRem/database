@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00027778.upk Ver: 573/1 Engine: 4205 Names: 967 Exports: 5767 Imports: 110 Game: 801A
+Loading Texture2D Game_GameOptionScene_Preview from package 00027778.upk
+Loading Texture2D Game_OptionScene_Preview from package 00027778.upk
+Loaded in 0.015 sec, 995 allocs, 0.45 MBytes serialized in 107626 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_GameOptionScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_OptionScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

@@ -1,0 +1,483 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00052664.upk Ver: 573/1 Engine: 4205 Names: 238 Exports: 181 Imports: 58 Game: 801A
+Loading Material3 Basic_NPC from package 00052664.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00052664.upk
+Loading package: 00052891.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
+Loading package: 00050895.upk Ver: 573/1 Engine: 4205 Names: 153 Exports: 3 Imports: 21 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00050939.upk Ver: 573/1 Engine: 4205 Names: 261 Exports: 742 Imports: 64 Game: 801A
+Loading MaterialInstanceConstant col1_old from package 00052664.upk
+Loading package: 00039751.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_N from package 00052891.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_M from package 00052891.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_D from package 00052891.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_E from package 00052891.upk
+Loading Texture2D Smoke_Pattern_4channel_02 from package 00050895.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_S from package 00052891.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D FX_Mask from package 00052891.upk
+Loading Material3 Basic_AncientMechaChulMoo from package 00050939.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_N from package 00039751.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_M from package 00039751.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_D from package 00039751.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_S from package 00039751.upk
+Loading Texture2D Monster_Etc_SocererBoss_col1_E from package 00039751.upk
+Loading Texture2D FX_Mask from package 00039751.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.25 sec, 3745 allocs, 4.16 MBytes serialized in 206963 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_NPC
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[14] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=FX_Emissive_V, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=FX_Emissive_U, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Glossiness1, ParameterValue=3 }
+        ScalarParameterValues[4] = { ParameterName=Glossiness2, ParameterValue=40 }
+        ScalarParameterValues[5] = { ParameterName=Specular_value, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_glossiness, ParameterValue=30 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value, ParameterValue=3 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[11] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_D' }
+        TextureParameterValues[3] =
+        {
+            ParameterName = Emissive
+            ParameterValue = Texture2D'Monster_Etc_SocererBoss_col1_E'
+        }
+        TextureParameterValues[4] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+        TextureParameterValues[5] =
+        {
+            ParameterName = Specular
+            ParameterValue = Texture2D'Monster_Etc_SocererBoss_col1_S'
+        }
+        TextureParameterValues[6] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[7] = { ParameterName=FX_Mask, ParameterValue=Texture2D'FX_Mask' }
+        TextureParameterValues[8] = { ParameterName=Sample1, ParameterValue=Texture2D'check' }
+        TextureParameterValues[9] = { ParameterName=FX_Add, ParameterValue=Texture2D'check' }
+        TextureParameterValues[10] = { ParameterName=sample2, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[52] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = TexChange
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = FX_TexChangeD_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = FX_TexChangeS_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.038473, G=0.038473, B=0.038473, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.7593, G=0.618686, B=0.585973, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.013473, G=0.013473, B=0.013473, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Emissive_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[15] =
+        {
+            ParameterName = Tex_Emissive_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[16] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[17] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[18] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[19] =
+        {
+            ParameterName = Emissive_value3
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[20] =
+        {
+            ParameterName = Tex_Emissive_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[21] =
+        {
+            ParameterName = Fx_Emissive_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[22] =
+        {
+            ParameterName = Fx_Glow_power_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[23] =
+        {
+            ParameterName = Glow_Trangition_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[24] =
+        {
+            ParameterName = Fx_Glow_color_A
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[25] =
+        {
+            ParameterName = UV
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[26] =
+        {
+            ParameterName = Fx_Glow_color_Acc
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[27] =
+        {
+            ParameterName = Fx_Glow_power_Acc
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[28] =
+        {
+            ParameterName = Glow_Trangition_Acc
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[29] =
+        {
+            ParameterName = Tex_Mask_ACCswitch
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[30] =
+        {
+            ParameterName = FX_Mask_Accposition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[31] =
+        {
+            ParameterName = Fx_Glow_color2_Acc
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[32] =
+        {
+            ParameterName = UV_Cloth2
+            ParameterValue = { R=1, G=0.2, B=0, A=1 }
+        }
+        VectorParameterValues[33] =
+        {
+            ParameterName = fx_customcolor3
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[34] =
+        {
+            ParameterName = Multi_Cloth
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[35] =
+        {
+            ParameterName = UV_Cloth1
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[36] =
+        {
+            ParameterName = fx_customcolor2
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[37] =
+        {
+            ParameterName = UV_Cloth0
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[38] =
+        {
+            ParameterName = fx_customcolor
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[39] =
+        {
+            ParameterName = Fx_Glow_color_ACC3
+            ParameterValue = { R=4, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[40] =
+        {
+            ParameterName = Glow_Trangition_ACC3
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[41] =
+        {
+            ParameterName = Fx_Glow_power_ACC3
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[42] =
+        {
+            ParameterName = Fx_Glow_color2_ACC3
+            ParameterValue = { R=1, G=0.2, B=0.1, A=1 }
+        }
+        VectorParameterValues[43] =
+        {
+            ParameterName = UV_Weapon1
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[44] =
+        {
+            ParameterName = Fx_Glow_color_L
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[45] =
+        {
+            ParameterName = Glow_Trangition_L
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[46] =
+        {
+            ParameterName = Fx_Glow_power_L
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[47] =
+        {
+            ParameterName = UV_Weapon2
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[48] =
+        {
+            ParameterName = FX_MaskMetal_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[49] =
+        {
+            ParameterName = FX_MaskhightLight_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[50] =
+        {
+            ParameterName = FX_MaskhightLight_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[51] =
+        {
+            ParameterName = UVTiling
+            ParameterValue = { R=3, G=3, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_AncientMechaChulMoo'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_old
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=20 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=40 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=3 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=30 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=3 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[7] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Monster_Etc_SocererBoss_col1_D' }
+        TextureParameterValues[3] =
+        {
+            ParameterName = Specular
+            ParameterValue = Texture2D'Monster_Etc_SocererBoss_col1_S'
+        }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] =
+        {
+            ParameterName = Emissive
+            ParameterValue = Texture2D'Monster_Etc_SocererBoss_col1_E'
+        }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'FX_Mask' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.263175, G=0.263175, B=0.263175, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.7593, G=0.618686, B=0.585973, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.013473, G=0.013473, B=0.013473, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_NPC'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

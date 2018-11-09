@@ -1,0 +1,19 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00049670.upk Ver: 573/1 Engine: 4205 Names: 18 Exports: 1 Imports: 2 Game: 801A
+Loading Texture2D Item_0087_col1_E from package 00049670.upk
+Loaded in 0.014 sec, 68 allocs, 0.03 MBytes serialized in 298 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Item_0087_col1_E
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

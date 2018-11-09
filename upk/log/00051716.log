@@ -1,0 +1,208 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00051716.upk Ver: 573/1 Engine: 4205 Names: 65 Exports: 8 Imports: 16 Game: 801A
+Loading SkeletalMesh3 020338_Autoscale_L from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
+Loading package: 00051718.upk Ver: 573/1 Engine: 4205 Names: 102 Exports: 1 Imports: 24 Game: 801A
+Loading SkeletalMesh3 020338_Autoscale_R from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_811 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_814 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_817 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_828 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_831 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_834 from package 00051716.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
+Loading MaterialInstanceConstant col3 from package 00051718.upk
+Loading package: 00051469.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00051468.upk Ver: 573/1 Engine: 4205 Names: 435 Exports: 2085 Imports: 167 Game: 801A
+Loading package: 00050832.upk Ver: 573/1 Engine: 4205 Names: 627 Exports: 1430 Imports: 218 Game: 801A
+Loading Texture2D 020338_Autoscale_col1_N from package 00051469.upk
+Loading Texture2D 020338_Autoscale_col1_M from package 00051469.upk
+Loading Texture2D 020338_Autoscale_col1_D from package 00051469.upk
+Loading Texture2D 020338_Autoscale_col1_S from package 00051469.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D Noise_017 from package 00012963.upk
+Loading Texture2D 020338_FX_Mask from package 00051468.upk
+Loading Texture2D Noise_Plazma_000 from package 00012963.upk
+Loading Material3 Basic_SwordFX from package 00050832.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.21 sec, 4136 allocs, 1.87 MBytes serialized in 330773 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 020338_Autoscale_L
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[3] =
+    {
+        Sockets[0] = SkeletalMeshSocket'020338_Autoscale_L.SkeletalMeshSocket_811'
+        Sockets[1] = SkeletalMeshSocket'020338_Autoscale_L.SkeletalMeshSocket_814'
+        Sockets[2] = SkeletalMeshSocket'020338_Autoscale_L.SkeletalMeshSocket_817'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col3' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col3', FirstIndex=0, NumFaces=1306 }
+            }
+            NumVerts = 1252
+            IndexCount = 3918
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 3
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 020338_Autoscale_R
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[3] =
+    {
+        Sockets[0] = SkeletalMeshSocket'020338_Autoscale_R.SkeletalMeshSocket_828'
+        Sockets[1] = SkeletalMeshSocket'020338_Autoscale_R.SkeletalMeshSocket_831'
+        Sockets[2] = SkeletalMeshSocket'020338_Autoscale_R.SkeletalMeshSocket_834'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col3' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col3', FirstIndex=0, NumFaces=1306 }
+            }
+            NumVerts = 1252
+            IndexCount = 3918
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 3
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_811
+
+    SocketName = FX_Add
+    BoneName = Bip01LHand
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1.01, Y=1.02, Z=1.02 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_814
+
+    SocketName = FX_Add_Trail
+    BoneName = Bip01LHand
+    RelativeLocation = { X=7, Y=2, Z=-0.5 }
+    RelativeRotation = { Yaw=0, Pitch=16384, Roll=0 }
+    RelativeScale = { X=0.8, Y=0.8, Z=0.3 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_817
+
+    SocketName = FX_Add02
+    BoneName = Bip01LHand
+    RelativeLocation = { X=4.63081, Y=1.17925, Z=-0.521777 }
+    RelativeRotation = { Yaw=16384, Pitch=1820, Roll=14563 }
+    RelativeScale = { X=0.15, Y=0.15, Z=0.2 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_828
+
+    SocketName = FX_Add
+    BoneName = Bip01RHand
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=0 }
+    RelativeScale = { X=1.01, Y=1.02, Z=1.02 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_831
+
+    SocketName = FX_Add_Trail
+    BoneName = Bip01RHand
+    RelativeLocation = { X=7, Y=2, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=16384, Roll=0 }
+    RelativeScale = { X=0.8, Y=0.8, Z=0.3 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_834
+
+    SocketName = FX_Add02
+    BoneName = Bip01RHand
+    RelativeLocation = { X=4.09592, Y=1.099, Z=0.628471 }
+    RelativeRotation = { Yaw=16384, Pitch=-910, Roll=18204 }
+    RelativeScale = { X=0.15, Y=0.15, Z=0.2 }

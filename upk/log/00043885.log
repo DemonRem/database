@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00043885.upk Ver: 573/1 Engine: 4205 Names: 611 Exports: 1440 Imports: 122 Game: 801A
+Loading Texture2D Game_SkillTrainingFieldPlayScene_Preview from package 00043885.upk
+Loading Texture2D Game_SkillTrainingFieldScene_Preview from package 00043885.upk
+Loaded in 0.01 sec, 639 allocs, 0.15 MBytes serialized in 28756 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SkillTrainingFieldPlayScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_SkillTrainingFieldScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

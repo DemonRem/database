@@ -1,0 +1,411 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00053838.upk Ver: 573/1 Engine: 4205 Names: 230 Exports: 7 Imports: 52 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00053838.upk
+Loading package: 00053837.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1_1 from package 00053838.upk
+Loading package: 00052534.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 6 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant CommonNpc_Acc_Bottle_Mat from package 00053838.upk
+check for Parent_normal in 00053838
+check for Parent_normal in 00053837
+check for Parent_normal in 00002640
+check for Parent_normal in 00002620
+check for Parent_normal in 00052534
+WARNING: Import(Parent_normal.Parent_normal) was not found
+check for CommonNPC_Acc_Bottle_N in 00053838
+check for CommonNPC_Acc_Bottle_N in 00053837
+check for CommonNPC_Acc_Bottle_N in 00002640
+check for CommonNPC_Acc_Bottle_N in 00002620
+check for CommonNPC_Acc_Bottle_N in 00052534
+WARNING: Import(CommonNpc_Acc_CupNBottleNTable.CommonNPC_Acc_Bottle_N) was not found
+check for Boil_M in 00053838
+check for Boil_M in 00053837
+check for Boil_M in 00002640
+check for Boil_M in 00002620
+check for Boil_M in 00052534
+WARNING: Import(Parent_normal.Boil_M) was not found
+check for Parent_diffuse in 00053838
+check for Parent_diffuse in 00053837
+check for Parent_diffuse in 00002640
+check for Parent_diffuse in 00002620
+check for Parent_diffuse in 00052534
+WARNING: Import(Parent_normal.Parent_diffuse) was not found
+check for RGB_Mask in 00053838
+check for RGB_Mask in 00053837
+check for RGB_Mask in 00002640
+check for RGB_Mask in 00002620
+check for RGB_Mask in 00052534
+WARNING: Import(Parent_normal.RGB_Mask) was not found
+check for Parent_specular in 00053838
+check for Parent_specular in 00053837
+check for Parent_specular in 00002640
+check for Parent_specular in 00002620
+check for Parent_specular in 00052534
+WARNING: Import(Parent_normal.Parent_specular) was not found
+check for Parent_emissive in 00053838
+check for Parent_emissive in 00053837
+check for Parent_emissive in 00002640
+check for Parent_emissive in 00002620
+check for Parent_emissive in 00052534
+WARNING: Import(Parent_normal.Parent_emissive) was not found
+check for Water_cube4 in 00053838
+check for Water_cube4 in 00053837
+check for Water_cube4 in 00002640
+check for Water_cube4 in 00002620
+check for Water_cube4 in 00052534
+WARNING: Import(CubeMap_001.Water_cube4) was not found
+check for Parent_Cubemap in 00053838
+check for Parent_Cubemap in 00053837
+check for Parent_Cubemap in 00002640
+check for Parent_Cubemap in 00002620
+check for Parent_Cubemap in 00052534
+WARNING: Import(Parent_normal.Parent_Cubemap) was not found
+check for Parent_simple in 00053838
+check for Parent_simple in 00053837
+check for Parent_simple in 00002640
+check for Parent_simple in 00002620
+check for Parent_simple in 00052534
+WARNING: Import(Parent_normal.Parent_simple) was not found
+WARNING: BoolProperty "UMaterialInstanceConstant::bAcceptRenderDecal" was not found
+Loading Texture2D Item_0099_col1_N from package 00053837.upk
+Loading Texture2D Item_0099_col1_M from package 00053837.upk
+Loading Texture2D Item_0099_col1_D from package 00053837.upk
+Loading Texture2D Item_0099_col1_S from package 00053837.upk
+Loading TextureCube lenscube_c from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Material3 Body from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D Item_0094_col1_N from package 00052534.upk
+Loading Texture2D Item_0094_col1_M from package 00052534.upk
+Loading Texture2D Item_0094_col1_D from package 00052534.upk
+Loading Texture2D Item_0094_col1_S from package 00052534.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Texture2D Item_0094_col1_E from package 00052534.upk
+Loading Material3 Basic from package 00002620.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.23 sec, 3327 allocs, 1.55 MBytes serialized in 188996 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=60 }
+        ScalarParameterValues[4] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[11] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Item_0099_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Item_0099_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Item_0099_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Item_0099_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_c' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[10] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Body'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_1
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=5 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Item_0094_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Item_0094_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Item_0094_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Item_0094_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Item_0094_col1_E' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: CommonNpc_Acc_Bottle_Mat
+
+    ScalarParameterValues[41] =
+    {
+        ScalarParameterValues[0] = { ParameterName=EntireNormal_Intensity, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=DetailNormal_Intensity, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=DetailNormal_UVcoord, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=BaseNormal_Intensity, ParameterValue=1.5 }
+        ScalarParameterValues[4] = { ParameterName=UVcoord, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=UV_Ycoord, ParameterValue=1 }
+        ScalarParameterValues[6] = { ParameterName=UV_Xcoord, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Boil_Distortion_Intensity, ParameterValue=0.15 }
+        ScalarParameterValues[8] = { ParameterName=FoamMask_Speed, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=FoamMaskTexture_UVcoord, ParameterValue=2 }
+        ScalarParameterValues[10] = { ParameterName=Specular_Range, ParameterValue=10 }
+        ScalarParameterValues[11] = { ParameterName=Specular_Range_Min, ParameterValue=5 }
+        ScalarParameterValues[12] = { ParameterName=Specular_Range_Max, ParameterValue=15 }
+        ScalarParameterValues[13] = { ParameterName=DiffuseSpecular_Desaturation, ParameterValue=0 }
+        ScalarParameterValues[14] = { ParameterName=DiffuseSpecular_Intensity, ParameterValue=0.6 }
+        ScalarParameterValues[15] = { ParameterName=DiffuseSpecular_Contrast, ParameterValue=0.5 }
+        ScalarParameterValues[16] = { ParameterName=Specular_Intensity, ParameterValue=2 }
+        ScalarParameterValues[17] = { ParameterName=EntireSpecular_Intensity, ParameterValue=1 }
+        ScalarParameterValues[18] = { ParameterName=Emissive_Intensity, ParameterValue=1 }
+        ScalarParameterValues[19] = { ParameterName=EmissiveFlicker_Intensity_Max, ParameterValue=0 }
+        ScalarParameterValues[20] = { ParameterName=EmissiveFlicker_Intensity_Min, ParameterValue=0 }
+        ScalarParameterValues[21] = { ParameterName=EmissiveFlicker_Speed, ParameterValue=0.2 }
+        ScalarParameterValues[22] = { ParameterName=EmissiveFlicker_Variable, ParameterValue=0 }
+        ScalarParameterValues[23] = { ParameterName=EmissiveTexture1_Yposition, ParameterValue=0 }
+        ScalarParameterValues[24] = { ParameterName=EmissiveTexture1_Xposition, ParameterValue=0 }
+        ScalarParameterValues[25] = { ParameterName=EmissiveTexture1_Ycoord, ParameterValue=1 }
+        ScalarParameterValues[26] = { ParameterName=EmissiveTexture1_Xcoord, ParameterValue=1 }
+        ScalarParameterValues[27] = { ParameterName=EmissiveTexture2_Yposition, ParameterValue=0 }
+        ScalarParameterValues[28] = { ParameterName=EmissiveTexture2_Xposition, ParameterValue=0 }
+        ScalarParameterValues[29] = { ParameterName=EmissiveTexture2_Ycoord, ParameterValue=1 }
+        ScalarParameterValues[30] = { ParameterName=EmissiveTexture2_Xcoord, ParameterValue=1 }
+        ScalarParameterValues[31] = { ParameterName=Cubemap_Intensity, ParameterValue=0.2 }
+        ScalarParameterValues[32] = { ParameterName=Cubemap_Max, ParameterValue=1 }
+        ScalarParameterValues[33] = { ParameterName=Cubemap_Min, ParameterValue=0 }
+        ScalarParameterValues[34] = { ParameterName=VertexColor_Intensity, ParameterValue=4 }
+        ScalarParameterValues[35] = { ParameterName=Lightmap_Intensity, ParameterValue=1 }
+        ScalarParameterValues[36] = { ParameterName=Lightmap_Contrast, ParameterValue=1 }
+        ScalarParameterValues[37] = { ParameterName=NormalLightmap_Intensity, ParameterValue=1.5 }
+        ScalarParameterValues[38] = { ParameterName=NormalLightmap_Contrast, ParameterValue=1.7 }
+        ScalarParameterValues[39] = { ParameterName=Fresnel_Intensity, ParameterValue=1 }
+        ScalarParameterValues[40] = { ParameterName=Fresnel_Range, ParameterValue=1 }
+    }
+    TextureParameterValues[15] =
+    {
+        TextureParameterValues[0] = { ParameterName=EntireNormalTexture, ParameterValue=None }
+        TextureParameterValues[1] = { ParameterName=DetailNormalTexture, ParameterValue=None }
+        TextureParameterValues[2] = { ParameterName=BaseNormalTexture, ParameterValue=None }
+        TextureParameterValues[3] = { ParameterName=FoamMaskTexture, ParameterValue=None }
+        TextureParameterValues[4] = { ParameterName=BoilMaskTexture, ParameterValue=None }
+        TextureParameterValues[5] = { ParameterName=RGBMaskTexture(G:Glossiness,B:Cubemap), ParameterValue=None }
+        TextureParameterValues[6] = { ParameterName=DiffuseTexture, ParameterValue=None }
+        TextureParameterValues[7] = { ParameterName=SpecularTexture, ParameterValue=None }
+        TextureParameterValues[8] = { ParameterName=EntireSpecularTexture, ParameterValue=None }
+        TextureParameterValues[9] = { ParameterName=EmissiveTexture1, ParameterValue=None }
+        TextureParameterValues[10] = { ParameterName=EmissiveTexture2, ParameterValue=None }
+        TextureParameterValues[11] = { ParameterName=CubemapTexture, ParameterValue=None }
+        TextureParameterValues[12] = { ParameterName=CubemapBlendTexture, ParameterValue=None }
+        TextureParameterValues[13] = { ParameterName=LightmapTexture, ParameterValue=None }
+        TextureParameterValues[14] = { ParameterName=FresnelMaskTexture, ParameterValue=None }
+    }
+    VectorParameterValues[9] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = DiffuseSpecular_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Specular_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = EntireSpecular_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Emissive_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Cubemap_Color
+            ParameterValue = { R=0.598942, G=0.796917, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Diffuse_Color
+            ParameterValue = { R=0.499505, G=0.442323, B=0.311181, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Lightmap_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = NormalLightmap_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = None
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

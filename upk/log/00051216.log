@@ -1,0 +1,135 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00051216.upk Ver: 573/1 Engine: 4205 Names: 114 Exports: 92 Imports: 14 Game: 801A
+Loading SkeletalMesh3 HaetaeArmL from package 00051216.upk
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+Loading package: 00051219.upk Ver: 573/1 Engine: 4205 Names: 231 Exports: 631 Imports: 57 Game: 801A
+Loading SkeletalMesh3 HaetaeArmR from package 00051216.upk
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_311 from package 00051216.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_316 from package 00051216.upk
+Loading MaterialInstanceConstant col1 from package 00051219.upk
+Loading package: 00050227.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 7 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_N from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_M from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_E from package 00050227.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_D from package 00050227.upk
+Loading Texture2D Tex_mix02 from package 00051219.upk
+Loading Texture2D Monster_Etc_AncientHaeTaeWing_col1_S from package 00050227.upk
+Loading TextureCube MatelR1 from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Material3 Basic_Effect_HaeTaeArm from package 00051219.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.19 sec, 3197 allocs, 4.03 MBytes serialized in 286964 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: HaetaeArmL
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[1] = { SkeletalMeshSocket'HaetaeArmL.SkeletalMeshSocket_311' }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=1932 }
+            }
+            NumVerts = 1180
+            IndexCount = 5796
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 29
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: HaetaeArmR
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[1] = { SkeletalMeshSocket'HaetaeArmR.SkeletalMeshSocket_316' }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=1932 }
+            }
+            NumVerts = 1180
+            IndexCount = 5796
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 29
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_311
+
+    SocketName = Trail_L
+    BoneName = Bip01LHand
+    RelativeLocation = { X=41.1142, Y=20.0898, Z=-0.974491 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_316
+
+    SocketName = Trail_R
+    BoneName = Bip01RHand
+    RelativeLocation = { X=29.6554, Y=29.1464, Z=0.519299 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

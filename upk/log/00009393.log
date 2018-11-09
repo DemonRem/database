@@ -1,0 +1,610 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00009393.upk Ver: 573/1 Engine: 4205 Names: 1226 Exports: 783 Imports: 108 Game: 801A
+Loading AnimSet 4_slice_leaf_01_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet 4_slice_leaf_02_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet 4_slice_leaf_03_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet AnthroEntmini_DeadCut_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Assassin_Skill_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bIgnoreAimControl" was not found
+WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::WeaponRLocType" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseAdjustAniScale" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Cat_NATK_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Chinese_VIP_Sprint_Dragon from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet coil_anim from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet DemonTentaGiant_Inhalation_ani from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Dragon_Trail_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Epic_Item_Scroll_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet EquipTrail from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_31 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_32 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_33 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet ForceMaster_MasterSkill01_Trail from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseAdjustAniScale" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_78 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseAdjustAniScale" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_86 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseAdjustAniScale" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet GhostMaskMonsterC_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Hong_Dragon_bone from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet LegendWeapon_Dragon_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet NewSlot_Red_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Shooter_MasterSkill2_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet ShooterBomb_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomAttachAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomAttachAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomAttachAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bUseCustomAttachAnim" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet SorcererA_HandR_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Spawn_Summon from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Summon_Guardian_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Summoner_MasterSkill01_Apis_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSet sunflower_Anim from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Warlock_Rosary_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_5 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Warlock_Talisman_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::WeaponSlotSocketNames" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet WireMesh_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet WireStone_Anim from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_2 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_3 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_4 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_5 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Xmas_Cookie_anim from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading Material3 Basic_NewSlot_Blue_col1 from package 00009393.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 NewSlot_Blue_col2 from package 00009393.upk
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading Material3 Summon_Dealer_Alpha_Mat from package 00009393.upk
+Loading package: 00008545.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 14 Imports: 2 Game: 801A
+Loading Material3 Summon_Dealer_Mat from package 00009393.upk
+Loading Material3 Summon_Dealer_Spwn_Mat from package 00009393.upk
+Loading Material3 Summon_Dealer_WingSpwan_mat from package 00009393.upk
+Loading Material3 Summon_Draw_Mat from package 00009393.upk
+Loading MaterialInstanceConstant 4_slice_leaf_Col1 from package 00009393.upk
+Loading MaterialInstanceConstant Acc_990971_RaidBossA_Reg_MI from package 00009393.upk
+Loading MaterialInstanceConstant leaf_skeletal_col3 from package 00009393.upk
+Loading MaterialInstanceConstant NewSlot_Blue_col1 from package 00009393.upk
+Loading MaterialInstanceConstant NewSlot_Red_col1 from package 00009393.upk
+Loading SkeletalMesh3 4_slice_leaf_01 from package 00009393.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading SkeletalMesh3 4_slice_leaf_02 from package 00009393.upk
+Loading SkeletalMesh3 4_slice_leaf_03 from package 00009393.upk
+Loading SkeletalMesh3 Acc_990971_RaidBossA_Reg from package 00009393.upk
+WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::LowNameHeight" was not found
+Loading SkeletalMesh3 AncientMechaKing_change02 from package 00009393.upk
+Loading SkeletalMesh3 AncientMechaMonK_Head_Create from package 00009393.upk
+Loading package: 00050240.upk Ver: 573/1 Engine: 4205 Names: 194 Exports: 631 Imports: 58 Game: 801A
+Loading SkeletalMesh3 AncientMechaMonK_Head_Extinction from package 00009393.upk
+Loading SkeletalMesh3 AncientMechaMonK_HeadR_Create from package 00009393.upk
+Loading SkeletalMesh3 AncientMechaMonK_HeadR_Extinction from package 00009393.upk
+Loading SkeletalMesh3 AnthroEntmini_DeadCut from package 00009393.upk
+Loading package: 00042493.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 1 Imports: 20 Game: 801A
+Loading SkeletalMesh3 AssassinMasterSkil01l_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Battle_DroneEvolve from package 00009393.upk
+WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
+Loading package: 00056102.upk Ver: 573/1 Engine: 4205 Names: 86 Exports: 1 Imports: 21 Game: 801A
+Loading SkeletalMesh3 cat_Box from package 00009393.upk
+Loading SkeletalMesh3 Chinese_Sprint_Dragon from package 00009393.upk
+Loading SkeletalMesh3 coil from package 00009393.upk
+Loading SkeletalMesh3 Dealer01 from package 00009393.upk
+Loading SkeletalMesh3 DemonTentaGiant_Inhalation_mesh from package 00009393.upk
+Loading SkeletalMesh3 Dragon_TrailMesh from package 00009393.upk
+Loading SkeletalMesh3 ElectricBomb from package 00009393.upk
+Loading package: 00035458.upk Ver: 573/1 Engine: 4205 Names: 707 Exports: 7076 Imports: 307 Game: 801A
+Loading SkeletalMesh3 Epic_Item_Scroll from package 00009393.upk
+Loading SkeletalMesh3 EquipTrail_Mesh from package 00009393.upk
+Loading SkeletalMesh3 ForceMaster_MasterSkill01_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Gardener_AntiPoison_Spawn from package 00009393.upk
+Loading package: 00053036.upk Ver: 573/1 Engine: 4205 Names: 792 Exports: 2075 Imports: 253 Game: 801A
+Loading SkeletalMesh3 GhostMaskMonsterCLine from package 00009393.upk
+Loading SkeletalMesh3 HongMunDragon_Mesh from package 00009393.upk
+Loading SkeletalMesh3 LegendWeapon_Dragon from package 00009393.upk
+Loading SkeletalMesh3 NewSlot_blue_LV1 from package 00009393.upk
+Loading SkeletalMesh3 NewSlot_blue_LV2 from package 00009393.upk
+Loading SkeletalMesh3 NewSlot_Red_LV1 from package 00009393.upk
+Loading SkeletalMesh3 NewSlot_Red_LV2 from package 00009393.upk
+Loading SkeletalMesh3 NewSlot_Red_LV3 from package 00009393.upk
+Loading SkeletalMesh3 PekingOpera_Ghost_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Plask from package 00009393.upk
+Loading SkeletalMesh3 Rosary_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Shooter_MasterSkill2 from package 00009393.upk
+Loading package: 00006201.upk Ver: 573/1 Engine: 4205 Names: 87 Exports: 1 Imports: 22 Game: 801A
+Loading SkeletalMesh3 ShooterBomb from package 00009393.upk
+Loading package: 00047911.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 1 Imports: 20 Game: 801A
+Loading SkeletalMesh3 SorcererA_HandR from package 00009393.upk
+Loading SkeletalMesh3 SoulDash_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Summon_Dealer_Torso from package 00009393.upk
+Loading SkeletalMesh3 Summon_Dealer_UV_Planar from package 00009393.upk
+Loading SkeletalMesh3 Summoner_HoneyBug_Mesh from package 00009393.upk
+Loading package: 00012513.upk Ver: 573/1 Engine: 4205 Names: 363 Exports: 1528 Imports: 136 Game: 801A
+Loading SkeletalMesh3 Summoner_MasterSkill01_Apis_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Summoner_MasterSkill01_Apis_TrailMesh from package 00009393.upk
+Loading SkeletalMesh3 sunflower_Mesh from package 00009393.upk
+Loading package: 00027532.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 2 Imports: 24 Game: 801A
+Loading SkeletalMesh3 Trail_bone_mesh from package 00009393.upk
+Loading SkeletalMesh3 Warlock_Talisman_Mesh from package 00009393.upk
+Loading SkeletalMesh3 Warlock_Talisman_Mesh01 from package 00009393.upk
+Loading SkeletalMesh3 WireGround from package 00009393.upk
+Loading package: 00048038.upk Ver: 573/1 Engine: 4205 Names: 97 Exports: 5 Imports: 27 Game: 801A
+Loading SkeletalMesh3 WireMesh from package 00009393.upk
+Loading package: 00048015.upk Ver: 573/1 Engine: 4205 Names: 92 Exports: 2 Imports: 20 Game: 801A
+Loading SkeletalMesh3 WireStone from package 00009393.upk
+Loading SkeletalMesh3 WireStone_ToHand from package 00009393.upk
+Loading SkeletalMesh3 WireStone_ToHand5Atk from package 00009393.upk
+Loading package: 00048041.upk Ver: 573/1 Engine: 4205 Names: 92 Exports: 1 Imports: 21 Game: 801A
+Loading SkeletalMesh3 WireUpper from package 00009393.upk
+Loading SkeletalMesh3 Xmas_cookie from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_53 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_0 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_1 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_2 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_3 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_5 from package 00009393.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_6 from package 00009393.upk
+Loading StaticMesh3 Item_0103 from package 00009393.upk
+Loading StaticMesh3 ITEM_0104 from package 00009393.upk
+Loading StaticMesh3 Item_0105 from package 00009393.upk
+Loading StaticMesh3 NewSlot_Blue_Mesh from package 00009393.upk
+Loading StaticMesh3 NewSlot_Blue_Mesh0 from package 00009393.upk
+Loading StaticMesh3 Summon_SpawnLine2_Mes from package 00009393.upk
+Loading StaticMesh3 Summon_SpawnLine_Mes from package 00009393.upk
+Loading Texture2D 4slice_leaf_col1_D from package 00009393.upk
+Loading Texture2D 4slice_leaf_col1_M from package 00009393.upk
+Loading Texture2D 4slice_leaf_col1_mask from package 00009393.upk
+Loading Texture2D 4slice_leaf_col1_N from package 00009393.upk
+Loading Texture2D 4slice_leaf_col1_S from package 00009393.upk
+Loading Texture2D Item_0100_col1_D from package 00009393.upk
+Loading Texture2D Item_0100_col1_FX from package 00009393.upk
+Loading Texture2D Item_0100_col1_M from package 00009393.upk
+Loading Texture2D Item_0100_col1_N from package 00009393.upk
+Loading Texture2D Item_0100_col1_S from package 00009393.upk
+Loading Texture2D Item_0103_col1_D from package 00009393.upk
+Loading Texture2D Item_0103_col1_E from package 00009393.upk
+Loading Texture2D Item_0103_col1_M from package 00009393.upk
+Loading Texture2D Item_0103_col1_N from package 00009393.upk
+Loading Texture2D Item_0103_col1_S from package 00009393.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Smoke_Dusts_001 from package 00012963.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading TextureCube MatelW1 from package 00002640.upk
+Loading Texture2D Nm from package 00008545.upk
+Loading Texture2D Em from package 00008545.upk
+Loading Texture2D Dm from package 00008545.upk
+Loading Texture2D SM from package 00008545.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Material3 Basic from package 00002620.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Material3 Ghost_body from package 00002620.upk
+Loading TextureCube lenscube from package 00002640.upk
+Loading Material3 Basic_view_reflect from package 00002620.upk
+Loading TextureCube lenscube_c from package 00002640.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00050240.upk
+Loading package: 00050241.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 11 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00042493.upk
+Loading package: 00042492.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 16 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00056102.upk
+Loading package: 00056101.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 5 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00035458.upk
+Loading Material3 M_PremiumBackho_Empty from package 00053036.upk
+Loading MaterialInstanceConstant col1 from package 00006201.upk
+Loading package: 00006200.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00047911.upk
+Loading package: 00047910.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
+Loading Material3 GoldenBee from package 00012513.upk
+Loading MaterialInstanceConstant col1 from package 00027532.upk
+Loading package: 00027530.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00048038.upk
+Loading package: 00048037.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 5 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00048015.upk
+Loading package: 00048016.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant col1_add from package 00048015.upk
+Loading MaterialInstanceConstant col1 from package 00048041.upk
+Loading package: 00048040.upk Ver: 573/1 Engine: 4205 Names: 20 Exports: 1 Imports: 2 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D AncientMechaMonK_col1_N from package 00050241.upk
+Loading Texture2D AncientMechaMonK_col1_M from package 00050241.upk
+Loading Texture2D AncientMechaMonK_col1_D from package 00050241.upk
+Loading Texture2D AncientMechaMonK_col1_FX2 from package 00050241.upk
+Loading Texture2D AncientMechaMonK_col1_S from package 00050241.upk
+Loading TextureCube MatelR1 from package 00002640.upk
+Loading Texture2D AncientMechaMonK_col1_E from package 00050241.upk
+Loading Texture2D AncientMechaMonK_col1_FX from package 00050241.upk
+Loading Material3 Basic_AncientMechaMonk from package 00050240.upk
+Loading Texture2D AnthroEntmini_col1_N from package 00042492.upk
+Loading Texture2D AnthroEntmini_col1_M from package 00042492.upk
+Loading Texture2D AnthroEntmini_col1_D from package 00042492.upk
+Loading Texture2D AnthroEntmini_col1_S from package 00042492.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D AnthroEntmini_col1_E from package 00042492.upk
+Loading Texture2D DroneEvolve_col1_N from package 00056101.upk
+Loading Texture2D DroneEvolve_col1_M from package 00056101.upk
+Loading Texture2D DroneEvolve_col1_D from package 00056101.upk
+Loading Texture2D DroneEvolve_col1_S from package 00056101.upk
+Loading Texture2D DroneEvolve_col1_E from package 00056101.upk
+Loading Texture2D ElectricBomd_N from package 00012963.upk
+Loading Texture2D ElectricBomd_M from package 00012963.upk
+Loading Texture2D ElectricBomd_D from package 00012963.upk
+Loading Texture2D ElectricBomd_S from package 00012963.upk
+Loading Texture2D ElectricBomd_E from package 00012963.upk
+Loading Texture2D Weapon_080001_N from package 00006200.upk
+Loading Texture2D Weapon_080001_M from package 00006200.upk
+Loading Texture2D Weapon_080001_D from package 00006200.upk
+Loading Texture2D Weapon_080001_S from package 00006200.upk
+Loading Texture2D Item_0082_col1_N from package 00047910.upk
+Loading Texture2D Item_0082_col1_M from package 00047910.upk
+Loading Texture2D Item_0082_col1_D from package 00047910.upk
+Loading Texture2D Item_0082_col1_S from package 00047910.upk
+Loading Texture2D Item_0082_col1_E from package 00047910.upk
+Loading Texture2D Apis_N from package 00012963.upk
+Loading Texture2D Apis_D from package 00012963.upk
+Loading Texture2D Apis_S from package 00012963.upk
+Loading Texture2D Apis_M from package 00012963.upk
+Loading Texture2D Noise_002 from package 00012963.upk
+Loading Texture2D 060026_JinM_col1_N from package 00027530.upk
+Loading Texture2D 060026_JinM_col1_M from package 00027530.upk
+Loading Texture2D 060026_JinM_col1_D from package 00027530.upk
+Loading Texture2D 060026_JinM_col1_S from package 00027530.upk
+Loading Texture2D Item_0084_col1_N from package 00048037.upk
+Loading Texture2D Item_0084_col1_M from package 00048037.upk
+Loading Texture2D Item_0084_col1_D from package 00048037.upk
+Loading Texture2D Item_0084_col1_S from package 00048037.upk
+Loading Texture2D Item_0084_col1_E from package 00048037.upk
+Loading Texture2D Item_0081_N from package 00048016.upk
+Loading Texture2D Item_0081_M from package 00048016.upk
+Loading Texture2D Item_0081_D from package 00048016.upk
+Loading Texture2D Item_0081_S from package 00048016.upk
+Loading TextureCube Cube_C from package 00002640.upk
+Loading Texture2D Item_0081_E from package 00048016.upk
+Loading Texture2D Item_0085_col1_E from package 00048040.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00009393
+******** 00009393 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:4_slice_leaf_01_Animset <- UObject::EndLoad <- LoadWholePackage:00009393 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00009034.upk Ver: 573/1 Engine: 4205 Names: 1390 Exports: 5376 Imports: 144 Game: 801A
+Loading Texture2D Game_PartyOptionScene_Preview from package 00009034.upk
+Loading Texture2D Game_PartyScene_Preview from package 00009034.upk
+Loaded in 0.01 sec, 1418 allocs, 0.44 MBytes serialized in 102095 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_PartyOptionScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_PartyScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

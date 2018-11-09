@@ -1,0 +1,5603 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00053839.upk Ver: 573/1 Engine: 4205 Names: 607 Exports: 1572 Imports: 153 Game: 801A
+Loading Material3 Basic_StaticMesh from package 00053839.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00050895.upk Ver: 573/1 Engine: 4205 Names: 153 Exports: 3 Imports: 21 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 Basic_StaticMesh01 from package 00053839.upk
+Loading Material3 Basic_StaticMesh02 from package 00053839.upk
+Loading Material3 Basic_StaticMesh03 from package 00053839.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading Material3 Basic_StaticMesh04 from package 00053839.upk
+Loading Material3 Basic_StaticMesh05 from package 00053839.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading package: 00007928.upk Ver: 573/1 Engine: 4205 Names: 1161 Exports: 849 Imports: 143 Game: 801A
+Loading Material3 Basic_StaticMesh06 from package 00053839.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Basic_StaticMesh07 from package 00053839.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 SkillSkin_Xmas_Acc02 from package 00053839.upk
+Loading Material3 SkillSkin_Xmas_Seed_Center from package 00053839.upk
+Loading Material3 spore01_material from package 00053839.upk
+Loading Material3 Xmas_Deco02 from package 00053839.upk
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading MaterialInstanceConstant INST_Basic_Acc05 from package 00053839.upk
+Loading package: 00030043.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 7 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant INST_Basic_Acc20 from package 00053839.upk
+Loading package: 00053810.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant INST_Basic_Deco01 from package 00053839.upk
+Loading MaterialInstanceConstant INST_Basic_Deco15 from package 00053839.upk
+Loading MaterialInstanceConstant INST_Basic_Deco16 from package 00053839.upk
+Loading package: 00036193.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant INST_SnowIce_deco05 from package 00053839.upk
+Loading package: 00012584.upk Ver: 573/1 Engine: 4205 Names: 321 Exports: 2089 Imports: 108 Game: 801A
+Loading MaterialInstanceConstant INST_SnowIce_star from package 00053839.upk
+Loading package: 00052507.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 15 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant Inst_StaticMesh02_Deco08 from package 00053839.upk
+Loading MaterialInstanceConstant Inst_StaticMesh02_Deco08_2 from package 00053839.upk
+Loading package: 00050962.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 8 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant Inst_StaticMesh02_Deco08_3 from package 00053839.upk
+Loading MaterialInstanceConstant INST_StaticMesh02_Deco12 from package 00053839.upk
+Loading package: 00036202.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant INST_StaticMesh04_010350 from package 00053839.upk
+Loading package: 00053786.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant INST_StaticMesh04_02 from package 00053839.upk
+Loading MaterialInstanceConstant INST_StaticMesh06_Deco09 from package 00053839.upk
+Loading MaterialInstanceConstant INST_StaticMesh_Deco03 from package 00053839.upk
+Loading MaterialInstanceConstant Opa from package 00053839.upk
+Loading MaterialInstanceConstant Opa_INST from package 00053839.upk
+Loading MaterialInstanceConstant SkillSkin_Xmas_Seed_Center_INST from package 00053839.upk
+Loading MaterialInstanceConstant tanpi_col1_Deco02tree from package 00053839.upk
+Loading package: 00046565.upk Ver: 573/1 Engine: 4205 Names: 573 Exports: 5864 Imports: 220 Game: 801A
+Loading MaterialInstanceConstant tanpi_col1_Xmas from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_col1_Acc01 from package 00053839.upk
+Loading package: 00035976.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant Xmas_col1_cookie from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_col1_Nukeattack from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_col1_Star01 from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_col1_Star02 from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_Deco01_Mat from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_Deco02_leaf from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_Deco05_snowmanMat from package 00053839.upk
+Loading package: 00036329.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading MaterialInstanceConstant Xmas_Deco08Mat02 from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_Star01Mat from package 00053839.upk
+Loading MaterialInstanceConstant Xmas_Star01Mat_INST from package 00053839.upk
+Loading MaterialInstanceConstant XmasStar_col1_Xmas from package 00053839.upk
+Loading MaterialInstanceConstant XmasStar_col1_Xmas02 from package 00053839.upk
+Loading StaticMesh3 Soul2Effect_WhiteDeer_test from package 00053839.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 Xmas_cookie01 from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco00 from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco01 from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco02tree from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco03Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco04_Etcsnowball from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco04Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco05_snowman from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco05Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco08_star from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco09Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco09Acc2 from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco10Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco12Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco13Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco14Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco15Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco16Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco17Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco17Acc2 from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco18Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco19Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco20Acc from package 00053839.upk
+Loading StaticMesh3 Xmas_Deco21Acc from package 00053839.upk
+Loading StaticMesh3 XMas_Deco_opa from package 00053839.upk
+Loading package: 00050963.upk Ver: 573/1 Engine: 4205 Names: 104 Exports: 2 Imports: 22 Game: 801A
+Loading StaticMesh3 Xmas_Decosnow01 from package 00053839.upk
+Loading StaticMesh3 Xmas_Decosnow02 from package 00053839.upk
+Loading StaticMesh3 Xmas_Decosnow03 from package 00053839.upk
+Loading StaticMesh3 Xmas_DecoStar01 from package 00053839.upk
+Loading StaticMesh3 Xmas_DecoStar02 from package 00053839.upk
+Loading StaticMesh3 Xmas_DecoStar03 from package 00053839.upk
+Loading StaticMesh3 Xmas_weapon070112 from package 00053839.upk
+Loading Texture2D Xmas_E_total from package 00053839.upk
+Loading Texture2D Xmas_Gradient from package 00053839.upk
+Loading Texture2D Xmas_Gradient02 from package 00053839.upk
+Loading Texture2D Xmas_Jin01 from package 00053839.upk
+Loading Texture2D Xmas_Jin02 from package 00053839.upk
+Loading Texture2D Xmas_Jin04 from package 00053839.upk
+Loading Texture2D Xmas_Jin05 from package 00053839.upk
+Loading Texture2D Xmas_Jin06 from package 00053839.upk
+Loading Texture2D Xmas_JinDecal_02 from package 00053839.upk
+Loading Texture2D Xmas_JinDecal_G from package 00053839.upk
+Loading Texture2D Xmas_JinDecal_R from package 00053839.upk
+Loading Texture2D Xmas_Jun07 from package 00053839.upk
+Loading Texture2D Xmas_leaf01 from package 00053839.upk
+Loading Texture2D Xmas_leaf02 from package 00053839.upk
+Loading Texture2D Xmas_leaf03N_Assassin from package 00053839.upk
+Loading Texture2D Xmas_Lollipop from package 00053839.upk
+Loading Texture2D Xmas_lollipop01 from package 00053839.upk
+Loading Texture2D Xmas_mask from package 00053839.upk
+Loading Texture2D Xmas_pattern_01 from package 00053839.upk
+Loading Texture2D Xmas_pattern_02 from package 00053839.upk
+Loading Texture2D Xmas_pattern_03 from package 00053839.upk
+Loading Texture2D Xmas_pattern_04 from package 00053839.upk
+Loading Texture2D Xmas_star00 from package 00053839.upk
+Loading Texture2D Xmas_Star01_04 from package 00053839.upk
+Loading Texture2D Xmas_Star01_N from package 00053839.upk
+Loading Texture2D Xmas_Star01D from package 00053839.upk
+Loading Texture2D Xmas_Star01M from package 00053839.upk
+Loading Texture2D Xmas_Star01N from package 00053839.upk
+Loading Texture2D Xmas_Star01S from package 00053839.upk
+Loading Texture2D XMas_Summon_Acc0020M from package 00053839.upk
+Loading Texture2D XMas_Summon_Acc0020N from package 00053839.upk
+Loading Texture2D Xmas_T_Acc01 from package 00053839.upk
+Loading Texture2D Xmas_T_cookieD from package 00053839.upk
+Loading Texture2D Xmas_T_cookieM from package 00053839.upk
+Loading Texture2D Xmas_T_cookieN from package 00053839.upk
+Loading Texture2D Xmas_T_cookieS from package 00053839.upk
+Loading Texture2D Xmas_T_deco01_all from package 00053839.upk
+Loading Texture2D Xmas_T_Deco01_mask from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_01 from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_02 from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_D from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_M from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_N from package 00053839.upk
+Loading Texture2D Xmas_T_lollipop_S from package 00053839.upk
+Loading Texture2D Xmas_T_Nukeattack_D from package 00053839.upk
+Loading Texture2D Xmas_T_Nukeattack_M from package 00053839.upk
+Loading Texture2D Xmas_T_Nukeattack_N from package 00053839.upk
+Loading Texture2D Xmas_T_Nukeattack_S from package 00053839.upk
+Loading Texture2D Xmas_T_Snow03D from package 00053839.upk
+Loading Texture2D Xmas_T_Snow03M from package 00053839.upk
+Loading Texture2D Xmas_T_Snow03N from package 00053839.upk
+Loading Texture2D Xmas_T_Snow03S from package 00053839.upk
+Loading Texture2D Xmas_T_Snow05D from package 00053839.upk
+Loading Texture2D Xmas_T_Snow05M from package 00053839.upk
+Loading Texture2D Xmas_T_Snow05N from package 00053839.upk
+Loading Texture2D Xmas_T_Snow05S from package 00053839.upk
+Loading Texture2D Xmas_T_Snow_01 from package 00053839.upk
+Loading Texture2D Xmas_T_Snow_02 from package 00053839.upk
+Loading Texture2D Xmas_T_Snow_03E from package 00053839.upk
+Loading Texture2D Xmas_T_Snow_04D from package 00053839.upk
+Loading Texture2D XmasStar_D from package 00053839.upk
+Loading Texture2D XmasStar_D02 from package 00053839.upk
+Loading Texture2D XmasStar_M from package 00053839.upk
+Loading Texture2D XmasStar_N from package 00053839.upk
+Loading Texture2D XmasStar_S from package 00053839.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_4channel_02 from package 00050895.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading TextureCube eye_s from package 00002640.upk
+Loading TextureCube mirror2 from package 00002640.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D Assassin_Tree000_S_Tex from package 00007928.upk
+Loading Texture2D Noise_002 from package 00012963.upk
+Loading Texture2D Noise_020 from package 00012963.upk
+Loading Texture2D Noise_004 from package 00012963.upk
+Loading Texture2D Normal_Stone_000 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Plant_004_06_N from package 00012963.upk
+Loading Texture2D Gradient_Line_001_YClamp from package 00012963.upk
+Loading Texture2D Plant_004_06_D from package 00012963.upk
+Loading Texture2D Gradient_Half_000 from package 00012963.upk
+Loading Texture2D Rudolf_Snow_Tex from package 00032237.upk
+Loading Texture2D 70036_JinF_col1_N from package 00030043.upk
+Loading Texture2D 70036_JinF_col1_M from package 00030043.upk
+Loading Texture2D 70036_JinF_col1_D from package 00030043.upk
+Loading Texture2D 70036_JinF_col1_S from package 00030043.upk
+Loading TextureCube Cube_Suicide2 from package 00002640.upk
+Loading Material3 Basic from package 00002620.upk
+Loading Texture2D 120252_Autoscale_col1_N from package 00053810.upk
+Loading Texture2D 120252_Autoscale_col1_M from package 00053810.upk
+Loading Texture2D 120252_Autoscale_col1_D from package 00053810.upk
+Loading Texture2D 120252_Autoscale_col1_S from package 00053810.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Material3 body_reflect_view from package 00002620.upk
+Loading Texture2D 010275_Autoscale_col1_N from package 00036193.upk
+Loading Texture2D 010275_Autoscale_col1_M from package 00036193.upk
+Loading Texture2D 010275_Autoscale_col1_D from package 00036193.upk
+Loading Texture2D 010275_Autoscale_col1_S from package 00036193.upk
+Loading Material3 Snow_basic from package 00012584.upk
+Loading Texture2D Snow_N from package 00052507.upk
+Loading TextureCube MatelW1 from package 00002640.upk
+Loading Texture2D Unique_Bone_N_000 from package 00012963.upk
+Loading TextureCube Cube_D from package 00002640.upk
+Loading Texture2D Item_0092_Col1_N from package 00050962.upk
+Loading Texture2D Item_0092_Col1_M from package 00050962.upk
+Loading Texture2D Item_0092_Col1_D from package 00050962.upk
+Loading Texture2D Item_0092_Col1_S from package 00050962.upk
+Loading TextureCube Cube_A from package 00002640.upk
+Loading Texture2D Noise_013_normal from package 00012963.upk
+Loading Texture2D Gradient_Light_Line_000_V from package 00012963.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D 030268_Autoscale_col1_N from package 00036202.upk
+Loading Texture2D 030268_Autoscale_col1_M from package 00036202.upk
+Loading Texture2D 030268_Autoscale_col1_D from package 00036202.upk
+Loading Texture2D 030268_Autoscale_col1_S from package 00036202.upk
+Loading Texture2D 010350_Autoscale_col1_N from package 00053786.upk
+Loading Texture2D 010350_Autoscale_col1_D from package 00053786.upk
+Loading Texture2D 010350_Autoscale_col1_S from package 00053786.upk
+Loading Material3 Lens from package 00002620.upk
+Loading Material3 wire_basic from package 00046565.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading TextureCube Cube_C from package 00002640.upk
+Loading Texture2D 040222_JinF_col1_N from package 00035976.upk
+Loading Texture2D 040222_JinF_col1_M from package 00035976.upk
+Loading Texture2D 040222_JinF_col1_D from package 00035976.upk
+Loading Texture2D 040222_JinF_col1_S from package 00035976.upk
+Loading Texture2D SnowMan_N from package 00036329.upk
+Loading Texture2D SnowMan_M from package 00036329.upk
+Loading Texture2D SnowMan_D from package 00036329.upk
+Loading Texture2D SnowMan_S from package 00036329.upk
+Loading Texture2D cube_D_DN from package 00002640.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading MaterialInstanceConstant Opa from package 00050963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading TextureCube lenscube from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 2.5 sec, 14382 allocs, 16.52 MBytes serialized in 1629482 calls.
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'check'
+        ReferencedTextures[1] = Texture2D'Smoke_Pattern_4channel_02'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[3] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[5] = Texture2D'check_n'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'check'
+        ReferencedTextures[1] = Texture2D'Smoke_Pattern_4channel_02'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[3] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[5] = Texture2D'check_n'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh02
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[7] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_4channel_02'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[6] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh03
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = TextureCube'eye_s'
+        ReferencedTextures[5] = TextureCube'mirror2'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.3
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh04
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[2] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[3] = Texture2D'check'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh05
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Cube000_Tex', Texture2D'Material.Assassin_Tree000_S_Tex' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh06
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Xmas_T_Snow03N', Texture2D'Xmas_T_Snow_04D', Texture2D'Noise_002' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Basic_StaticMesh07
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = true
+    ReferencedTextures[8] =
+    {
+        ReferencedTextures[0] = Texture2D'check_n'
+        ReferencedTextures[1] = Texture2D'check'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_003'
+        ReferencedTextures[4] = Texture2D'Gradient_Wipe_BurnOut_Mask_TEST'
+        ReferencedTextures[5] = Texture2D'Gradient_Wipe_BurnOut_Mask'
+        ReferencedTextures[6] = Texture2D'Noise_020'
+        ReferencedTextures[7] = Texture2D'Noise_004'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: SkillSkin_Xmas_Acc02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Xmas_leaf02'
+        ReferencedTextures[1] = Texture2D'Normal_Stone_000'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: SkillSkin_Xmas_Seed_Center
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[6] =
+    {
+        ReferencedTextures[0] = Texture2D'Plant_004_06_N'
+        ReferencedTextures[1] = Texture2D'Xmas_pattern_01'
+        ReferencedTextures[2] = Texture2D'Smoke_Pattern_001'
+        ReferencedTextures[3] = Texture2D'Gradient_Line_001_YClamp'
+        ReferencedTextures[4] = Texture2D'Plant_004_06_D'
+        ReferencedTextures[5] = Texture2D'Gradient_Half_000'
+    }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: spore01_material
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Xmas_leaf02' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Xmas_Deco02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Rudolf_Snow_Tex'
+        ReferencedTextures[1] = Texture2D'Normal_Stone_000'
+        ReferencedTextures[2] = Texture2D'Noise_Wave_000'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_Basic_Acc05
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=50 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'70036_JinF_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'70036_JinF_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'70036_JinF_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'70036_JinF_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_Suicide2' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'70036_JinF_col1_D' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.579547, G=0.348865, B=0.119264, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_Basic_Acc20
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=100 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'120252_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'120252_Autoscale_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'120252_Autoscale_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'120252_Autoscale_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'120252_Autoscale_col1_S' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.547994, G=0.835528, B=0.867136, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.592438, G=0.907547, B=0.95737, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_Basic_Deco01
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=20 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=100 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Xmas_Star01N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Xmas_pattern_01' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Xmas_Jun07' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_Suicide2' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.2, G=0.2, B=0.2, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_Basic_Deco15
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=50 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=2 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=8 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=10 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Xmas_T_lollipop_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Xmas_T_lollipop_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Xmas_Gradient02' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Xmas_T_lollipop_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_Suicide2' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_E_total' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_Basic_Deco16
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=15 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'010275_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'010275_Autoscale_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'010275_Autoscale_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'010275_Autoscale_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_Suicide2' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'010275_Autoscale_col1_D' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.36, G=0.2, B=0.1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=5, G=5, B=5, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_SnowIce_deco05
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Opacity, ParameterValue=0.8 }
+        ScalarParameterValues[1] = { ParameterName=Fresnel_Exp, ParameterValue=0.2 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=0.1 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'70036_JinF_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'70036_JinF_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Specular, ParameterValue=Texture2D'70036_JinF_col1_S' }
+        TextureParameterValues[3] = { ParameterName=Lens_spec_cube, ParameterValue=TextureCube'Cube_Suicide2' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Snow_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_SnowIce_star
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Opacity, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Fresnel_Exp, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=4 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Snow_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_JinDecal_R' }
+        TextureParameterValues[2] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_Jin06' }
+        TextureParameterValues[3] = { ParameterName=Lens_spec_cube, ParameterValue=TextureCube'MatelW1' }
+    }
+    VectorParameterValues[3] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=0.2, B=0.1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.806585, G=0.031551, B=0.027755, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Snow_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Inst_StaticMesh02_Deco08
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=0.1 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Unique_Bone_N_000' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[7] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Inst_StaticMesh02_Deco08_2
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=3.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=2 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=5 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=10 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=3.5 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=15 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_U, ParameterValue=0.5 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_V, ParameterValue=0.5 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Item_0092_Col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Item_0092_Col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Item_0092_Col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Item_0092_Col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_A' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_pattern_02' }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[7] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.7, G=0.6, B=0.3, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=6, G=2, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=12, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=15, G=15, B=15, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Inst_StaticMesh02_Deco08_3
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=3.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=5 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=35 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=0.35 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=0.35 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=80 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=3.5 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=15 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_U, ParameterValue=0.5 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_V, ParameterValue=0.5 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Noise_013_normal' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Gradient_Light_Line_000_V' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_pattern_02' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'cube_orb' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'Xmas_mask' }
+        TextureParameterValues[7] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=0.2, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.2, G=0.2, B=0.2, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.00456, G=0.000992, B=0.000175, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=6, G=2, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=12, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=15, G=15, B=15, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_StaticMesh02_Deco12
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=3.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=5 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=35 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=3.5 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=3.5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=80 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=0.5 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=1 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=3.5 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=15 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'030268_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'030268_Autoscale_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'030268_Autoscale_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'030268_Autoscale_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'cube_orb' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'030268_Autoscale_col1_S' }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'Xmas_mask' }
+        TextureParameterValues[7] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.00456, G=0.000992, B=0.000175, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=6, G=2, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=12, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=15, G=15, B=15, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_StaticMesh04_010350
+
+    ScalarParameterValues[2] =
+    {
+        ScalarParameterValues[0] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'010350_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=FX_Mask, ParameterValue=Texture2D'010350_Autoscale_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'010350_Autoscale_col1_S' }
+        TextureParameterValues[3] = { ParameterName=Emissive, ParameterValue=Texture2D'010350_Autoscale_col1_S' }
+    }
+    VectorParameterValues[10] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = twist
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.64, G=3.2, B=6, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = change_channelAlpha
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Tex_mask_alpha
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = DiffuseTexture_Add
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh04'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_StaticMesh04_02
+
+    ScalarParameterValues[2] =
+    {
+        ScalarParameterValues[0] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'010350_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=FX_Mask, ParameterValue=Texture2D'010350_Autoscale_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'010350_Autoscale_col1_S' }
+        TextureParameterValues[3] = { ParameterName=Emissive, ParameterValue=Texture2D'010350_Autoscale_col1_S' }
+    }
+    VectorParameterValues[10] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = twist
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.64, G=3.2, B=6, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = change_channelAlpha
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Tex_mask_alpha
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = DiffuseTexture_Add
+            ParameterValue = { R=0, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh04'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_StaticMesh06_Deco09
+
+    ScalarParameterValues[1] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Normalvalue, ParameterValue=1 }
+    }
+    TextureParameterValues[2] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_Lollipop' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_Lollipop' }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = FX_Transition
+            ParameterValue = { R=1, G=12, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh06'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: INST_StaticMesh_Deco03
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=FX_Mast_V, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=FX_Mast_U, ParameterValue=0.5 }
+        ScalarParameterValues[2] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[3] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[4] = { ParameterName=Glossiness2, ParameterValue=50 }
+        ScalarParameterValues[5] = { ParameterName=Specular_value, ParameterValue=0.1 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=Fresnel Value, ParameterValue=2 }
+        ScalarParameterValues[11] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=FX_Mask, ParameterValue=Texture2D'Xmas_T_lollipop_01' }
+        TextureParameterValues[1] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+        TextureParameterValues[2] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[3] = { ParameterName=FX_Mask2, ParameterValue=Texture2D'Xmas_T_lollipop_02' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0.5, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Opa
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Refracion, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Low-Opacity, ParameterValue=0.8 }
+        ScalarParameterValues[2] = { ParameterName=High-Opacity, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=20 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Lens-Normal, ParameterValue=Texture2D'Item_0092_Col1_N' }
+        TextureParameterValues[1] = { ParameterName=Lens_cube, ParameterValue=TextureCube'eye_s' }
+        TextureParameterValues[2] = { ParameterName=Lens_spec_cube, ParameterValue=TextureCube'eye_s' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0.047776, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=1, G=1, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Low-Diffuse
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = High-Diffuse
+            ParameterValue = { R=0.65237, G=0.65237, B=0.65237, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Low-RF
+            ParameterValue = { R=0.535642, G=0.618686, B=0.605484, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = High-RF
+            ParameterValue = { R=0.796917, G=0.796917, B=0.796917, A=1 }
+        }
+    }
+    Parent = Material3'Lens'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Opa_INST
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Refracion, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Low-Opacity, ParameterValue=0.8 }
+        ScalarParameterValues[2] = { ParameterName=High-Opacity, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=20 }
+    }
+    TextureParameterValues[3] =
+    {
+        TextureParameterValues[0] = { ParameterName=Lens-Normal, ParameterValue=Texture2D'Xmas_T_Snow03N' }
+        TextureParameterValues[1] = { ParameterName=Lens_cube, ParameterValue=TextureCube'eye_s' }
+        TextureParameterValues[2] = { ParameterName=Lens_spec_cube, ParameterValue=TextureCube'eye_s' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=0.5, B=0.1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=2, G=1, B=0.1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Low-Diffuse
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = High-Diffuse
+            ParameterValue = { R=0.65237, G=0.65237, B=0.65237, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Low-RF
+            ParameterValue = { R=0.535642, G=0.618686, B=0.605484, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = High-RF
+            ParameterValue = { R=0.796917, G=0.796917, B=0.796917, A=1 }
+        }
+    }
+    Parent = MaterialInstanceConstant'Opa'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: SkillSkin_Xmas_Seed_Center_INST
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=TEx01, ParameterValue=Texture2D'Xmas_lollipop01' }
+    }
+    VectorParameterValues[2] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Color_emissive
+            ParameterValue = { R=50.8758, G=50.0795, B=50.0356, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Color_diffuse
+            ParameterValue = { R=0.875819, G=0.079547, B=0.035614, A=1 }
+        }
+    }
+    Parent = Material3'SkillSkin_Xmas_Seed_Center'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: tanpi_col1_Deco02tree
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=50 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=10 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'010275_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'010275_Autoscale_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'010275_Autoscale_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'010275_Autoscale_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'010275_Autoscale_col1_D' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1.6, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=5, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=3, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: tanpi_col1_Xmas
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=50 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=10 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=2 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_T_lollipop_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_T_lollipop_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_T_lollipop_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_T_lollipop_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_T_lollipop_D' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_col1_Acc01
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'040222_JinF_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'040222_JinF_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'040222_JinF_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'040222_JinF_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'040222_JinF_col1_D' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_col1_cookie
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_T_cookieN' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_T_cookieM' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_T_cookieD' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_T_cookieS' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_T_cookieD' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_col1_Nukeattack
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=100 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_T_Nukeattack_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_T_Nukeattack_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_T_Nukeattack_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_T_Nukeattack_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'lenscube_a' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[11] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.547994, G=0.835528, B=0.867136, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.592438, G=0.907547, B=0.95737, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_col1_Star01
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_Star01N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_Star01D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_Star01S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_Star01_04' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_col1_Star02
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_Star01N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_Star01D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_Star01S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'XmasStar_D02' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=12, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Deco01_Mat
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=FX_Mast_V, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=FX_Mast_U, ParameterValue=0.5 }
+        ScalarParameterValues[2] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[3] = { ParameterName=Glossiness1, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=Glossiness2, ParameterValue=8 }
+        ScalarParameterValues[5] = { ParameterName=Specular_value, ParameterValue=0.1 }
+        ScalarParameterValues[6] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[7] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[8] = { ParameterName=Emissive_value, ParameterValue=5 }
+        ScalarParameterValues[9] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[10] = { ParameterName=Fresnel Value, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=Fresnel exponent, ParameterValue=3 }
+    }
+    TextureParameterValues[4] =
+    {
+        TextureParameterValues[0] = { ParameterName=FX_Mask, ParameterValue=Texture2D'Xmas_T_deco01_all' }
+        TextureParameterValues[1] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+        TextureParameterValues[2] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[3] = { ParameterName=FX_Mask2, ParameterValue=Texture2D'Xmas_T_Deco01_mask' }
+    }
+    VectorParameterValues[13] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=0.1, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=3, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.01, G=0.1, B=0.1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh01'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Deco02_leaf
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=Tex, ParameterValue=Texture2D'Xmas_leaf02' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Xmas_Deco02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Deco05_snowmanMat
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=0 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=FX_Mast_U, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=FX_Mast_V, ParameterValue=1 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'SnowMan_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'SnowMan_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'SnowMan_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'SnowMan_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_D' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'SnowMan_M' }
+        TextureParameterValues[6] = { ParameterName=FX_Mask, ParameterValue=Texture2D'SnowMan_S' }
+        TextureParameterValues[7] = { ParameterName=Tex_pattern, ParameterValue=Texture2D'Smoke_Pattern_4channel_02' }
+    }
+    VectorParameterValues[14] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Mask_position
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Tex_Mask_switch
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = tex_change_value
+            ParameterValue = { R=0, G=0, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_StaticMesh02'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Deco08Mat02
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=20 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=100 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Xmas_Star01_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=Texture2D'cube_D_DN' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=0.02, G=0.02, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.02, G=0.02, B=0.02, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.02, G=0.02, B=0.02, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Star01Mat
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=3.5 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=100 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=20 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=100 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=10 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Xmas_Star01_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Xmas_Star01_04' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Xmas_Star01D' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=Texture2D'cube_D_DN' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=0.02, G=0.02, B=0, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.02, G=0.02, B=0.02, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.02, G=0.02, B=0.02, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Xmas_Star01Mat_INST
+
+    ScalarParameterValues[13] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Skin_glossiness, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Wear_glossiness1, ParameterValue=50 }
+        ScalarParameterValues[3] = { ParameterName=Wear_glossiness2, ParameterValue=10 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=5 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=150 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=Specular_value, ParameterValue=2 }
+        ScalarParameterValues[11] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Body_normal, ParameterValue=Texture2D'Xmas_Star01_N' }
+        TextureParameterValues[1] = { ParameterName=Body_mask_RGB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Body_diffuse, ParameterValue=Texture2D'Xmas_pattern_04' }
+        TextureParameterValues[3] = { ParameterName=Body_specular, ParameterValue=Texture2D'Xmas_Star01S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=Texture2D'cube_D_DN' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_pattern_04' }
+    }
+    VectorParameterValues[7] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=3, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=6, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'body_reflect_view'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: XmasStar_col1_Xmas
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'Xmas_Star01D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_Star01S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_Star01_04' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: XmasStar_col1_Xmas02
+
+    ScalarParameterValues[12] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=10 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=6 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=50 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=1 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=15 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+        ScalarParameterValues[10] = { ParameterName=offset_onoff, ParameterValue=0 }
+        ScalarParameterValues[11] = { ParameterName=other_alpha, ParameterValue=1 }
+    }
+    TextureParameterValues[6] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'Xmas_Star01M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'XmasStar_D02' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'Xmas_Star01S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_C' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'Xmas_Star01_04' }
+    }
+    VectorParameterValues[15] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=2, G=2, B=2, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=0.8, G=0.75, B=0.5, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=0 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=3, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Test
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = WorldPositionOffset_Z_ST
+            ParameterValue = { R=0, G=0, B=20, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = WorldPositionOffset_Y_ST_002
+            ParameterValue = { R=0, G=-10, B=0, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Mask
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'wire_basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Soul2Effect_WhiteDeer_test
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-0.1623, Z=0.31855 }
+        BoxExtent = { X=11.9144, Y=12.5744, Z=2.60845 }
+        SphereRadius = 17.3917
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=152 }
+            }
+            NumVerts = 312
+            IndexCount = 456
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_cookie01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=10.5047 }
+        BoxExtent = { X=2.2277, Y=18.0528, Z=26.8639 }
+        SphereRadius = 28.1133
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1141 }
+            }
+            NumVerts = 2060
+            IndexCount = 3423
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco00
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=-5.00679e-005 }
+        BoxExtent = { X=5.3754, Y=4.8313, Z=5.76725 }
+        SphereRadius = 8.32149
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1322 }
+            }
+            NumVerts = 3966
+            IndexCount = 3966
+            NumTexCoords = 3
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.4144, Y=-0.7183, Z=1.4633 }
+        BoxExtent = { X=5.2159, Y=2.7536, Z=3.3295 }
+        SphereRadius = 6.44749
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=224 }
+            }
+            NumVerts = 268
+            IndexCount = 672
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco02tree
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.0291996, Y=-0.0131497, Z=26.7801 }
+        BoxExtent = { X=8.1818, Y=7.68185, Z=28.6688 }
+        SphereRadius = 28.703
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=2018 }
+            }
+            NumVerts = 4520
+            IndexCount = 6054
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco03Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=1.8853, Y=3.2495, Z=3.5904 }
+        SphereRadius = 3.87469
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=122 }
+            }
+            NumVerts = 304
+            IndexCount = 366
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco04_Etcsnowball
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.580795, Y=-0.414398, Z=1.1754 }
+        BoxExtent = { X=103.094, Y=103.703, Z=105.21 }
+        SphereRadius = 109.879
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=832 }
+            }
+            NumVerts = 892
+            IndexCount = 2496
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco04Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.1321, Y=0.9392, Z=-0.24305 }
+        BoxExtent = { X=3.243, Y=1.489, Z=2.42605 }
+        SphereRadius = 3.57208
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=198 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 436
+            IndexCount = 594
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco05_snowman
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.13155, Y=2.71955, Z=19.6357 }
+        BoxExtent = { X=15.2344, Y=11.1453, Z=19.6737 }
+        SphereRadius = 20.6495
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=3996 }
+            }
+            NumVerts = 5154
+            IndexCount = 11988
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco05Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=2.8294, Y=3.7833, Z=4.4 }
+        SphereRadius = 5.88583
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=240 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 502
+            IndexCount = 720
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco08_star
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=4.8638, Y=4.4503, Z=1.2682 }
+        SphereRadius = 5.14925
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=68 }
+            }
+            NumVerts = 184
+            IndexCount = 204
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco09Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=7.7341, Y=13.3959, Z=13.3959 }
+        SphereRadius = 13.3959
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=96 }
+            }
+            NumVerts = 148
+            IndexCount = 288
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco09Acc2
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.0079999, Y=-0.00690031, Z=0.4178 }
+        BoxExtent = { X=4.775, Y=4.6943, Z=0.582 }
+        SphereRadius = 4.83996
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=12 }
+            }
+            NumVerts = 26
+            IndexCount = 36
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco10Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=2.4658, Y=3.26935, Z=0.34495 }
+        BoxExtent = { X=4.9384, Y=1.47085, Z=6.22195 }
+        SphereRadius = 7.40927
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=72 }
+            }
+            NumVerts = 224
+            IndexCount = 216
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco12Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.0716, Y=3.343, Z=0.0998001 }
+        BoxExtent = { X=10.9211, Y=0.0029, Z=10.9211 }
+        SphereRadius = 11.4872
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=288 }
+            }
+            NumVerts = 896
+            IndexCount = 864
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco13Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.947299, Y=0.93225, Z=0.07265 }
+        BoxExtent = { X=7.0903, Y=8.46805, Z=0.50385 }
+        SphereRadius = 9.39929
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=14 }
+            }
+            NumVerts = 56
+            IndexCount = 42
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco14Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0.0766499, Z=0.64855 }
+        BoxExtent = { X=3.4779, Y=3.47785, Z=0.88375 }
+        SphereRadius = 4.99295
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=12 }
+            }
+            NumVerts = 30
+            IndexCount = 36
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco15Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=7.3466, Y=2.14115, Z=0.447449 }
+        BoxExtent = { X=21.5861, Y=7.04785, Z=22.3494 }
+        SphereRadius = 30.1967
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=344 }
+            }
+            NumVerts = 536
+            IndexCount = 1032
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco16Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=1.5544, Y=0, Z=-18.8104 }
+        BoxExtent = { X=34.2085, Y=11.4524, Z=41.5496 }
+        SphereRadius = 47.5935
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=657 }
+            }
+            NumVerts = 1018
+            IndexCount = 1971
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco17Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=8.25965, Y=10.0772, Z=70.5603 }
+        BoxExtent = { X=38.9255, Y=15.0137, Z=87.0512 }
+        SphereRadius = 89.0542
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=913 }
+            }
+            NumVerts = 1346
+            IndexCount = 2739
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco17Acc2
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=9.06145, Y=0, Z=-17.3721 }
+        BoxExtent = { X=38.9255, Y=15.0137, Z=87.0511 }
+        SphereRadius = 89.0541
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=913 }
+            }
+            NumVerts = 1346
+            IndexCount = 2739
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco18Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=11.2592, Y=3.6247, Z=11.4514 }
+        SphereRadius = 16.4634
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=38 }
+            }
+            NumVerts = 66
+            IndexCount = 114
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco19Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.0344, Y=-0.20785, Z=0.2218 }
+        BoxExtent = { X=2.0808, Y=0.47895, Z=2.0035 }
+        SphereRadius = 2.41099
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=10 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 60
+            IndexCount = 30
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco20Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=7.3523, Y=2.7832, Z=8.0352 }
+        SphereRadius = 8.38188
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=120 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 240
+            IndexCount = 360
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Deco21Acc
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=7.3523, Y=0.5156, Z=8.0352 }
+        SphereRadius = 8.21291
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=60 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 120
+            IndexCount = 180
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: XMas_Deco_opa
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=3.0877, Y=3.0979, Z=3.0432 }
+        SphereRadius = 3.1541
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'Opa', FirstIndex=0, NumFaces=208 }
+            }
+            NumVerts = 1216
+            IndexCount = 624
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Decosnow01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0.5, Y=0, Z=0 }
+        BoxExtent = { X=5.7835, Y=6.7092, Z=0.3074 }
+        SphereRadius = 6.71674
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=1616 }
+            }
+            NumVerts = 4868
+            IndexCount = 4848
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Decosnow02
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=8.6089, Y=9.7422, Z=0.3832 }
+        SphereRadius = 9.89439
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=777 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 2642
+            IndexCount = 2331
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_Decosnow03
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=5.8563, Y=6.2418, Z=0.221 }
+        SphereRadius = 6.43198
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=396 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 1508
+            IndexCount = 1188
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_DecoStar01
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-1.3021, Z=-0.000950098 }
+        BoxExtent = { X=10.5753, Y=10.4642, Z=2.05575 }
+        SphereRadius = 12.8701
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=120 }
+            }
+            NumVerts = 164
+            IndexCount = 360
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_DecoStar02
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=-1.00665, Z=-0.00105 }
+        BoxExtent = { X=9.2758, Y=9.29465, Z=1.91445 }
+        SphereRadius = 11.129
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=480 }
+            }
+            NumVerts = 564
+            IndexCount = 1440
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_DecoStar03
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=-0.0344, Y=0.285, Z=0.2218 }
+        BoxExtent = { X=2.0808, Y=0.9718, Z=2.0035 }
+        SphereRadius = 2.363
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[2] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=20 }
+                Sections[1] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=0 }
+            }
+            NumVerts = 44
+            IndexCount = 60
+            NumTexCoords = 2
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: StaticMesh3 ObjectName: Xmas_weapon070112
+
+    BodySetup = None
+    UseSimpleLineCollision = false
+    UseSimpleBoxCollision = false
+    UseSimpleRigidBodyCollision = false
+    UseFullPrecisionUVs = false
+    Bounds =
+    {
+        Origin = { X=0, Y=0, Z=0 }
+        BoxExtent = { X=5.1211, Y=0.6695, Z=4.1794 }
+        SphereRadius = 5.37595
+    }
+    CanCompressPositions = false
+    CanStripNormalsAndTangents = false
+    InternalVersion = 18
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=Material3'001_Mesh_Default_MatM', FirstIndex=0, NumFaces=204 }
+            }
+            NumVerts = 386
+            IndexCount = 612
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_E_total
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Gradient
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Gradient02
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jin01
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jin02
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jin04
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jin05
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jin06
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_JinDecal_02
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_JinDecal_G
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_JinDecal_R
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Jun07
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_leaf01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_leaf02
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_leaf03N_Assassin
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Lollipop
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_lollipop01
+
+    SizeX = 64
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_mask
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_pattern_01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_pattern_02
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_pattern_03
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_pattern_04
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_star00
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01_04
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01_N
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01D
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01M
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01N
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_Star01S
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XMas_Summon_Acc0020M
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XMas_Summon_Acc0020N
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Acc01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_cookieD
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_cookieM
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_cookieN
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_cookieS
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_deco01_all
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Deco01_mask
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_02
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_D
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_M
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_N
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_lollipop_S
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Nukeattack_D
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Nukeattack_M
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Nukeattack_N
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { -1, -1, -1, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Nukeattack_S
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow03D
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow03M
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow03N
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow03S
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow05D
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow05M
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow05N
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow05S
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow_01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow_02
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow_03E
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Xmas_T_Snow_04D
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XmasStar_D
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XmasStar_D02
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XmasStar_M
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XmasStar_N
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: XmasStar_S
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

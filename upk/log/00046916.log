@@ -1,0 +1,165 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00046916.upk Ver: 573/1 Engine: 4205 Names: 231 Exports: 175 Imports: 23 Game: 801A
+Loading SkeletalMesh3 10118_KunN from package 00046916.upk
+WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
+WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
+WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
+WARNING: FloatProperty "USkeletalMesh3::AddFootOffsetValue" was not found
+WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
+WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
+WARNING: ArrayProperty "USkeletalMesh3::NameplateMeshScaleRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::NameplateHeightRatio" was not found
+WARNING: ArrayProperty "USkeletalMesh3::MeshScaleRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::HeightRatio" was not found
+WARNING: StructProperty "USkeletalMesh3::HandRatio" was not found
+WARNING: ByteProperty "USkeletalMesh3::CommonPhysicsUseFlag" was not found
+Loading package: 00046918.upk Ver: 573/1 Engine: 4205 Names: 125 Exports: 3 Imports: 36 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_1037 from package 00046916.upk
+Loading SkeletalMeshSocket SkeletalMeshSocket_996 from package 00046916.upk
+Loading MaterialInstanceConstant col1 from package 00046918.upk
+Loading package: 00046917.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00046905.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 9 Imports: 2 Game: 801A
+Loading package: 00046904.upk Ver: 573/1 Engine: 4205 Names: 643 Exports: 945 Imports: 157 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading MaterialInstanceConstant Op from package 00046918.upk
+Loading package: 00028999.upk Ver: 573/1 Engine: 4205 Names: 55 Exports: 17 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1_1 from package 00046918.upk
+Loading Texture2D 10118_KunN_col1_N from package 00046917.upk
+Loading Texture2D 10118_KunN_col1_M from package 00046917.upk
+Loading Texture2D 10118_KunN_col1_D from package 00046917.upk
+Loading Texture2D 10118_KunN_col1_S from package 00046917.upk
+Loading TextureCube MatelR1 from package 00002640.upk
+Loading Texture2D 10118_JinF_col1_E from package 00046905.upk
+Loading Texture2D 10118_FX from package 00046904.upk
+Loading Texture2D Smoke_Pattern_000 from package 00012963.upk
+Loading Material3 Body_FX1 from package 00046904.upk
+Loading TextureCube Cubecube from package 00028999.upk
+Loading Material3 Blend_OP from package 00002620.upk
+Loading Texture2D 10118_JinF_col1_N_ac from package 00046905.upk
+Loading Texture2D 10118_JinF_col1_M_ac from package 00046905.upk
+Loading Texture2D 10118_JinF_col1_D_ac from package 00046905.upk
+Loading Texture2D 10118_JinF_col1_S_ac from package 00046905.upk
+Loading TextureCube lenscube_a from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Noise_017 from package 00012963.upk
+Loading Texture2D 10118_ac_FX from package 00046904.upk
+Loading Material3 Body_FX2 from package 00046904.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00028999.upk
+Loading Texture2D CubemapFace1 from package 00028999.upk
+Loading Texture2D CubemapFace2 from package 00028999.upk
+Loading Texture2D CubemapFace3 from package 00028999.upk
+Loading Texture2D CubemapFace4 from package 00028999.upk
+Loading Texture2D CubemapFace5 from package 00028999.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.46 sec, 4523 allocs, 4.59 MBytes serialized in 612571 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 10118_KunN
+
+    LODInfo[2] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[4] = { true, true, true, true }
+        }
+        LODInfo[1] =
+        {
+            DisplayFactor = 0.25
+            LODHysteresis = 0.02
+            LODMaterialMap[3] = { 0, 1, 2 }
+            bEnableShadowCasting[3] = { true, true, true }
+        }
+    }
+    Sockets[2] =
+    {
+        Sockets[0] = SkeletalMeshSocket'10118_KunN.SkeletalMeshSocket_996'
+        Sockets[1] = SkeletalMeshSocket'10118_KunN.SkeletalMeshSocket_1037'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[3] =
+    {
+        Materials[0] = MaterialInstanceConstant'col1'
+        Materials[1] = MaterialInstanceConstant'Op'
+        Materials[2] = MaterialInstanceConstant'col1_1'
+    }
+
+
+    Lods[2] =
+    {
+        Lods[0] =
+        {
+            Sections[4] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=9223 }
+                Sections[1] = { Material=MaterialInstanceConstant'Op', FirstIndex=27669, NumFaces=244 }
+                Sections[2] = { Material=MaterialInstanceConstant'col1', FirstIndex=28401, NumFaces=32 }
+                Sections[3] = { Material=MaterialInstanceConstant'col1_1', FirstIndex=28497, NumFaces=1166 }
+            }
+            NumVerts = 7775
+            IndexCount = 31995
+            NumTexCoords = 1
+        }
+        Lods[1] =
+        {
+            Sections[3] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=2556 }
+                Sections[1] = { Material=MaterialInstanceConstant'col1_1', FirstIndex=7668, NumFaces=226 }
+                Sections[2] = { Material=MaterialInstanceConstant'Op', FirstIndex=8346, NumFaces=62 }
+            }
+            NumVerts = 2588
+            IndexCount = 8532
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 2
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 103
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_1037
+
+    SocketName = Fx_Add2
+    BoneName = BoneShoulderTwistR01
+    RelativeLocation = { X=0, Y=3, Z=-0.5 }
+    RelativeRotation = { Yaw=16384, Pitch=0, Roll=21845 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_996
+
+    SocketName = FX_Add
+    BoneName = Bone_RThigh_Scale
+    RelativeLocation = { X=4.76819, Y=-5.95885, Z=1.52358 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

@@ -1,0 +1,35 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00025744.upk Ver: 573/1 Engine: 4205 Names: 312 Exports: 370 Imports: 69 Game: 801A
+Loading Texture2D Game_GuildVoiceChatScene_Preview from package 00025744.upk
+Loading Texture2D Game_VoiceChatHUDScene_Preview from package 00025744.upk
+Loaded in 0.004 sec, 340 allocs, 0.05 MBytes serialized in 8228 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_GuildVoiceChatScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_VoiceChatHUDScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

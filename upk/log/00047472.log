@@ -1,0 +1,124 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00047472.upk Ver: 573/1 Engine: 4205 Names: 126 Exports: 37 Imports: 17 Game: 801A
+Loading SkeletalMesh3 RoboMiniEvolve from package 00047472.upk
+WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
+Loading package: 00047471.upk Ver: 573/1 Engine: 4205 Names: 90 Exports: 1 Imports: 20 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_187 from package 00047472.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_188 from package 00047472.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::PreviewSkelMesh" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_311 from package 00047472.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_312 from package 00047472.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+Loading MaterialInstanceConstant col1 from package 00047471.upk
+Loading package: 00047470.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D RoboMiniEvolve_col1_N from package 00047470.upk
+Loading Texture2D RoboMiniEvolve_col1_M from package 00047470.upk
+Loading Texture2D RoboMiniEvolve_col1_D from package 00047470.upk
+Loading Texture2D RoboMiniEvolve_col1_S from package 00047470.upk
+Loading TextureCube cube_orb from package 00002640.upk
+Loading Texture2D RoboMiniEvolve_col1_E from package 00047470.upk
+Loading Material3 Basic from package 00002620.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loaded in 0.17 sec, 3023 allocs, 1.97 MBytes serialized in 278510 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: RoboMiniEvolve
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[4] =
+    {
+        Sockets[0] = SkeletalMeshSocket'RoboMiniEvolve.SkeletalMeshSocket_187'
+        Sockets[1] = SkeletalMeshSocket'RoboMiniEvolve.SkeletalMeshSocket_188'
+        Sockets[2] = SkeletalMeshSocket'RoboMiniEvolve.SkeletalMeshSocket_311'
+        Sockets[3] = SkeletalMeshSocket'RoboMiniEvolve.SkeletalMeshSocket_312'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=3358 }
+            }
+            NumVerts = 2995
+            IndexCount = 10074
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 33
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_187
+
+    SocketName = ddd
+    BoneName = Root
+    RelativeLocation = { X=0, Y=29.7503, Z=-86.25 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_188
+
+    SocketName = ddddd
+    BoneName = Root
+    RelativeLocation = { X=0, Y=29.7506, Z=-85 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_311
+
+    SocketName = Trail_L
+    BoneName = Bone_FX_L
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_312
+
+    SocketName = Trail_R
+    BoneName = Bone_FX_R
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=1, Y=1, Z=1 }

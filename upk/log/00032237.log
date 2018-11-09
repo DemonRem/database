@@ -1,0 +1,165 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading AnimSet MrKHat_AnimSet2 from package 00032237.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00032237.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
+Loading AnimSet MrKHat_AnimSet from package 00032237.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00032237.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading Material3 Drone_Glitch_Master_MAT from package 00032237.upk
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading Material3 Drone_holo_01_MAT from package 00032237.upk
+Loading Material3 Drone_Worldposition_001_MAT from package 00032237.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
+Loading Material3 Girl_six_MAT from package 00032237.upk
+Loading Material3 GlowGray001_MatB_Fakedepth from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+check for DefaultTexture in 00032237
+check for DefaultTexture in 00012963
+WARNING: Import(EngineResources.DefaultTexture) was not found
+Loading Material3 KBO2016_Ball_MatB from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 M01_Start001 from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 M02_SharpRing001 from package 00032237.upk
+Loading Material3 M_BunnyCard_v001 from package 00032237.upk
+Loading Material3 M_BunnyCard_v002 from package 00032237.upk
+Loading Material3 M_BunnyCard_v003 from package 00032237.upk
+Loading Material3 M_BunnyCard_v004 from package 00032237.upk
+Loading Material3 Sakura_DependencyTrailM from package 00032237.upk
+Loading Material3 Pet_FireGorillaEvolve_Mat01 from package 00032237.upk
+check for Prop_Fire_001_05_Mask1 in 00032237
+check for Prop_Fire_001_05_Mask1 in 00012963
+WARNING: Import(Prop_Fire_001.Prop_Fire_001_05_Mask1) was not found
+Loading Material3 Rainbow from package 00032237.upk
+Loading Material3 Rudolf_Nose_Mat from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bUsedWithMaterialEffect" was not found
+Loading Material3 Rudolf_Snow_Mat from package 00032237.upk
+Loading Material3 Yuran_glow_trans from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Yuran_Scan002_MatM from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Yuran_start01 from package 00032237.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading MaterialInstanceConstant col1 from package 00032237.upk
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant Drone_Glitch_01_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_02_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_03_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_04_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_05_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_06_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_07_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_08_MAT from package 00032237.upk
+Loading MaterialInstanceConstant Drone_Glitch_09_MAT from package 00032237.upk
+Loading SkeletalMesh3 MrKHat from package 00032237.upk
+Loading SkeletalMesh3 MrKHat2 from package 00032237.upk
+Loading StaticMesh3 BlueDragonEvolve_Eyes_SM from package 00032237.upk
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading StaticMesh3 HAT from package 00032237.upk
+Loading StaticMesh3 hex_sphere_SM from package 00032237.upk
+Loading StaticMesh3 Rain from package 00032237.upk
+Loading StaticMesh3 Rudolf_Nose_SM from package 00032237.upk
+Loading StaticMesh3 SM_BunnyCard_v001 from package 00032237.upk
+Loading package: 00054983.upk Ver: 573/1 Engine: 4205 Names: 92 Exports: 1 Imports: 19 Game: 801A
+Loading StaticMesh3 SM_Decal_10x10 from package 00032237.upk
+Loading StaticMesh3 unicorn_ from package 00032237.upk
+Loading Texture2D drone_tex from package 00032237.upk
+Loading Texture2D ggam_01_TEX from package 00032237.upk
+Loading Texture2D ggam_02_TEX from package 00032237.upk
+Loading Texture2D girl_fire from package 00032237.upk
+Loading Texture2D Glitch_TEX_01 from package 00032237.upk
+Loading Texture2D Glitch_TEX_02 from package 00032237.upk
+Loading Texture2D Gradient_001 from package 00032237.upk
+Loading Texture2D heart_TEX_01 from package 00032237.upk
+Loading Texture2D heart_TEX_02 from package 00032237.upk
+Loading Texture2D holo_box_TEX from package 00032237.upk
+Loading Texture2D holo_loading01_TEX from package 00032237.upk
+Loading Texture2D holo_loading02_Tex from package 00032237.upk
+Loading Texture2D KBO2016_ball from package 00032237.upk
+Loading Texture2D KBO2016_ball_text from package 00032237.upk
+Loading Texture2D MrKEvolve_col1_DMrKEvolve_col1_D from package 00032237.upk
+Loading Texture2D MrKEvolve_col1_EMrKEvolve_col1_D from package 00032237.upk
+Loading Texture2D MrKEvolve_col1_MMrKEvolve_col1_D from package 00032237.upk
+Loading Texture2D MrKEvolve_col1_NMrKEvolve_col1_D from package 00032237.upk
+Loading Texture2D MrKEvolve_col1_SMrKEvolve_col1_D from package 00032237.upk
+Loading Texture2D Rudolf_Snow_Tex from package 00032237.upk
+Loading Texture2D TT_01_TEX from package 00032237.upk
+Loading Texture2D TT_02_TEX from package 00032237.upk
+Loading Texture2D BG_FX_GeneralCircle_001_Blur from package 00012963.upk
+Loading Texture2D BG_SandfallNoise_001_D from package 00012963.upk
+Loading Texture2D AncientMechaScorpion_Naryu_pattern from package 00012963.upk
+Loading Texture2D Gradient_009 from package 00012963.upk
+Loading Texture2D BG_FX_GeneralCircle_Logo_001_Blur from package 00012963.upk
+Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D light_line from package 00012963.upk
+Loading Texture2D Smoke_Cloud_003 from package 00012963.upk
+Loading Texture2D Glow_002 from package 00012963.upk
+Loading Texture2D Unique_Star_000 from package 00012963.upk
+Loading Texture2D Ring_ShockWave_001 from package 00012963.upk
+Loading Texture2D T_BunnyCard_v002_D from package 00012963.upk
+Loading Texture2D T_BunnyCard_v001_D from package 00012963.upk
+Loading Texture2D T_BunnyCard_v003_D from package 00012963.upk
+Loading Texture2D Gradient_Color_BlueToPurple_000 from package 00012963.upk
+Loading Texture2D Gradient_Trail_002 from package 00012963.upk
+Loading Texture2D Gradient_Slash_001_Tex from package 00012963.upk
+Loading Texture2D Gradient_Light_Line_000 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
+Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
+Loading Texture2D Gradient_Line_001 from package 00012963.upk
+Loading Texture2D Glow_Trail_001 from package 00012963.upk
+Loading Texture2D Noise_003 from package 00012963.upk
+Loading Texture2D Gradient_Color_Rainbow_000 from package 00012963.upk
+Loading Texture2D Normal_Stone_000 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Glow_Flar_010 from package 00012963.upk
+Loading Texture2D Glow_008 from package 00012963.upk
+Loading Texture2D Gradient_Beam_005 from package 00012963.upk
+Loading Texture2D Normal_Ripple_000 from package 00012963.upk
+Loading Texture2D Smoke_005 from package 00012963.upk
+Loading TextureCube lenscube from package 00002640.upk
+Loading Material3 Basic from package 00002620.upk
+Loading Texture2D Damage02_Fire_creake10 from package 00012963.upk
+Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00054983.upk
+Loading package: 00054982.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 4 Imports: 2 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D Cube000_Tex from package 00023713.upk
+Loading Texture2D Pet_MagicBunnyEvolve_col1_N from package 00054982.upk
+Loading Texture2D Pet_MagicBunnyEvolve_col1_M from package 00054982.upk
+Loading Texture2D Pet_MagicBunnyEvolve_col1_S from package 00054982.upk
+Loading Texture2D Pet_MagicBunnyEvolve_col1_D from package 00054982.upk
+Loading Material3 Fur_Ac from package 00002620.upk
+Loading Texture2D Noise_Glass_000 from package 00012963.upk
+Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS/contents/bns/CookedPC" -game=bns 00032237
+******** 00032237 ********
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** ERROR: Unknown rotation compression method: 255
+UAnimSet::ConvertAnims <- PostLoad:MrKHat_AnimSet2 <- UObject::EndLoad <- LoadWholePackage:00032237 <- Main
+
+
+    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:962:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

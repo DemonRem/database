@@ -1,0 +1,51 @@
+Found 32768 game files (1222 skipped)
+Loading package: 00019827.upk Ver: 573/1 Engine: 4205 Names: 1091 Exports: 4295 Imports: 136 Game: 801A
+Loading Texture2D Game_DragonJadeRefinementScene_Preview from package 00019827.upk
+Loading Texture2D Game_DragonJadeShopScene_Preview from package 00019827.upk
+Loading Texture2D Game_TencentIngameShopScene_Preview from package 00019827.upk
+Loaded in 0.009 sec, 1124 allocs, 0.37 MBytes serialized in 81744 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_DragonJadeRefinementScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_DragonJadeShopScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_TencentIngameShopScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
