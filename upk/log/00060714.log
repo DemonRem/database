@@ -1,0 +1,51 @@
+Found 32768 game files (1766 skipped)
+Loading package: 00060714.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 3 Imports: 2 Game: 801A
+Loading Texture2D 0026_D2 from package 00060714.upk
+Loading Texture2D 0026_N1 from package 00060714.upk
+Loading Texture2D 0026_S2 from package 00060714.upk
+Loaded in 0.036 sec, 143 allocs, 0.23 MBytes serialized in 813 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 0026_D2
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 0026_N1
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { -1, -1, -1, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 0026_S2
+
+    SizeX = 512
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { -1, -1, -1, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

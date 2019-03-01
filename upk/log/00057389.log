@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057389.upk Ver: 573/1 Engine: 4205 Names: 419 Exports: 950 Imports: 160 Game: 801A
 Loading Material3 GreatSword_Body_MAT_Trans from package 00057389.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 GreatSword_ee from package 00057389.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading MaterialInstanceConstant T3-2_GreatSword_edge_INST from package 00057389.upk
@@ -53,7 +53,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.26 sec, 4645 allocs, 1.96 MBytes serialized in 324977 calls.
+Loaded in 0.22 sec, 4682 allocs, 1.96 MBytes serialized in 325790 calls.
 
 Object info:
 ============

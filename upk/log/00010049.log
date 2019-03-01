@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010049.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 8 Imports: 2 Game: 801A
 Loading Texture2D Monster_Etc_GeneralWorldB_col1_d from package 00010049.upk
 Loading Texture2D Monster_Etc_GeneralWorldB_col1_em from package 00010049.upk
@@ -8,7 +8,7 @@ Loading Texture2D Monster_Etc_GeneralWorldB_col1_s from package 00010049.upk
 Loading Texture2D Monster_Etc_GeneralWorldB_col9_d from package 00010049.upk
 Loading Texture2D Monster_Etc_GeneralWorldB_col9_em from package 00010049.upk
 Loading Texture2D Monster_Etc_GeneralWorldB_col9_s from package 00010049.upk
-Loaded in 0.079 sec, 301 allocs, 2.26 MBytes serialized in 1871 calls.
+Loaded in 0.077 sec, 301 allocs, 2.26 MBytes serialized in 1871 calls.
 
 Object info:
 ============

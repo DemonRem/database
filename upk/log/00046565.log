@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00046565.upk Ver: 573/1 Engine: 4205 Names: 573 Exports: 5864 Imports: 220 Game: 801A
 Loading Material3 _Shooter_Decal_fanwise01 from package 00046565.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 _Shooter_Decal_fanwise01_line from package 00046565.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 _Shooter_Decal_fanwise02_Velocity from package 00046565.upk
@@ -112,7 +112,7 @@ Loading MaterialInstanceConstant wire_col1_add from package 00046565.upk
 Loading MaterialInstanceConstant wire_col1_add2 from package 00046565.upk
 Loading package: 00048016.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 2 Game: 801A
 Loading StaticMesh3 080001_iorak_longgun from package 00046565.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 bullet_01 from package 00046565.upk
 Loading StaticMesh3 bullet_02 from package 00046565.upk
 Loading StaticMesh3 Item_0082 from package 00046565.upk
@@ -317,7 +317,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 2.2 sec, 11128 allocs, 12.80 MBytes serialized in 878743 calls.
+Loaded in 1.8 sec, 11255 allocs, 12.83 MBytes serialized in 887261 calls.
 
 Object info:
 ============

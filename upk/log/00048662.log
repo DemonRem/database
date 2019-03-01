@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048662.upk Ver: 573/1 Engine: 4205 Names: 217 Exports: 161 Imports: 20 Game: 801A
 Loading SkeletalMesh3 10128_LynF from package 00048662.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -31,8 +31,8 @@ Loading Texture2D 10128_LynF_col1_Em from package 00048663.upk
 Loading Texture2D Rose_JinF_col1_FX from package 00048421.upk
 Loading Material3 Body_Rose_Fx from package 00048421.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D cube_cst_all from package 00002640.upk
 Loading Material3 Blend_OP_Rose_Fx from package 00048421.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -49,7 +49,7 @@ Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.33 sec, 5421 allocs, 8.53 MBytes serialized in 1440993 calls.
+Loaded in 0.3 sec, 5461 allocs, 8.54 MBytes serialized in 1441836 calls.
 
 Object info:
 ============

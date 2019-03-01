@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00012590.upk Ver: 573/1 Engine: 4205 Names: 402 Exports: 2010 Imports: 166 Game: 801A
 Loading Material3 AsuraEye_Watch_Glow from package 00012590.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00012590
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
@@ -276,7 +276,7 @@ Loading Texture2D Glow_ShockWave_000 from package 00012963.upk
 Loading Texture2D Glow_ShockWave_001 from package 00012963.upk
 Loading Texture2D Glow_000A from package 00012963.upk
 Loading Texture2D MuseongM_pizzacircle01 from package 00037791.upk
-Loaded in 3.7 sec, 4637 allocs, 2.69 MBytes serialized in 91286 calls.
+Loaded in 3.3 sec, 4674 allocs, 2.70 MBytes serialized in 92099 calls.
 
 Object info:
 ============

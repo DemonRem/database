@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010937.upk Ver: 573/1 Engine: 4205 Names: 1416 Exports: 3672 Imports: 674 Game: 801A
 Loading StaticMesh3 AnthroEntmini_Dead_hand from package 00010937.upk
-Loaded in 0.008 sec, 1452 allocs, 0.41 MBytes serialized in 95638 calls.
+Loaded in 0.009 sec, 1452 allocs, 0.41 MBytes serialized in 95638 calls.
 
 Object info:
 ============

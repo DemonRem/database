@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037282.upk Ver: 573/1 Engine: 4205 Names: 138 Exports: 155 Imports: 12 Game: 801A
 Loading SkeletalMesh3 Pohwaran from package 00037282.upk
 WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
@@ -18,7 +18,7 @@ Loading MaterialInstanceConstant col1-1 from package 00037280.upk
 Loading Texture2D Pohwaran_col1_d2 from package 00037279.upk
 Loading Texture2D Nothing_A_n from package 00008613.upk
 Loading Material3 Pet from package 00037280.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Texture2D Pohwaran_W from package 00037279.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
@@ -26,7 +26,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
-Loaded in 0.078 sec, 2634 allocs, 1.14 MBytes serialized in 231465 calls.
+Loaded in 0.067 sec, 2671 allocs, 1.14 MBytes serialized in 232278 calls.
 
 Object info:
 ============

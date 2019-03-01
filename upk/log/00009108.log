@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009108.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 49 Imports: 6 Game: 801A
 Loading Texture2D Archer_CharSelect_002 from package 00009108.upk
 Loading Texture2D Assasin_CharSelect_002 from package 00009108.upk
@@ -21,7 +21,7 @@ Loading Texture2D Summoner_CharSelect_002 from package 00009108.upk
 Loading Texture2D SwordMaster_CharSelect_002 from package 00009108.upk
 Loading Texture2D Warlock_CharSelect_002 from package 00009108.upk
 Loading Texture2D Warrior_CharSelect_002 from package 00009108.upk
-Loaded in 0.028 sec, 220 allocs, 1.63 MBytes serialized in 3208 calls.
+Loaded in 0.033 sec, 220 allocs, 1.64 MBytes serialized in 3208 calls.
 
 Object info:
 ============

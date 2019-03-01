@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00008758.upk Ver: 573/1 Engine: 4205 Names: 8444 Exports: 10109 Imports: 4 Game: 801A
 Loading Texture2D Acc_010116_JinM_col1 from package 00008758.upk
 Loading Texture2D Acc_040113_JinM_col1 from package 00008758.upk
@@ -10078,7 +10078,7 @@ Loading Texture2D Wing_090141_jinF_col1 from package 00008758.upk
 Loading Texture2D Wing_090146_JinM_col1 from package 00008758.upk
 Loading Texture2D Wing_090147_JinM_col1 from package 00008758.upk
 Loading Texture2D Wing_090151_JinM_col1 from package 00008758.upk
-Loaded in 14 sec, 62626 allocs, 33.45 MBytes serialized in 1093730 calls.
+Loaded in 8.6 sec, 62626 allocs, 33.45 MBytes serialized in 1093730 calls.
 
 Object info:
 ============

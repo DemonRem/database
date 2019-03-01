@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00004347.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 16 Imports: 2 Game: 801A
 Loading Texture2D edit_mudang_col5_d from package 00004347.upk
 Loading Texture2D edit_mudang_col5_n from package 00004347.upk
@@ -16,7 +16,7 @@ Loading Texture2D mudang_m from package 00004347.upk
 Loading Texture2D mudang_n from package 00004347.upk
 Loading Texture2D mudang_s from package 00004347.upk
 Loading Texture2D mudang_s_col2 from package 00004347.upk
-Loaded in 0.14 sec, 544 allocs, 1.60 MBytes serialized in 3501 calls.
+Loaded in 0.12 sec, 544 allocs, 1.60 MBytes serialized in 3501 calls.
 
 Object info:
 ============

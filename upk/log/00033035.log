@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00033035.upk Ver: 573/1 Engine: 4205 Names: 231 Exports: 182 Imports: 61 Game: 801A
 Loading Material3 Fx_Nemo_Mat from package 00033035.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
@@ -11,7 +11,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
 Loading StaticMesh3 Fx_Nemo_Mesh01 from package 00033035.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading Texture2D Hat_0032_col1_EM from package 00033033.upk
 Loading Texture2D Hat_0032_col1_D from package 00033033.upk
 Loading Texture2D Hat_0032_col1_S from package 00033033.upk
@@ -26,7 +26,7 @@ Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imp
 Loading Texture2D Hat_0032_col1_N from package 00033033.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Material3 Body from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading TextureCube cube_cst from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading TextureCube Cube_Suicide2 from package 00002640.upk
@@ -70,7 +70,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.66 sec, 4977 allocs, 3.40 MBytes serialized in 343461 calls.
+Loaded in 0.32 sec, 5104 allocs, 3.43 MBytes serialized in 351985 calls.
 
 Object info:
 ============

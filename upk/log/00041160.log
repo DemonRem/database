@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041160.upk Ver: 573/1 Engine: 4205 Names: 43 Exports: 1 Imports: 7 Game: 801A
 Loading SkeletalMesh3 JinTaePyeongFace from package 00041160.upk
 Loading package: 00041159.upk Ver: 573/1 Engine: 4205 Names: 149 Exports: 5 Imports: 42 Game: 801A
@@ -10,7 +10,7 @@ Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Impor
 Loading package: 00008618.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 7 Imports: 2 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading MaterialInstanceConstant eye from package 00041159.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00007428.upk Ver: 573/1 Engine: 4205 Names: 130 Exports: 48 Imports: 19 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading MaterialInstanceConstant Beard from package 00041159.upk
@@ -76,7 +76,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.49 sec, 4014 allocs, 2.34 MBytes serialized in 283336 calls.
+Loaded in 0.28 sec, 4051 allocs, 2.34 MBytes serialized in 284149 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00035299.upk Ver: 573/1 Engine: 4205 Names: 311 Exports: 837 Imports: 99 Game: 801A
 Loading Material3 EarthDragon_MAT01 from package 00035299.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
@@ -6,7 +6,7 @@ check for StoneTexture_001_044_N in 00035299
 WARNING: Import(StoneTextures_001A.StoneTexture_001_044_N) was not found
 check for Stone_001_01_D_Reflex in 00035299
 WARNING: Import(Stone_001.Stone_001_01_D_Reflex) was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for Stone_001_01_Cube in 00035299
 check for Stone_001_01_Cube in 00012963
 WARNING: Import(CubeMap_001.Stone_001_01_Cube) was not found
@@ -42,7 +42,7 @@ Loading MaterialInstanceConstant SoulFighter_TrailINST02 from package 00035299.u
 Loading MaterialInstanceConstant SoulFighter_TrailINST03 from package 00035299.upk
 Loading SkeletalMesh3 TrailAnim_A01_Anim from package 00035299.upk
 Loading StaticMesh3 SoulFighter_EarthDragon_Mesh01 from package 00035299.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 SoulFighter_EarthDragon_Mesh02 from package 00035299.upk
 Loading StaticMesh3 SoulFighter_Jade01 from package 00035299.upk
 Loading StaticMesh3 SoulFighter_Vision_Mesh01 from package 00035299.upk
@@ -98,7 +98,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 0.42 sec, 5017 allocs, 2.35 MBytes serialized in 399078 calls.
+Loaded in 0.33 sec, 5144 allocs, 2.38 MBytes serialized in 407602 calls.
 
 Object info:
 ============

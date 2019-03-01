@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00056357.upk Ver: 573/1 Engine: 4205 Names: 310 Exports: 214 Imports: 68 Game: 801A
 Loading Texture2D GameUI_ChallengePartyResultScene_Preview from package 00056357.upk
 Loading Texture2D GameUI_ChallengeResultScene_Preview from package 00056357.upk
-Loaded in 0.008 sec, 338 allocs, 0.04 MBytes serialized in 5407 calls.
+Loaded in 0.009 sec, 338 allocs, 0.04 MBytes serialized in 5407 calls.
 
 Object info:
 ============

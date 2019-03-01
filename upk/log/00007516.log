@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00007516.upk Ver: 573/1 Engine: 4205 Names: 145 Exports: 1 Imports: 96 Game: 801A
 Loading AnimSet Chungyoung_Animset from package 00007516.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -7,7 +7,7 @@ WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::IgnoreAnimBoneNames" was not found
 WARNING: AnimSet Chungyoung_Animset has 0 sequences, but empty TrackBoneNames
-Loaded in 0.002 sec, 166 allocs, 0.01 MBytes serialized in 1213 calls.
+Loaded in 0.003 sec, 166 allocs, 0.01 MBytes serialized in 1213 calls.
 
 Object info:
 ============

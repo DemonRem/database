@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00047117.upk Ver: 573/1 Engine: 4205 Names: 440 Exports: 1158 Imports: 157 Game: 801A
 Loading Material3 Fire_Anger_4 from package 00047117.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant Gauntlet_Body_MAT_Trans_INST from package 00047117.upk
 Loading package: 00047133.upk Ver: 573/1 Engine: 4205 Names: 522 Exports: 1493 Imports: 192 Game: 801A
 Loading MaterialInstanceConstant Gauntlet_ee_INST from package 00047117.upk
@@ -28,7 +28,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_145 from package 00047117.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
 Loading StaticMesh3 Gauntlet_L_deco from package 00047117.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Gauntlet_L_deco06 from package 00047117.upk
 Loading StaticMesh3 Gauntlet_R_deco01 from package 00047117.upk
 Loading Texture2D Gauntlet_FX_mask from package 00047117.upk
@@ -84,7 +84,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.4 sec, 6705 allocs, 3.65 MBytes serialized in 626151 calls.
+Loaded in 0.33 sec, 6832 allocs, 3.68 MBytes serialized in 634675 calls.
 
 Object info:
 ============

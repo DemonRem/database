@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00040999.upk Ver: 573/1 Engine: 4205 Names: 383 Exports: 1 Imports: 38 Game: 801A
 Loading MaterialInstanceConstant Jeokpaewang_RollingSpike_001_mat from package 00040999.upk
 check for Parent_normal in 00040999
 WARNING: Import(Parent_normal.Parent_normal) was not found
 Loading package: 00040998.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 3 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for RGB_Mask in 00040999
 check for RGB_Mask in 00040998
 check for RGB_Mask in 00012963
@@ -84,7 +84,7 @@ Loading Texture2D Noise_Bubble_000 from package 00012963.upk
 Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
 Loading Texture2D Smoke_Cloud_003 from package 00012963.upk
 Loading Texture2D Noise_Plazma_002 from package 00012963.upk
-Loaded in 0.088 sec, 2073 allocs, 1.03 MBytes serialized in 35661 calls.
+Loaded in 0.072 sec, 2110 allocs, 1.03 MBytes serialized in 36474 calls.
 
 Object info:
 ============

@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00007176.upk Ver: 573/1 Engine: 4205 Names: 352 Exports: 1 Imports: 174 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00007176.upk Ver: 573/1 Engine: 4205 Names: 387 Exports: 1 Imports: 213 Game: 801A
 Loading AnimSet JinF_Facial_AnimSet from package 00007176.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
-Loaded in 0 sec, 374 allocs, 0.02 MBytes serialized in 2482 calls.
+Loaded in 0.013 sec, 409 allocs, 0.02 MBytes serialized in 2860 calls.
 
 Object info:
 ============

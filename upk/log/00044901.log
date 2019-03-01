@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00044901.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 5 Imports: 2 Game: 801A
 Loading Texture2D RunMechaAdamantine_col1_D from package 00044901.upk
 Loading Texture2D RunMechaAdamantine_col1_E from package 00044901.upk
 Loading Texture2D RunMechaAdamantine_col1_M from package 00044901.upk
 Loading Texture2D RunMechaAdamantine_col1_N from package 00044901.upk
 Loading Texture2D RunMechaAdamantine_col1_S from package 00044901.upk
-Loaded in 0.056 sec, 216 allocs, 0.99 MBytes serialized in 1232 calls.
+Loaded in 0.043 sec, 216 allocs, 0.99 MBytes serialized in 1232 calls.
 
 Object info:
 ============

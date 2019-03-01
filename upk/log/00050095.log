@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050095.upk Ver: 573/1 Engine: 4205 Names: 253 Exports: 701 Imports: 96 Game: 801A
 Loading SkeletalMesh3 Item_0088 from package 00050095.upk
 WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
@@ -17,7 +17,7 @@ Loading Texture2D Item_0088_col1_S from package 00050097.upk
 Loading TextureCube Cube_D from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading TextureCube lenscube from package 00002640.upk
 Loading TextureCube eye_s from package 00002640.upk
 Loading Material3 Lens from package 00002620.upk
@@ -51,7 +51,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.36 sec, 3574 allocs, 1.60 MBytes serialized in 234192 calls.
+Loaded in 0.29 sec, 3611 allocs, 1.61 MBytes serialized in 235005 calls.
 
 Object info:
 ============

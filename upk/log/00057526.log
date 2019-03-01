@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00057526.upk Ver: 573/1 Engine: 4205 Names: 709 Exports: 2072 Imports: 132 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00057526.upk Ver: 573/1 Engine: 4205 Names: 720 Exports: 2122 Imports: 132 Game: 801A
 Loading Texture2D GameUI_BrotherhoodScene_Preview from package 00057526.upk
-Loaded in 0.027 sec, 732 allocs, 0.20 MBytes serialized in 40436 calls.
+Loaded in 0.01 sec, 743 allocs, 0.19 MBytes serialized in 41369 calls.
 
 Object info:
 ============

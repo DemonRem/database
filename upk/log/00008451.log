@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00008451.upk Ver: 573/1 Engine: 4205 Names: 607 Exports: 603 Imports: 6 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00008451.upk Ver: 573/1 Engine: 4205 Names: 611 Exports: 607 Imports: 6 Game: 801A
 Loading AnimSet GonF_Standrad_Facial_AnimSet from package 00008451.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
@@ -1041,6 +1041,10 @@ Loading AnimSequence AnimSequence_43 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bUseCustomAttachAnim" was not found
 WARNING: BoolProperty "UAnimSequence::bIgnoreAimControl" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_44 from package 00008451.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_45 from package 00008451.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_47 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_5 from package 00008451.upk
@@ -1107,9 +1111,13 @@ WARNING: BoolProperty "UAnimSequence::bIgnoreAimControl" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_14 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_15 from package 00008451.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_158 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_159 from package 00008451.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_16 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_160 from package 00008451.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
@@ -1849,11 +1857,15 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** ERROR: Unknown rotation compression method: 255
 UAnimSet::ConvertAnims <- PostLoad:GonF_Standrad_Facial_AnimSet <- UObject::EndLoad <- LoadWholePackage:00008451 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

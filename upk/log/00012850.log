@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading AnimSet GunMagine_Animset from package 00012850.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -40,7 +40,7 @@ WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 add_material_001 from package 00012850.upk
 check for T01_test in 00012850
 WARNING: Import(Cine_Effect_TEXTURE.T01_test) was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 AkTaeHooEP_DMZ_FireBeam_A_mat from package 00012850.upk
 Loading Material3 AncientAdamantineMan_FX_Col1 from package 00012850.upk
 Loading package: 00018119.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 2 Game: 801A
@@ -607,7 +607,7 @@ WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Flazard_Fire_Trail from package 00012850.upk
 Loading Material3 JinseoM_Wing_Trail from package 00012850.upk
 Loading Material3 flower_subUV from package 00012850.upk
-Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3054 Exports: 106036 Imports: 757 Game: 801A
+Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3055 Exports: 106061 Imports: 757 Game: 801A
 Loading Material3 CrustaceanMan_Thunderbolt_Cloud1 from package 00012850.upk
 Loading Material3 CrustaceanMan_Thunderbolt_Cloud2 from package 00012850.upk
 Loading Material3 CrustaceanMan_Thunderbolt_CloudSpark from package 00012850.upk
@@ -943,7 +943,7 @@ Loading Material3 SaintTurtle_zzz_MAT from package 00012850.upk
 Loading Material3 sinsi_feather_M from package 00012850.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Sinsi_Lighting from package 00012850.upk
-Loading package: 00014580.upk Ver: 573/1 Engine: 4205 Names: 48 Exports: 18 Imports: 2 Game: 801A
+Loading package: 00014580.upk Ver: 573/1 Engine: 4205 Names: 51 Exports: 21 Imports: 2 Game: 801A
 Loading Material3 SnakeSoldier_Hell_Healing_TXT from package 00012850.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 SnakeSoldier_Hell_SelfDestruct_SwordDecal from package 00012850.upk
@@ -1403,7 +1403,7 @@ Loading Material3 zakan_trail_001c from package 00012850.upk
 Loading Material3 zakan_trail_002 from package 00012850.upk
 Loading Material3 zakan_weapon from package 00012850.upk
 Loading MaterialInstanceConstant AncientDokgo_decal_INST from package 00012850.upk
-Loading package: 00012592.upk Ver: 573/1 Engine: 4205 Names: 740 Exports: 9308 Imports: 301 Game: 801A
+Loading package: 00012592.upk Ver: 573/1 Engine: 4205 Names: 767 Exports: 9777 Imports: 307 Game: 801A
 Loading MaterialInstanceConstant AncientMechaGoat_Fire_M_Inst from package 00012850.upk
 Loading package: 00047841.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 4 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant AncientMechaGoat_Jaw_M_Inst from package 00012850.upk
@@ -1521,7 +1521,7 @@ Loading MaterialInstanceConstant Takgi_SubUV_01_INST from package 00012850.upk
 Loading MaterialInstanceConstant Takgi_SubUV_07_INST from package 00012850.upk
 Loading MaterialInstanceConstant Takgi_TakgiGu_Masked_INST2 from package 00012850.upk
 Loading MaterialInstanceConstant Takgibuff_wind_Inst_Red from package 00012850.upk
-Loading package: 00012585.upk Ver: 573/1 Engine: 4205 Names: 383 Exports: 3180 Imports: 151 Game: 801A
+Loading package: 00012585.upk Ver: 573/1 Engine: 4205 Names: 462 Exports: 4426 Imports: 188 Game: 801A
 Loading MaterialInstanceConstant TriheadDragon_decal_Groundmask_INST from package 00012850.upk
 Loading MaterialInstanceConstant Twins_Ice_Trangition6_INST from package 00012850.upk
 Loading MaterialInstanceConstant Twins_Ice_Trangition6_INST_INST2 from package 00012850.upk
@@ -1605,7 +1605,7 @@ Loading package: 00008761.upk Ver: 573/1 Engine: 4205 Names: 83 Exports: 1 Impor
 Loading SkeletalMesh3 MuseongM_Hand from package 00012850.upk
 Loading package: 00014637.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 1 Imports: 19 Game: 801A
 Loading SkeletalMesh3 Transform_BBB from package 00012850.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading SkeletalMesh3 Transform_ccc from package 00012850.upk
 Loading SkeletalMesh3 Transform_Gadget_BlueBallx2_Autoscale from package 00012850.upk
 check for dummy_opaque_mat in 00012850
@@ -2094,6 +2094,7 @@ Loading Texture2D Noise_013_normal from package 00012963.upk
 Loading Texture2D Unique_Ice_000 from package 00012963.upk
 Loading Texture2D Unique_Bone_D_000 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_010 from package 00012963.upk
+Loading Texture2D Sparkle_Ink_019 from package 00012963.upk
 Loading Texture2D Smoke_Cloud_005 from package 00012963.upk
 Loading Texture2D Smoke_Ice_000 from package 00012963.upk
 Loading Texture2D Gradient_Trail_000 from package 00012963.upk
@@ -2127,6 +2128,7 @@ Loading Texture2D AdamantineManA_S_FX_Line from package 00008472.upk
 Loading Texture2D BG_Sandfall_001_D from package 00012963.upk
 Loading Texture2D MuseongM_pizzacircle from package 00012963.upk
 Loading Texture2D Decal_Crack_001 from package 00012963.upk
+Loading Texture2D MuseongM_pizzacircle120 from package 00012963.upk
 Loading Texture2D Smoke_Dust_004 from package 00012963.upk
 Loading Texture2D Smoke_013 from package 00012963.upk
 Loading Texture2D Ring_Shockwave_003 from package 00012963.upk
@@ -2195,6 +2197,7 @@ Loading Texture2D Glow_ShockWave_008 from package 00012963.upk
 Loading Texture2D Ring_Bubble_000 from package 00012963.upk
 Loading Texture2D Ring_ShockWave_001 from package 00012963.upk
 Loading Texture2D SaintTurtle_FXmask from package 00029273.upk
+Loading Texture2D SaintTurtle_zzz_02 from package 00012963.upk
 Loading Texture2D SinSi_FX4 from package 00014580.upk
 Loading Texture2D sinsi_fx from package 00014580.upk
 Loading Texture2D SnakeSoldier_Hell_Healing_Text from package 00012963.upk
@@ -2486,7 +2489,9 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:MuseongM_Hand_Anim <- UObject::EndLoad <- LoadWholePackage:00012850 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)
+    at Socket.stream.socket.on (internal/child_process.js:381:11)
+    at Socket.emit (events.js:182:13)
+    at Pipe._handle.close (net.js:610:12)

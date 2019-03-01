@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00046151.upk Ver: 573/1 Engine: 4205 Names: 218 Exports: 157 Imports: 21 Game: 801A
 Loading SkeletalMesh3 10106_KunN from package 00046151.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -28,7 +28,7 @@ Loading Texture2D 10106_KunN_col1_N from package 00046152.upk
 Loading Texture2D 10106_KunN_col1_M from package 00046152.upk
 Loading Texture2D 10106_KunN_col1_D from package 00046152.upk
 Loading Material3 body_kUN from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading TextureCube eye3 from package 00002640.upk
 Loading Material3 Blend_OP from package 00002620.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -50,7 +50,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.27 sec, 3361 allocs, 3.62 MBytes serialized in 550544 calls.
+Loaded in 0.23 sec, 3398 allocs, 3.62 MBytes serialized in 551357 calls.
 
 Object info:
 ============

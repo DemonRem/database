@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052511.upk Ver: 573/1 Engine: 4205 Names: 345 Exports: 532 Imports: 145 Game: 801A
 Loading Material3 InkSplatter000_MatM from package 00052511.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00053839.upk Ver: 573/1 Engine: 4205 Names: 607 Exports: 1572 Imports: 153 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 SkillSkin_Xmas_Seed from package 00052511.upk
 Loading Material3 Xmas_Assassin_leaf from package 00052511.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
@@ -89,7 +89,7 @@ Loading Texture2D Gradient_Color_BlueToPurple_001 from package 00012963.upk
 Loading Texture2D Warlock_RangeMoveBlock_Tex01 from package 00023412.upk
 Loading Texture2D Warlock_Decal_Tex01 from package 00023412.upk
 Loading Texture2D Noise_Ripple_000_Inverse from package 00012963.upk
-Loaded in 0.63 sec, 4428 allocs, 2.40 MBytes serialized in 164386 calls.
+Loaded in 0.41 sec, 4465 allocs, 2.41 MBytes serialized in 165199 calls.
 
 Object info:
 ============

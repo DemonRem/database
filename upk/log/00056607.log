@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00056607.upk Ver: 573/1 Engine: 4205 Names: 63 Exports: 6 Imports: 11 Game: 801A
 Loading SkeletalMesh3 Gadget_TouchLight_AutoScale from package 00056607.upk
 Loading package: 00056608.upk Ver: 573/1 Engine: 4205 Names: 72 Exports: 1 Imports: 16 Game: 801A
@@ -16,14 +16,14 @@ check for Env_049_SEnv_049_D in 00056608
 WARNING: Import(Gadget_Object.Env_049_SEnv_049_D) was not found
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.093 sec, 2279 allocs, 0.80 MBytes serialized in 174269 calls.
+Loaded in 0.063 sec, 2316 allocs, 0.80 MBytes serialized in 175082 calls.
 
 Object info:
 ============

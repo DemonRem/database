@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009394.upk Ver: 573/1 Engine: 4205 Names: 189 Exports: 72 Imports: 30 Game: 801A
 Loading Texture2D Game_Global_HeadlineScene_Preview from package 00009394.upk
 Loading Texture2D Game_InstantNotificationScene_Preview from package 00009394.upk
 Loading Texture2D Game_NpcTalkHeadlineScene_Preview from package 00009394.upk
-Loaded in 0.003 sec, 222 allocs, 0.03 MBytes serialized in 2282 calls.
+Loaded in 0.019 sec, 222 allocs, 0.03 MBytes serialized in 2282 calls.
 
 Object info:
 ============

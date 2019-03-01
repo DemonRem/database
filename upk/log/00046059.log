@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00046059.upk Ver: 573/1 Engine: 4205 Names: 41 Exports: 14 Imports: 4 Game: 801A
 Loading Texture2D FX_Mask from package 00046059.upk
 Loading Texture2D TriHeadDragon_col1_D from package 00046059.upk
@@ -12,7 +12,7 @@ Loading Texture2D TriHeadDragon_col2_E from package 00046059.upk
 Loading Texture2D TriHeadDragon_col2_STriHeadDragon_col3_D from package 00046059.upk
 Loading Texture2D TriHeadDragon_col3_ETriHeadDragon_col3_D from package 00046059.upk
 Loading Texture2D TriHeadDragon_col3_S from package 00046059.upk
-Loaded in 0.16 sec, 476 allocs, 6.48 MBytes serialized in 3072 calls.
+Loaded in 0.15 sec, 476 allocs, 6.48 MBytes serialized in 3072 calls.
 
 Object info:
 ============

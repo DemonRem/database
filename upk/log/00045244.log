@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045244.upk Ver: 573/1 Engine: 4205 Names: 41 Exports: 12 Imports: 2 Game: 801A
 Loading Texture2D hat_D from package 00045244.upk
 Loading Texture2D Hat_M from package 00045244.upk
@@ -12,7 +12,7 @@ Loading Texture2D Summon_Cat_Hat_0017_col1_D from package 00045244.upk
 Loading Texture2D Summon_Cat_Hat_0017_col1_M from package 00045244.upk
 Loading Texture2D Summon_Cat_Hat_0017_col1_N from package 00045244.upk
 Loading Texture2D Summon_Cat_Hat_0017_col1_S from package 00045244.upk
-Loaded in 0.13 sec, 437 allocs, 0.96 MBytes serialized in 2706 calls.
+Loaded in 0.096 sec, 437 allocs, 0.96 MBytes serialized in 2706 calls.
 
 Object info:
 ============

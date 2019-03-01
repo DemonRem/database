@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00006422.upk Ver: 573/1 Engine: 4205 Names: 43 Exports: 15 Imports: 2 Game: 801A
 Loading Texture2D Monster_Beast_Sanho_col1_D from package 00006422.upk
 Loading Texture2D Monster_Beast_Sanho_col1_em from package 00006422.upk
@@ -15,7 +15,7 @@ Loading Texture2D Shanho_em2 from package 00006422.upk
 Loading Texture2D Shanho_m2 from package 00006422.upk
 Loading Texture2D Shanho_N2 from package 00006422.upk
 Loading Texture2D Shanho_S2 from package 00006422.upk
-Loaded in 0.13 sec, 523 allocs, 0.70 MBytes serialized in 3319 calls.
+Loaded in 0.11 sec, 523 allocs, 0.70 MBytes serialized in 3319 calls.
 
 Object info:
 ============

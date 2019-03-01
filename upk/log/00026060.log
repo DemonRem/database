@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00026060.upk Ver: 573/1 Engine: 4205 Names: 215 Exports: 255 Imports: 64 Game: 801A
 Loading Material3 Basic_RE_HwanMa from package 00026060.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading Material3 HwanMa_Parent from package 00026060.upk
 Loading package: 00026059.upk Ver: 573/1 Engine: 4205 Names: 41 Exports: 10 Imports: 2 Game: 801A
@@ -48,7 +48,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.24 sec, 3367 allocs, 1.35 MBytes serialized in 193695 calls.
+Loaded in 0.19 sec, 3404 allocs, 1.35 MBytes serialized in 194508 calls.
 
 Object info:
 ============

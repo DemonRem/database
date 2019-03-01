@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00056110.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 8 Imports: 4 Game: 801A
 Loading Texture2D 0019_GonF_Col1_D from package 00056110.upk
 Loading Texture2D 0019_GonF_Col1_M from package 00056110.upk
 Loading Texture2D 0019_GonF_Col1_N from package 00056110.upk
 Loading Texture2D 0019_GonF_Col1_S from package 00056110.upk
-Loaded in 0.048 sec, 187 allocs, 1.05 MBytes serialized in 1164 calls.
+Loaded in 0.036 sec, 187 allocs, 1.05 MBytes serialized in 1164 calls.
 
 Object info:
 ============

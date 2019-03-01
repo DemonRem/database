@@ -1,14 +1,18 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00013263.upk Ver: 573/1 Engine: 4205 Names: 796 Exports: 8219 Imports: 177 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00013263.upk Ver: 573/1 Engine: 4205 Names: 833 Exports: 8598 Imports: 186 Game: 801A
 Loading Material3 AncientMechDragon_Trail_Mat from package 00013263.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 BerserkWolfA_Fire_trail_mat_Blue from package 00013263.upk
+Loading Material3 CatGlove_RopeMat01 from package 00013263.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading package: 00023412.upk Ver: 573/1 Engine: 4205 Names: 809 Exports: 4396 Imports: 192 Game: 801A
 Loading Material3 Fencer_RRR_Slash_mat from package 00013263.upk
 Loading Material3 Fire_aura_trail_mat3 from package 00013263.upk
 Loading Material3 fx_SoulSword_mat from package 00013263.upk
 check for DefaultTexture in 00013263
 check for DefaultTexture in 00012963
+check for DefaultTexture in 00023412
 WARNING: Import(EngineResources.DefaultTexture) was not found
 Loading Material3 Assassin_RRR_Slash from package 00013263.upk
 Loading Material3 Aura_Fire_ from package 00013263.upk
@@ -46,25 +50,33 @@ Loading Material3 shooter_Spread_Fire from package 00013263.upk
 Loading Material3 Summoner_InfinityMissile_Missile from package 00013263.upk
 Loading Material3 Summoner_Rose_Missile from package 00013263.upk
 Loading Material3 Summoner_Rose_Missile_NoDisotion from package 00013263.upk
+Loading Material3 Weapon_RainBow_Fire_ from package 00013263.upk
+Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
 Loading Material3 MechGorilla_RopeMat01 from package 00013263.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading Material3 RuneMechaYacha2_Fire_trail_mat_Blue from package 00013263.upk
 Loading Material3 shooter_fx_Xmas from package 00013263.upk
 Loading Material3 TriHeadDraogn_wing from package 00013263.upk
+Loading Material3 Weapon_RainBow_Fire02 from package 00013263.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Xmas_Destroyer_trail01 from package 00013263.upk
 Loading Material3 Xmas_Feather_M from package 00013263.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Xmas_Trail_M from package 00013263.upk
 Loading MaterialInstanceConstant AuraMaster_Spread_Ice_Xmas_INST from package 00013263.upk
 Loading MaterialInstanceConstant Fencer_Escape_Exe_INST from package 00013263.upk
+Loading MaterialInstanceConstant NPC_Blunt_Slash_WFA_R1_G_INST from package 00013263.upk
 Loading MaterialInstanceConstant TwinsA_Trail_Red_INST from package 00013263.upk
+Loading MaterialInstanceConstant Weapon_RainBow_Fire_MI from package 00013263.upk
+Loading MaterialInstanceConstant Weapon_RainBow_Fire02_MI from package 00013263.upk
 Loading Texture2D Gradient_001_Left from package 00012963.upk
 Loading Texture2D Smoke_Inc_002 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_001 from package 00012963.upk
 Loading Texture2D T_Liquid_SM_NanoBlack_Mask_01 from package 00012963.upk
 Loading Texture2D Unique_Waterfall_000_Mask from package 00012963.upk
 Loading Texture2D Gradient_Beam_004 from package 00012963.upk
+Loading Texture2D Warlock_RangeMoveBlock_Tex01 from package 00023412.upk
 Loading Texture2D Normal_Noise_002 from package 00012963.upk
 Loading Texture2D Gradient_Color_BlueToPurple_000 from package 00012963.upk
 Loading Texture2D Gradient_Trail_002 from package 00012963.upk
@@ -104,11 +116,14 @@ Loading Texture2D Glow_ink_000 from package 00012963.upk
 Loading Texture2D Gradient_Color_RedToPurple_000 from package 00012963.upk
 Loading Texture2D Gradient_Color_YtoG000_Tex from package 00012963.upk
 Loading Texture2D Glow_Trail_000 from package 00012963.upk
+Loading Texture2D T_Gradient_v001 from package 00037791.upk
 Loading Texture2D MechGorilla_RopeTex01 from package 00012850.upk
 Loading Texture2D Smoke_Cloud_004 from package 00012963.upk
 Loading Texture2D Aura_Tail_002 from package 00012963.upk
 Loading Texture2D Xmas_Gradient02 from package 00053839.upk
 Loading Texture2D Noise_005 from package 00012963.upk
+Loading Texture2D Noise_006 from package 00012963.upk
+Loading Texture2D Fire_002 from package 00012963.upk
 Loading Texture2D Unique_Stone_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_R_clamp from package 00012963.upk
 Loading Texture2D Noise_Fractal_002 from package 00012963.upk
@@ -118,7 +133,8 @@ Loading Texture2D Smoke_013 from package 00012963.upk
 Loading Texture2D Smoke_014 from package 00012963.upk
 Loading Texture2D Electric_Sprite_004 from package 00012963.upk
 Loading Texture2D Aura_Flame_000 from package 00012963.upk
-Loaded in 0.58 sec, 6457 allocs, 4.57 MBytes serialized in 804710 calls.
+Loading Texture2D Gradient_Color_YellowToOrange_000 from package 00012963.upk
+Loaded in 0.51 sec, 7587 allocs, 5.01 MBytes serialized in 898318 calls.
 
 Object info:
 ============
@@ -157,6 +173,24 @@ ClassName: Material3 ObjectName: BerserkWolfA_Fire_trail_mat_Blue
         ReferencedTextures[2] = Texture2D'Unique_Waterfall_000_Mask'
         ReferencedTextures[3] = Texture2D'Gradient_Beam_004'
     }
+    BlendMode = BLEND_Masked (1)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: CatGlove_RopeMat01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Warlock_RangeMoveBlock_Tex01' }
     BlendMode = BLEND_Masked (1)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -1122,6 +1156,35 @@ ClassName: Material3 ObjectName: Summoner_Rose_Missile_NoDisotion
 
 Object info:
 ============
+ClassName: Material3 ObjectName: Weapon_RainBow_Fire_
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[9] =
+    {
+        ReferencedTextures[0] = Texture2D'T_Gradient_v001'
+        ReferencedTextures[1] = Texture2D'Smoke_Dusts_002'
+        ReferencedTextures[2] = Texture2D'Aura_Blood_003'
+        ReferencedTextures[3] = Texture2D'Gradient_Beam_005_YClamp'
+        ReferencedTextures[4] = Texture2D'Gradient_Beam_004'
+        ReferencedTextures[5] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[6] = Texture2D'Smoke_Dust_000'
+        ReferencedTextures[7] = Texture2D'Fire_Blending_Pattern_Tex_Big2'
+        ReferencedTextures[8] = Texture2D'Unique_Waterfall_000_Mask'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
 ClassName: Material3 ObjectName: MechGorilla_RopeMat01
 
     TwoSided = false
@@ -1203,6 +1266,24 @@ ClassName: Material3 ObjectName: TriHeadDraogn_wing
         ReferencedTextures[4] = Texture2D'Glow_Trail_001'
     }
     BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Weapon_RainBow_Fire02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] = { Texture2D'T_Gradient_v001', Texture2D'Noise_006', Texture2D'Fire_002', None }
+    BlendMode = BLEND_Translucent (2)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
     MobileBaseTexture = None
@@ -1341,6 +1422,48 @@ ClassName: MaterialInstanceConstant ObjectName: Fencer_Escape_Exe_INST
 
 Object info:
 ============
+ClassName: MaterialInstanceConstant ObjectName: NPC_Blunt_Slash_WFA_R1_G_INST
+
+    ScalarParameterValues[2] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Pi, ParameterValue=3.14 }
+        ScalarParameterValues[1] = { ParameterName=value_desaturation, ParameterValue=0.2 }
+    }
+    TextureParameterValues[5] =
+    {
+        TextureParameterValues[0] = { ParameterName=tex_Gradation2, ParameterValue=Texture2D'Gradient_001_Left' }
+        TextureParameterValues[1] = { ParameterName=Tex, ParameterValue=Texture2D'Blunt_Slash_001' }
+        TextureParameterValues[2] =
+        {
+            ParameterName = tex_Gradation3
+            ParameterValue = Texture2D'Gradient_Color_BlueToPurple_000'
+        }
+        TextureParameterValues[3] = { ParameterName=tex2, ParameterValue=Texture2D'Gradient_Trail_002' }
+        TextureParameterValues[4] =
+        {
+            ParameterName = tex_Gradation
+            ParameterValue = Texture2D'Gradient_Color_YellowToOrange_000'
+        }
+    }
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = None
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+    }
+    Parent = Material3'Material.NPC_Blunt_Slash_Xmas_Basic'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
 ClassName: MaterialInstanceConstant ObjectName: TwinsA_Trail_Red_INST
 
     ScalarParameterValues[0] = {}
@@ -1350,6 +1473,46 @@ ClassName: MaterialInstanceConstant ObjectName: TwinsA_Trail_Red_INST
     }
     VectorParameterValues[0] = {}
     Parent = Material3'Material.AuraMaster_InfinityMissile_Missile'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Weapon_RainBow_Fire_MI
+
+    ScalarParameterValues[3] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Rotator, ParameterValue=0.5 }
+        ScalarParameterValues[1] = { ParameterName=Panner_X, ParameterValue=-1 }
+        ScalarParameterValues[2] = { ParameterName=Desaturation, ParameterValue=0.5 }
+    }
+    TextureParameterValues[1] =
+    {
+        TextureParameterValues[0] = { ParameterName=ColorCode_Tex, ParameterValue=Texture2D'T_Gradient_v001' }
+    }
+    VectorParameterValues[0] = {}
+    Parent = Material3'Material.Weapon_RainBow_Fire_'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Weapon_RainBow_Fire02_MI
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[0] = {}
+    VectorParameterValues[0] = {}
+    Parent = Material3'Weapon_RainBow_Fire02'
     FlattenedTexture = None
     MobileBaseTexture = None
     MobileNormalTexture = None

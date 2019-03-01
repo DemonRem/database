@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037304.upk Ver: 573/1 Engine: 4205 Names: 509 Exports: 896 Imports: 185 Game: 801A
 Loading Material3 other_Mat from package 00037304.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 other_MAT_Mesh from package 00037304.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading MaterialInstanceConstant PVP_Sword_edge_INST from package 00037304.upk
@@ -17,7 +17,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_149 from package 00037304.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 Sword_Mesh_Body from package 00037304.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Sword_Mesh_edge from package 00037304.upk
 Loading Texture2D Mask from package 00037304.upk
 Loading Texture2D other_tex2 from package 00037304.upk
@@ -63,7 +63,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.3 sec, 5944 allocs, 2.36 MBytes serialized in 441813 calls.
+Loaded in 0.23 sec, 6071 allocs, 2.39 MBytes serialized in 450337 calls.
 
 Object info:
 ============

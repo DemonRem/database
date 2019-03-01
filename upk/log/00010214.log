@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010214.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 14 Imports: 2 Game: 801A
 Loading Texture2D E from package 00010214.upk
 WARNING: ByteProperty "UTexture2D::ManualLoadSwitchSettings" was not found
@@ -17,7 +17,7 @@ WARNING: ByteProperty "UTexture2D::ManualLoadSwitchSettings" was not found
 Loading Texture2D Monster_Bug_Scorpion_col3_S from package 00010214.upk
 Loading Texture2D Monster_Bug_Scorpion_col4_D2 from package 00010214.upk
 Loading Texture2D Monster_Bug_Scorpion_col4_S2 from package 00010214.upk
-Loaded in 0.11 sec, 477 allocs, 1.16 MBytes serialized in 2994 calls.
+Loaded in 0.12 sec, 477 allocs, 1.16 MBytes serialized in 2994 calls.
 
 Object info:
 ============

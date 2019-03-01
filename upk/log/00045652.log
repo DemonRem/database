@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045652.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 4 Imports: 2 Game: 801A
 Loading Texture2D Item_0079_D from package 00045652.upk
 Loading Texture2D Item_0079_M from package 00045652.upk
 Loading Texture2D Item_0079_N from package 00045652.upk
 Loading Texture2D Item_0079_S from package 00045652.upk
-Loaded in 0.034 sec, 165 allocs, 0.38 MBytes serialized in 932 calls.
+Loaded in 0.029 sec, 165 allocs, 0.38 MBytes serialized in 932 calls.
 
 Object info:
 ============

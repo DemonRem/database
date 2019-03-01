@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045242.upk Ver: 573/1 Engine: 4205 Names: 120 Exports: 73 Imports: 11 Game: 801A
 Loading SkeletalMesh3 ManulEvolveB from package 00045242.upk
 WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
@@ -17,7 +17,7 @@ Loading Texture2D Pet_ManulEvolveB_Col1_S from package 00045244.upk
 Loading Texture2D Pet_ManulEvolveB_col1_D from package 00045244.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Fur_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D hat_D from package 00045244.upk
 Loading Texture2D Hat_S from package 00045244.upk
 Loading Texture2D Hat_N from package 00045244.upk
@@ -37,7 +37,7 @@ Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D Smoke_Pattern_000 from package 00012963.upk
-Loaded in 0.22 sec, 3169 allocs, 1.85 MBytes serialized in 245716 calls.
+Loaded in 0.21 sec, 3206 allocs, 1.85 MBytes serialized in 246529 calls.
 
 Object info:
 ============

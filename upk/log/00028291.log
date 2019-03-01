@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00028291.upk Ver: 573/1 Engine: 4205 Names: 520 Exports: 552 Imports: 173 Game: 801A
 Loading Material3 Basic_Base_IF_Masked_Mat from package 00028291.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant FX_col1 from package 00028291.upk
 Loading package: 00026431.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
@@ -17,7 +17,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_88 from package 00028291.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 110084_Body__Mesh from package 00028291.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 110084_Deco__Mesh from package 00028291.upk
 Loading StaticMesh3 110084_Edge__Mesh from package 00028291.upk
 Loading Texture2D 110084_fxmask from package 00028291.upk
@@ -34,7 +34,7 @@ Loading Texture2D 110084_Autoscale_col1_S from package 00026431.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Texture2D 110084_Autoscale_col1_D from package 00026431.upk
 Loading MaterialInstanceConstant col1 from package 00028292.upk
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
@@ -47,7 +47,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D AncientMechaMonk_BoxLine from package 00012963.upk
 Loading Material3 Basic_Fx_Weapon from package 00048300.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 0.2 sec, 5550 allocs, 2.93 MBytes serialized in 615324 calls.
+Loaded in 0.18 sec, 5704 allocs, 2.98 MBytes serialized in 626568 calls.
 
 Object info:
 ============

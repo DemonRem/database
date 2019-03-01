@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037326.upk Ver: 573/1 Engine: 4205 Names: 495 Exports: 1244 Imports: 182 Game: 801A
 Loading Material3 other_Mat from package 00037326.upk
 Loading package: 00033634.upk Ver: 573/1 Engine: 4205 Names: 520 Exports: 1136 Imports: 198 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00037304.upk Ver: 573/1 Engine: 4205 Names: 509 Exports: 896 Imports: 185 Game: 801A
 Loading SkeletalMesh3 120193_1_Autoscale from package 00037326.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -23,7 +23,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_119 from package 00037326.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 120193_1 from package 00037326.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 120193_2 from package 00037326.upk
 Loading Texture2D Feather_NRM_Tex from package 00033634.upk
 Loading Texture2D Noise_009 from package 00012963.upk
@@ -57,7 +57,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.22 sec, 5800 allocs, 2.27 MBytes serialized in 428212 calls.
+Loaded in 0.18 sec, 5927 allocs, 2.30 MBytes serialized in 436736 calls.
 
 Object info:
 ============

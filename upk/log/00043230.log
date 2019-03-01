@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00043230.upk Ver: 573/1 Engine: 4205 Names: 300 Exports: 307 Imports: 5 Game: 801A
 Loading Texture2D SkillAbility_Icon_01 from package 00043230.upk
 Loading Texture2D SkillAbility_Icon_01_Selected from package 00043230.upk
@@ -129,7 +129,7 @@ Loading Texture2D Tag_SkillBookImage_4-1 from package 00043230.upk
 Loading Texture2D Tag_SkillBookImage_4-2 from package 00043230.upk
 Loading Texture2D Tag_SkillBookImage_4-3 from package 00043230.upk
 Loading Texture2D Tag_SkillBookImage_4-4 from package 00043230.upk
-Loaded in 0.16 sec, 1011 allocs, 2.83 MBytes serialized in 15711 calls.
+Loaded in 0.24 sec, 1011 allocs, 2.83 MBytes serialized in 15711 calls.
 
 Object info:
 ============

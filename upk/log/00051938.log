@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051938.upk Ver: 573/1 Engine: 4205 Names: 1093 Exports: 20081 Imports: 155 Game: 801A
 Loading Texture2D Game_PersonalCustomize_Preview from package 00051938.upk
 Loading Texture2D Game_PersonalCustomize_Purchase_Preview from package 00051938.upk
-Loaded in 0.041 sec, 1121 allocs, 1.46 MBytes serialized in 365971 calls.
+Loaded in 0.043 sec, 1121 allocs, 1.46 MBytes serialized in 365971 calls.
 
 Object info:
 ============

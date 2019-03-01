@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010241.upk Ver: 573/1 Engine: 4205 Names: 156 Exports: 150 Imports: 17 Game: 801A
 Loading SkeletalMesh3 Monster_Etc_Haetae_col1_rig from package 00010241.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -22,7 +22,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading MaterialInstanceConstant col1 from package 00010240.upk
 Loading package: 00010239.upk Ver: 573/1 Engine: 4205 Names: 57 Exports: 27 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Haetae_N from package 00010239.upk
 Loading Texture2D haetae_M from package 00010239.upk
 Loading Texture2D Haetae_D from package 00010239.upk
@@ -47,7 +47,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
-Loaded in 0.19 sec, 3315 allocs, 3.14 MBytes serialized in 543589 calls.
+Loaded in 0.15 sec, 3352 allocs, 3.14 MBytes serialized in 544402 calls.
 
 Object info:
 ============

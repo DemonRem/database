@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00038761.upk Ver: 573/1 Engine: 4205 Names: 179 Exports: 193 Imports: 51 Game: 801A
 Loading Material3 AnthroElephantB_Basic from package 00038761.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00038761.upk
 Loading package: 00029295.upk Ver: 573/1 Engine: 4205 Names: 52 Exports: 24 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
@@ -27,7 +27,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.17 sec, 3170 allocs, 2.60 MBytes serialized in 192442 calls.
+Loaded in 0.14 sec, 3207 allocs, 2.60 MBytes serialized in 193255 calls.
 
 Object info:
 ============

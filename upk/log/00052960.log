@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052960.upk Ver: 573/1 Engine: 4205 Names: 219 Exports: 125 Imports: 23 Game: 801A
 Loading SkeletalMesh3 0016_GonM from package 00052960.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -35,7 +35,7 @@ Loading Texture2D 0016_GonM_col1_M from package 00052961.upk
 Loading Texture2D 0016_GonM_col1_D from package 00052961.upk
 Loading Texture2D Mask_ck from package 00025178.upk
 Loading Material3 Custom_B from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 10128_JinM_col1_Acc_N from package 00048974.upk
 Loading Texture2D 10128_JinM_col1_Acc_M from package 00048974.upk
 Loading Texture2D 10128_JinM_col1_Acc_D from package 00048974.upk
@@ -43,7 +43,7 @@ Loading Texture2D 10128_JinM_col1_Acc_S from package 00048974.upk
 Loading TextureCube Cube_D from package 00002640.upk
 Loading Texture2D 10128_JinM_col1_Acc_FX from package 00048973.upk
 Loading Material3 Body_Rose_Fx from package 00048421.upk
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -64,7 +64,7 @@ Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D FX_Fatman_Invincible_PC_N from package 00012850.upk
-Loaded in 0.41 sec, 6157 allocs, 9.31 MBytes serialized in 1394721 calls.
+Loaded in 0.34 sec, 6197 allocs, 9.31 MBytes serialized in 1395564 calls.
 
 Object info:
 ============

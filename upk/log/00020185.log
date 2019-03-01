@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00020185.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 9 Imports: 2 Game: 801A
 Loading Texture2D 990140_autoscale_col1_D from package 00020185.upk
 Loading Texture2D 990140_autoscale_col1_M from package 00020185.upk
@@ -9,7 +9,7 @@ Loading Texture2D Monster_Human_Carrier_col1_M from package 00020185.upk
 Loading Texture2D Monster_Human_Carrier_col1_N from package 00020185.upk
 Loading Texture2D Monster_Human_Carrier_col2_E from package 00020185.upk
 Loading Texture2D Monster_Human_Carrier_col2_S from package 00020185.upk
-Loaded in 0.068 sec, 322 allocs, 0.55 MBytes serialized in 1999 calls.
+Loaded in 0.07 sec, 322 allocs, 0.55 MBytes serialized in 1999 calls.
 
 Object info:
 ============

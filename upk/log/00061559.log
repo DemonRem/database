@@ -1,0 +1,854 @@
+Found 32768 game files (1766 skipped)
+Loading package: 00061559.upk Ver: 573/1 Engine: 4205 Names: 261 Exports: 3 Imports: 37 Game: 801A
+Loading MaterialInstanceConstant col1 from package 00061559.upk
+Loading package: 00061558.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading package: 00061608.upk Ver: 573/1 Engine: 4205 Names: 437 Exports: 716 Imports: 165 Game: 801A
+Loading package: 00061557.upk Ver: 573/1 Engine: 4205 Names: 435 Exports: 655 Imports: 160 Game: 801A
+Loading package: 00061610.upk Ver: 573/1 Engine: 4205 Names: 366 Exports: 1342 Imports: 67 Game: 801A
+Loading MaterialInstanceConstant col1_BG from package 00061559.upk
+Loading package: 00025178.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 46 Imports: 2 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
+Loading MaterialInstanceConstant Op from package 00061559.upk
+Loading Texture2D 030377_Autoscale_col1_N from package 00061558.upk
+Loading Texture2D 030377_Autoscale_col1_M from package 00061558.upk
+Loading Texture2D 030377_Autoscale_col1_D from package 00061558.upk
+Loading Texture2D 030377_Autoscale_col1_S from package 00061558.upk
+Loading TextureCube Cube_crr from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D T_FX_Noise from package 00061608.upk
+Loading Texture2D 030377_T_FX_Add from package 00061557.upk
+Loading Material3 Basic_FX from package 00061610.upk
+Loading Texture2D Mask_Default from package 00025178.upk
+Loading Texture2D FX_Glow_Trangition from package 00012963.upk
+Loading Material3 Custom_B from package 00048300.upk
+Loading TextureCube eye1 from package 00002640.upk
+Loading Texture2D Noise_016 from package 00012963.upk
+Loading Texture2D 030377_T_FX_Add_Blend from package 00061557.upk
+Loading Texture2D Noise_004 from package 00012963.upk
+Loading Texture2D RunnemechaAsura_handpress_decal from package 00012963.upk
+Loading Material3 Blend_OP_FX1 from package 00061610.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loading Texture2D Gradient_Line_003 from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
+Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loaded in 0.22 sec, 5594 allocs, 3.01 MBytes serialized in 400507 calls.
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1
+
+    ScalarParameterValues[10] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[1] = { ParameterName=Glossiness1, ParameterValue=5 }
+        ScalarParameterValues[2] = { ParameterName=Glossiness2, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Specular_value, ParameterValue=1.5 }
+        ScalarParameterValues[4] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[5] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[6] = { ParameterName=Emissive_value, ParameterValue=5 }
+        ScalarParameterValues[7] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[8] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[9] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'030377_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Mask_GB, ParameterValue=Texture2D'030377_Autoscale_col1_M' }
+        TextureParameterValues[2] = { ParameterName=Diffuse, ParameterValue=Texture2D'030377_Autoscale_col1_D' }
+        TextureParameterValues[3] = { ParameterName=Specular, ParameterValue=Texture2D'030377_Autoscale_col1_S' }
+        TextureParameterValues[4] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_crr' }
+        TextureParameterValues[5] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+        TextureParameterValues[6] = { ParameterName=Noise, ParameterValue=Texture2D'T_FX_Noise' }
+        TextureParameterValues[7] = { ParameterName=FX_Add_WP, ParameterValue=Texture2D'030377_T_FX_Add' }
+    }
+    VectorParameterValues[32] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.932277, G=0.812242, B=0.420508, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Glow_Trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Fx_Glow_power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Fx_Glow_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = AC_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = AC_specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = FX_Add_WP_ColorR
+            ParameterValue = { R=15, G=5, B=2, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = FX_Add_WP_UVR1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = FX_Add_WP_R_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = FX_Add_WP_UVR2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[15] =
+        {
+            ParameterName = FX_Add_WP_R_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[16] =
+        {
+            ParameterName = FX_Multi_WP
+            ParameterValue = { R=1, G=2, B=3, A=1 }
+        }
+        VectorParameterValues[17] =
+        {
+            ParameterName = FX_Add_WP_UVG1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[18] =
+        {
+            ParameterName = FX_Add_WP_ColorG
+            ParameterValue = { R=3, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[19] =
+        {
+            ParameterName = FX_Add_WP_UVG2
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[20] =
+        {
+            ParameterName = FX_Add_WP_G_Noise1
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[21] =
+        {
+            ParameterName = FX_Add_WP_G_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[22] =
+        {
+            ParameterName = FX_Add_WP_UVB1
+            ParameterValue = { R=5, G=5, B=-1, A=1 }
+        }
+        VectorParameterValues[23] =
+        {
+            ParameterName = FX_Add_WP_ColorB
+            ParameterValue = { R=5, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[24] =
+        {
+            ParameterName = FX_Add_WP_UVB2
+            ParameterValue = { R=5, G=3, B=2, A=1 }
+        }
+        VectorParameterValues[25] =
+        {
+            ParameterName = FX_Add_WP_B_Noise1
+            ParameterValue = { R=0, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[26] =
+        {
+            ParameterName = FX_Add_WP_B_Noise2
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[27] =
+        {
+            ParameterName = FX_PointGlow_WP_RGB
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[28] =
+        {
+            ParameterName = FX_Add_WP_PointGlowUV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[29] =
+        {
+            ParameterName = FX_PointGlow_WP_RGB_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[30] =
+        {
+            ParameterName = FX_PointGlow_WP_Color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[31] =
+        {
+            ParameterName = FX_PointGlow_WP_RGB_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+    }
+    Parent = Material3'Basic_FX'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: col1_BG
+
+    ScalarParameterValues[21] =
+    {
+        ScalarParameterValues[0] = { ParameterName=long, ParameterValue=1 }
+        ScalarParameterValues[1] = { ParameterName=Under_M, ParameterValue=1 }
+        ScalarParameterValues[2] = { ParameterName=Top_M, ParameterValue=1 }
+        ScalarParameterValues[3] = { ParameterName=Transmission_value, ParameterValue=0 }
+        ScalarParameterValues[4] = { ParameterName=Skin_glossiness, ParameterValue=0 }
+        ScalarParameterValues[5] = { ParameterName=Ac1_SP, ParameterValue=2 }
+        ScalarParameterValues[6] = { ParameterName=Under_SP, ParameterValue=2 }
+        ScalarParameterValues[7] = { ParameterName=Top_SP, ParameterValue=2 }
+        ScalarParameterValues[8] = { ParameterName=Ac3_SP, ParameterValue=2 }
+        ScalarParameterValues[9] = { ParameterName=Ac2_SP, ParameterValue=1 }
+        ScalarParameterValues[10] = { ParameterName=Point_SP, ParameterValue=1 }
+        ScalarParameterValues[11] = { ParameterName=Wear_SP, ParameterValue=2 }
+        ScalarParameterValues[12] = { ParameterName=Skin_Spec_value_X, ParameterValue=1 }
+        ScalarParameterValues[13] = { ParameterName=Skin_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[14] = { ParameterName=Wear_Spec_value, ParameterValue=1 }
+        ScalarParameterValues[15] = { ParameterName=HighLight_Value, ParameterValue=1 }
+        ScalarParameterValues[16] = { ParameterName=HighLight_glossiness, ParameterValue=100 }
+        ScalarParameterValues[17] = { ParameterName=Emissive_value, ParameterValue=5 }
+        ScalarParameterValues[18] = { ParameterName=Emissive_value2, ParameterValue=0 }
+        ScalarParameterValues[19] = { ParameterName=Fresnel Value, ParameterValue=1 }
+        ScalarParameterValues[20] = { ParameterName=Fresnel exponent, ParameterValue=30 }
+    }
+    TextureParameterValues[13] =
+    {
+        TextureParameterValues[0] = { ParameterName=N, ParameterValue=Texture2D'030377_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=S, ParameterValue=Texture2D'030377_Autoscale_col1_S' }
+        TextureParameterValues[2] = { ParameterName=M, ParameterValue=Texture2D'030377_Autoscale_col1_M' }
+        TextureParameterValues[3] = { ParameterName=D, ParameterValue=Texture2D'030377_Autoscale_col1_D' }
+        TextureParameterValues[4] = { ParameterName=Under_Pattern, ParameterValue=Texture2D'Mask_Default' }
+        TextureParameterValues[5] = { ParameterName=Top_Pattern, ParameterValue=Texture2D'Mask_Default' }
+        TextureParameterValues[6] = { ParameterName=Glow_Texture, ParameterValue=Texture2D'FX_Glow_Trangition' }
+        TextureParameterValues[7] = { ParameterName=rf_cube, ParameterValue=TextureCube'Cube_crr' }
+        TextureParameterValues[8] = { ParameterName=Emissive, ParameterValue=Texture2D'check' }
+        TextureParameterValues[9] = { ParameterName=FX_Add_Wing, ParameterValue=Texture2D'030377_T_FX_Add' }
+        TextureParameterValues[10] = { ParameterName=Noise, ParameterValue=Texture2D'T_FX_Noise' }
+        TextureParameterValues[11] = { ParameterName=FX_ADD_Cloth, ParameterValue=Texture2D'check' }
+        TextureParameterValues[12] = { ParameterName=FX_Add_Hat, ParameterValue=Texture2D'check' }
+    }
+    VectorParameterValues[94] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Pattern_Size
+            ParameterValue = { R=4, G=4, B=4, A=4 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = skin_color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Ac1_L
+            ParameterValue = { R=0, G=0.21952, B=1, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Ac1_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Under_S
+            ParameterValue = { R=0.21952, G=1, B=0.21952, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = Under_L
+            ParameterValue = { R=0.21952, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Under_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = Top_S
+            ParameterValue = { R=1, G=0.21952, B=0.21952, A=1 }
+        }
+        VectorParameterValues[8] =
+        {
+            ParameterName = Top_L
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[9] =
+        {
+            ParameterName = Top_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[10] =
+        {
+            ParameterName = Ac3_L
+            ParameterValue = { R=0, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[11] =
+        {
+            ParameterName = Ac3_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[12] =
+        {
+            ParameterName = Ac2_L
+            ParameterValue = { R=1, G=0, B=1, A=1 }
+        }
+        VectorParameterValues[13] =
+        {
+            ParameterName = Ac2_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[14] =
+        {
+            ParameterName = Point_L
+            ParameterValue = { R=1, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[15] =
+        {
+            ParameterName = Point_D
+            ParameterValue = { R=0.101145, G=0.078057, B=0.069727, A=1 }
+        }
+        VectorParameterValues[16] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[17] =
+        {
+            ParameterName = Skin_Specular
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[18] =
+        {
+            ParameterName = Ac1_S
+            ParameterValue = { R=0.21952, G=0.21952, B=1, A=1 }
+        }
+        VectorParameterValues[19] =
+        {
+            ParameterName = Ac3_S
+            ParameterValue = { R=0.21952, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[20] =
+        {
+            ParameterName = Ac2_S
+            ParameterValue = { R=1, G=0.21952, B=1, A=1 }
+        }
+        VectorParameterValues[21] =
+        {
+            ParameterName = Point_S
+            ParameterValue = { R=1, G=1, B=0.21952, A=1 }
+        }
+        VectorParameterValues[22] =
+        {
+            ParameterName = Reflection_value
+            ParameterValue = { R=0.932277, G=0.812242, B=0.420508, A=1 }
+        }
+        VectorParameterValues[23] =
+        {
+            ParameterName = HighLight_Color
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[24] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[25] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[26] =
+        {
+            ParameterName = Burn_Color
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[27] =
+        {
+            ParameterName = FOOT_over
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[28] =
+        {
+            ParameterName = Under_over
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[29] =
+        {
+            ParameterName = Top_over
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[30] =
+        {
+            ParameterName = Point_over
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[31] =
+        {
+            ParameterName = FX_PointGlow_Wing_RGB_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[32] =
+        {
+            ParameterName = FX_Add_Wing_PointGlowUV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[33] =
+        {
+            ParameterName = FX_PointGlow_Wing_RGB_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[34] =
+        {
+            ParameterName = FX_PointGlow_Wing_Color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[35] =
+        {
+            ParameterName = FX_PointGlow_Wing_RGB
+            ParameterValue = { R=0, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[36] =
+        {
+            ParameterName = FX_Add_Wing_ColorB
+            ParameterValue = { R=5, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[37] =
+        {
+            ParameterName = FX_Add_Wing_B_Noise1
+            ParameterValue = { R=0, G=1, B=0, A=1 }
+        }
+        VectorParameterValues[38] =
+        {
+            ParameterName = FX_Add_Wing_UVB2
+            ParameterValue = { R=5, G=3, B=2, A=1 }
+        }
+        VectorParameterValues[39] =
+        {
+            ParameterName = FX_Add_Wing_B_Noise2
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[40] =
+        {
+            ParameterName = FX_Add_Wing_UVB1
+            ParameterValue = { R=5, G=5, B=-1, A=1 }
+        }
+        VectorParameterValues[41] =
+        {
+            ParameterName = FX_Multi_Wing
+            ParameterValue = { R=1, G=2, B=3, A=1 }
+        }
+        VectorParameterValues[42] =
+        {
+            ParameterName = FX_Add_Wing_G_Noise1
+            ParameterValue = { R=1, G=0, B=0, A=1 }
+        }
+        VectorParameterValues[43] =
+        {
+            ParameterName = FX_Add_Wing_UVG2
+            ParameterValue = { R=1, G=3, B=1, A=1 }
+        }
+        VectorParameterValues[44] =
+        {
+            ParameterName = FX_Add_Wing_G_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[45] =
+        {
+            ParameterName = FX_Add_Wing_UVG1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[46] =
+        {
+            ParameterName = FX_Add_Wing_ColorG
+            ParameterValue = { R=3, G=2, B=1, A=1 }
+        }
+        VectorParameterValues[47] =
+        {
+            ParameterName = FX_Add_Wing_R_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[48] =
+        {
+            ParameterName = FX_Add_Wing_UVR2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[49] =
+        {
+            ParameterName = FX_Add_Wing_R_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[50] =
+        {
+            ParameterName = FX_Add_Wing_UVR1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[51] =
+        {
+            ParameterName = FX_Add_Wing_ColorR
+            ParameterValue = { R=15, G=5, B=2, A=1 }
+        }
+        VectorParameterValues[52] =
+        {
+            ParameterName = FX_PointGlow_Cloth_RGB_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[53] =
+        {
+            ParameterName = FX_Add_Cloth_PointGlowUV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[54] =
+        {
+            ParameterName = FX_PointGlow_Cloth_RGB_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[55] =
+        {
+            ParameterName = FX_PointGlow_Cloth_Color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[56] =
+        {
+            ParameterName = FX_PointGlow_Cloth_RGB
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[57] =
+        {
+            ParameterName = FX_Add_Cloth_ColorB
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[58] =
+        {
+            ParameterName = FX_Add_Cloth_B_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[59] =
+        {
+            ParameterName = FX_Add_Cloth_UVB2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[60] =
+        {
+            ParameterName = FX_Add_Cloth_B_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[61] =
+        {
+            ParameterName = FX_Add_Cloth_UVB1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[62] =
+        {
+            ParameterName = FX_Multi_Cloth
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[63] =
+        {
+            ParameterName = FX_Add_Cloth_G_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[64] =
+        {
+            ParameterName = FX_Add_Cloth_UVG2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[65] =
+        {
+            ParameterName = FX_Add_Cloth_G_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[66] =
+        {
+            ParameterName = FX_Add_Cloth_UVG1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[67] =
+        {
+            ParameterName = FX_Add_Cloth_ColorG
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[68] =
+        {
+            ParameterName = FX_Add_Cloth_R_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[69] =
+        {
+            ParameterName = FX_Add_Cloth_UVR2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[70] =
+        {
+            ParameterName = FX_Add_Cloth_R_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[71] =
+        {
+            ParameterName = FX_Add_Cloth_UVR1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[72] =
+        {
+            ParameterName = FX_Add_Cloth_ColorR
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[73] =
+        {
+            ParameterName = FX_PointGlow_Hat_RGB_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[74] =
+        {
+            ParameterName = FX_Add_Hat_PointGlowUV
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[75] =
+        {
+            ParameterName = FX_PointGlow_Hat_RGB_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[76] =
+        {
+            ParameterName = FX_PointGlow_Hat_Color
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[77] =
+        {
+            ParameterName = FX_PointGlow_Hat_RGB
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[78] =
+        {
+            ParameterName = FX_Add_Hat_ColorB
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[79] =
+        {
+            ParameterName = FX_Add_Hat_B_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[80] =
+        {
+            ParameterName = FX_Add_Hat_UVB2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[81] =
+        {
+            ParameterName = FX_Add_Hat_B_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[82] =
+        {
+            ParameterName = FX_Add_Hat_UVB1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[83] =
+        {
+            ParameterName = FX_Multi_Hat
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[84] =
+        {
+            ParameterName = FX_Add_Hat_G_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[85] =
+        {
+            ParameterName = FX_Add_Hat_UVG2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[86] =
+        {
+            ParameterName = FX_Add_Hat_G_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[87] =
+        {
+            ParameterName = FX_Add_Hat_UVG1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[88] =
+        {
+            ParameterName = FX_Add_Hat_ColorG
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+        VectorParameterValues[89] =
+        {
+            ParameterName = FX_Add_Hat_R_Noise1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[90] =
+        {
+            ParameterName = FX_Add_Hat_UVR2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[91] =
+        {
+            ParameterName = FX_Add_Hat_R_Noise2
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[92] =
+        {
+            ParameterName = FX_Add_Hat_UVR1
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[93] =
+        {
+            ParameterName = FX_Add_Hat_ColorR
+            ParameterValue = { R=15, G=10, B=5, A=1 }
+        }
+    }
+    Parent = Material3'Custom_B'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Op
+
+    ScalarParameterValues[4] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Opacity, ParameterValue=0.3 }
+        ScalarParameterValues[1] = { ParameterName=Fresnel_Exp, ParameterValue=8 }
+        ScalarParameterValues[2] = { ParameterName=Specular_value, ParameterValue=2.5 }
+        ScalarParameterValues[3] = { ParameterName=Lens_spec_Power, ParameterValue=3.5 }
+    }
+    TextureParameterValues[8] =
+    {
+        TextureParameterValues[0] = { ParameterName=Normal, ParameterValue=Texture2D'030377_Autoscale_col1_N' }
+        TextureParameterValues[1] = { ParameterName=Diffuse, ParameterValue=Texture2D'030377_Autoscale_col1_D' }
+        TextureParameterValues[2] = { ParameterName=Specular, ParameterValue=Texture2D'030377_Autoscale_col1_S' }
+        TextureParameterValues[3] = { ParameterName=Lens_spec_cube, ParameterValue=TextureCube'eye1' }
+        TextureParameterValues[4] = { ParameterName=Noise1, ParameterValue=Texture2D'Noise_016' }
+        TextureParameterValues[5] = { ParameterName=FX_Add, ParameterValue=Texture2D'030377_T_FX_Add_Blend' }
+        TextureParameterValues[6] = { ParameterName=Noise2, ParameterValue=Texture2D'Noise_004' }
+        TextureParameterValues[7] =
+        {
+            ParameterName = fx_color_Texture
+            ParameterValue = Texture2D'RunnemechaAsura_handpress_decal'
+        }
+    }
+    VectorParameterValues[8] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Fresnel_color
+            ParameterValue = { R=0.017936, G=0.084642, B=0.464741, A=1 }
+        }
+        VectorParameterValues[1] =
+        {
+            ParameterName = Fresnel_Power
+            ParameterValue = { R=0.339223, G=0.804559, B=0.819964, A=1 }
+        }
+        VectorParameterValues[2] =
+        {
+            ParameterName = Mesh_trangition
+            ParameterValue = { R=0.000107, G=0.008373, B=0.009021, A=1 }
+        }
+        VectorParameterValues[3] =
+        {
+            ParameterName = Fx_Glow_color_L
+            ParameterValue = { R=1, G=2, B=5, A=1 }
+        }
+        VectorParameterValues[4] =
+        {
+            ParameterName = Glow_Trangition_L
+            ParameterValue = { R=12, G=0.3, B=0, A=1 }
+        }
+        VectorParameterValues[5] =
+        {
+            ParameterName = FX_Noise_UV1
+            ParameterValue = { R=2, G=2, B=0.2, A=1 }
+        }
+        VectorParameterValues[6] =
+        {
+            ParameterName = Fx_Glow_power_L
+            ParameterValue = { R=1, G=1, B=1, A=1 }
+        }
+        VectorParameterValues[7] =
+        {
+            ParameterName = FX_Noise_UV2
+            ParameterValue = { R=5, G=2, B=2, A=1 }
+        }
+    }
+    Parent = Material3'Blend_OP_FX1'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None

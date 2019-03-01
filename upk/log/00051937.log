@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051937.upk Ver: 573/1 Engine: 4205 Names: 54 Exports: 37 Imports: 2 Game: 801A
 Loading Texture2D GameUI_ItemGrowth2_Awaken from package 00051937.upk
 Loading Texture2D GameUI_ItemGrowth2_change from package 00051937.upk
@@ -37,7 +37,7 @@ Loading Texture2D GameUI_ItemGrowthResult_Normal from package 00051937.upk
 Loading Texture2D GameUI_ItemGrowthResult_SealSuccess from package 00051937.upk
 Loading Texture2D GameUI_ItemGrowthResult_TransformFail from package 00051937.upk
 Loading Texture2D GameUI_ItemGrowthResult_TransformSuccess from package 00051937.upk
-Loaded in 0.043 sec, 269 allocs, 0.79 MBytes serialized in 4665 calls.
+Loaded in 0.041 sec, 269 allocs, 0.79 MBytes serialized in 4665 calls.
 
 Object info:
 ============

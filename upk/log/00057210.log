@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057210.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 6 Imports: 2 Game: 801A
 Loading Texture2D Monster_Beast_NPCEgg_col1_d from package 00057210.upk
 Loading Texture2D Monster_Beast_NPCEgg_col1_em from package 00057210.upk
@@ -6,7 +6,7 @@ Loading Texture2D Monster_Beast_NPCEgg_col1_FX from package 00057210.upk
 Loading Texture2D Monster_Beast_NPCEgg_col1_MaskGB from package 00057210.upk
 Loading Texture2D Monster_Beast_NPCEgg_col1_n from package 00057210.upk
 Loading Texture2D Monster_Beast_NPCEgg_col1_s from package 00057210.upk
-Loaded in 0.062 sec, 224 allocs, 0.41 MBytes serialized in 1313 calls.
+Loaded in 0.04 sec, 224 allocs, 0.41 MBytes serialized in 1313 calls.
 
 Object info:
 ============

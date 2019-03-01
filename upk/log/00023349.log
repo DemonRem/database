@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00023349.upk Ver: 573/1 Engine: 4205 Names: 718 Exports: 7 Imports: 998 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00023349.upk Ver: 573/1 Engine: 4205 Names: 721 Exports: 7 Imports: 1003 Game: 801A
 Loading AnimSet Warlock_JinF_Animset from package 00023349.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -35,7 +35,7 @@ WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::WeaponSlotSocketNames" was not found
-Loaded in 0.001 sec, 771 allocs, 0.06 MBytes serialized in 10421 calls.
+Loaded in 0.001 sec, 774 allocs, 0.06 MBytes serialized in 10465 calls.
 
 Object info:
 ============

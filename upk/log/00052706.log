@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052706.upk Ver: 573/1 Engine: 4205 Names: 157 Exports: 229 Imports: 11 Game: 801A
 Loading SkeletalMesh3 FoxgirlEvolve from package 00052706.upk
 WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
@@ -18,7 +18,7 @@ Loading Texture2D 040110_LynF_col1_D from package 00022828.upk
 Loading Texture2D 040110_LynF_col1_N from package 00022828.upk
 Loading Texture2D Nothing_A from package 00008613.upk
 Loading Material3 Beard_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D FoxgirlEvolve_col1_N from package 00052708.upk
 Loading Texture2D FoxgirlEvolve_col1_M from package 00052708.upk
 Loading Texture2D FoxgirlEvolve_col1_D from package 00052708.upk
@@ -38,7 +38,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.22 sec, 3346 allocs, 4.06 MBytes serialized in 448019 calls.
+Loaded in 0.23 sec, 3383 allocs, 4.06 MBytes serialized in 448832 calls.
 
 Object info:
 ============

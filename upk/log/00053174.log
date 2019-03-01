@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053174.upk Ver: 573/1 Engine: 4205 Names: 611 Exports: 3255 Imports: 185 Game: 801A
 Loading AnimSet 1203_JinM_Circle_AnimSet from package 00053174.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -184,7 +184,7 @@ Loading AnimSequence AnimSequence_58 from package 00053174.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 RoseTrail_Beam from package 00053174.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading SkeletalMesh3 1203_JinM_Circle from package 00053174.upk
 WARNING: ArrayProperty "USkeletalMesh3::DashEffectList" was not found
 Loading package: 00053176.upk Ver: 573/1 Engine: 4205 Names: 128 Exports: 1 Imports: 21 Game: 801A
@@ -204,7 +204,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_238 from package 00053174.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_387 from package 00053174.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_388 from package 00053174.upk
 Loading StaticMesh3 Rose1MESH from package 00053174.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Rose1MESH_subO from package 00053174.upk
 Loading StaticMesh3 Rose2MESH from package 00053174.upk
 Loading StaticMesh3 Rose2MESH_sub from package 00053174.upk
@@ -309,7 +309,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:1203_JinM_Circle_AnimSet <- UObject::EndLoad <- LoadWholePackage:00053174 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051141.upk Ver: 573/1 Engine: 4205 Names: 221 Exports: 141 Imports: 19 Game: 801A
 Loading SkeletalMesh3 10138_GonM from package 00051141.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -20,7 +20,7 @@ Loading package: 00051142.upk Ver: 573/1 Engine: 4205 Names: 109 Exports: 1 Impo
 Loading MaterialInstanceConstant col1 from package 00051142.upk
 Loading package: 00051140.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00050781.upk Ver: 573/1 Engine: 4205 Names: 119 Exports: 2 Imports: 26 Game: 801A
 Loading package: 00050716.upk Ver: 573/1 Engine: 4205 Names: 197 Exports: 270 Imports: 53 Game: 801A
 Loading Texture2D 10138_GonM_col1_N from package 00051140.upk
@@ -48,7 +48,7 @@ Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.25 sec, 3816 allocs, 4.62 MBytes serialized in 561515 calls.
+Loaded in 0.22 sec, 3853 allocs, 4.63 MBytes serialized in 562328 calls.
 
 Object info:
 ============

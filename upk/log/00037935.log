@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037935.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 11 Imports: 2 Game: 801A
 Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_Acc_D from package 00037935.upk
 Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_Acc_E from package 00037935.upk
@@ -11,7 +11,7 @@ Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_E from package 00037935.upk
 Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_M from package 00037935.upk
 Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_N from package 00037935.upk
 Loading Texture2D Monster_Etc_RuneMechaGuard2_col1_S from package 00037935.upk
-Loaded in 0.089 sec, 382 allocs, 0.65 MBytes serialized in 2403 calls.
+Loaded in 0.085 sec, 382 allocs, 0.65 MBytes serialized in 2403 calls.
 
 Object info:
 ============

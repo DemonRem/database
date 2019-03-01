@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00005917.upk Ver: 573/1 Engine: 4205 Names: 185 Exports: 92 Imports: 22 Game: 801A
 Loading Material3 wildgoose1_mat from package 00005917.upk
 Loading Material3 wildgoose2_mat from package 00005917.upk
@@ -6,7 +6,7 @@ Loading Material3 wildgoose3_mat from package 00005917.upk
 Loading Material3 wildgoose4_mat from package 00005917.upk
 Loading SkeletalMesh3 WildGoose from package 00005917.upk
 Loading SkeletalMesh3 WildGooseXXX from package 00005917.upk
-Loaded in 0.004 sec, 275 allocs, 0.03 MBytes serialized in 9444 calls.
+Loaded in 0.006 sec, 275 allocs, 0.03 MBytes serialized in 9444 calls.
 
 Object info:
 ============

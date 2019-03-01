@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048299.upk Ver: 573/1 Engine: 4205 Names: 465 Exports: 1191 Imports: 128 Game: 801A
 Loading Material3 01 from package 00048299.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 CheondoongFX_RuneDecal_MATB from package 00048299.upk
 WARNING: BoolProperty "UMaterial3::bUsedWithMaterialEffect" was not found
 Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
@@ -33,7 +33,7 @@ Loading MaterialInstanceConstant Gadget_Bomb_MAT from package 00048299.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading MaterialInstanceConstant MI_Decal_10x10_v001 from package 00048299.upk
 Loading MaterialInstanceConstant MI_Decal_FireDecal_v001 from package 00048299.upk
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading MaterialInstanceConstant MI_DoubleSword_Decal_v001 from package 00048299.upk
 Loading MaterialInstanceConstant MI_DoubleSword_Decal_v002 from package 00048299.upk
 Loading MaterialInstanceConstant MI_DoubleSword_Helix_v001 from package 00048299.upk
@@ -139,7 +139,7 @@ Loading Texture2D Decal_DarkSmoke_000 from package 00012963.upk
 Loading Texture2D Noise_013 from package 00012963.upk
 Loading Texture2D Noise_007 from package 00012963.upk
 Loading Texture2D Sparkle_005 from package 00012963.upk
-Loaded in 2.4 sec, 7934 allocs, 16.10 MBytes serialized in 837571 calls.
+Loaded in 1.9 sec, 7974 allocs, 16.10 MBytes serialized in 838414 calls.
 
 Object info:
 ============

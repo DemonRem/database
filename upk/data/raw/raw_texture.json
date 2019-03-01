@@ -17,7 +17,7 @@
       "JinF_001_col1_N"
     ],
     "materials": {
-      "col1": "00059611",
+      "col1": "00061773",
       "col2": "00004272",
       "col20": "00057719"
     }
@@ -1561,7 +1561,7 @@
       "JinM_005_col1_n"
     ],
     "materials": {
-      "col1": "00059688"
+      "col1": "00062017"
     }
   },
   "00003750": {
@@ -6182,7 +6182,7 @@
       "JinM_007_col1_n"
     ],
     "materials": {
-      "col1": "00059596",
+      "col1": "00062003",
       "col20": "00053678"
     }
   },
@@ -9316,6 +9316,7 @@
       "Img_Envguide_5918",
       "Img_Envguide_5940",
       "Img_Envguide_6274_CN",
+      "Img_Envguide_6274_CN_02",
       "Img_Envguide_6374",
       "Img_Envguide_6374_CN_01",
       "Img_Envguide_6374_CN_02",
@@ -9349,6 +9350,7 @@
       "Img_Party_battle_field_base_enemy_beta",
       "Img_Party_battle_field_whale_ally_alpha",
       "Img_Party_battle_field_whale_enemy_beta",
+      "Img_PvP_Activation",
       "Img_QuestIndicator_epic_comeplete_quest_128",
       "Img_QuestIndicator_epic_running_128",
       "Img_QuestIndicator_Event_Snowman",
@@ -9508,7 +9510,7 @@
       "JinM_014_col1_n"
     ],
     "materials": {
-      "col1": "00056153",
+      "col1": "00061713",
       "col20": "00021479",
       "col2": "00058099"
     }
@@ -9878,7 +9880,7 @@
       "S"
     ],
     "materials": {
-      "col1": "00059471"
+      "col1": "00059902"
     }
   },
   "00008705": {
@@ -20955,6 +20957,7 @@
       "GameUI_Coin_GoodsStone_008",
       "GameUI_Coin_GoodsStone_009",
       "GameUI_Coin_Silver",
+      "GameUI_Coin_SkillPoint",
       "GameUI_DuelBack",
       "GameUI_Gauge",
       "GameUI_HeaderIcon",
@@ -23527,7 +23530,7 @@
       "LynF_006_col1_N"
     ],
     "materials": {
-      "col1": "00060311"
+      "col1": "00061018"
     }
   },
   "00009896": {
@@ -30174,13 +30177,6 @@
       "col1": "00012533"
     }
   },
-  "00012538": {
-    "upkId": "00012538",
-    "objs": [
-      "2PixBlack000_Tex"
-    ],
-    "materials": {}
-  },
   "00012546": {
     "upkId": "00012546",
     "objs": [
@@ -31158,6 +31154,7 @@
       "Aura_Blood_003",
       "Aura_BlurBlue_000",
       "Aura_Flame_000",
+      "aura_light_001",
       "Aura_Ripple_000",
       "Aura_Ripple_001",
       "Aura_Tail_000",
@@ -31165,6 +31162,7 @@
       "Aura_Tail_002",
       "Axe_alpha",
       "Axe_Edge_alpha",
+      "bar_noise_gra01",
       "Barrier_signal",
       "Beam",
       "Bee_D",
@@ -31208,6 +31206,7 @@
       "Catt_s",
       "Check_Shine_001_Tex",
       "cloud_Wide_Tex",
+      "coin_tex",
       "Color_Ring_000",
       "Color_Ring_001",
       "Color_Ring_002",
@@ -31218,6 +31217,7 @@
       "crushU_text",
       "crushU_text_line",
       "Dagger_Opa2",
+      "Damage02_Fire_crack10",
       "Damage02_Fire_creake10",
       "Damage02_Fire_Decal_mask3",
       "Damage02_Fire_Signal_Decal_main08",
@@ -31235,6 +31235,9 @@
       "Damage_Re_normal",
       "Damage_Re_Specular",
       "Dandleion",
+      "Dandleion2",
+      "Dandleion3",
+      "Dandleion5_N",
       "Decal_Crack_000",
       "Decal_Crack_001",
       "Decal_Crack_002",
@@ -31382,6 +31385,7 @@
       "Fire_Sprite_006",
       "Fire_Sprite_007",
       "Fire_Torch_Sample_001_D",
+      "FireSmoke_SQ8x8",
       "FireWork_Burst_Heart_02",
       "FireWork_Burst_Heart_03",
       "FireWork_Burst_Heart_04",
@@ -31478,6 +31482,7 @@
       "Gradient_Beam_007_Clamp",
       "Gradient_Beam_008",
       "Gradient_Beam_Clamp",
+      "Gradient_Beam_v001",
       "Gradient_Color_001",
       "Gradient_Color_BlueToPurple_000",
       "Gradient_Color_BlueToPurple_001",
@@ -31527,6 +31532,7 @@
       "Gradient_Wipe_BurnOut_Mask",
       "Gradient_Wipe_BurnOut_Mask_TEST",
       "Hammer_FractalLine",
+      "Headline_Flare_03",
       "Heal_signal",
       "Heal_signal_outLine",
       "Hex000_Tex",
@@ -31581,6 +31587,8 @@
       "Item_CommonAddHp_02",
       "j_decal_circle008",
       "Jaket000_Tex",
+      "JR_T_Flame01_Sequnce8x8",
+      "JR_T_Flame02_Sequnce8x8",
       "lava01",
       "lava01N",
       "Leaf",
@@ -31607,6 +31615,7 @@
       "MuseongM_GradientLine",
       "MuseongM_Hand02",
       "MuseongM_pizzacircle",
+      "MuseongM_pizzacircle120",
       "MuseongM_shockwave",
       "Nail_decal_01",
       "Nail_decal_01_NRM",
@@ -31638,6 +31647,7 @@
       "Noise_020",
       "Noise_021",
       "Noise_022",
+      "noise_aura01",
       "Noise_Bubble_000",
       "Noise_Crack_000",
       "Noise_Distortion_000",
@@ -31659,6 +31669,7 @@
       "Noise_Glass_000",
       "Noise_Glow_000",
       "Noise_Glow_000_Out",
+      "Noise_ground_001",
       "Noise_Plazma_000",
       "Noise_Plazma_001",
       "Noise_Plazma_002",
@@ -31700,6 +31711,7 @@
       "Plant_004_06_M",
       "Plant_004_06_moss01",
       "Plant_004_06_N",
+      "Plant_decal_01",
       "Poison_Deca02_D",
       "Poison_Deca02_N",
       "Poison_Floor_1",
@@ -31773,8 +31785,12 @@
       "Rune_Target_Decal_000",
       "Rune_Text_Sprite_000",
       "RunnemechaAsura_handpress_decal",
+      "SaintTurtle_zzz_02",
       "Seed_2",
       "Seed_3",
+      "SeqT_JR_GhostSmoke001_8x8",
+      "SeqT_JR_GhostSmoke002_8x8",
+      "SeqT_JR_GhostSmoke003_8x8",
       "SM",
       "Smoke_000",
       "Smoke_000a",
@@ -31873,6 +31889,7 @@
       "Sparkle_Ink_016",
       "Sparkle_ink_017",
       "Sparkle_ink_018",
+      "Sparkle_Ink_019",
       "Sparkle_Ink_Small",
       "Sparkle_ShockWave_005",
       "Sparkle_Sprite_000",
@@ -31911,17 +31928,23 @@
       "SystemDecal_Triangle_noClamp",
       "T01_Dst_P_4",
       "T01_fire_dist_re",
+      "T_BM_G3_SoulBlast",
       "T_Box",
       "T_BunnyCard_v001_D",
       "T_BunnyCard_v001_N",
       "T_BunnyCard_v002_D",
       "T_BunnyCard_v003_D",
+      "T_Decal_MagicRec001",
       "T_Decal_Taegeuk_01",
       "T_Decal_Taegeuk_02",
+      "T_GhostDecal_SemiCircle001",
+      "T_GhostMask_Mask01",
       "T_GL_WaterNormal_02_Macro",
       "t_Glow_Flar_012_2",
+      "t_Glow_Flar_012_3",
       "T_Gradation_g",
       "T_GS_Ice_02_D",
+      "T_JR_Decal_MagicCircle_001",
       "T_Liquid_SM_NanoBlack_Mask_01",
       "T_Liquid_SM_Waterfall_01",
       "T_MukHwa_d2",
@@ -31935,6 +31958,9 @@
       "T_return_dragon_07",
       "T_return_dragon_10_GreenGradation_small",
       "T_Return_Trail_Gradient_clamp",
+      "T_Smoke_thin_01",
+      "T_Smoke_thin_02",
+      "T_Smoke_thin_03",
       "T_Snow",
       "T_teageuk_Center_01_inverse_NRM",
       "T_teageuk_edge_01_inverse_NRM1",
@@ -32021,6 +32047,8 @@
       "Wing",
       "XXXXXXX",
       "YachaC_arrow_image",
+      "YellowElectric_Sprite_000",
+      "YellowElectric_Sprite_001",
       "YeonHwaLin_AccBomb_D",
       "YeonHwaLin_AccBomb_mask",
       "YeonHwaLin_AccBomb_N",
@@ -32036,7 +32064,12 @@
       "YeonHwaLin_LandMine_D",
       "YeonHwaLin_LandMine_FxMask",
       "YeonHwaLin_LandMine_N",
-      "YeonHwaLin_LandMine_S"
+      "YeonHwaLin_LandMine_S",
+      "zone_01",
+      "zone_02",
+      "zone_center01",
+      "zone_main",
+      "zone_sub"
     ],
     "materials": {}
   },
@@ -33145,7 +33178,7 @@
       "JinF_028_col1_N"
     ],
     "materials": {
-      "col1": "00035388"
+      "col1": "00060004"
     }
   },
   "00013439": {
@@ -34414,7 +34447,7 @@
       "JinM_026_col1_N"
     ],
     "materials": {
-      "col1": "00014100"
+      "col1": "00060998"
     }
   },
   "00014140": {
@@ -35200,7 +35233,7 @@
       "LynM_014_col1_N"
     ],
     "materials": {
-      "col1": "00055265",
+      "col1": "00059354",
       "col2": "00054028"
     }
   },
@@ -35590,12 +35623,14 @@
       "Monster_Human_DokkebiGon_D6",
       "Monster_Human_DokkebiGon_D7_new",
       "Monster_Human_DokkebiGon_D8",
+      "Monster_Human_DokkebiGon_D9",
       "Monster_Human_DokkebiGon_e2",
       "Monster_Human_DokkebiGon_E4",
       "Monster_Human_DokkebiGon_E5",
       "Monster_Human_DokkebiGon_E6",
       "Monster_Human_DokkebiGon_E7_new",
       "Monster_Human_DokkebiGon_E8",
+      "Monster_Human_DokkebiGon_E9",
       "Monster_Human_DokkebiGon_FX",
       "Monster_Human_DokkebiGon_m",
       "Monster_Human_DokkebiGon_m2",
@@ -35612,7 +35647,8 @@
       "Monster_Human_DokkebiGon_S5",
       "Monster_Human_DokkebiGon_S6",
       "Monster_Human_DokkebiGon_S7_new",
-      "Monster_Human_DokkebiGon_S8"
+      "Monster_Human_DokkebiGon_S8",
+      "Monster_Human_DokkebiGon_S9"
     ],
     "materials": {
       "col8": "00027386"
@@ -35624,15 +35660,18 @@
       "Acc_990036_DokkebiGon_d",
       "Acc_990036_DokkebiGon_d2",
       "Acc_990036_DokkebiGon_d3",
+      "Acc_990036_DokkebiGon_D_col4",
       "Acc_990036_DokkebiGon_e",
       "Acc_990036_DokkebiGon_e2",
       "Acc_990036_DokkebiGon_e3",
+      "Acc_990036_DokkebiGon_E_col4",
       "Acc_990036_DokkebiGon_FX",
       "Acc_990036_DokkebiGon_m",
       "Acc_990036_DokkebiGon_n",
       "Acc_990036_DokkebiGon_s",
       "Acc_990036_DokkebiGon_s2",
-      "Acc_990036_DokkebiGon_s3"
+      "Acc_990036_DokkebiGon_s3",
+      "Acc_990036_DokkebiGon_S_col4"
     ],
     "materials": {}
   },
@@ -35671,6 +35710,9 @@
       "Monster_Beast_SinSi_col4_D",
       "Monster_Beast_SinSi_col4_E",
       "Monster_Beast_SinSi_col4_S",
+      "Monster_Beast_SinSi_col5_D",
+      "Monster_Beast_SinSi_col5_E",
+      "Monster_Beast_SinSi_col5_S",
       "SinSi_D",
       "SinSi_D2",
       "Sinsi_D_col2",
@@ -37344,7 +37386,7 @@
       "040049_JinF_s_Col1"
     ],
     "materials": {
-      "col1": "00015200"
+      "col1": "00059323"
     }
   },
   "00015202": {
@@ -38996,12 +39038,14 @@
       "990115_D",
       "990115_D_col2",
       "990115_D_col4",
+      "990115_D_col5",
       "990115_FX",
       "990115_M",
       "990115_N",
       "990115_S",
       "990115_S_col2",
-      "990115_S_col4"
+      "990115_S_col4",
+      "990115_S_col5"
     ],
     "materials": {
       "col3": "00027390"
@@ -39073,7 +39117,7 @@
       "KunN_022_col1_N"
     ],
     "materials": {
-      "col1": "00056363",
+      "col1": "00062021",
       "col20": "00021471"
     }
   },
@@ -42480,13 +42524,17 @@
       "Acc_990049_DokkebiGonLeader_col2_S",
       "Acc_990049_DokkebiGonLeader_col4_D",
       "Acc_990049_DokkebiGonLeader_col4_E",
-      "Acc_990049_DokkebiGonLeader_col4_S"
+      "Acc_990049_DokkebiGonLeader_col4_S",
+      "Acc_990049_DokkebiGonLeader_col5_D_new",
+      "Acc_990049_DokkebiGonLeader_col5_E_new",
+      "Acc_990049_DokkebiGonLeader_col5_S_new"
     ],
     "materials": {
       "col1": "00017381",
       "col2": "00021500",
       "col3": "00022787",
-      "col4": "00027388"
+      "col4": "00027388",
+      "col5": "00060752"
     }
   },
   "00017390": {
@@ -43376,7 +43424,7 @@
       "ddd_n"
     ],
     "materials": {
-      "col1": "00052588",
+      "col1": "00060053",
       "col20": "00021666"
     }
   },
@@ -47377,7 +47425,7 @@
       "JinF_042_col1_N"
     ],
     "materials": {
-      "col1": "00053961"
+      "col1": "00060168"
     }
   },
   "00020004": {
@@ -54130,6 +54178,8 @@
       "EquipGem_NeukdaeMon_Pos6",
       "EquipGem_NeukdaeMon_Pos7",
       "EquipGem_NeukdaeMon_Pos8",
+      "EquipGem_NewTaegeuk3_BlackPink",
+      "EquipGem_NewTaegeuk3_BlackPink_Extra",
       "EquipGem_NewTaegeuk3_BlueBlueGreen",
       "EquipGem_NewTaegeuk3_BlueBlueGreen_Extra",
       "EquipGem_NewTaegeuk3_BlueGreen",
@@ -64821,10 +64871,14 @@
       "60120_JinM_col1_D",
       "60120_JinM_col1_M",
       "60120_JinM_col1_N",
-      "60120_JinM_col1_S"
+      "60120_JinM_col1_S",
+      "60120_JinM_col2_D",
+      "60120_JinM_col2_M",
+      "60120_JinM_col2_N",
+      "60120_JinM_col2_S"
     ],
     "materials": {
-      "col1": "00027395"
+      "col1": "00060905"
     }
   },
   "00027399": {
@@ -65008,10 +65062,14 @@
       "60120_JinF_col1_D",
       "60120_JinF_col1_M",
       "60120_JinF_col1_N",
-      "60120_JinF_col1_S"
+      "60120_JinF_col1_S",
+      "60120_JinF_col2_D",
+      "60120_JinF_col2_M",
+      "60120_JinF_col2_N",
+      "60120_JinF_col2_S"
     ],
     "materials": {
-      "col1": "00027545"
+      "col1": "00061033"
     }
   },
   "00027549": {
@@ -65455,6 +65513,7 @@
       "Dungeon_Img_BaekCheong_Sulokgoong_Boss1",
       "Dungeon_Img_BaekCheong_Sulokgoong_Boss2",
       "Dungeon_Img_BaekCheong_Sulokgoong_Boss3",
+      "Dungeon_Img_Battle_RoyalField",
       "Dungeon_Img_BimilJeondang_Boss1",
       "Dungeon_Img_BimilJeondang_Boss2",
       "Dungeon_Img_BubGiGongJang",
@@ -65484,6 +65543,7 @@
       "Dungeon_Img_HeaSangMuDom_Boss1",
       "Dungeon_Img_HeaSangMuDom_Boss2",
       "Dungeon_Img_Hongsil_Event",
+      "Dungeon_Img_HongsilSecret_Event",
       "Dungeon_Img_Hookcanyon_Boss1",
       "Dungeon_Img_Ice_Shooting",
       "Dungeon_Img_InfiniteTower",
@@ -67040,7 +67100,8 @@
       "030198_Autoscale_col1_S"
     ],
     "materials": {
-      "col1": "00032370"
+      "col1": "00032370",
+      "col40": "00061778"
     }
   },
   "00028625": {
@@ -68851,7 +68912,7 @@
       "JinM_049_col1_N"
     ],
     "materials": {
-      "col1": "00057098",
+      "col1": "00060000",
       "col2": "00054025"
     }
   },
@@ -69986,7 +70047,7 @@
       "JinF_052_col1_N"
     ],
     "materials": {
-      "col1": "00054735"
+      "col1": "00061161"
     }
   },
   "00030043": {
@@ -78950,6 +79011,10 @@
     "upkId": "00034796",
     "objs": [
       "10023_JinM_col1_D",
+      "10023_JinM_col2_D",
+      "10023_JinM_col2_M",
+      "10023_JinM_col2_N",
+      "10023_JinM_col2_S",
       "JinM_col1_M",
       "JinM_col1_N",
       "JinM_col1_S"
@@ -79229,7 +79294,11 @@
       "10023_JinF_Col1_D",
       "10023_JinF_Col1_M",
       "10023_JinF_Col1_N",
-      "10023_JinF_Col1_S"
+      "10023_JinF_Col1_S",
+      "10023_JinF_col2_D",
+      "10023_JinF_col2_M",
+      "10023_JinF_col2_N",
+      "10023_JinF_col2_S"
     ],
     "materials": {
       "col1": "00034965"
@@ -79413,7 +79482,11 @@
       "10023_LynF_col1_d",
       "10023_LynF_col1_M",
       "10023_LynF_col1_n",
-      "10023_LynF_col1_s"
+      "10023_LynF_col1_s",
+      "10023_LynF_col2_D",
+      "10023_LynF_col2_M",
+      "10023_LynF_col2_N",
+      "10023_LynF_col2_S"
     ],
     "materials": {
       "col1": "00035048"
@@ -79573,7 +79646,11 @@
       "10023_KunN_Col1_D",
       "10023_KunN_Col1_M",
       "10023_KunN_Col1_N",
-      "10023_KunN_Col1_S"
+      "10023_KunN_Col1_S",
+      "10023_KunN_col2_D",
+      "10023_KunN_col2_M",
+      "10023_KunN_col2_N",
+      "10023_KunN_col2_S"
     ],
     "materials": {
       "col1": "00035107"
@@ -79585,7 +79662,11 @@
       "10023_GonF_Col1_D",
       "10023_GonF_Col1_M",
       "10023_GonF_Col1_N",
-      "10023_GonF_Col1_S"
+      "10023_GonF_Col1_S",
+      "10023_GonF_col2_D",
+      "10023_GonF_col2_M",
+      "10023_GonF_col2_N",
+      "10023_GonF_col2_S"
     ],
     "materials": {
       "col1": "00035123"
@@ -79710,7 +79791,11 @@
       "10023_GonM_col1_D",
       "10023_GonM_col1_M",
       "10023_GonM_col1_N",
-      "10023_GonM_col1_S"
+      "10023_GonM_col1_S",
+      "10023_GonM_col2_D",
+      "10023_GonM_col2_M",
+      "10023_GonM_col2_N",
+      "10023_GonM_col2_S"
     ],
     "materials": {
       "col1": "00035172"
@@ -79722,7 +79807,11 @@
       "10023_LynM_col1_d",
       "10023_LynM_col1_m",
       "10023_LynM_col1_N",
-      "10023_LynM_col1_S"
+      "10023_LynM_col1_S",
+      "10023_LynM_col2_D",
+      "10023_LynM_col2_M",
+      "10023_LynM_col2_N",
+      "10023_LynM_col2_S"
     ],
     "materials": {
       "col1": "00035175"
@@ -80312,10 +80401,14 @@
       "60120_GonM_col1_D",
       "60120_GonM_col1_M",
       "60120_GonM_col1_N",
-      "60120_GonM_col1_S"
+      "60120_GonM_col1_S",
+      "60120_GonM_col2_D",
+      "60120_GonM_col2_M",
+      "60120_GonM_col2_N",
+      "60120_GonM_col2_S"
     ],
     "materials": {
-      "col1": "00035554"
+      "col1": "00061034"
     }
   },
   "00035556": {
@@ -80324,10 +80417,14 @@
       "60120_GonF_col1_D",
       "60120_GonF_col1_M",
       "60120_GonF_col1_N",
-      "60120_GonF_col1_S"
+      "60120_GonF_col1_S",
+      "60120_GonF_col2_D",
+      "60120_GonF_col2_M",
+      "60120_GonF_col2_N",
+      "60120_GonF_col2_S"
     ],
     "materials": {
-      "col1": "00035557"
+      "col1": "00061035"
     }
   },
   "00035573": {
@@ -80738,10 +80835,14 @@
       "60120_KunN_col1_D",
       "60120_KunN_col1_M",
       "60120_KunN_col1_N",
-      "60120_KunN_col1_S"
+      "60120_KunN_col1_S",
+      "60120_KunN_col2_D",
+      "60120_KunN_col2_M",
+      "60120_KunN_col2_N",
+      "60120_KunN_col2_S"
     ],
     "materials": {
-      "col1": "00035871"
+      "col1": "00061036"
     }
   },
   "00035875": {
@@ -80750,10 +80851,14 @@
       "60120_LynM_col1_D",
       "60120_LynM_col1_M",
       "60120_LynM_col1_N",
-      "60120_LynM_col1_S"
+      "60120_LynM_col1_S",
+      "60120_LynM_col2_D",
+      "60120_LynM_col2_M",
+      "60120_LynM_col2_N",
+      "60120_LynM_col2_S"
     ],
     "materials": {
-      "col1": "00035876"
+      "col1": "00061037"
     }
   },
   "00035878": {
@@ -80762,10 +80867,14 @@
       "60120_LynF_col1_D",
       "60120_LynF_col1_M",
       "60120_LynF_col1_N",
-      "60120_LynF_col1_S"
+      "60120_LynF_col1_S",
+      "60120_LynF_col2_D",
+      "60120_LynF_col2_M",
+      "60120_LynF_col2_N",
+      "60120_LynF_col2_S"
     ],
     "materials": {
-      "col1": "00035879"
+      "col1": "00061038"
     }
   },
   "00035882": {
@@ -83933,7 +84042,8 @@
       "Tex_StylePoint_number03",
       "Tex_StylePoint_number2",
       "Tex_StylePoint_number4",
-      "Tex_StylePoint_number5"
+      "Tex_StylePoint_number5",
+      "UI_Field_Brake_bar01"
     ],
     "materials": {}
   },
@@ -85134,7 +85244,9 @@
       "Weapon_020181_col1_FX",
       "YeonHwaLin_HealStamp_decal08"
     ],
-    "materials": {}
+    "materials": {
+      "MI_Weapon_010388_Edge01": "00061517"
+    }
   },
   "00037792": {
     "upkId": "00037792",
@@ -91389,42 +91501,58 @@
   "00042363": {
     "upkId": "00042363",
     "objs": [
+      "10079_JinM_col10_D",
+      "10079_JinM_col10_M",
+      "10079_JinM_col10_N",
+      "10079_JinM_col10_S",
       "10079_JinM_col1_D",
       "10079_JinM_col1_M",
       "10079_JinM_col1_N",
       "10079_JinM_col1_S"
     ],
     "materials": {
-      "col1": "00042364"
+      "col1": "00059753"
     }
   },
   "00042367": {
     "upkId": "00042367",
     "objs": [
+      "10079_JinF_col10_D",
+      "10079_JinF_col10_M",
+      "10079_JinF_col10_N",
+      "10079_JinF_col10_S",
       "Cloth_10079_JinF_D",
       "Cloth_10079_JinF_M",
       "Cloth_10079_JinF_N",
       "Cloth_10079_JinF_S"
     ],
     "materials": {
-      "col1": "00042368"
+      "col1": "00059788"
     }
   },
   "00042371": {
     "upkId": "00042371",
     "objs": [
+      "10079_GonM_col10_D",
+      "10079_GonM_col10_M",
+      "10079_GonM_col10_N",
+      "10079_GonM_col10_S",
       "Cloth_10079_GonM_col1_D",
       "Cloth_10079_GonM_col1_M",
       "Cloth_10079_GonM_col1_N",
       "Cloth_10079_GonM_col1_S"
     ],
     "materials": {
-      "col1": "00042372"
+      "col1": "00060648"
     }
   },
   "00042375": {
     "upkId": "00042375",
     "objs": [
+      "10079_GonF_col10_D",
+      "10079_GonF_col10_M",
+      "10079_GonF_col10_N",
+      "10079_GonF_col10_S",
       "10079_GonF_col1_D",
       "10079_GonF_col1_M",
       "10079_GonF_col1_N",
@@ -91437,6 +91565,10 @@
   "00042379": {
     "upkId": "00042379",
     "objs": [
+      "10079_KunN_col10_D",
+      "10079_KunN_col10_M",
+      "10079_KunN_col10_N",
+      "10079_KunN_col10_S",
       "10079_KunN_col1_D",
       "10079_KunN_col1_M",
       "10079_KunN_col1_N",
@@ -91449,18 +91581,26 @@
   "00042383": {
     "upkId": "00042383",
     "objs": [
+      "10079_LynM_col10_D",
+      "10079_LynM_col10_M",
+      "10079_LynM_col10_N",
+      "10079_LynM_col10_S",
       "10079_LynM_col1_D",
       "10079_LynM_col1_M",
       "10079_LynM_col1_N",
       "10079_LynM_col1_S"
     ],
     "materials": {
-      "col1": "00042384"
+      "col1": "00061079"
     }
   },
   "00042387": {
     "upkId": "00042387",
     "objs": [
+      "10079_LynF_col10_D",
+      "10079_LynF_col10_M",
+      "10079_LynF_col10_N",
+      "10079_LynF_col10_S",
       "10079_LynF_col1_D",
       "10079_LynF_col1_M",
       "10079_LynF_col1_N",
@@ -93130,7 +93270,7 @@
       "JinM_114_col1_N"
     ],
     "materials": {
-      "col1": "00043653"
+      "col1": "00061002"
     }
   },
   "00043487": {
@@ -94046,7 +94186,7 @@
       "JinF_116_col1_N"
     ],
     "materials": {
-      "col1": "00047338"
+      "col1": "00061947"
     }
   },
   "00044095": {
@@ -95612,6 +95752,7 @@
       "GameUI_Attendance04_03",
       "GameUI_Attendance04_04",
       "GameUI_Attendance04_05",
+      "GameUI_Attendance04_06",
       "GameUI_Attendance_01",
       "GameUI_Attendance_02",
       "GameUI_Attendance_Chance_Slot_Boom",
@@ -97618,6 +97759,10 @@
       "070011_Autoscale_col1_M",
       "070011_Autoscale_col1_N",
       "070011_Autoscale_col1_S",
+      "070011_Autoscale_col20_D",
+      "070011_Autoscale_col20_E",
+      "070011_Autoscale_col20_M",
+      "070011_Autoscale_col20_S",
       "070011_Autoscale_col2_D",
       "070011_Autoscale_col2_E",
       "070011_Autoscale_col2_M",
@@ -97648,7 +97793,8 @@
       "col16": "00048584",
       "col17": "00048586",
       "col18": "00048588",
-      "col19": "00049293"
+      "col19": "00049293",
+      "col20": "00060797"
     }
   },
   "00046295": {
@@ -100265,6 +100411,7 @@
       "GameUI_New_Scene_19",
       "GameUI_New_Scene_20",
       "GameUI_New_Scene_21",
+      "GameUI_New_Scene_22",
       "GameUI_PublicRaid",
       "GameUI_RandomStore2",
       "GameUI_RankingBanner",
@@ -100764,10 +100911,14 @@
       "10127_JinM_col1_D",
       "10127_JinM_col1_M",
       "10127_JinM_col1_N",
-      "10127_JinM_col1_S"
+      "10127_JinM_col1_S",
+      "10127_JinM_col2_D",
+      "10127_JinM_col2_M",
+      "10127_JinM_col2_N",
+      "10127_JinM_col2_S"
     ],
     "materials": {
-      "col1": "00048482"
+      "col1": "00060982"
     }
   },
   "00048145": {
@@ -100776,10 +100927,14 @@
       "10127_JinF_col1_D",
       "10127_JinF_col1_M",
       "10127_JinF_col1_N",
-      "10127_JinF_col1_S"
+      "10127_JinF_col1_S",
+      "10127_JinF_col2_D",
+      "10127_JinF_col2_M",
+      "10127_JinF_col2_N",
+      "10127_JinF_col2_S"
     ],
     "materials": {
-      "col1": "00048146"
+      "col1": "00060889"
     }
   },
   "00048151": {
@@ -100788,10 +100943,14 @@
       "10127_KunN_col1_D",
       "10127_KunN_col1_M",
       "10127_KunN_col1_N",
-      "10127_KunN_col1_S"
+      "10127_KunN_col1_S",
+      "10127_KunN_col2_D",
+      "10127_KunN_col2_M",
+      "10127_KunN_col2_N",
+      "10127_KunN_col2_S"
     ],
     "materials": {
-      "col1": "00048152"
+      "col1": "00060883"
     }
   },
   "00048155": {
@@ -100800,10 +100959,14 @@
       "10127_LynM_col1_D",
       "10127_LynM_col1_M",
       "10127_LynM_col1_N",
-      "10127_LynM_col1_S"
+      "10127_LynM_col1_S",
+      "10127_LynM_col2_D",
+      "10127_LynM_col2_M",
+      "10127_LynM_col2_N",
+      "10127_LynM_col2_S"
     ],
     "materials": {
-      "col1": "00048156"
+      "col1": "00060983"
     }
   },
   "00048159": {
@@ -100812,10 +100975,14 @@
       "10127_LynF_col1_D",
       "10127_LynF_col1_M",
       "10127_LynF_col1_N",
-      "10127_LynF_col1_S"
+      "10127_LynF_col1_S",
+      "10127_LynF_col2_D",
+      "10127_LynF_col2_M",
+      "10127_LynF_col2_N",
+      "10127_LynF_col2_S"
     ],
     "materials": {
-      "col1": "00048160"
+      "col1": "00060985"
     }
   },
   "00048173": {
@@ -100824,10 +100991,14 @@
       "10127_GonM_col1_D",
       "10127_GonM_col1_M",
       "10127_GonM_col1_N",
-      "10127_GonM_col1_S"
+      "10127_GonM_col1_S",
+      "10127_GonM_col2_D",
+      "10127_GonM_col2_M",
+      "10127_GonM_col2_N",
+      "10127_GonM_col2_S"
     ],
     "materials": {
-      "col1": "00048174"
+      "col1": "00060986"
     }
   },
   "00048177": {
@@ -100836,10 +101007,14 @@
       "10127_GonF_col1_D",
       "10127_GonF_col1_M",
       "10127_GonF_col1_N",
-      "10127_GonF_col1_S"
+      "10127_GonF_col1_S",
+      "10127_GonF_col2_D",
+      "10127_GonF_col2_M",
+      "10127_GonF_col2_N",
+      "10127_GonF_col2_S"
     ],
     "materials": {
-      "col1": "00048178"
+      "col1": "00060987"
     }
   },
   "00048182": {
@@ -106988,7 +107163,7 @@
       "JinM_120_col1_N"
     ],
     "materials": {
-      "col1": "00051772"
+      "col1": "00061308"
     }
   },
   "00051777": {
@@ -107933,14 +108108,19 @@
   "00052219": {
     "upkId": "00052219",
     "objs": [
+      "Acc_Bangle_DarkLegendry_2-3Phase",
       "Acc_Bangle_DarkSky_1-1Phase",
       "Acc_Bangle_DarkSky_2-1Phase",
+      "Acc_Bangle_Hero_1-3Phase",
+      "Acc_Bangle_Legendry_4-3Phase",
       "Acc_Bangle_Legendry_6-3Phase",
       "Acc_Bangle_Legendry_6-4Phase",
       "Acc_Bangle_Legendry_6-5Phase",
       "Acc_Bangle_Legendry_6-6Phase",
       "Acc_Bangle_Legendry_6-7Phase",
+      "Acc_Bangle_Legendry_6-8Phase",
       "Acc_Bangle_Relic_1-1Phase",
+      "Acc_Belt_Legendry_4-1Phase",
       "Acc_Belt_Legendry_5-2Phase",
       "Acc_Belt_Legendry_6-1Phase",
       "Acc_Belt_Legendry_6-2Phase",
@@ -107951,14 +108131,24 @@
       "Acc_Earring_Legendry_6-2Phase",
       "Acc_Earring_Legendry_7-1Phase",
       "Acc_Earring_Legendry_7-2Phase",
+      "Acc_Earring_Legendry_7-3Phase",
       "Acc_Earring_Legendry_8-1Phase",
       "Acc_Earring_Legendry_8-2Phase",
+      "Acc_Earring_Legendry_8-3Phase",
+      "Acc_Earring_Legendry_AW_7-1Phase-1",
+      "Acc_Earring_Legendry_Aw_9-1Phase",
+      "Acc_Earring_Legendry_No_7-1Phase",
+      "Acc_Earring_Legendry_No_7-1Phase-1",
+      "Acc_Earring_Legendry_No_8-1Phase",
+      "Acc_Earring_Legendry_No_9-1Phase",
       "Acc_Earring_Mawang_1-1Phase",
       "Acc_Earring_Relic_1-1Phase",
       "Acc_Emblem_Variation_3-1Phase",
       "Acc_Emblem_Variation_3-2Phase",
+      "Acc_Emblem_Variation_3-3Phase",
       "Acc_Gloves_Legend_2-1Phase",
       "Acc_Gloves_Legend_2-2Phase",
+      "Acc_Gloves_Legend_3-1Phase",
       "Acc_Gloves_Legend_6-1Phase",
       "Acc_Gloves_Relic_1-1Phase",
       "Acc_necklace_BlackWind_1-2Phase",
@@ -107968,7 +108158,16 @@
       "Acc_necklace_Legendry_6-2Phase",
       "Acc_Necklace_Legendry_7-1Phase",
       "Acc_Necklace_Legendry_7-2Phase",
+      "Acc_Necklace_Legendry_7-3Phase",
       "Acc_Necklace_Legendry_8-1Phase",
+      "Acc_Necklace_Legendry_8-2Phase",
+      "Acc_Necklace_Legendry_8-3Phase",
+      "Acc_Necklace_Legendry_AW_7-1Phase",
+      "Acc_Necklace_Legendry_Aw_8-1Phase",
+      "Acc_Necklace_Legendry_No_7-1Phase",
+      "Acc_Necklace_Legendry_No_7-1Phase-1",
+      "Acc_Necklace_Legendry_No_8-1Phase",
+      "Acc_Necklace_Legendry_No_9-1Phase",
       "Acc_necklace_Mawang_2-1Phase",
       "Acc_necklace_Pokgunkkori_1-1Phase",
       "Acc_necklace_Pokgunkkori_2-1Phase",
@@ -107977,25 +108176,42 @@
       "Acc_necklace_Suhosinjang_2-1Phase",
       "Acc_ring_BlackWind_1-2Phase",
       "Acc_ring_BlueMoon_1-1Phase",
+      "Acc_Ring_CheongMok_Aw_1-1Phase",
+      "Acc_Ring_CheongMok_No_1-1Phase",
+      "Acc_ring_ChunMu_Aw_1-1Phase",
+      "Acc_ring_ChunMu_No_1-1Phase",
       "Acc_ring_Gubira_1-1Phase",
       "Acc_ring_Gubira_2-1Phase",
       "Acc_ring_Gubira_3-1Phase",
+      "Acc_ring_Gubira_Aw_1-1Phase",
+      "Acc_ring_Gubira_No_1-1Phase",
       "Acc_Ring_Legendry_6-1Phase",
       "Acc_Ring_Legendry_6-2Phase",
       "Acc_Ring_Legendry_7-1Phase",
       "Acc_Ring_Legendry_7-2Phase",
+      "Acc_Ring_Legendry_7-3Phase",
       "Acc_Ring_Legendry_8-1Phase",
       "Acc_Ring_Legendry_8-2Phase",
+      "Acc_Ring_Legendry_8-3Phase",
+      "Acc_Ring_Legendry_No_7-1Phase",
       "Acc_Ring_Mawang_1-1Phase",
       "Acc_ring_Muckchuelwan_1-1Phase",
       "Acc_ring_Muckchuelwan_2-1Phase",
       "Acc_ring_Muckchuelwan_3-1Phase",
       "Acc_Ring_Relic_1-1Phase",
+      "Acc_Rune_Variation_2-10Phase",
+      "Acc_Rune_Variation_2-11Phase",
+      "Acc_Rune_Variation_2-12Phase",
+      "Achieve_Combat_CheonMuGung_KillBoss1",
+      "Achieve_Combat_CheonMuGung_KillBoss2",
+      "Achieve_Combat_CheonMuGung_KillBoss3",
+      "Achieve_Combat_DeathMuDom2_KillBoss1",
       "Achieve_Combat_DungeonBoss_KillBoss1",
       "Achieve_Combat_DungeonBoss_KillBoss2",
       "Achieve_Combat_DungeonBoss_KillBoss3",
       "Achieve_Combat_DungeonBoss_KillBoss4",
       "Achieve_Combat_DungeonBoss_KillBoss5",
+      "Achieve_Combat_DungeonBoss_KillBoss6",
       "Achieve_Combat_GhostMask_KillBoss1",
       "Achieve_Combat_GhostMask_KillBoss2",
       "Achieve_Combat_GhostMask_KillBoss3",
@@ -108005,9 +108221,19 @@
       "Achieve_Combat_Hatchery_NormalNpcKill",
       "Achieve_Combat_NaryuAnnex01_KillBoss",
       "Achieve_Combat_NaryuAnnex02_KillBoss",
+      "Achieve_Combat_NaryuTomb_FastKillBoss4",
+      "Achieve_Combat_PaCheon_FastKillBoss4",
       "Achieve_Combat_PirateShip_KillBoss1",
       "Achieve_Combat_PirateShip_KillBoss2",
       "Achieve_Combat_PirateShip_KillBoss3",
+      "Achieve_Combat_RedFlower_AllKillBoss",
+      "Achieve_Combat_RedFlower_FastKillBoss3",
+      "Achieve_Combat_RedFlower_HardKillBoss1",
+      "Achieve_Combat_RedFlower_HardKillBoss2",
+      "Achieve_Combat_RedFlower_HardKillBoss3",
+      "Achieve_Combat_RedFlower_KillBoss1",
+      "Achieve_Combat_RedFlower_KillBoss2",
+      "Achieve_Combat_RedFlower_KillBoss3",
       "Achieve_Combat_RoomOfWeapon_KillBoss1",
       "Achieve_Combat_RoomOfWeapon_KillBoss2",
       "Achieve_Combat_RoomOfWeapon_KillBoss3",
@@ -108015,18 +108241,22 @@
       "Achieve_Combat_SkillPoint2",
       "Achieve_Combat_SkillPoint3",
       "Achieve_Combat_SkillPoint4",
+      "Achieve_Combat_VortexTemple_FastKillBoss4",
       "Achieve_Event_Fall_1",
       "Achieve_Event_Spring_1",
       "Achieve_Event_Summer_1",
       "Achieve_Event_Winter_1",
       "Achieve_Level_MasteryLevel_30",
+      "Achieve_Level_Phase1_60",
       "Achieve_Quest_EternityShrine_Epic",
+      "Achieve_Quest_EternityShrine_Epic_2",
       "Achieve_Quest_HiddenQuest_1",
       "Achieve_Quest_HiddenQuest_2",
       "Achieve_Quest_HiddenQuest_3",
       "Achieve_Quest_HiddenQuest_all",
       "Achieve_Quest_KakSung",
       "Achieve_Quest_NineMaster",
+      "Achieve_Quest_TenMaster",
       "Attach_010123_JinM_col1",
       "Attach_010129_JinM_col1",
       "Attach_010130_JinM_col1",
@@ -108041,14 +108271,24 @@
       "Attach_010139_JinM_col1",
       "Attach_010140_JinM_col1",
       "Attach_010141_JinM_col1",
+      "Attach_010143_JinM_col1",
+      "Attach_010145_JinM_col1",
       "Attach_010146_JinM_col1",
+      "Attach_010147_JinM_col1",
+      "Attach_010149_JinM_col1",
+      "Attach_010152_JinM_col1",
+      "Attach_010154_JinM_col1",
+      "Attach_010158_JinM_col1",
+      "Attach_040010_JinM_col2",
       "Attach_040085_JinM_col2",
+      "Attach_040118_JinM_col2",
       "Attach_040172_JinM_col10",
       "Attach_040221_JinF_col1",
       "Attach_040246_JinF_col2",
       "Attach_040247_JinM_col2",
       "Attach_040298_JinF_Col1",
       "Attach_040298_JinM_col2",
+      "Attach_040305_JinF_col2",
       "Attach_040306_JinF_col1",
       "Attach_040308_JinM_col2",
       "Attach_040309_JinF_col1",
@@ -108094,10 +108334,22 @@
       "Attach_040360_JinM_col1",
       "Attach_040361_JinM_col1",
       "Attach_040362_JinM_col1",
+      "Attach_040363_JinM_col1",
       "Attach_040364_jinM_col1",
       "Attach_040365_JinM_col1",
+      "Attach_040366_JinM_col1",
+      "Attach_040367_JinM_col1",
       "Attach_040368_JinF_col1",
       "Attach_040369_JinM_col1",
+      "Attach_040370_JinF_col1",
+      "Attach_040370_JinM_col1",
+      "Attach_040373_JinM_col1",
+      "Attach_040374_JinF_col1",
+      "Attach_040377_JinM_col1",
+      "Attach_040378_JinM_col1",
+      "Attach_040379_JinM_col1",
+      "Attach_040380_JinM_col1",
+      "Attach_040385_JinM_col1",
       "Attach_060050_JinF_col2",
       "Attach_060052_JinF_col1",
       "Attach_060052_JinM_col1",
@@ -108107,6 +108359,7 @@
       "Attach_060057_JinM_col1",
       "Attach_060058_JinM_col1",
       "Attach_060059_JinM_col1",
+      "Attach_090091_JinF_col1",
       "Attach_090144_JinM_col4",
       "Attach_090147_JinM_col1",
       "Attach_090157_JinM_col1",
@@ -108125,7 +108378,12 @@
       "Attach_090180_JinM_col1",
       "Attach_090181_JinM_col1",
       "Attach_090183_JinM_col1",
+      "Attach_090184_JinM_col1",
       "Attach_090185_JinF_col1",
+      "Attach_090186_JinM_col1",
+      "Attach_090188_JinM_col1",
+      "Attach_090191_JinM_col1",
+      "Attach_090192_JinM_col1",
       "Attach_1001_JinM_col1",
       "Attach_1002_JinM_col1",
       "Attach_1003_JinF_col1",
@@ -108149,8 +108407,14 @@
       "Attach_126_JinM_col1",
       "Attach_127_JinF_col1",
       "Attach_128_JinF_col1",
+      "Attach_129_JinM_col1",
+      "Attach_130_JinM_col1",
+      "Attach_131_JinF_col1",
+      "Attach_132_JinF_col1",
+      "Attach_Hair_108_JinF_col1",
       "Buff_Debuff_Icon_11",
       "Buff_Debuff_Icon_12",
+      "Buff_Debuff_Icon_13",
       "Cat_Acc_0055_col1",
       "Cat_Acc_0055_col2",
       "Cat_Acc_0058_col1",
@@ -108158,6 +108422,9 @@
       "Cat_Acc_0060_col1",
       "Cat_Acc_0062_col1",
       "Cat_Acc_0065_col1",
+      "Cat_Acc_0067_col1",
+      "Cat_Acc_0069_col1",
+      "Cat_Acc_0070_col1",
       "Cat_Cloth_0055_col1",
       "Cat_Cloth_0055_col2",
       "Cat_Cloth_0056_col1",
@@ -108170,6 +108437,11 @@
       "Cat_Cloth_0063_col1",
       "Cat_Cloth_0064_col1",
       "Cat_Cloth_0065_col1",
+      "Cat_Cloth_0067_col1",
+      "Cat_Cloth_0068_col1",
+      "Cat_Cloth_0069_col1",
+      "Cat_Cloth_0070_col1",
+      "Cat_Cloth_0071_col1",
       "Cat_Hat_0055_col1",
       "Cat_Hat_0055_col2",
       "Cat_Hat_0056_col1",
@@ -108182,6 +108454,11 @@
       "Cat_Hat_0063_col1",
       "Cat_Hat_0064_col1",
       "Cat_Hat_0065_col1",
+      "Cat_Hat_0067_col1",
+      "Cat_Hat_0068_col1",
+      "Cat_Hat_0069_col1",
+      "Cat_Hat_0070_col1",
+      "Cat_Hat_0071_col1",
       "Costume_0001_JinM_col1",
       "Costume_0002_JinM_col1",
       "Costume_0003_JinM_col1",
@@ -108191,9 +108468,12 @@
       "Costume_0008_JinF_col1",
       "Costume_0011_JinM_col1",
       "Costume_0012_JinM_col1",
+      "Costume_0013_JinM_col1",
       "Costume_0015_JinM_col1",
       "Costume_0016_JinM_col1",
+      "Costume_10004_JinF_col1",
       "Costume_10017_JinM_col4",
+      "Costume_10023_jinM_col2",
       "Costume_10028_JinF_col1",
       "Costume_10055_JinM_col2",
       "Costume_10056_JinM_col2",
@@ -108202,6 +108482,7 @@
       "Costume_10105_JinM_col2",
       "Costume_10111_JinF_col1",
       "Costume_10111_JinM_col2",
+      "Costume_10120_JinF_col2",
       "Costume_10121_JinM_col1",
       "Costume_10121_JinM_col2",
       "Costume_10126_JinM_col2",
@@ -108250,6 +108531,7 @@
       "Costume_10179_JinM_col1",
       "Costume_10180_JinM_col1",
       "Costume_10181_JinM_col1",
+      "Costume_10181_JinM_col2",
       "Costume_10182_JinM_col1",
       "Costume_10183_JinM_col1",
       "Costume_10184_JinF_col1",
@@ -108257,16 +108539,33 @@
       "Costume_10185_JinM_col1",
       "Costume_10186_JinM_col1",
       "Costume_10187_JinM_col1",
+      "Costume_10188_JinM_col1",
       "Costume_10189_jinM_col1",
       "Costume_10191_JinM_col1",
+      "Costume_10193_JinM_col1",
       "Costume_10194_JinM_col1",
       "Costume_10195_JinM_col1",
+      "Costume_10196_JinM_col1",
+      "Costume_10197_JinM_col1",
       "Costume_10198_JinM_col1",
       "Costume_10199_JinF_col1",
       "Costume_10200_JinM_col1",
+      "Costume_10201_JinM_col1",
+      "Costume_10204_JinM_col1",
+      "Costume_10205_JinF_col1",
+      "Costume_10209_JinM_col1",
+      "Costume_10210_JinM_col1",
+      "Costume_10211_JinM_col1",
+      "Costume_10212_JinM_col1",
+      "Costume_10214_JinM_col1",
+      "Costume_10215_JinF_col1",
+      "Costume_10216_JinM_col1",
+      "Costume_10221_JinM_col1",
+      "Costume_41005_JinM_col2",
       "Costume_56002_JinM_col2",
       "Costume_60054_JinM_col6",
       "Costume_60092_JinF_col1",
+      "Costume_60108_JinM_col2",
       "Costume_60120_JinM_col2",
       "Costume_60125_JinM_col10",
       "Costume_60140_JinM_col1",
@@ -108296,15 +108595,25 @@
       "GB_Grocery_Accessory_Weaponsoul05",
       "GB_Grocery_Accessory_Weaponsoul06",
       "GB_Grocery_AlpacaBox_1",
+      "GB_Grocery_AWStoneBox_01",
+      "GB_Grocery_AWStoneBox_02",
+      "GB_Grocery_AWStoneBox_03",
+      "GB_Grocery_Bag_Cloth_bakcheng01",
+      "GB_Grocery_Bag_Cloth_gunwon01",
+      "GB_Grocery_Bag_Cloth_seolak01",
+      "GB_Grocery_Bag_Cloth_suwol01",
       "GB_Grocery_BlueDragon_01",
       "GB_Grocery_BlueMoon_coin_1",
       "GB_Grocery_BM_Ach_1",
+      "GB_Grocery_BM_Ach_10",
       "GB_Grocery_BM_Ach_2",
       "GB_Grocery_BM_Ach_3",
       "GB_Grocery_BM_Ach_4",
       "GB_Grocery_BM_Ach_5",
       "GB_Grocery_BM_Ach_6",
       "GB_Grocery_BM_Ach_7",
+      "GB_Grocery_BM_Ach_8",
+      "GB_Grocery_BM_Ach_9",
       "GB_Grocery_BM_Event_Upgrade1-1",
       "GB_Grocery_BM_Event_Upgrade1-2",
       "GB_Grocery_BM_Event_Upgrade2-1",
@@ -108321,11 +108630,15 @@
       "GB_Grocery_ChainCoin_2",
       "GB_Grocery_ChainCoin_3",
       "GB_Grocery_ChunqiuCoin01",
+      "GB_Grocery_creature_Piece",
       "GB_Grocery_Danshi_02",
       "GB_Grocery_Danshi_03",
       "GB_Grocery_Demon_01",
       "GB_Grocery_Demon_02",
       "GB_Grocery_DoubleDra_02",
+      "GB_Grocery_EarthGemBox_01",
+      "GB_Grocery_EarthGemBox_02",
+      "GB_Grocery_EarthGemBox_03",
       "GB_Grocery_EnchantGemBox_1",
       "GB_Grocery_Event_2018_box1",
       "GB_Grocery_Event_2018_box2",
@@ -108337,10 +108650,17 @@
       "GB_Grocery_Event_2018_coin5",
       "GB_Grocery_Event_2018_coin6",
       "GB_Grocery_Event_2018_coin7",
+      "GB_Grocery_Event_2018_coin8",
+      "GB_Grocery_Event_2018_Festivalcake1",
       "GB_Grocery_Event_2018_FireWork1",
       "GB_Grocery_Event_2018_food1",
       "GB_Grocery_Event_2018_Whiteday_01",
       "GB_Grocery_Event_2018_Whiteday_02",
+      "GB_Grocery_Event_2019_box1",
+      "GB_Grocery_Event_2019_box2",
+      "GB_Grocery_Event_2019_coin1",
+      "GB_Grocery_Event_2019_coin2",
+      "GB_Grocery_Event_2019_food1",
       "GB_Grocery_Event_4th_box01",
       "GB_Grocery_Event_4th_box02",
       "GB_Grocery_Event_4th_box03",
@@ -108364,6 +108684,8 @@
       "GB_Grocery_Event_pumpkincandybox_1",
       "GB_Grocery_EXRanking_Coin1",
       "GB_Grocery_EXRanking_Coin2",
+      "GB_Grocery_EXRanking_Coin3",
+      "GB_Grocery_EXRanking_Coin4",
       "GB_Grocery_galaxy_coin_1",
       "GB_Grocery_huolong_01",
       "GB_Grocery_huolong_02",
@@ -108378,10 +108700,31 @@
       "GB_Grocery_Megaphone_2-3",
       "GB_Grocery_Megaphone_2-4",
       "GB_Grocery_mentoring_1",
+      "GB_Grocery_Mukhua_feather01",
+      "GB_Grocery_Mukhua_Ticket01",
+      "GB_Grocery_Mukhua_Ticket_piece01",
       "GB_Grocery_mysterious_peace01",
       "GB_Grocery_NewField_Box_1",
       "GB_Grocery_NewField_Box_2",
       "GB_Grocery_NewField_Box_3",
+      "GB_Grocery_NewGem_reset_01",
+      "GB_Grocery_NewGem_reset_02",
+      "GB_Grocery_NewGem_reset_03",
+      "GB_Grocery_NewGem_reset_04",
+      "GB_Grocery_NewGem_reset_05",
+      "GB_Grocery_NewGem_reset_06",
+      "GB_Grocery_NewGem_reset_07",
+      "GB_Grocery_NewGem_reset_08",
+      "GB_Grocery_NewGem_reset_09",
+      "GB_Grocery_NewGem_upgrade_01",
+      "GB_Grocery_NewGem_upgrade_02",
+      "GB_Grocery_NewGem_upgrade_03",
+      "GB_Grocery_NewGem_upgrade_04",
+      "GB_Grocery_NewGem_upgrade_05",
+      "GB_Grocery_NewGem_upgrade_06",
+      "GB_Grocery_NewGemBox_01",
+      "GB_Grocery_NewGemBox_02",
+      "GB_Grocery_NewGemBox_03",
       "GB_Grocery_Nova_Evolution_1",
       "GB_Grocery_Nova_Evolution_2",
       "GB_Grocery_Pet_Piece5",
@@ -108389,12 +108732,20 @@
       "GB_Grocery_Pet_Piece7",
       "GB_Grocery_PremiumBM_Box_1",
       "GB_Grocery_PremiumBM_Box_2",
+      "GB_Grocery_PremiumBM_Box_3",
       "GB_Grocery_PVPacc_Coin1",
       "GB_Grocery_PVPweap_Coin1",
       "GB_Grocery_Ranking_Ach_5",
       "GB_Grocery_Ranking_Ach_6",
+      "GB_Grocery_RareSpirits_01",
       "GB_Grocery_Sealed_bundle01",
       "GB_Grocery_Sealed_bundle02",
+      "GB_Grocery_SkyGemBox_01",
+      "GB_Grocery_SkyGemBox_02",
+      "GB_Grocery_SkyGemBox_03",
+      "GB_Grocery_SoulGemBox_01",
+      "GB_Grocery_SoulGemBox_02",
+      "GB_Grocery_SoulGemBox_03",
       "GB_Grocery_Spirits_1",
       "GB_Grocery_Spirits_2",
       "GB_Grocery_Spirits_3",
@@ -108457,7 +108808,13 @@
       "Grocery_Accessory_soul2_26",
       "Grocery_Accessory_soul2_27",
       "Grocery_Accessory_soul2_28",
+      "Grocery_Accessory_soul2_29",
       "Grocery_Accessory_soul2_3",
+      "Grocery_Accessory_soul2_30",
+      "Grocery_Accessory_soul2_31",
+      "Grocery_Accessory_soul2_32",
+      "Grocery_Accessory_soul2_33",
+      "Grocery_Accessory_soul2_34",
       "Grocery_Accessory_soul2_4",
       "Grocery_Accessory_soul2_5",
       "Grocery_Accessory_soul2_6",
@@ -108470,10 +108827,17 @@
       "Grocery_Accessory_Weaponsoul56",
       "Grocery_Accessory_Weaponsoul57",
       "Grocery_Accessory_Weaponsoul58",
+      "Grocery_Accessory_Weaponsoul59",
+      "Grocery_Accessory_Weaponsoul60",
+      "Grocery_Accessory_Weaponsoul61",
+      "Grocery_Accessory_Weaponsoul62",
+      "Grocery_Accessory_Weaponsoul63",
+      "Grocery_Accessory_Weaponsoul64",
       "Grocery_anotherworld_Piece",
       "Grocery_Ball_BlackWhite_6",
       "Grocery_Ball_BlackWhite_7",
       "Grocery_BeijingOpera_Box_1",
+      "Grocery_belt_SeclectionBox_1",
       "Grocery_BM_sewing",
       "Grocery_BM_sewing2",
       "Grocery_BM_Upgrade7-5",
@@ -108489,6 +108853,8 @@
       "Grocery_BMItem_2",
       "Grocery_BMTalisman_Hongmoon1",
       "Grocery_BMTalisman_Hongmoon2",
+      "Grocery_BMTalisman_MuGongScore1",
+      "Grocery_Box_Phase14",
       "Grocery_Bracelet_SeclectionBox_1",
       "Grocery_ChallengeTonic_0001",
       "Grocery_ChallengeTonic_0002",
@@ -108520,12 +108886,19 @@
       "Grocery_Event_Coin_10",
       "Grocery_Event_Coin_9",
       "Grocery_EventBox_Soul2_1",
+      "Grocery_EventCoin_Rune1",
+      "Grocery_EventCoin_Rune2",
       "Grocery_ExKey_0001",
       "Grocery_ExKey_0002",
       "Grocery_ExKey_0003",
+      "Grocery_ExKey_0004",
+      "Grocery_ExKey_0005",
       "Grocery_ExKeyPiece_0002",
       "Grocery_ExKeyPiece_0003",
+      "Grocery_ExKeyPiece_0004",
+      "Grocery_ExKeyPiece_0005",
       "Grocery_FeedGem_Exchange6",
+      "Grocery_Gem_3stars",
       "Grocery_Gem_eight1",
       "Grocery_Gem_eight1_special",
       "Grocery_Gem_HeptagonalAttribute2",
@@ -108537,17 +108910,24 @@
       "Grocery_GemSlot_Bundle_2",
       "Grocery_Goblin_Piece",
       "Grocery_hatchery_Box_1",
+      "Grocery_Key_Earth",
+      "Grocery_Key_Sky",
+      "Grocery_Key_Soul",
       "Grocery_Key_TreasureRoom4",
       "Grocery_LegendPiece1_Bundle",
       "Grocery_MateryPointItem1",
       "Grocery_MateryPointItem2",
       "Grocery_MuLim3",
       "Grocery_MuLim4",
+      "Grocery_MuLim5",
       "Grocery_necklace_SeclectionBox_1",
+      "Grocery_Palace_Box_1",
       "Grocery_PremiumSet_Box_3",
       "Grocery_PremiumSet_Box_4",
+      "Grocery_PremiumSet_Box_5",
       "Grocery_PremiumSet_Material_3",
       "Grocery_PremiumSet_Material_4",
+      "Grocery_PremiumSet_Material_5",
       "Grocery_PublicRaid_Box_1",
       "Grocery_PublicRaid_Box_2",
       "Grocery_PublicRaid_Box_3",
@@ -108570,6 +108950,9 @@
       "Grocery_Soul2_Evolution_1",
       "Grocery_Soul2_Evolution_1_bundle1",
       "Grocery_Soul2_Unknow",
+      "Grocery_Soul_Box_3-1",
+      "Grocery_Soul_Box_3-2",
+      "Grocery_Soul_Box_3-3",
       "Grocery_Soul_Evolution_6",
       "Grocery_Spirits_1",
       "Grocery_Spirits_10",
@@ -108607,25 +108990,43 @@
       "Grocery_Spirits_37",
       "Grocery_Spirits_38",
       "Grocery_Spirits_39",
+      "Grocery_Spirits_39_var1",
       "Grocery_Spirits_4",
       "Grocery_Spirits_40",
       "Grocery_Spirits_40_var1",
       "Grocery_Spirits_40_var2",
       "Grocery_Spirits_40_var3",
+      "Grocery_Spirits_40_var4",
+      "Grocery_Spirits_40_var5",
+      "Grocery_Spirits_40_var6",
       "Grocery_Spirits_41",
       "Grocery_Spirits_42",
       "Grocery_Spirits_43",
       "Grocery_Spirits_44",
       "Grocery_Spirits_45",
       "Grocery_Spirits_46",
+      "Grocery_Spirits_47",
+      "Grocery_Spirits_48",
+      "Grocery_Spirits_48_var1",
+      "Grocery_Spirits_48_var2",
+      "Grocery_Spirits_48_var3",
+      "Grocery_Spirits_49",
       "Grocery_Spirits_5",
+      "Grocery_Spirits_50",
+      "Grocery_Spirits_51",
+      "Grocery_Spirits_52",
       "Grocery_Spirits_6",
       "Grocery_Spirits_7",
+      "Grocery_Spirits_7_var1",
       "Grocery_Spirits_8",
       "Grocery_Spirits_9",
       "Grocery_Spirits_Event_1",
       "Grocery_Spirits_Event_2",
       "Grocery_Spirits_Event_3",
+      "Grocery_Ticket_LvJumpingCharacter",
+      "Grocery_Treasure_Box_1",
+      "Grocery_Treasure_Box_2",
+      "Grocery_Treasure_Box_3",
       "Img_Growth_Garnet",
       "Img_Growth_Garnet_1",
       "Img_Store_Challenge_01",
@@ -108634,8 +109035,12 @@
       "Img_Store_Challenge_02_1",
       "Img_Store_DuelHero",
       "Img_Store_DuelHero_1",
+      "Img_store_Hongmun_coin_0011",
+      "Img_store_Hongmun_coin_0011_1",
       "Img_Store_Mentoring",
       "Img_Store_Mentoring_1",
+      "Img_Store_NCW_Daily_coin",
+      "Img_Store_NCW_Daily_coin_1",
       "Img_Store_PublicRaid",
       "Img_Store_PublicRaid_1",
       "JPN_Grocery_box100",
@@ -108649,6 +109054,23 @@
       "JPN_Grocery_box108",
       "JPN_Grocery_box109",
       "JPN_Grocery_box110",
+      "JPN_Grocery_box111",
+      "JPN_Grocery_box112",
+      "JPN_Grocery_box113",
+      "JPN_Grocery_box114",
+      "JPN_Grocery_box115",
+      "JPN_Grocery_box116",
+      "JPN_Grocery_box117",
+      "JPN_Grocery_box118",
+      "JPN_Grocery_box119",
+      "JPN_Grocery_box120",
+      "JPN_Grocery_box121",
+      "JPN_Grocery_box122",
+      "JPN_Grocery_box123",
+      "JPN_Grocery_box124",
+      "JPN_Grocery_box125",
+      "JPN_Grocery_box126",
+      "JPN_Grocery_box127",
       "JPN_Grocery_box79",
       "JPN_Grocery_box80",
       "JPN_Grocery_box81",
@@ -108747,6 +109169,28 @@
       "JPN_Grocery_coin174",
       "JPN_Grocery_coin175",
       "JPN_Grocery_coin176",
+      "JPN_Grocery_coin177",
+      "JPN_Grocery_coin178",
+      "JPN_Grocery_coin179",
+      "JPN_Grocery_coin180",
+      "JPN_Grocery_coin181",
+      "JPN_Grocery_coin182",
+      "JPN_Grocery_coin183",
+      "JPN_Grocery_coin184",
+      "JPN_Grocery_coin185",
+      "JPN_Grocery_coin186",
+      "JPN_Grocery_coin187",
+      "JPN_Grocery_coin188",
+      "JPN_Grocery_coin189",
+      "JPN_Grocery_coin190",
+      "JPN_Grocery_coin191",
+      "JPN_Grocery_coin192",
+      "JPN_Grocery_coin193",
+      "JPN_Grocery_coin194",
+      "JPN_Grocery_coin195",
+      "JPN_Grocery_coin196",
+      "JPN_Grocery_coin197",
+      "JPN_Grocery_coin198",
       "JPN_Grocery_coin80",
       "JPN_Grocery_coin81",
       "JPN_Grocery_coin82",
@@ -108817,9 +109261,16 @@
       "NCW_Grocery_CashCoin_07",
       "NCW_Grocery_CashCoin_08",
       "NCW_Grocery_CashCoin_09",
+      "NCW_Grocery_Coin_10",
+      "NCW_Grocery_Coin_7",
+      "NCW_Grocery_Coin_8",
+      "NCW_Grocery_Coin_9",
       "NCW_Grocery_Event_Box_2",
       "NCW_Grocery_Event_Box_3",
       "NCW_Grocery_Event_Box_4",
+      "NCW_Grocery_Event_Box_5",
+      "NCW_Grocery_Event_Box_6",
+      "NCW_Grocery_Event_Box_7",
       "NCW_Grocery_Event_Coin10",
       "NCW_Grocery_Event_Coin11",
       "NCW_Grocery_Event_Coin12",
@@ -108847,13 +109298,24 @@
       "NCW_HongMoon_Gem_Dust_1",
       "NCW_HongMoon_Gem_Dust_2",
       "NCW_PVP_Coin_Bundle_1",
-      "Necklace_Legendry_8-2Phase",
+      "Pet_Awake_Col1",
+      "Pet_Evolution_Awake_col1",
+      "Pet_Evolution_Final_col1",
+      "Pet_Evolve_Awake_col1",
+      "Pet_Evolve_Final_col1",
+      "Pet_Final_Col1",
+      "Pet_Legend_Evolution_Awake_col1",
+      "Pet_Legend_Evolution_Final_col1",
       "Pet_NONE_Alpaca_col1",
       "Pet_NONE_AlpacaEvolve_col1",
       "Pet_NONE_BackHo_col1",
       "Pet_NONE_BackHoEvolve_col1",
+      "Pet_NONE_BlackPig_col1",
+      "Pet_NONE_BlackpigEvolve_col1",
       "Pet_NONE_BlueDragon_col1",
       "Pet_NONE_BlueDragonEvolve_col1",
+      "Pet_NONE_Christmas_col1",
+      "Pet_NONE_ChristmasEvolve_col1",
       "Pet_NONE_Dog_col1",
       "Pet_NONE_DogEvolve_col1",
       "Pet_NONE_Drone_col1",
@@ -108866,10 +109328,15 @@
       "Pet_NONE_GdragonEvolve_col1",
       "Pet_NONE_Girl_col1",
       "Pet_NONE_GirlEvolve_col1",
+      "Pet_NONE_HyunMu_col1",
+      "Pet_NONE_HyunMuEvolve_col1",
       "Pet_NONE_Jackalope_col1",
       "Pet_NONE_JackalopeEvolve_col1",
       "Pet_NONE_Jinseoyeon_col1",
       "Pet_NONE_JinseoyeonEvolve_col1",
+      "Pet_NONE_Legend_Evolution_col1",
+      "Pet_NONE_Lolita_col1",
+      "Pet_NONE_LolitaEvolve_col1",
       "Pet_NONE_MagicBunny_col1",
       "Pet_NONE_MagicBunnyEvolve_col1",
       "Pet_NONE_Melody_col1",
@@ -108878,6 +109345,8 @@
       "Pet_NONE_MermaidEvolve_col1",
       "Pet_NONE_MrK_col1",
       "Pet_NONE_MrKEvolve_col1",
+      "Pet_NONE_OwlGirl_col1",
+      "Pet_NONE_OwlGirlEvolve_col1",
       "Pet_NONE_PopGom_col1",
       "Pet_NONE_PopGomEvolve_col1",
       "Pet_NONE_RussianDragon_col1",
@@ -108888,6 +109357,8 @@
       "Pet_NONE_SapsalEvolve_col1",
       "Pet_NONE_Shark_col1",
       "Pet_NONE_SharkEvolve_col1",
+      "Pet_NONE_Snake_col1",
+      "Pet_NONE_SnakeEvolve_col1",
       "Pet_NONE_SnowKid_col1",
       "Pet_NONE_SnowKidEvolve_col1",
       "Pet_NONE_SseriEvolve_col1",
@@ -108898,6 +109369,7 @@
       "Pet_NONE_YoungJinSeoYeon_col1",
       "Pet_NONE_YoungJinSeoYeonEvolve_col1",
       "Pet_Normal_GirlEvolve_col1",
+      "Produce_Grocery_AccountExpTalisman_0001",
       "Quest_BlackDragon_pill",
       "Quest_BlackDragon_Sign",
       "Quest_Booksilk",
@@ -108908,8 +109380,10 @@
       "Quest_Jail_Key",
       "Quest_Mound",
       "Quest_Octagon_Gem",
+      "Quest_resistance_tag",
       "Quest_Weedpocket",
       "Skill_icon_Common_0",
+      "Skill_Icon_Common_ContextSkill",
       "Skill_Icon_HeroMask_0",
       "Skill_Icon_Warrior_0",
       "Skill_Icon_Warrior_1",
@@ -108917,6 +109391,7 @@
       "Skill_Trait_Icon_1",
       "Skillskin_skinicon_1",
       "Skillskin_skinicon_2",
+      "Skillskin_skinicon_3",
       "Skillskin_skinicon_grade4",
       "Skillskin_skinicon_grade5",
       "Skillskin_skinicon_grade7",
@@ -108925,6 +109400,7 @@
       "Talisman_NCW_BG_Buff1",
       "Weapon_AB_030175_col2",
       "Weapon_AB_030187_col2",
+      "Weapon_AB_030213_col3",
       "Weapon_AB_030330_col1",
       "Weapon_AB_030334_col1",
       "Weapon_AB_030334_col2",
@@ -108964,6 +109440,14 @@
       "Weapon_AB_030372_col1",
       "Weapon_AB_030375_col1",
       "Weapon_AB_030376_col1",
+      "Weapon_AB_030377_col1",
+      "Weapon_AB_030378_col1",
+      "Weapon_AB_030379_col1",
+      "Weapon_AB_030380_col1",
+      "Weapon_AB_030382_col1",
+      "Weapon_AB_030384_col1",
+      "Weapon_AB_030387_col1",
+      "Weapon_AB_030389_col1",
       "Weapon_AB_30342_col1",
       "Weapon_AB_Second_030205_col1",
       "Weapon_AB_Second_030208_col1",
@@ -108973,6 +109457,7 @@
       "Weapon_AB_third_030357_col1",
       "Weapon_DG_120084_col2",
       "Weapon_DG_120096_col2",
+      "Weapon_DG_120122_col3",
       "Weapon_DG_120238_col1",
       "Weapon_DG_120242_col1",
       "Weapon_DG_120242_col2",
@@ -109013,6 +109498,14 @@
       "Weapon_DG_120280_col1",
       "Weapon_DG_120283_col1",
       "Weapon_DG_120284_col1",
+      "Weapon_DG_120285_col1",
+      "Weapon_DG_120286_col1",
+      "Weapon_DG_120287_col1",
+      "Weapon_DG_120288_col1",
+      "Weapon_DG_120290_col1",
+      "Weapon_DG_120292_col1",
+      "Weapon_DG_120295_col1",
+      "Weapon_DG_120297_col1",
       "Weapon_DG_Second_120114_col1",
       "Weapon_DG_Second_120117_col1",
       "Weapon_DG_second_120264_col1",
@@ -109095,6 +109588,7 @@
       "Weapon_GS_130027_col1",
       "Weapon_GS_130027_col2",
       "Weapon_GS_130028_col1",
+      "Weapon_GS_130028_col3",
       "Weapon_GS_130029_col1",
       "Weapon_GS_130030_col1",
       "Weapon_GS_130032_col1",
@@ -109282,10 +109776,19 @@
       "Weapon_GS_130156_col1",
       "Weapon_GS_130157_col1",
       "Weapon_GS_130158_col1",
+      "Weapon_GS_130159_col1",
+      "Weapon_GS_130160_col1",
+      "Weapon_GS_130161_col1",
+      "Weapon_GS_130162_col1",
+      "Weapon_GS_130163_col1",
+      "Weapon_GS_130165_col1",
+      "Weapon_GS_130168_col1",
+      "Weapon_GS_130170_col1",
       "Weapon_GS_Second_130001_col20",
       "Weapon_GS_Second_130009_col14",
       "Weapon_GT_020174_col2",
       "Weapon_GT_020186_col2",
+      "Weapon_GT_020212_col3",
       "Weapon_GT_020329_col1",
       "Weapon_GT_020333_col1",
       "Weapon_GT_020333_col2",
@@ -109325,6 +109828,14 @@
       "Weapon_GT_020372_col1",
       "Weapon_GT_020375_col1",
       "Weapon_GT_020376_col1",
+      "Weapon_GT_020377_col1",
+      "Weapon_GT_020378_col1",
+      "Weapon_GT_020379_col1",
+      "Weapon_GT_020380_col1",
+      "Weapon_GT_020382_col1",
+      "Weapon_GT_020384_col1",
+      "Weapon_GT_020387_col1",
+      "Weapon_GT_020389_col1",
       "Weapon_GT_20341_col1",
       "Weapon_GT_Second_020204_col1",
       "Weapon_GT_Second_020207_col1",
@@ -109332,6 +109843,7 @@
       "Weapon_GT_second_020356_col1",
       "Weapon_GT_third_020355_col1",
       "Weapon_GT_third_020356_col1",
+      "Weapon_GU_070020_col3",
       "Weapon_GU_070118_col1",
       "Weapon_GU_070118_col2",
       "Weapon_GU_070119_col1",
@@ -109373,6 +109885,14 @@
       "Weapon_GU_070160_col1",
       "Weapon_GU_070163_col1",
       "Weapon_GU_070164_col1",
+      "Weapon_GU_070165_col1",
+      "Weapon_GU_070166_col1",
+      "Weapon_GU_070167_col1",
+      "Weapon_GU_070168_col1",
+      "Weapon_GU_070169_col1",
+      "Weapon_GU_070171_col1",
+      "Weapon_GU_070174_col1",
+      "Weapon_GU_070176_col1",
       "Weapon_GU_70127_col1",
       "Weapon_GU_new_070008_col12",
       "Weapon_GU_new_070034_col12",
@@ -109384,6 +109904,7 @@
       "Weapon_GU_third_070143_col1",
       "Weapon_ST_060090_col2",
       "Weapon_ST_060102_col2",
+      "Weapon_ST_060128_col3",
       "Weapon_ST_060243_col1",
       "Weapon_ST_060247_col1",
       "Weapon_ST_060247_col2",
@@ -109423,6 +109944,14 @@
       "Weapon_ST_060285_col1",
       "Weapon_ST_060288_col1",
       "Weapon_ST_060289_col1",
+      "Weapon_ST_060290_col1",
+      "Weapon_ST_060291_col1",
+      "Weapon_ST_060292_col1",
+      "Weapon_ST_060293_col1",
+      "Weapon_ST_060294_col1",
+      "Weapon_ST_060296_col1",
+      "Weapon_ST_060299_col1",
+      "Weapon_ST_060301_col1",
       "Weapon_ST_60255_col1",
       "Weapon_ST_Second_060120_col1",
       "Weapon_ST_Second_060123_col1",
@@ -109432,6 +109961,7 @@
       "Weapon_ST_third_060270_col1",
       "Weapon_SW_010183_col2",
       "Weapon_SW_010195_col2",
+      "Weapon_SW_010222_col3",
       "Weapon_SW_010336_col1",
       "Weapon_SW_010340_col1",
       "Weapon_SW_010340_col2",
@@ -109471,6 +110001,14 @@
       "Weapon_SW_010378_col1",
       "Weapon_SW_010381_col1",
       "Weapon_SW_010382_col1",
+      "Weapon_SW_010383_col1",
+      "Weapon_SW_010384_col1",
+      "Weapon_SW_010385_col1",
+      "Weapon_SW_010386_col1",
+      "Weapon_SW_010388_col1",
+      "Weapon_SW_010390_col1",
+      "Weapon_SW_010393_col1",
+      "Weapon_SW_010395_col1",
       "Weapon_SW_10348_col1",
       "Weapon_SW_Second_010213_col1",
       "Weapon_SW_Second_010217_col1",
@@ -109480,6 +110018,7 @@
       "Weapon_SW_third_010363_col1",
       "Weapon_TA_110082_col2",
       "Weapon_TA_110094_col2",
+      "Weapon_TA_110120_col3",
       "Weapon_TA_110236_col1",
       "Weapon_TA_110240_col1",
       "Weapon_TA_110240_col2",
@@ -109520,6 +110059,14 @@
       "Weapon_TA_110278_col1",
       "Weapon_TA_110281_col1",
       "Weapon_TA_110282_col1",
+      "Weapon_TA_110283_col1",
+      "Weapon_TA_110284_col1",
+      "Weapon_TA_110285_col1",
+      "Weapon_TA_110286_col1",
+      "Weapon_TA_110287_col1",
+      "Weapon_TA_110290_col1",
+      "Weapon_TA_110293_col1",
+      "Weapon_TA_110295_col1",
       "Weapon_TA_Second_110112_col1",
       "Weapon_TA_Second_110115_col1",
       "Weapon_TA_second_110262_col1",
@@ -112386,6 +112933,14 @@
       "130001_Autoscale_col1_M",
       "130001_Autoscale_col1_N",
       "130001_Autoscale_col1_S",
+      "130001_Autoscale_col20_D",
+      "130001_Autoscale_col20_E",
+      "130001_Autoscale_col20_M",
+      "130001_Autoscale_col20_S",
+      "130001_Autoscale_col22_D",
+      "130001_Autoscale_col22_E",
+      "130001_Autoscale_col22_M",
+      "130001_Autoscale_col22_S",
       "130001_Autoscale_col2_D",
       "130001_Autoscale_col2_E",
       "130001_Autoscale_col2_M",
@@ -112402,7 +112957,8 @@
       "col15": "00057539",
       "col12": "00057540",
       "col14": "00059504",
-      "col13": "00059848"
+      "col13": "00059848",
+      "col20": "00060798"
     }
   },
   "00054299": {
@@ -116876,7 +117432,9 @@
       "10181_GonM_Col1_D",
       "10181_GonM_Col1_M",
       "10181_GonM_Col1_N",
-      "10181_GonM_Col1_S"
+      "10181_GonM_Col1_S",
+      "10181_GonM_Col2_D",
+      "10181_GonM_Col2_S"
     ],
     "materials": {
       "col1": "00057440"
@@ -118149,7 +118707,11 @@
       "10181_GonF_col1_E",
       "10181_GonF_col1_M",
       "10181_GonF_col1_N",
-      "10181_GonF_col1_S"
+      "10181_GonF_col1_S",
+      "10181_GonF_col2_D",
+      "10181_GonF_col2_E",
+      "10181_GonF_col2_M",
+      "10181_GonF_col2_S"
     ],
     "materials": {
       "col1": "00058075"
@@ -118161,7 +118723,9 @@
       "10181_JinM_Col1_D",
       "10181_JinM_Col1_M",
       "10181_JinM_Col1_N",
-      "10181_JinM_Col1_S"
+      "10181_JinM_Col1_S",
+      "10181_JinM_Col2_D",
+      "10181_JinM_Col2_S"
     ],
     "materials": {
       "col1": "00058085"
@@ -118174,7 +118738,11 @@
       "10181_JinF_col1_E",
       "10181_JinF_col1_M",
       "10181_JinF_col1_N",
-      "10181_JinF_col1_S"
+      "10181_JinF_col1_S",
+      "10181_JinF_col2_D",
+      "10181_JinF_col2_E",
+      "10181_JinF_col2_M",
+      "10181_JinF_col2_S"
     ],
     "materials": {
       "col1": "00058089"
@@ -118241,7 +118809,9 @@
       "10181_LynM_Col1_D",
       "10181_LynM_Col1_M",
       "10181_LynM_Col1_N",
-      "10181_LynM_Col1_S"
+      "10181_LynM_Col1_S",
+      "10181_LynM_Col2_D",
+      "10181_LynM_Col2_S"
     ],
     "materials": {
       "col1": "00058120"
@@ -118510,7 +119080,11 @@
       "10181_KunN_col1_E",
       "10181_KunN_col1_M",
       "10181_KunN_col1_N",
-      "10181_KunN_col1_S"
+      "10181_KunN_col1_S",
+      "10181_KunN_Col2_D",
+      "10181_KunN_col2_E",
+      "10181_KunN_col2_M",
+      "10181_KunN_col2_S"
     ],
     "materials": {
       "col1": "00058323"
@@ -118523,7 +119097,11 @@
       "10181_LynF_col1_E",
       "10181_LynF_col1_M",
       "10181_LynF_col1_N",
-      "10181_LynF_col1_s"
+      "10181_LynF_col1_s",
+      "10181_LynF_col2_D",
+      "10181_LynF_col2_E",
+      "10181_LynF_col2_M",
+      "10181_LynF_col2_s"
     ],
     "materials": {
       "col1": "00058326"
@@ -118540,6 +119118,26 @@
     "materials": {
       "col1": "00058345"
     }
+  },
+  "00058352": {
+    "upkId": "00058352",
+    "objs": [
+      "Shark_Evolve_col1_D",
+      "Shark_Evolve_col1_M",
+      "Shark_Evolve_col1_N",
+      "Shark_Evolve_col1_S"
+    ],
+    "materials": {
+      "col1": "00058357"
+    }
+  },
+  "00058356": {
+    "upkId": "00058356",
+    "objs": [
+      "Shark_col1_D",
+      "Shark_col1_S"
+    ],
+    "materials": {}
   },
   "00058370": {
     "upkId": "00058370",
@@ -120190,6 +120788,54 @@
       "col1": "00059170"
     }
   },
+  "00059196": {
+    "upkId": "00059196",
+    "objs": [
+      "10188_JinM_col1_D",
+      "10188_JinM_col1_E",
+      "10188_JinM_col1_M",
+      "10188_JinM_col1_N",
+      "10188_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059197"
+    }
+  },
+  "00059201": {
+    "upkId": "00059201",
+    "objs": [
+      "040363_JinM_col1_D",
+      "040363_JinM_col1_E",
+      "040363_JinM_col1_M",
+      "040363_JinM_col1_N",
+      "040363_JinM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00059206": {
+    "upkId": "00059206",
+    "objs": [
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059374"
+    }
+  },
+  "00059211": {
+    "upkId": "00059211",
+    "objs": [
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059379"
+    }
+  },
   "00059217": {
     "upkId": "00059217",
     "objs": [
@@ -120231,7 +120877,12 @@
     "objs": [
       "SpecialTitle_Img_01",
       "SpecialTitle_Img_02",
-      "SpecialTitle_Img_03"
+      "SpecialTitle_Img_03",
+      "SpecialTitle_Img_04",
+      "SpecialTitle_Img_05",
+      "SpecialTitle_Img_06",
+      "SpecialTitle_Img_07",
+      "SpecialTitle_Img_08"
     ],
     "materials": {}
   },
@@ -120257,6 +120908,19 @@
     ],
     "materials": {
       "col2": "00059278"
+    }
+  },
+  "00059283": {
+    "upkId": "00059283",
+    "objs": [
+      "10188_GonM_col1_D",
+      "10188_GonM_col1_E",
+      "10188_GonM_col1_M",
+      "10188_GonM_col1_N",
+      "10188_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059284"
     }
   },
   "00059290": {
@@ -120305,6 +120969,102 @@
       "col1": "00059305"
     }
   },
+  "00059308": {
+    "upkId": "00059308",
+    "objs": [
+      "010143_GonM_col1_D",
+      "010143_GonM_col1_M",
+      "010143_GonM_col1_N",
+      "010143_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059309"
+    }
+  },
+  "00059313": {
+    "upkId": "00059313",
+    "objs": [
+      "10188_JinF_Col1_D",
+      "10188_JinF_Col1_E",
+      "10188_JinF_Col1_M",
+      "10188_JinF_Col1_N",
+      "10188_JinF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00059314"
+    }
+  },
+  "00059317": {
+    "upkId": "00059317",
+    "objs": [
+      "090184_GonM_col1_D",
+      "090184_GonM_col1_M",
+      "090184_GonM_col1_N",
+      "090184_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059318"
+    }
+  },
+  "00059337": {
+    "upkId": "00059337",
+    "objs": [
+      "040363_GonM_col1_D",
+      "040363_GonM_col1_E",
+      "040363_GonM_col1_M",
+      "040363_GonM_col1_N",
+      "040363_GonM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00059345": {
+    "upkId": "00059345",
+    "objs": [
+      "10188_LynM_col1_D",
+      "10188_LynM_col1_E",
+      "10188_LynM_col1_M",
+      "10188_LynM_col1_N",
+      "10188_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059346"
+    }
+  },
+  "00059349": {
+    "upkId": "00059349",
+    "objs": [
+      "010143_LynM_col1_D",
+      "010143_LynM_col1_M",
+      "010143_LynM_col1_N",
+      "010143_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059350"
+    }
+  },
+  "00059353": {
+    "upkId": "00059353",
+    "objs": [
+      "040363_LynM_col1_D",
+      "040363_LynM_col1_E",
+      "040363_LynM_col1_M",
+      "040363_LynM_col1_N",
+      "040363_LynM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00059357": {
+    "upkId": "00059357",
+    "objs": [
+      "090184_LynM_col1_D",
+      "090184_LynM_col1_M",
+      "090184_LynM_col1_N",
+      "090184_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059358"
+    }
+  },
   "00059365": {
     "upkId": "00059365",
     "objs": [
@@ -120351,6 +121111,19 @@
     ],
     "materials": {}
   },
+  "00059429": {
+    "upkId": "00059429",
+    "objs": [
+      "10188_GonF_Col1_D",
+      "10188_GonF_Col1_E",
+      "10188_GonF_Col1_M",
+      "10188_GonF_Col1_N",
+      "10188_GonF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00059428"
+    }
+  },
   "00059439": {
     "upkId": "00059439",
     "objs": [
@@ -120361,6 +121134,19 @@
     ],
     "materials": {
       "col1": "00059440"
+    }
+  },
+  "00059448": {
+    "upkId": "00059448",
+    "objs": [
+      "RussianDragonEvolve_Col1_D",
+      "RussianDragonEvolve_Col1_E",
+      "RussianDragonEvolve_Col1_M",
+      "RussianDragonEvolve_Col1_N",
+      "RussianDragonEvolve_Col1_S"
+    ],
+    "materials": {
+      "col1": "00059449"
     }
   },
   "00059452": {
@@ -120442,6 +121228,19 @@
     ],
     "materials": {
       "col1": "00059490"
+    }
+  },
+  "00059494": {
+    "upkId": "00059494",
+    "objs": [
+      "10188_KunN_Col1_D",
+      "10188_KunN_Col1_E",
+      "10188_KunN_Col1_M",
+      "10188_KunN_Col1_N",
+      "10188_KunN_Col1_S"
+    ],
+    "materials": {
+      "col1": "00059493"
     }
   },
   "00059507": {
@@ -120565,6 +121364,19 @@
     ],
     "materials": {}
   },
+  "00059573": {
+    "upkId": "00059573",
+    "objs": [
+      "10188_LynF_Col1_D",
+      "10188_LynF_Col1_E",
+      "10188_LynF_Col1_M",
+      "10188_LynF_Col1_N",
+      "10188_LynF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00059572"
+    }
+  },
   "00059584": {
     "upkId": "00059584",
     "objs": [
@@ -120640,6 +121452,19 @@
     ],
     "materials": {
       "col1": "00059634"
+    }
+  },
+  "00059659": {
+    "upkId": "00059659",
+    "objs": [
+      "RussianDragon_col1_D",
+      "RussianDragon_col1_E",
+      "RussianDragon_col1_M",
+      "RussianDragon_col1_N",
+      "RussianDragon_col1_S"
+    ],
+    "materials": {
+      "col1": "00059660"
     }
   },
   "00059666": {
@@ -120919,6 +121744,28 @@
       "col1": "00059868"
     }
   },
+  "00059896": {
+    "upkId": "00059896",
+    "objs": [
+      "10193_JinM_col1_D",
+      "10193_JinM_col1_M",
+      "10193_JinM_col1_N",
+      "10193_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059897"
+    }
+  },
+  "00059901": {
+    "upkId": "00059901",
+    "objs": [
+      "040366_JinM_col1_D",
+      "040366_JinM_col1_M",
+      "040366_JinM_col1_N",
+      "040366_JinM_col1_S"
+    ],
+    "materials": {}
+  },
   "00059909": {
     "upkId": "00059909",
     "objs": [
@@ -120955,6 +121802,96 @@
       "col1": "00059929"
     }
   },
+  "00059990": {
+    "upkId": "00059990",
+    "objs": [
+      "10197_JinM_col1_D",
+      "10197_JinM_col1_E",
+      "10197_JinM_col1_M",
+      "10197_JinM_col1_N",
+      "10197_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00059991"
+    }
+  },
+  "00059994": {
+    "upkId": "00059994",
+    "objs": [
+      "10197_JinF_col1_D",
+      "10197_JinF_col1_E",
+      "10197_JinF_col1_M",
+      "10197_JinF_col1_N",
+      "10197_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00059995"
+    }
+  },
+  "00059999": {
+    "upkId": "00059999",
+    "objs": [
+      "040367_JinM_col1_D",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060013"
+    }
+  },
+  "00060033": {
+    "upkId": "00060033",
+    "objs": [
+      "10197_GonF_col1_D",
+      "10197_GonF_col1_E",
+      "10197_GonF_col1_M",
+      "10197_GonF_col1_N",
+      "10197_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060034"
+    }
+  },
+  "00060037": {
+    "upkId": "00060037",
+    "objs": [
+      "10193_GonM_col1_D",
+      "10193_GonM_col1_M",
+      "10193_GonM_col1_N",
+      "10193_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060038"
+    }
+  },
+  "00060067": {
+    "upkId": "00060067",
+    "objs": [
+      "10197_KunN_col1_D",
+      "10197_KunN_col1_E",
+      "10197_KunN_col1_M",
+      "10197_KunN_col1_N",
+      "10197_KunN_col1_S"
+    ],
+    "materials": {
+      "col1": "00060068"
+    }
+  },
+  "00060082": {
+    "upkId": "00060082",
+    "objs": [
+      "10195_JinF_col1_D",
+      "10195_JinF_col1_E",
+      "10195_JinF_col1_M",
+      "10195_JinF_col1_N",
+      "10195_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060083"
+    }
+  },
   "00060087": {
     "upkId": "00060087",
     "objs": [
@@ -120977,6 +121914,31 @@
     ],
     "materials": {
       "col1": "00060160"
+    }
+  },
+  "00060163": {
+    "upkId": "00060163",
+    "objs": [
+      "10193_LynM_col1_D",
+      "10193_LynM_col1_M",
+      "10193_LynM_col1_N",
+      "10193_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060165"
+    }
+  },
+  "00060195": {
+    "upkId": "00060195",
+    "objs": [
+      "10197_LynF_col1_D",
+      "10197_LynF_col1_E",
+      "10197_LynF_col1_M",
+      "10197_LynF_col1_N",
+      "10197_LynF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060196"
     }
   },
   "00060209": {
@@ -121011,6 +121973,31 @@
     ],
     "materials": {
       "col1": "00060221"
+    }
+  },
+  "00060291": {
+    "upkId": "00060291",
+    "objs": [
+      "10193_JinF_col1_D",
+      "10193_JinF_col1_M",
+      "10193_JinF_col1_N",
+      "10193_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060292"
+    }
+  },
+  "00060331": {
+    "upkId": "00060331",
+    "objs": [
+      "10195_GonF_col1_D",
+      "10195_GonF_col1_E",
+      "10195_GonF_col1_M",
+      "10195_GonF_col1_N",
+      "10195_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060330"
     }
   },
   "00060345": {
@@ -121073,6 +122060,19 @@
       "col1": "00060377"
     }
   },
+  "00060383": {
+    "upkId": "00060383",
+    "objs": [
+      "10195_KunN_col1_D",
+      "10195_KunN_col1_E",
+      "10195_KunN_col1_M",
+      "10195_KunN_col1_N",
+      "10195_KunN_col1_S"
+    ],
+    "materials": {
+      "col1": "00060382"
+    }
+  },
   "00060388": {
     "upkId": "00060388",
     "objs": [
@@ -121109,6 +122109,32 @@
       "col1": "00060404"
     }
   },
+  "00060408": {
+    "upkId": "00060408",
+    "objs": [
+      "10195_LynF_col1_D",
+      "10195_LynF_col1_E",
+      "10195_LynF_col1_M",
+      "10195_LynF_col1_N",
+      "10195_LynF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060407"
+    }
+  },
+  "00060411": {
+    "upkId": "00060411",
+    "objs": [
+      "Item_0107_col1_D",
+      "Item_0107_col1_E",
+      "Item_0107_col1_M",
+      "Item_0107_col1_N",
+      "Item_0107_col1_S"
+    ],
+    "materials": {
+      "col1": "00060413"
+    }
+  },
   "00060416": {
     "upkId": "00060416",
     "objs": [
@@ -121131,6 +122157,188 @@
     ],
     "materials": {
       "col1": "00060423"
+    }
+  },
+  "00060427": {
+    "upkId": "00060427",
+    "objs": [
+      "10197_GonM_col1_D",
+      "10197_GonM_col1_E",
+      "10197_GonM_col1_M",
+      "10197_GonM_col1_N",
+      "10197_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060428"
+    }
+  },
+  "00060460": {
+    "upkId": "00060460",
+    "objs": [
+      "10197_LynM_col1_D",
+      "10197_LynM_col1_E",
+      "10197_LynM_col1_M",
+      "10197_LynM_col1_N",
+      "10197_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060461"
+    }
+  },
+  "00060510": {
+    "upkId": "00060510",
+    "objs": [
+      "Item_0108_col1_D",
+      "Item_0108_col1_E",
+      "Item_0108_col1_M",
+      "Item_0108_col1_N",
+      "Item_0108_col1_S"
+    ],
+    "materials": {
+      "col1": "00060511"
+    }
+  },
+  "00060518": {
+    "upkId": "00060518",
+    "objs": [
+      "Item_0109_col1_D",
+      "Item_0109_col1_E",
+      "Item_0109_col1_M",
+      "Item_0109_col1_N",
+      "Item_0109_col1_S"
+    ],
+    "materials": {
+      "col1": "00060519"
+    }
+  },
+  "00060521": {
+    "upkId": "00060521",
+    "objs": [
+      "Item_0110_col1_D",
+      "Item_0110_col1_M",
+      "Item_0110_col1_N",
+      "Item_0110_col1_S",
+      "Item_0111_col1_E"
+    ],
+    "materials": {
+      "col1": "00060522"
+    }
+  },
+  "00060524": {
+    "upkId": "00060524",
+    "objs": [
+      "Item_0111_col1_D",
+      "Item_0111_col1_E",
+      "Item_0111_col1_M",
+      "Item_0111_col1_N",
+      "Item_0111_col1_S"
+    ],
+    "materials": {
+      "col1": "00060525"
+    }
+  },
+  "00060527": {
+    "upkId": "00060527",
+    "objs": [
+      "Item_0111_col1_E",
+      "Item_0112_col1_D",
+      "Item_0112_col1_M",
+      "Item_0112_col1_N",
+      "Item_0112_col1_S"
+    ],
+    "materials": {
+      "col1": "00060528"
+    }
+  },
+  "00060530": {
+    "upkId": "00060530",
+    "objs": [
+      "Item_0111_col1_E",
+      "Item_0113_col1_D",
+      "Item_0113_col1_M",
+      "Item_0113_col1_N",
+      "Item_0113_col1_S"
+    ],
+    "materials": {
+      "col1": "00060531"
+    }
+  },
+  "00060533": {
+    "upkId": "00060533",
+    "objs": [
+      "Item_0114_col1_D",
+      "Item_0114_col1_E",
+      "Item_0114_col1_M",
+      "Item_0114_col1_N",
+      "Item_0114_col1_S"
+    ],
+    "materials": {
+      "col1": "00060534"
+    }
+  },
+  "00060536": {
+    "upkId": "00060536",
+    "objs": [
+      "Item_0115_col1_D",
+      "Item_0115_col1_E",
+      "Item_0115_col1_M",
+      "Item_0115_col1_N",
+      "Item_0115_col1_S"
+    ],
+    "materials": {
+      "col1": "00060537"
+    }
+  },
+  "00060539": {
+    "upkId": "00060539",
+    "objs": [
+      "Item_0116_col1_D",
+      "Item_0116_col1_E",
+      "Item_0116_col1_M",
+      "Item_0116_col1_N",
+      "Item_0116_col1_S"
+    ],
+    "materials": {
+      "col1": "00060540"
+    }
+  },
+  "00060542": {
+    "upkId": "00060542",
+    "objs": [
+      "Item_0117_col1_D",
+      "Item_0117_col1_E",
+      "Item_0117_col1_M",
+      "Item_0117_col1_N",
+      "Item_0117_col1_S"
+    ],
+    "materials": {
+      "col1": "00060543"
+    }
+  },
+  "00060545": {
+    "upkId": "00060545",
+    "objs": [
+      "Item_0111_col1_E",
+      "Item_0118_col1_D",
+      "Item_0118_col1_M",
+      "Item_0118_col1_N",
+      "Item_0118_col1_S"
+    ],
+    "materials": {
+      "col1": "00060546"
+    }
+  },
+  "00060565": {
+    "upkId": "00060565",
+    "objs": [
+      "10195_JinM_col1_D",
+      "10195_JinM_col1_E",
+      "10195_JinM_col1_M",
+      "10195_JinM_col1_N",
+      "10195_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060566"
     }
   },
   "00060603": {
@@ -121156,6 +122364,30 @@
     "materials": {
       "col1": "00060611"
     }
+  },
+  "00060618": {
+    "upkId": "00060618",
+    "objs": [
+      "010381_Autoscale_col1_D",
+      "010381_Autoscale_col1_E",
+      "010381_Autoscale_col1_M",
+      "010381_Autoscale_col1_N",
+      "010381_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00060619"
+    }
+  },
+  "00060670": {
+    "upkId": "00060670",
+    "objs": [
+      "10199_JinF_col1_D",
+      "10199_JinF_col1_E",
+      "10199_JinF_col1_M",
+      "10199_JinF_col1_N",
+      "10199_JinF_col1_S"
+    ],
+    "materials": {}
   },
   "00060682": {
     "upkId": "00060682",
@@ -121200,6 +122432,72 @@
       "col1": "00061660"
     }
   },
+  "00060714": {
+    "upkId": "00060714",
+    "objs": [
+      "0026_D2",
+      "0026_N1",
+      "0026_S2"
+    ],
+    "materials": {
+      "col1": "00060715"
+    }
+  },
+  "00060740": {
+    "upkId": "00060740",
+    "objs": [
+      "10201_JinF_col1_D",
+      "10201_JinF_col1_M",
+      "10201_JinF_col1_N",
+      "10201_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060741"
+    }
+  },
+  "00060745": {
+    "upkId": "00060745",
+    "objs": [
+      "040370_JinF_col1_D",
+      "040370_JinF_col1_M",
+      "040370_JinF_col1_N",
+      "040370_JinF_col1_S"
+    ],
+    "materials": {}
+  },
+  "00060749": {
+    "upkId": "00060749",
+    "objs": [
+      "10195_LynM_col1_D",
+      "10195_LynM_col1_E",
+      "10195_LynM_col1_M",
+      "10195_LynM_col1_N",
+      "10195_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060750"
+    }
+  },
+  "00060764": {
+    "upkId": "00060764",
+    "objs": [
+      "Game_BattleRoyalScene_Preview"
+    ],
+    "materials": {}
+  },
+  "00060767": {
+    "upkId": "00060767",
+    "objs": [
+      "10195_GonM_col1_D",
+      "10195_GonM_col1_E",
+      "10195_GonM_col1_M",
+      "10195_GonM_col1_N",
+      "10195_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060768"
+    }
+  },
   "00060806": {
     "upkId": "00060806",
     "objs": [
@@ -121211,6 +122509,17 @@
     "materials": {
       "col1": "00060807"
     }
+  },
+  "00060828": {
+    "upkId": "00060828",
+    "objs": [
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S"
+    ],
+    "materials": {}
   },
   "00060832": {
     "upkId": "00060832",
@@ -121249,6 +122558,76 @@
       "col1": "00060843"
     }
   },
+  "00060844": {
+    "upkId": "00060844",
+    "objs": [
+      "HyunMu_col1_D",
+      "HyunMu_col1_E",
+      "HyunMu_col1_M",
+      "HyunMu_col1_N",
+      "HyunMu_col1_S"
+    ],
+    "materials": {
+      "col1": "00060848"
+    }
+  },
+  "00060847": {
+    "upkId": "00060847",
+    "objs": [
+      "HyunMuEvolve_col1_D",
+      "HyunMuEvolve_col1_E",
+      "HyunMuEvolve_col1_S"
+    ],
+    "materials": {}
+  },
+  "00060866": {
+    "upkId": "00060866",
+    "objs": [
+      "110283_Autoscale_col11_D",
+      "110283_Autoscale_col11_M",
+      "110283_Autoscale_col11_N",
+      "110283_Autoscale_col11_S"
+    ],
+    "materials": {
+      "col1": "00060867"
+    }
+  },
+  "00060886": {
+    "upkId": "00060886",
+    "objs": [
+      "10193_GonF_col1_D",
+      "10193_GonF_col1_M",
+      "10193_GonF_col1_N",
+      "10193_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060887"
+    }
+  },
+  "00060892": {
+    "upkId": "00060892",
+    "objs": [
+      "10193_KunN_col1_D",
+      "10193_KunN_col1_M",
+      "10193_KunN_col1_N",
+      "10193_KunN_col1_S"
+    ],
+    "materials": {
+      "col1": "00060893"
+    }
+  },
+  "00060896": {
+    "upkId": "00060896",
+    "objs": [
+      "10193_LynF_col1_D",
+      "10193_LynF_col1_M",
+      "10193_LynF_col1_N",
+      "10193_LynF_col1_S"
+    ],
+    "materials": {
+      "col1": "00060897"
+    }
+  },
   "00060923": {
     "upkId": "00060923",
     "objs": [
@@ -121285,6 +122664,221 @@
       "col1": "00060932"
     }
   },
+  "00060961": {
+    "upkId": "00060961",
+    "objs": [
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_S"
+    ],
+    "materials": {
+      "col1": "00060962"
+    }
+  },
+  "00060963": {
+    "upkId": "00060963",
+    "objs": [
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_S"
+    ],
+    "materials": {
+      "col1": "00060964"
+    }
+  },
+  "00060972": {
+    "upkId": "00060972",
+    "objs": [
+      "10199_JinM_col1_D",
+      "10199_JinM_col1_M",
+      "10199_JinM_col1_N",
+      "10199_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060973"
+    }
+  },
+  "00060976": {
+    "upkId": "00060976",
+    "objs": [
+      "10199_GonM_col1_D",
+      "10199_GonM_col1_M",
+      "10199_GonM_col1_N",
+      "10199_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060977"
+    }
+  },
+  "00060980": {
+    "upkId": "00060980",
+    "objs": [
+      "10199_LynM_col1_D",
+      "10199_LynM_col1_M",
+      "10199_LynM_col1_N",
+      "10199_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00060981"
+    }
+  },
+  "00061027": {
+    "upkId": "00061027",
+    "objs": [
+      "020375_Autoscale_col1_D",
+      "020375_Autoscale_col1_M",
+      "020375_Autoscale_col1_N",
+      "020375_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061028"
+    }
+  },
+  "00061042": {
+    "upkId": "00061042",
+    "objs": [
+      "020377_Autoscale_col1_D",
+      "020377_Autoscale_col1_M",
+      "020377_Autoscale_col1_N",
+      "020377_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061043"
+    }
+  },
+  "00061063": {
+    "upkId": "00061063",
+    "objs": [
+      "070163_Autoscale_col1_D",
+      "070163_Autoscale_col1_E",
+      "070163_Autoscale_col1_M",
+      "070163_Autoscale_col1_N",
+      "070163_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061064"
+    }
+  },
+  "00061097": {
+    "upkId": "00061097",
+    "objs": [
+      "060288_Autoscale_col1_D",
+      "060288_Autoscale_col1_E",
+      "060288_Autoscale_col1_M",
+      "060288_Autoscale_col1_N",
+      "060288_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061098"
+    }
+  },
+  "00061115": {
+    "upkId": "00061115",
+    "objs": [
+      "10199_GonF_col1_D",
+      "10199_GonF_col1_E",
+      "10199_GonF_col1_M",
+      "10199_GonF_col1_N",
+      "10199_GonF_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061148": {
+    "upkId": "00061148",
+    "objs": [
+      "10199_KunN_col1_D",
+      "10199_KunN_col1_E",
+      "10199_KunN_col1_M",
+      "10199_KunN_col1_N",
+      "10199_KunN_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061158": {
+    "upkId": "00061158",
+    "objs": [
+      "10199_LynF_col1_D",
+      "10199_LynF_col1_E",
+      "10199_LynF_col1_M",
+      "10199_LynF_col1_N",
+      "10199_LynF_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061172": {
+    "upkId": "00061172",
+    "objs": [
+      "060290_Autoscale_col1_D",
+      "060290_Autoscale_col1_M",
+      "060290_Autoscale_col1_N",
+      "060290_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061173"
+    }
+  },
+  "00061176": {
+    "upkId": "00061176",
+    "objs": [
+      "110281_Autoscale_col1_D",
+      "110281_Autoscale_col1_E",
+      "110281_Autoscale_col1_M",
+      "110281_Autoscale_col1_N",
+      "110281_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061177"
+    }
+  },
+  "00061180": {
+    "upkId": "00061180",
+    "objs": [
+      "130159_Autoscale_col1_D",
+      "130159_Autoscale_col1_M",
+      "130159_Autoscale_col1_N",
+      "130159_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061181"
+    }
+  },
+  "00061196": {
+    "upkId": "00061196",
+    "objs": [
+      "130157_Autoscale_col1_D",
+      "130157_Autoscale_col1_E",
+      "130157_Autoscale_col1_M",
+      "130157_Autoscale_col1_N",
+      "130157_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061197"
+    }
+  },
+  "00061216": {
+    "upkId": "00061216",
+    "objs": [
+      "010386_Autoscale_col1_D",
+      "010386_Autoscale_col1_M",
+      "010386_Autoscale_col1_S",
+      "v010386_Autoscale_col1_N"
+    ],
+    "materials": {
+      "col1": "00061217"
+    }
+  },
+  "00061226": {
+    "upkId": "00061226",
+    "objs": [
+      "070165_Autoscale_col1_D",
+      "070165_Autoscale_col1_M",
+      "070165_Autoscale_col1_N",
+      "070165_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061227"
+    }
+  },
   "00061230": {
     "upkId": "00061230",
     "objs": [
@@ -121298,6 +122892,52 @@
       "col1": "00061231"
     }
   },
+  "00061234": {
+    "upkId": "00061234",
+    "objs": [
+      "030375_Autoscale_col1_D",
+      "030375_Autoscale_col1_M",
+      "030375_Autoscale_col1_N",
+      "030375_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061235"
+    }
+  },
+  "00061239": {
+    "upkId": "00061239",
+    "objs": [
+      "10205_JinM_col1_D",
+      "10205_JinM_col1_M",
+      "10205_JinM_col1_N",
+      "10205_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00061240"
+    }
+  },
+  "00061243": {
+    "upkId": "00061243",
+    "objs": [
+      "10205_JinF_col1_D",
+      "10205_JinF_col1_M",
+      "10205_JinF_col1_N",
+      "10205_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061244"
+    }
+  },
+  "00061252": {
+    "upkId": "00061252",
+    "objs": [
+      "040374_JinF_hair_col1_D",
+      "040374_JinF_hair_col1_N"
+    ],
+    "materials": {
+      "col1": "00061578"
+    }
+  },
   "00061258": {
     "upkId": "00061258",
     "objs": [
@@ -121308,6 +122948,19 @@
     ],
     "materials": {
       "col1": "00061259"
+    }
+  },
+  "00061273": {
+    "upkId": "00061273",
+    "objs": [
+      "120283_Autoscale_col1_D",
+      "120283_Autoscale_col1_E",
+      "120283_Autoscale_col1_M",
+      "120283_Autoscale_col1_N",
+      "120283_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061274"
     }
   },
   "00061280": {
@@ -121333,6 +122986,52 @@
     "materials": {
       "col1": "00061285"
     }
+  },
+  "00061289": {
+    "upkId": "00061289",
+    "objs": [
+      "10204_JinM_Col1_D",
+      "10204_JinM_Col1_M",
+      "10204_JinM_Col1_N",
+      "10204_JinM_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061290"
+    }
+  },
+  "00061293": {
+    "upkId": "00061293",
+    "objs": [
+      "10204_JinF_Col1_D",
+      "10204_JinF_Col1_M",
+      "10204_JinF_Col1_N",
+      "10204_JinF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061294"
+    }
+  },
+  "00061311": {
+    "upkId": "00061311",
+    "objs": [
+      "040373_JinF_col1_D",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061934"
+    }
+  },
+  "00061316": {
+    "upkId": "00061316",
+    "objs": [
+      "090186_JinM_Col1_D",
+      "090186_JinM_Col1_M",
+      "090186_JinM_Col1_N",
+      "090186_JinM_Col1_S"
+    ],
+    "materials": {}
   },
   "00061322": {
     "upkId": "00061322",
@@ -121407,6 +123106,89 @@
       "col1": "00061472"
     }
   },
+  "00061475": {
+    "upkId": "00061475",
+    "objs": [
+      "110284_Autoscale_col1_D",
+      "110284_Autoscale_col1_E",
+      "110284_Autoscale_col1_M",
+      "110284_Autoscale_col1_N",
+      "110284_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061476"
+    }
+  },
+  "00061479": {
+    "upkId": "00061479",
+    "objs": [
+      "120285_Autoscale_col1_D",
+      "120285_Autoscale_col1_M",
+      "120285_Autoscale_col1_N",
+      "120285_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061480"
+    }
+  },
+  "00061483": {
+    "upkId": "00061483",
+    "objs": [
+      "Cloth_0067_col1_D",
+      "Cloth_0067_col1_M",
+      "Cloth_0067_col1_N",
+      "Cloth_0067_col1_S"
+    ],
+    "materials": {
+      "col1": "00061484"
+    }
+  },
+  "00061487": {
+    "upkId": "00061487",
+    "objs": [
+      "Acc_0067_col1_D",
+      "Acc_0067_col1_M",
+      "Acc_0067_col1_N",
+      "Acc_0067_col1_S"
+    ],
+    "materials": {
+      "col1": "00061488"
+    }
+  },
+  "00061491": {
+    "upkId": "00061491",
+    "objs": [
+      "Hat_0067_col1_D",
+      "Hat_0067_col1_M",
+      "Hat_0067_col1_N",
+      "Hat_0067_col1_S"
+    ],
+    "materials": {
+      "col1": "00061492"
+    }
+  },
+  "00061497": {
+    "upkId": "00061497",
+    "objs": [
+      "040374_JinM_col1_D",
+      "040374_JinM_col1_M",
+      "040374_JinM_col1_N",
+      "040374_JinM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061511": {
+    "upkId": "00061511",
+    "objs": [
+      "SnakeEvolve_col1_D",
+      "SnakeEvolve_col1_M",
+      "SnakeEvolve_col1_N",
+      "SnakeEvolve_col1_S"
+    ],
+    "materials": {
+      "col1": "00061512"
+    }
+  },
   "00061515": {
     "upkId": "00061515",
     "objs": [
@@ -121417,6 +123199,64 @@
     ],
     "materials": {
       "col1": "00061516"
+    }
+  },
+  "00061558": {
+    "upkId": "00061558",
+    "objs": [
+      "030377_Autoscale_col1_D",
+      "030377_Autoscale_col1_M",
+      "030377_Autoscale_col1_N",
+      "030377_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061559"
+    }
+  },
+  "00061562": {
+    "upkId": "00061562",
+    "objs": [
+      "030378_Autoscale_col1_D",
+      "030378_Autoscale_col1_E",
+      "030378_Autoscale_col1_M",
+      "030378_Autoscale_col1_N",
+      "030378_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061563"
+    }
+  },
+  "00061600": {
+    "upkId": "00061600",
+    "objs": [
+      "130160_Autoscale_col1_D",
+      "130160_Autoscale_col1_E",
+      "130160_Autoscale_col1_M",
+      "130160_Autoscale_col1_N",
+      "130160_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061601"
+    }
+  },
+  "00061609": {
+    "upkId": "00061609",
+    "objs": [
+      "010383_Autoscale_col1_D",
+      "010383_Autoscale_col1_M",
+      "010383_Autoscale_col1_N",
+      "010383_Autoscale_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061626": {
+    "upkId": "00061626",
+    "objs": [
+      "060059_JinM_col1_D",
+      "060059_JinM_Col1_N"
+    ],
+    "materials": {
+      "col1": "00061627"
     }
   },
   "00061649": {
@@ -121430,5 +123270,403 @@
     "materials": {
       "col1": "00061650"
     }
+  },
+  "00061663": {
+    "upkId": "00061663",
+    "objs": [
+      "10205_GonF_col1_D",
+      "10205_GonF_col1_M",
+      "10205_GonF_col1_N",
+      "10205_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061662"
+    }
+  },
+  "00061669": {
+    "upkId": "00061669",
+    "objs": [
+      "070166_Autoscale_col1_D",
+      "070166_Autoscale_col1_E",
+      "070166_Autoscale_col1_M",
+      "070166_Autoscale_col1_N",
+      "070166_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061670"
+    }
+  },
+  "00061677": {
+    "upkId": "00061677",
+    "objs": [
+      "Snake_col1_D",
+      "Snake_col1_M",
+      "Snake_col1_N",
+      "Snake_col1_S"
+    ],
+    "materials": {
+      "col1": "00061678"
+    }
+  },
+  "00061692": {
+    "upkId": "00061692",
+    "objs": [
+      "10201_GonF_col1_D",
+      "10201_GonF_col1_M",
+      "10201_GonF_col1_N",
+      "10201_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061959"
+    }
+  },
+  "00061696": {
+    "upkId": "00061696",
+    "objs": [
+      "10201_KunN_col1_D",
+      "10201_KunN_col1_M",
+      "10201_KunN_col1_N",
+      "10201_KunN_col1_S"
+    ],
+    "materials": {
+      "col1": "00061697"
+    }
+  },
+  "00061700": {
+    "upkId": "00061700",
+    "objs": [
+      "10201_LynF_col1_D",
+      "10201_LynF_col1_M",
+      "10201_LynF_col1_N",
+      "10201_LynF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061701"
+    }
+  },
+  "00061708": {
+    "upkId": "00061708",
+    "objs": [
+      "120286_Autoscale_col1_D",
+      "120286_Autoscale_col1_E",
+      "120286_Autoscale_col1_M",
+      "120286_Autoscale_col1_N",
+      "120286_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061709"
+    }
+  },
+  "00061712": {
+    "upkId": "00061712",
+    "objs": [
+      "040370_JinM_col1_D",
+      "040370_JinM_col1_M",
+      "040370_JinM_col1_N",
+      "040370_JinM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061720": {
+    "upkId": "00061720",
+    "objs": [
+      "10201_JinM_col1_D",
+      "10201_JinM_col1_M",
+      "10201_JinM_col1_N",
+      "10201_JinM_col1_S",
+      "10201_JinM_Fur"
+    ],
+    "materials": {
+      "col1": "00061721"
+    }
+  },
+  "00061725": {
+    "upkId": "00061725",
+    "objs": [
+      "10205_KunN_col1_D",
+      "10205_KunN_col1_M",
+      "10205_KunN_col1_N",
+      "10205_KunN_col1_S"
+    ],
+    "materials": {
+      "Col_Hair_Acc": "00061582",
+      "col1": "00061726"
+    }
+  },
+  "00061729": {
+    "upkId": "00061729",
+    "objs": [
+      "10205_LynF_col1_D",
+      "10205_LynF_col1_M",
+      "10205_LynF_col1_N",
+      "10205_LynF_col1_S"
+    ],
+    "materials": {
+      "Col_Hair_Acc": "00061586",
+      "col1": "00061730"
+    }
+  },
+  "00061742": {
+    "upkId": "00061742",
+    "objs": [
+      "Pet_Christmas_Col1_D",
+      "Pet_Christmas_Col1_M",
+      "Pet_Christmas_Col1_N",
+      "Pet_Christmas_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061743"
+    }
+  },
+  "00061747": {
+    "upkId": "00061747",
+    "objs": [
+      "Pet_ChristmasEvolve_Col1_D",
+      "Pet_ChristmasEvolve_Col1_M",
+      "Pet_ChristmasEvolve_Col1_N",
+      "Pet_ChristmasEvolve_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061746"
+    }
+  },
+  "00061772": {
+    "upkId": "00061772",
+    "objs": [
+      "040370_JinF_col1_D",
+      "040370_JinF_col1_M",
+      "040370_JinF_col1_N",
+      "040370_JinF_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061810": {
+    "upkId": "00061810",
+    "objs": [
+      "010384_Autoscale_col1_D",
+      "010384_Autoscale_col1_E",
+      "010384_Autoscale_col1_M",
+      "010384_Autoscale_col1_N",
+      "010384_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061811"
+    }
+  },
+  "00061814": {
+    "upkId": "00061814",
+    "objs": [
+      "020378_Autoscale_col1_D",
+      "020378_Autoscale_col1_E",
+      "020378_Autoscale_col1_M",
+      "020378_Autoscale_col1_N",
+      "020378_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061815"
+    }
+  },
+  "00061818": {
+    "upkId": "00061818",
+    "objs": [
+      "060291_Autoscale_col1_D",
+      "060291_Autoscale_col1_E",
+      "060291_Autoscale_col1_M",
+      "060291_Autoscale_col1_N",
+      "060291_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061819"
+    }
+  },
+  "00061836": {
+    "upkId": "00061836",
+    "objs": [
+      "020380_Autoscale_col1_D",
+      "020380_Autoscale_col1_M",
+      "020380_Autoscale_col1_N",
+      "020380_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061837"
+    }
+  },
+  "00061908": {
+    "upkId": "00061908",
+    "objs": [
+      "10204_GonF_col1_D",
+      "10204_GonF_col1_M",
+      "10204_GonF_col1_N",
+      "10204_GonF_col1_S"
+    ],
+    "materials": {
+      "col1": "00061909"
+    }
+  },
+  "00061912": {
+    "upkId": "00061912",
+    "objs": [
+      "10204_KunN_Col1_D",
+      "10204_KunN_Col1_M",
+      "10204_KunN_Col1_N",
+      "10204_KunN_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061913"
+    }
+  },
+  "00061916": {
+    "upkId": "00061916",
+    "objs": [
+      "10204_LynF_Col1_D",
+      "10204_LynF_Col1_M",
+      "10204_LynF_Col1_N",
+      "10204_LynF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00061917"
+    }
+  },
+  "00061938": {
+    "upkId": "00061938",
+    "objs": [
+      "040373_JinM_col1_D",
+      "040373_JinM_col1_M",
+      "040373_JinM_col1_N",
+      "040373_JinM_col1_S"
+    ],
+    "materials": {}
+  },
+  "00061981": {
+    "upkId": "00061981",
+    "objs": [
+      "030380_Autoscale_col1_D",
+      "030380_Autoscale_col1_M",
+      "030380_Autoscale_col1_N",
+      "030380_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061982"
+    }
+  },
+  "00061985": {
+    "upkId": "00061985",
+    "objs": [
+      "110286_Autoscale_col1_D",
+      "110286_Autoscale_col1_M",
+      "110286_Autoscale_col1_N",
+      "110286_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00061986"
+    }
+  },
+  "00061990": {
+    "upkId": "00061990",
+    "objs": [
+      "10205_GonM_col1_D",
+      "10205_GonM_col1_M",
+      "10205_GonM_col1_N",
+      "10205_GonM_col1_S"
+    ],
+    "materials": {
+      "col1": "00061991"
+    }
+  },
+  "00061994": {
+    "upkId": "00061994",
+    "objs": [
+      "10205_LynM_col1_D",
+      "10205_LynM_col1_M",
+      "10205_LynM_col1_N",
+      "10205_LynM_col1_S"
+    ],
+    "materials": {
+      "col1": "00061995"
+    }
+  },
+  "00062007": {
+    "upkId": "00062007",
+    "objs": [
+      "10210_JinM_Col1_D",
+      "10210_JinM_Col1_M",
+      "10210_JinM_Col1_N",
+      "10210_JinM_Col1_S",
+      "fur_D",
+      "fur_N"
+    ],
+    "materials": {
+      "col1": "00062008"
+    }
+  },
+  "00062011": {
+    "upkId": "00062011",
+    "objs": [
+      "10210_JinF_Col1_D",
+      "10210_JinF_Col1_M",
+      "10210_JinF_Col1_N",
+      "10210_JinF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00062012"
+    }
+  },
+  "00062016": {
+    "upkId": "00062016",
+    "objs": [
+      "040377_JinM_col1_D",
+      "040377_JinM_col1_M",
+      "040377_JinM_col1_N",
+      "040377_JinM_col1_S",
+      "fur_D",
+      "fur_N"
+    ],
+    "materials": {}
+  },
+  "00062020": {
+    "upkId": "00062020",
+    "objs": [
+      "040377_JinF_Col1_D",
+      "040377_JinF_Col1_M",
+      "040377_JinF_Col1_N",
+      "040377_JinF_Col1_S"
+    ],
+    "materials": {
+      "col1": "00062030"
+    }
+  },
+  "00062025": {
+    "upkId": "00062025",
+    "objs": [
+      "010149_JinM_col1_D",
+      "010149_JinM_col1_M",
+      "010149_JinM_col1_N",
+      "010149_JinM_col1_S"
+    ],
+    "materials": {
+      "col1": "00062026"
+    }
+  },
+  "00062103": {
+    "upkId": "00062103",
+    "objs": [
+      "120288_Autoscale_col1_D",
+      "120288_Autoscale_col1_M",
+      "120288_Autoscale_col1_N",
+      "120288_Autoscale_col1_S"
+    ],
+    "materials": {
+      "col1": "00062104"
+    }
+  },
+  "00062107": {
+    "upkId": "00062107",
+    "objs": [
+      "060293_Autoscale_col1_D",
+      "060293_Autoscale_col1_M",
+      "060293_Autoscale_col1_N",
+      "060293_Autoscale_col1_S"
+    ],
+    "materials": {}
   }
 }

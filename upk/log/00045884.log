@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045884.upk Ver: 573/1 Engine: 4205 Names: 111 Exports: 2 Imports: 26 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00045884.upk
 Loading package: 00009888.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 2 Imports: 2 Game: 801A
@@ -12,7 +12,7 @@ Loading Texture2D LynF_006_col1_N from package 00009888.upk
 WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
 Loading Texture2D Nothing_A from package 00008613.upk
 Loading Material3 Beard_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Acc_040292_KunN_col1_N from package 00045883.upk
 Loading Texture2D Acc_040292_KunN_col1_M from package 00045883.upk
 Loading Texture2D Acc_040292_KunN_col1_D from package 00045883.upk
@@ -32,7 +32,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.17 sec, 3069 allocs, 1.72 MBytes serialized in 185243 calls.
+Loaded in 0.14 sec, 3106 allocs, 1.73 MBytes serialized in 186056 calls.
 
 Object info:
 ============

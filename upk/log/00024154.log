@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00024154.upk Ver: 573/1 Engine: 4205 Names: 212 Exports: 125 Imports: 21 Game: 801A
 Loading SkeletalMesh3 60114_LynM from package 00024154.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -31,7 +31,7 @@ Loading Texture2D 60094_LynM_col2_S from package 00019364.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Body from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Fur_Tape1_N from package 00019338.upk
 Loading Texture2D Fur_Tape1_D from package 00019338.upk
 Loading Material3 Beard_Fur from package 00002620.upk
@@ -47,7 +47,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.21 sec, 3329 allocs, 3.82 MBytes serialized in 721493 calls.
+Loaded in 0.19 sec, 3366 allocs, 3.83 MBytes serialized in 722306 calls.
 
 Object info:
 ============

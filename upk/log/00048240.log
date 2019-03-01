@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048240.upk Ver: 573/1 Engine: 4205 Names: 487 Exports: 1282 Imports: 115 Game: 801A
 Loading Texture2D Game_AppearanceBookScene_Preview from package 00048240.upk
-Loaded in 0.013 sec, 510 allocs, 0.12 MBytes serialized in 25431 calls.
+Loaded in 0.011 sec, 510 allocs, 0.12 MBytes serialized in 25431 calls.
 
 Object info:
 ============

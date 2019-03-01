@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00043885.upk Ver: 573/1 Engine: 4205 Names: 611 Exports: 1440 Imports: 122 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00043885.upk Ver: 573/1 Engine: 4205 Names: 610 Exports: 1440 Imports: 121 Game: 801A
 Loading Texture2D Game_SkillTrainingFieldPlayScene_Preview from package 00043885.upk
 Loading Texture2D Game_SkillTrainingFieldScene_Preview from package 00043885.upk
-Loaded in 0.01 sec, 639 allocs, 0.15 MBytes serialized in 28756 calls.
+Loaded in 0.026 sec, 638 allocs, 0.16 MBytes serialized in 28746 calls.
 
 Object info:
 ============

@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050025.upk Ver: 573/1 Engine: 4205 Names: 452 Exports: 1206 Imports: 171 Game: 801A
 Loading Material3 TX_Weapon_LensFlare from package 00050025.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 TX_Weapon_Rune from package 00050025.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 TX_Weapon_Rune02 from package 00050025.upk
@@ -14,7 +14,7 @@ Loading package: 00050028.upk Ver: 573/1 Engine: 4205 Names: 89 Exports: 1 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_194 from package 00050025.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 010235_MeshDeco01 from package 00050025.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading Texture2D 010235_FX_MASK from package 00050025.upk
 Loading Texture2D LensFlare_Nike_Tex from package 00012963.upk
 Loading Texture2D Smoke_Dust_000 from package 00012963.upk
@@ -49,7 +49,7 @@ Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.25 sec, 4733 allocs, 2.34 MBytes serialized in 408211 calls.
+Loaded in 0.22 sec, 4860 allocs, 2.37 MBytes serialized in 416735 calls.
 
 Object info:
 ============

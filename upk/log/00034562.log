@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00034562.upk Ver: 573/1 Engine: 4205 Names: 218 Exports: 579 Imports: 67 Game: 801A
 Loading Material3 JinTaePyeong_Body from package 00034562.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 JinTaePyeong_Body_1 from package 00034562.upk
 Loading Material3 Fx_JinTaePyeong_ParentMat from package 00034562.upk
 Loading MaterialInstanceConstant col1 from package 00034562.upk
@@ -49,7 +49,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.36 sec, 3550 allocs, 5.07 MBytes serialized in 199956 calls.
+Loaded in 0.31 sec, 3587 allocs, 5.07 MBytes serialized in 200769 calls.
 
 Object info:
 ============

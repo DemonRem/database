@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00006750.upk Ver: 573/1 Engine: 4205 Names: 919 Exports: 25 Imports: 1644 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00006750.upk Ver: 573/1 Engine: 4205 Names: 921 Exports: 25 Imports: 1655 Game: 801A
 Loading AnimSet BladeMaster_JinF_Animset from package 00006750.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -51,7 +51,7 @@ WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
-Loaded in 0.003 sec, 1443 allocs, 0.20 MBytes serialized in 16131 calls.
+Loaded in 0.014 sec, 1407 allocs, 0.20 MBytes serialized in 16176 calls.
 
 Object info:
 ============
@@ -83,7 +83,7 @@ ClassName: AnimSequence ObjectName: AnimSequence_0
     TranslationCompressionFormat = ACF_None (0)
     RotationCompressionFormat = ACF_Fixed48NoW (2)
     KeyEncodingFormat = AKF_ConstantKeyLerp (0)
-    CompressedTrackOffsets[296] =
+    CompressedTrackOffsets[268] =
     {
         CompressedTrackOffsets[0] = 0
         CompressedTrackOffsets[1] = 31
@@ -353,34 +353,6 @@ ClassName: AnimSequence ObjectName: AnimSequence_0
         CompressedTrackOffsets[265] = 31
         CompressedTrackOffsets[266] = 38916
         CompressedTrackOffsets[267] = 31
-        CompressedTrackOffsets[268] = 39128
-        CompressedTrackOffsets[269] = 1
-        CompressedTrackOffsets[270] = 39140
-        CompressedTrackOffsets[271] = 1
-        CompressedTrackOffsets[272] = 39152
-        CompressedTrackOffsets[273] = 1
-        CompressedTrackOffsets[274] = 39164
-        CompressedTrackOffsets[275] = 1
-        CompressedTrackOffsets[276] = 39176
-        CompressedTrackOffsets[277] = 1
-        CompressedTrackOffsets[278] = 39188
-        CompressedTrackOffsets[279] = 1
-        CompressedTrackOffsets[280] = 39200
-        CompressedTrackOffsets[281] = 1
-        CompressedTrackOffsets[282] = 39212
-        CompressedTrackOffsets[283] = 1
-        CompressedTrackOffsets[284] = 39224
-        CompressedTrackOffsets[285] = 1
-        CompressedTrackOffsets[286] = 39236
-        CompressedTrackOffsets[287] = 1
-        CompressedTrackOffsets[288] = 39248
-        CompressedTrackOffsets[289] = 1
-        CompressedTrackOffsets[290] = 39260
-        CompressedTrackOffsets[291] = 1
-        CompressedTrackOffsets[292] = 39272
-        CompressedTrackOffsets[293] = 1
-        CompressedTrackOffsets[294] = 39284
-        CompressedTrackOffsets[295] = 1
     }
     bIsAdditive = false
     AdditiveRefName = None
@@ -395,7 +367,7 @@ Object info:
 ClassName: AnimSet ObjectName: BladeMaster_JinF_Animset
 
     bAnimRotationOnly = true
-    TrackBoneNames[74] =
+    TrackBoneNames[67] =
     {
         TrackBoneNames[0] = Root
         TrackBoneNames[1] = Bip01
@@ -464,13 +436,6 @@ ClassName: AnimSet ObjectName: BladeMaster_JinF_Animset
         TrackBoneNames[64] = AdB01RKneeBone
         TrackBoneNames[65] = AdB01LHipBone
         TrackBoneNames[66] = AdB01RHipBone
-        TrackBoneNames[67] = Weapon_080005_1
-        TrackBoneNames[68] = Weapon_080005_1_1
-        TrackBoneNames[69] = Root_Bomb
-        TrackBoneNames[70] = Weapon_070001_col02
-        TrackBoneNames[71] = Weapon_070001_col1
-        TrackBoneNames[72] = Cylinder01
-        TrackBoneNames[73] = Box01
     }
     Sequences[1] = { AnimSequence'BladeMaster_JinF_Animset.AnimSequence_0' }
     UseTranslationBoneNames[9] =
@@ -540,7 +505,7 @@ ClassName: AnimSequence ObjectName: AnimSequence_1
     TranslationCompressionFormat = ACF_None (0)
     RotationCompressionFormat = ACF_Fixed48NoW (2)
     KeyEncodingFormat = AKF_ConstantKeyLerp (0)
-    CompressedTrackOffsets[296] =
+    CompressedTrackOffsets[268] =
     {
         CompressedTrackOffsets[0] = 0
         CompressedTrackOffsets[1] = 31
@@ -810,34 +775,6 @@ ClassName: AnimSequence ObjectName: AnimSequence_1
         CompressedTrackOffsets[265] = 31
         CompressedTrackOffsets[266] = 38916
         CompressedTrackOffsets[267] = 31
-        CompressedTrackOffsets[268] = 39128
-        CompressedTrackOffsets[269] = 1
-        CompressedTrackOffsets[270] = 39140
-        CompressedTrackOffsets[271] = 1
-        CompressedTrackOffsets[272] = 39152
-        CompressedTrackOffsets[273] = 1
-        CompressedTrackOffsets[274] = 39164
-        CompressedTrackOffsets[275] = 1
-        CompressedTrackOffsets[276] = 39176
-        CompressedTrackOffsets[277] = 1
-        CompressedTrackOffsets[278] = 39188
-        CompressedTrackOffsets[279] = 1
-        CompressedTrackOffsets[280] = 39200
-        CompressedTrackOffsets[281] = 1
-        CompressedTrackOffsets[282] = 39212
-        CompressedTrackOffsets[283] = 1
-        CompressedTrackOffsets[284] = 39224
-        CompressedTrackOffsets[285] = 1
-        CompressedTrackOffsets[286] = 39236
-        CompressedTrackOffsets[287] = 1
-        CompressedTrackOffsets[288] = 39248
-        CompressedTrackOffsets[289] = 1
-        CompressedTrackOffsets[290] = 39260
-        CompressedTrackOffsets[291] = 1
-        CompressedTrackOffsets[292] = 39272
-        CompressedTrackOffsets[293] = 1
-        CompressedTrackOffsets[294] = 39284
-        CompressedTrackOffsets[295] = 1
     }
     bIsAdditive = false
     AdditiveRefName = None
@@ -852,7 +789,7 @@ Object info:
 ClassName: AnimSet ObjectName: BladeMaster_JinM_Animset
 
     bAnimRotationOnly = true
-    TrackBoneNames[74] =
+    TrackBoneNames[67] =
     {
         TrackBoneNames[0] = Root
         TrackBoneNames[1] = Bip01
@@ -921,13 +858,6 @@ ClassName: AnimSet ObjectName: BladeMaster_JinM_Animset
         TrackBoneNames[64] = AdB01RKneeBone
         TrackBoneNames[65] = AdB01LHipBone
         TrackBoneNames[66] = AdB01RHipBone
-        TrackBoneNames[67] = Weapon_080005_1
-        TrackBoneNames[68] = Weapon_080005_1_1
-        TrackBoneNames[69] = Root_Bomb
-        TrackBoneNames[70] = Weapon_070001_col02
-        TrackBoneNames[71] = Weapon_070001_col1
-        TrackBoneNames[72] = Cylinder01
-        TrackBoneNames[73] = Box01
     }
     Sequences[1] = { AnimSequence'BladeMaster_JinM_Animset.AnimSequence_1' }
     UseTranslationBoneNames[9] =
@@ -997,7 +927,7 @@ ClassName: AnimSequence ObjectName: AnimSequence_2
     TranslationCompressionFormat = ACF_None (0)
     RotationCompressionFormat = ACF_Fixed48NoW (2)
     KeyEncodingFormat = AKF_ConstantKeyLerp (0)
-    CompressedTrackOffsets[296] =
+    CompressedTrackOffsets[276] =
     {
         CompressedTrackOffsets[0] = 0
         CompressedTrackOffsets[1] = 31
@@ -1275,26 +1205,6 @@ ClassName: AnimSequence ObjectName: AnimSequence_2
         CompressedTrackOffsets[273] = 1
         CompressedTrackOffsets[274] = 39164
         CompressedTrackOffsets[275] = 1
-        CompressedTrackOffsets[276] = 39176
-        CompressedTrackOffsets[277] = 1
-        CompressedTrackOffsets[278] = 39188
-        CompressedTrackOffsets[279] = 1
-        CompressedTrackOffsets[280] = 39200
-        CompressedTrackOffsets[281] = 1
-        CompressedTrackOffsets[282] = 39212
-        CompressedTrackOffsets[283] = 1
-        CompressedTrackOffsets[284] = 39224
-        CompressedTrackOffsets[285] = 1
-        CompressedTrackOffsets[286] = 39236
-        CompressedTrackOffsets[287] = 1
-        CompressedTrackOffsets[288] = 39248
-        CompressedTrackOffsets[289] = 1
-        CompressedTrackOffsets[290] = 39260
-        CompressedTrackOffsets[291] = 1
-        CompressedTrackOffsets[292] = 39272
-        CompressedTrackOffsets[293] = 1
-        CompressedTrackOffsets[294] = 39284
-        CompressedTrackOffsets[295] = 1
     }
     bIsAdditive = false
     AdditiveRefName = None
@@ -1309,7 +1219,7 @@ Object info:
 ClassName: AnimSet ObjectName: BladeMaster_KunN_Animset
 
     bAnimRotationOnly = true
-    TrackBoneNames[74] =
+    TrackBoneNames[69] =
     {
         TrackBoneNames[0] = Root
         TrackBoneNames[1] = Bip01
@@ -1378,13 +1288,8 @@ ClassName: AnimSet ObjectName: BladeMaster_KunN_Animset
         TrackBoneNames[64] = AdB01RKneeBone
         TrackBoneNames[65] = AdB01LHipBone
         TrackBoneNames[66] = AdB01RHipBone
-        TrackBoneNames[67] = Weapon_080005_1
-        TrackBoneNames[68] = Weapon_080005_1_1
-        TrackBoneNames[69] = Root_Bomb
-        TrackBoneNames[70] = Weapon_070001_col02
-        TrackBoneNames[71] = Weapon_070001_col1
-        TrackBoneNames[72] = Cylinder01
-        TrackBoneNames[73] = Box01
+        TrackBoneNames[67] = Cylinder01
+        TrackBoneNames[68] = Box01
     }
     Sequences[1] = { AnimSequence'BladeMaster_KunN_Animset.AnimSequence_2' }
     UseTranslationBoneNames[9] =
@@ -1400,7 +1305,7 @@ ClassName: AnimSet ObjectName: BladeMaster_KunN_Animset
         UseTranslationBoneNames[8] = AdB01RKneeBone
     }
     ForceMeshTranslationBoneNames[0] = {}
-    PreviewSkelMeshName = 00038942.10053_KunN
+    PreviewSkelMeshName = 00011956.40009_JinF
     BulkDataBlocks[0] = {}
     KeyFrameSize = 0
     RotationChannels = 0
@@ -1610,7 +1515,7 @@ ClassName: AnimSet ObjectName: BladeMaster_LynM_Animset
         UseTranslationBoneNames[8] = AdB01RKneeBone
     }
     ForceMeshTranslationBoneNames[0] = {}
-    PreviewSkelMeshName = 00004247.00001_LynM
+    PreviewSkelMeshName = 00011956.40009_JinF
     BulkDataBlocks[0] = {}
     KeyFrameSize = 0
     RotationChannels = 0

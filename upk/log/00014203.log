@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00014203.upk Ver: 573/1 Engine: 4205 Names: 211 Exports: 60 Imports: 48 Game: 801A
 Loading Texture2D Game_SNSScene_Preview from package 00014203.upk
-Loaded in 0.006 sec, 234 allocs, 0.02 MBytes serialized in 2138 calls.
+Loaded in 0.018 sec, 234 allocs, 0.02 MBytes serialized in 2138 calls.
 
 Object info:
 ============

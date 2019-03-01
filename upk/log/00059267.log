@@ -1,9 +1,14 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00059267.upk Ver: 573/1 Engine: 4205 Names: 43 Exports: 6 Imports: 3 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00059267.upk Ver: 573/1 Engine: 4205 Names: 53 Exports: 16 Imports: 3 Game: 801A
 Loading Texture2D SpecialTitle_Img_01 from package 00059267.upk
 Loading Texture2D SpecialTitle_Img_02 from package 00059267.upk
 Loading Texture2D SpecialTitle_Img_03 from package 00059267.upk
-Loaded in 0.008 sec, 76 allocs, 0.01 MBytes serialized in 590 calls.
+Loading Texture2D SpecialTitle_Img_04 from package 00059267.upk
+Loading Texture2D SpecialTitle_Img_05 from package 00059267.upk
+Loading Texture2D SpecialTitle_Img_06 from package 00059267.upk
+Loading Texture2D SpecialTitle_Img_07 from package 00059267.upk
+Loading Texture2D SpecialTitle_Img_08 from package 00059267.upk
+Loaded in 0.01 sec, 111 allocs, 0.03 MBytes serialized in 1305 calls.
 
 Object info:
 ============
@@ -38,6 +43,81 @@ ClassName: Texture2D ObjectName: SpecialTitle_Img_02
 Object info:
 ============
 ClassName: Texture2D ObjectName: SpecialTitle_Img_03
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SpecialTitle_Img_04
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SpecialTitle_Img_05
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SpecialTitle_Img_06
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SpecialTitle_Img_07
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SpecialTitle_Img_08
 
     SizeX = 64
     SizeY = 64

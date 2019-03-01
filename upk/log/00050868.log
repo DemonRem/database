@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050868.upk Ver: 573/1 Engine: 4205 Names: 38 Exports: 10 Imports: 2 Game: 801A
 Loading Texture2D SandImmotanBoss_col1_D_01 from package 00050868.upk
 Loading Texture2D SandImmotanBoss_col1_D_02 from package 00050868.upk
@@ -10,7 +10,7 @@ Loading Texture2D SandImmotanBoss_col1_N_01 from package 00050868.upk
 Loading Texture2D SandImmotanBoss_col1_N_02 from package 00050868.upk
 Loading Texture2D SandImmotanBoss_col1_S_01 from package 00050868.upk
 Loading Texture2D SandImmotanBoss_col1_S_02 from package 00050868.upk
-Loaded in 0.24 sec, 424 allocs, 14.21 MBytes serialized in 3079 calls.
+Loaded in 0.19 sec, 424 allocs, 14.21 MBytes serialized in 3079 calls.
 
 Object info:
 ============

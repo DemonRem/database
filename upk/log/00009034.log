@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00009034.upk Ver: 573/1 Engine: 4205 Names: 1390 Exports: 5376 Imports: 144 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00009034.upk Ver: 573/1 Engine: 4205 Names: 1396 Exports: 5400 Imports: 144 Game: 801A
 Loading Texture2D Game_PartyOptionScene_Preview from package 00009034.upk
 Loading Texture2D Game_PartyScene_Preview from package 00009034.upk
-Loaded in 0.01 sec, 1418 allocs, 0.44 MBytes serialized in 102095 calls.
+Loaded in 0.009 sec, 1424 allocs, 0.45 MBytes serialized in 102545 calls.
 
 Object info:
 ============

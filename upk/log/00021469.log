@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00021469.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 5 Imports: 4 Game: 801A
 Loading Texture2D Acc_990097_GuardianShield_D from package 00021469.upk
 Loading Texture2D Acc_990097_GuardianShield_S from package 00021469.upk
 Loading Texture2D check from package 00021469.upk
 Loading Texture2D pr_005_01_N from package 00021469.upk
-Loaded in 0.026 sec, 153 allocs, 0.33 MBytes serialized in 914 calls.
+Loaded in 0.023 sec, 153 allocs, 0.33 MBytes serialized in 914 calls.
 
 Object info:
 ============

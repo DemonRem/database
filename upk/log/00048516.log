@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048516.upk Ver: 573/1 Engine: 4205 Names: 418 Exports: 1085 Imports: 149 Game: 801A
 Loading MaterialInstanceConstant Staff_Body_MAT_Trans_INST from package 00048516.upk
 Loading package: 00048517.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading package: 00047133.upk Ver: 573/1 Engine: 4205 Names: 522 Exports: 1493 Imports: 192 Game: 801A
 Loading MaterialInstanceConstant staff_deco_INST from package 00048516.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading SkeletalMesh3 060244_Autoscale from package 00048516.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
 WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
@@ -14,7 +14,7 @@ Loading package: 00048518.upk Ver: 573/1 Engine: 4205 Names: 89 Exports: 1 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_473 from package 00048516.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 060244_Autoscale_FX_MESH001 from package 00048516.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 060244_Autoscale_FX_MESH002 from package 00048516.upk
 Loading Texture2D 060244_Autoscale_col1_D from package 00048517.upk
 Loading Material3 Dagger_Body_MAT_Trans from package 00047133.upk
@@ -55,7 +55,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.3 sec, 6109 allocs, 3.13 MBytes serialized in 606924 calls.
+Loaded in 0.29 sec, 6263 allocs, 3.17 MBytes serialized in 618168 calls.
 
 Object info:
 ============

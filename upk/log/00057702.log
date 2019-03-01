@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057702.upk Ver: 573/1 Engine: 4205 Names: 350 Exports: 852 Imports: 104 Game: 801A
 Loading Material3 Chromatic_Master_Mesh_Decal from package 00057702.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Warrior_Blade_Slash_MatM from package 00057702.upk
 Loading Material3 Warrior_DepthAlpha_mat01 from package 00057702.upk
 Loading Material3 Warrior_ImpactDecal001_MatM from package 00057702.upk
@@ -92,7 +92,7 @@ Loading Material3 Warlock_RangeMoveBlock_Mat01 from package 00023412.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Texture2D Hex000_Tex from package 00012963.upk
-Loaded in 0.48 sec, 4435 allocs, 2.37 MBytes serialized in 197784 calls.
+Loaded in 0.4 sec, 4472 allocs, 2.37 MBytes serialized in 198597 calls.
 
 Object info:
 ============

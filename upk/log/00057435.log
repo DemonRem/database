@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057435.upk Ver: 573/1 Engine: 4205 Names: 105 Exports: 2 Imports: 26 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00057435.upk
 Loading package: 00057434.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 5 Imports: 2 Game: 801A
@@ -6,7 +6,7 @@ Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Im
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading MaterialInstanceConstant FXcol1 from package 00057435.upk
 Loading package: 00034005.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00047839.upk Ver: 573/1 Engine: 4205 Names: 198 Exports: 227 Imports: 55 Game: 801A
 Loading Texture2D 990330_Autoscale_col1_N from package 00057434.upk
 Loading Texture2D 990330_Autoscale_col1_M from package 00057434.upk
@@ -37,7 +37,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.22 sec, 3332 allocs, 2.83 MBytes serialized in 191276 calls.
+Loaded in 0.2 sec, 3369 allocs, 2.83 MBytes serialized in 192089 calls.
 
 Object info:
 ============

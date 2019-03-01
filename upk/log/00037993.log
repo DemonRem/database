@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037993.upk Ver: 573/1 Engine: 4205 Names: 200 Exports: 440 Imports: 57 Game: 801A
 Loading Material3 Basic_local_reflect_GaneSha from package 00037993.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Basic_Weapon from package 00037993.upk
 Loading MaterialInstanceConstant col1 from package 00037993.upk
 Loading package: 00037992.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 13 Imports: 2 Game: 801A
@@ -41,7 +41,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.33 sec, 3400 allocs, 3.41 MBytes serialized in 195812 calls.
+Loaded in 0.26 sec, 3437 allocs, 3.42 MBytes serialized in 196625 calls.
 
 Object info:
 ============

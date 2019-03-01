@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052510.upk Ver: 573/1 Engine: 4205 Names: 244 Exports: 847 Imports: 96 Game: 801A
 Loading Material3 BlackFist_Timmer_Circle_Unbeatable_M from package 00052510.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 BlackFist_Timmer_Circle_Unbeatable_Velocity_PP from package 00052510.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 FireDecal001_MatM from package 00052510.upk
@@ -91,7 +91,7 @@ Loading Texture2D Xmas_Star01_04 from package 00053839.upk
 Loading Texture2D Xmas_T_Snow_03E from package 00053839.upk
 Loading Texture2D Xmas_pattern_01 from package 00053839.upk
 Loading Texture2D Xmas_Gradient from package 00053839.upk
-Loaded in 0.72 sec, 3684 allocs, 2.96 MBytes serialized in 87658 calls.
+Loaded in 0.52 sec, 3721 allocs, 2.97 MBytes serialized in 88471 calls.
 
 Object info:
 ============

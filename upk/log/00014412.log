@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00014412.upk Ver: 573/1 Engine: 4205 Names: 2104 Exports: 74968 Imports: 900 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00014412.upk Ver: 573/1 Engine: 4205 Names: 2117 Exports: 77064 Imports: 902 Game: 801A
 Loading SkeletalMesh3 TrailAnim_M01 from package 00014412.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_102 from package 00014412.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_103 from package 00014412.upk
-Loaded in 0.13 sec, 2151 allocs, 5.23 MBytes serialized in 1362393 calls.
+Loaded in 0.13 sec, 2164 allocs, 5.38 MBytes serialized in 1400174 calls.
 
 Object info:
 ============

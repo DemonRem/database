@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037560.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 12 Imports: 2 Game: 801A
 Loading Texture2D 10043_LynM_col1_D from package 00037560.upk
 Loading Texture2D 10043_LynM_col1_M from package 00037560.upk
@@ -12,7 +12,7 @@ Loading Texture2D 10043_LynM_col3_D from package 00037560.upk
 Loading Texture2D 10043_LynM_col3_M from package 00037560.upk
 Loading Texture2D 10043_LynM_col3_N from package 00037560.upk
 Loading Texture2D 10043_LynM_col3_S from package 00037560.upk
-Loaded in 0.14 sec, 451 allocs, 4.06 MBytes serialized in 2893 calls.
+Loaded in 0.15 sec, 451 allocs, 4.06 MBytes serialized in 2893 calls.
 
 Object info:
 ============

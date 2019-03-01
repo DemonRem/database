@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052509.upk Ver: 573/1 Engine: 4205 Names: 51 Exports: 20 Imports: 16 Game: 801A
 Loading SkeletalMesh3 snow_A from package 00052509.upk
-Loading package: 00012584.upk Ver: 573/1 Engine: 4205 Names: 321 Exports: 2089 Imports: 108 Game: 801A
+Loading package: 00012584.upk Ver: 573/1 Engine: 4205 Names: 324 Exports: 2091 Imports: 109 Game: 801A
 Loading SkeletalMesh3 snow_c from package 00052509.upk
 Loading StaticMesh3 DecalMesh_40 from package 00052509.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 DecalMesh_60 from package 00052509.upk
 Loading StaticMesh3 DecalMesh_75 from package 00052509.upk
 Loading StaticMesh3 DecalMesh_75_uv02 from package 00052509.upk
@@ -44,7 +44,7 @@ Loading Texture2D Snow_D from package 00052507.upk
 Loading Texture2D Snow_S from package 00052507.upk
 Loading TextureCube MatelW1 from package 00002640.upk
 Loading Material3 Snow_basic from package 00012584.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Snow_N_128 from package 00052507.upk
 Loading Texture2D Snow_M from package 00052507.upk
 Loading TextureCube lenscube_a from package 00002640.upk
@@ -82,7 +82,7 @@ Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Gradient_Beam_007 from package 00012963.upk
-Loaded in 0.64 sec, 6326 allocs, 14.40 MBytes serialized in 914027 calls.
+Loaded in 0.55 sec, 6456 allocs, 14.43 MBytes serialized in 922603 calls.
 
 Object info:
 ============

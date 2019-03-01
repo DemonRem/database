@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050239.upk Ver: 573/1 Engine: 4205 Names: 270 Exports: 143 Imports: 20 Game: 801A
 Loading SkeletalMesh3 AncientMechaMonK from package 00050239.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -49,7 +49,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_60 from package 00050239.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_61 from package 00050239.upk
 Loading MaterialInstanceConstant col1 from package 00050240.upk
 Loading package: 00050241.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 11 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading MaterialInstanceConstant col1_Head from package 00050240.upk
 Loading Texture2D AncientMechaMonK_col1_N from package 00050241.upk
@@ -76,7 +76,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.31 sec, 3411 allocs, 5.02 MBytes serialized in 889247 calls.
+Loaded in 0.21 sec, 3448 allocs, 5.02 MBytes serialized in 890060 calls.
 
 Object info:
 ============

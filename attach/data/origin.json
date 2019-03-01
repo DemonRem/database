@@ -1,1 +1,16 @@
-{}
+{
+  "GonF": {
+    "id": "010027_GonF_col1",
+    "data": {
+      "skeleton": "00017093",
+      "texture": "00016963",
+      "material": "00016965",
+      "col1Material": "00016965",
+      "col": "col1",
+      "core": "010027_GonF",
+      "code": "010027",
+      "race": "GonF",
+      "pic": "Attach_010027_JinM_col1.png"
+    }
+  }
+}

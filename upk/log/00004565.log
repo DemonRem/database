@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00004565.upk Ver: 573/1 Engine: 4205 Names: 108 Exports: 29 Imports: 15 Game: 801A
 Loading SkeletalMesh3 990024_autoscale from package 00004565.upk
 Loading package: 00004564.upk Ver: 573/1 Engine: 4205 Names: 164 Exports: 141 Imports: 43 Game: 801A
@@ -17,7 +17,7 @@ Loading Texture2D S1_w from package 00004563.upk
 Loading TextureCube Cube_D from package 00002640.upk
 Loading Texture2D D1_wFX from package 00004563.upk
 Loading Material3 Basic_W from package 00004564.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -29,7 +29,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.12 sec, 3036 allocs, 1.08 MBytes serialized in 228346 calls.
+Loaded in 0.11 sec, 3073 allocs, 1.09 MBytes serialized in 229159 calls.
 
 Object info:
 ============

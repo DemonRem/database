@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00047129.upk Ver: 573/1 Engine: 4205 Names: 461 Exports: 1230 Imports: 169 Game: 801A
 Loading Material3 AXE_Body_MAT_Trans from package 00047129.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00047130.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant Axe_deco_INST from package 00047129.upk
 Loading package: 00039551.upk Ver: 573/1 Engine: 4205 Names: 524 Exports: 1255 Imports: 196 Game: 801A
@@ -20,7 +20,7 @@ Loading package: 00047128.upk Ver: 573/1 Engine: 4205 Names: 90 Exports: 1 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_182 from package 00047129.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 AXE_Deco01 from package 00047129.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 AXE_Deco02 from package 00047129.upk
 Loading Texture2D 110230_FXmask from package 00047129.upk
 Loading Texture2D Noise_006 from package 00012963.upk
@@ -75,7 +75,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.37 sec, 7861 allocs, 3.49 MBytes serialized in 597687 calls.
+Loaded in 0.28 sec, 7988 allocs, 3.52 MBytes serialized in 606211 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00014348.upk Ver: 573/1 Engine: 4205 Names: 53 Exports: 25 Imports: 2 Game: 801A
 Loading Texture2D Monster_Human_PigTribeC_col2_D from package 00014348.upk
 Loading Texture2D Monster_Human_PigTribeC_col2_E from package 00014348.upk
@@ -25,7 +25,7 @@ Loading Texture2D PigTribeC_E from package 00014348.upk
 Loading Texture2D PigTribeC_M from package 00014348.upk
 Loading Texture2D PigTribeC_N from package 00014348.upk
 Loading Texture2D PigTribeC_S from package 00014348.upk
-Loaded in 0.24 sec, 832 allocs, 7.30 MBytes serialized in 5465 calls.
+Loaded in 0.22 sec, 832 allocs, 7.30 MBytes serialized in 5465 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00056722.upk Ver: 573/1 Engine: 4205 Names: 208 Exports: 129 Imports: 20 Game: 801A
 Loading SkeletalMesh3 10178_JinM from package 00056722.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -28,7 +28,7 @@ Loading Texture2D 10178_JinM_col1_D from package 00056723.upk
 Loading Texture2D Mask_pattern from package 00056723.upk
 Loading Material3 Custom_B from package 00002620.upk
 Loading package: 00025178.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 46 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 10178_JinM_col1_N1 from package 00056723.upk
 Loading Texture2D 10178_JinM_col1_M1 from package 00056723.upk
 Loading Texture2D 10178_JinM_col1_D1 from package 00056723.upk
@@ -54,7 +54,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.39 sec, 3599 allocs, 5.13 MBytes serialized in 754626 calls.
+Loaded in 0.35 sec, 3636 allocs, 5.13 MBytes serialized in 755439 calls.
 
 Object info:
 ============

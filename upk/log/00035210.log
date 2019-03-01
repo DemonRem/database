@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00035210.upk Ver: 573/1 Engine: 4205 Names: 1253 Exports: 5665 Imports: 149 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00035210.upk Ver: 573/1 Engine: 4205 Names: 1261 Exports: 5745 Imports: 150 Game: 801A
 Loading Texture2D Game_RankingScene_Preview from package 00035210.upk
-Loaded in 0.011 sec, 1276 allocs, 0.48 MBytes serialized in 106861 calls.
+Loaded in 0.037 sec, 1284 allocs, 0.48 MBytes serialized in 108332 calls.
 
 Object info:
 ============

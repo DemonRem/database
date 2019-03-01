@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048298.upk Ver: 573/1 Engine: 4205 Names: 459 Exports: 2739 Imports: 172 Game: 801A
 Loading Material3 AncientMechaGuardian_Bash from package 00048298.upk
 check for NormalWaterfall_N001 in 00048298
@@ -7,7 +7,7 @@ check for Marble016_Tex in 00048298
 WARNING: Import(Cine_Effect_TEXTURE.Marble016_Tex) was not found
 check for Fire_Tx_m in 00048298
 WARNING: Import(Cine_Effect_TEXTURE.Fire_Tx_m) was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for fx_cloud01_tex_577_Dup_1742_Dup_1496 in 00048298
 check for fx_cloud01_tex_577_Dup_1742_Dup_1496 in 00012963
 WARNING: Import(Cine_Effect_TEXTURE.fx_cloud01_tex_577_Dup_1742_Dup_1496) was not found
@@ -93,12 +93,12 @@ Loading MaterialInstanceConstant AncientMechamonk_Square_Mat1_INST from package 
 Loading package: 00048297.upk Ver: 573/1 Engine: 4205 Names: 443 Exports: 2787 Imports: 161 Game: 801A
 Loading MaterialInstanceConstant CrystalLizard_Crystal2_MI from package 00048298.upk
 Loading MaterialInstanceConstant DemonBoss_LaserDecal_Dragon_Normal_MI from package 00048298.upk
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading MaterialInstanceConstant SandTemple_Decal_Ring_INST from package 00048298.upk
 Loading package: 00012588.upk Ver: 573/1 Engine: 4205 Names: 258 Exports: 1033 Imports: 105 Game: 801A
 Loading MaterialInstanceConstant WaterWave003_Mat_INST from package 00048298.upk
 Loading StaticMesh3 AncientMechaGuardian_SymbolFloor_SM from package 00048298.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 AncientMechaGuardian_SymbolWall_SM from package 00048298.upk
 Loading StaticMesh3 AncientMechaGuardian_WallSide_SM from package 00048298.upk
 Loading StaticMesh3 AncientMechaGuardian_wallsignal_sm from package 00048298.upk
@@ -223,7 +223,7 @@ Loading Texture2D Damage02_Fire_Decal_mask3 from package 00012963.upk
 Loading Texture2D BG_Sandfall_001_D from package 00012963.upk
 Loading Texture2D Water_001_01_Mask_Wave4 from package 00012963.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 2.5 sec, 9196 allocs, 7.37 MBytes serialized in 890650 calls.
+Loaded in 1.8 sec, 9326 allocs, 7.41 MBytes serialized in 899204 calls.
 
 Object info:
 ============

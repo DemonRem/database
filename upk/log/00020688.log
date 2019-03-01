@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00020688.upk Ver: 573/1 Engine: 4205 Names: 233 Exports: 363 Imports: 21 Game: 801A
 Loading SkeletalMesh3 SnowmanBoss from package 00020688.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -48,7 +48,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_99 from package 00020688.upk
 Loading MaterialInstanceConstant col1 from package 00020690.upk
 Loading package: 00020689.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant col1_fur from package 00020690.upk
 Loading Texture2D Monster_Human_SnowmanBoss_col1_N from package 00020689.upk
 Loading Texture2D Monster_Human_SnowmanBoss_col1_M from package 00020689.upk
@@ -73,7 +73,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
-Loaded in 0.21 sec, 3351 allocs, 3.68 MBytes serialized in 534323 calls.
+Loaded in 0.2 sec, 3388 allocs, 3.69 MBytes serialized in 535136 calls.
 
 Object info:
 ============

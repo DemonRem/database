@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00012508.upk Ver: 573/1 Engine: 4205 Names: 440 Exports: 1346 Imports: 145 Game: 801A
 Loading AnimSet BladeMaster_Martial_Anim from package 00012508.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -28,7 +28,7 @@ WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_9 from package 00012508.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 BladeMaster_Baldo_Slash_Matm from package 00012508.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 BladeMaster_Defence_Mesh from package 00012508.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 BladeMaster_Electric_Decal from package 00012508.upk
@@ -83,7 +83,7 @@ WARNING: Import(EngineResources.DefaultTexture) was not found
 Loading Material3 test_barrieer from package 00012508.upk
 Loading Material3 Thunder_Lightning_Slash from package 00012508.upk
 Loading StaticMesh3 BladeMaster_FlameRagne_Mesh from package 00012508.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 BladeMaster_Sixcombo_Slash_Mesh from package 00012508.upk
 Loading StaticMesh3 BladeMaster_SoulBlade_DualSword_Mesh from package 00012508.upk
 Loading StaticMesh3 BladeMaster_SoulBlade_DualSword_Trail_Mesh from package 00012508.upk
@@ -194,7 +194,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:BladeMaster_Martial_Anim <- UObject::EndLoad <- LoadWholePackage:00012508 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

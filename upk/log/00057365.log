@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057365.upk Ver: 573/1 Engine: 4205 Names: 72 Exports: 6 Imports: 16 Game: 801A
 Loading SkeletalMesh3 130001_Autoscale from package 00057365.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -7,7 +7,7 @@ Loading package: 00057538.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 1 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_240 from package 00057365.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading MaterialInstanceConstant col17 from package 00057538.upk
-Loading package: 00054292.upk Ver: 573/1 Engine: 4205 Names: 47 Exports: 19 Imports: 2 Game: 801A
+Loading package: 00054292.upk Ver: 573/1 Engine: 4205 Names: 55 Exports: 27 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Texture2D 130001_Autoscale_col16_N from package 00054292.upk
@@ -17,14 +17,14 @@ Loading Texture2D 130001_Autoscale_col16_S from package 00054292.upk
 Loading Texture2D lenscube_Y from package 00002640.upk
 Loading Texture2D 130001_Autoscale_col16_E from package 00054292.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.13 sec, 2858 allocs, 1.85 MBytes serialized in 214707 calls.
+Loaded in 0.11 sec, 2903 allocs, 1.86 MBytes serialized in 215688 calls.
 
 Object info:
 ============

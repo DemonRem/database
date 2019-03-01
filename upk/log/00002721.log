@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00002721.upk Ver: 573/1 Engine: 4205 Names: 48 Exports: 6 Imports: 6 Game: 801A
 Loading Material3 col1 from package 00002721.upk
 check for DefaultTexture in 00002721
 WARNING: Import(EngineResources.DefaultTexture) was not found
-Loaded in 0.006 sec, 70 allocs, 0.00 MBytes serialized in 417 calls.
+Loaded in 0.004 sec, 70 allocs, 0.00 MBytes serialized in 417 calls.
 
 Object info:
 ============

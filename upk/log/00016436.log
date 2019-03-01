@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00016436.upk Ver: 573/1 Engine: 4205 Names: 683 Exports: 2 Imports: 754 Game: 801A
 Loading AnimSet Assassin_F_Animset from package 00016436.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -12,7 +12,7 @@ WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::WeaponSlotSocketNames" was not found
 WARNING: AnimSet Assassin_F_Animset has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Assassin_M_Animset has 0 sequences, but empty TrackBoneNames
-Loaded in 0.004 sec, 705 allocs, 0.05 MBytes serialized in 7464 calls.
+Loaded in 0.007 sec, 705 allocs, 0.05 MBytes serialized in 7464 calls.
 
 Object info:
 ============

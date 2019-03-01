@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00018215.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 7 Imports: 2 Game: 801A
 Loading Texture2D 990126_Autoscale_col1_D from package 00018215.upk
 Loading Texture2D 990126_Autoscale_col1_E from package 00018215.upk
@@ -9,7 +9,7 @@ Loading Texture2D 990126_Autoscale_col1_S from package 00018215.upk
 Loading Texture2D 990126_Autoscale_col2_D from package 00018215.upk
 Loading Texture2D 990126_Autoscale_col2_E from package 00018215.upk
 WARNING: ByteProperty "UTexture2D::ManualLoadSwitchSettings" was not found
-Loaded in 0.059 sec, 273 allocs, 0.38 MBytes serialized in 1623 calls.
+Loaded in 0.055 sec, 273 allocs, 0.38 MBytes serialized in 1623 calls.
 
 Object info:
 ============

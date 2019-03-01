@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00009028.upk Ver: 573/1 Engine: 4205 Names: 570 Exports: 1159 Imports: 130 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00009028.upk Ver: 573/1 Engine: 4205 Names: 602 Exports: 1309 Imports: 132 Game: 801A
 Loading Texture2D Lobby_SelectCharacterScene_Preview from package 00009028.upk
 Loading Texture2D Lobby_ServiceScene_Preview from package 00009028.upk
-Loaded in 0.003 sec, 598 allocs, 0.13 MBytes serialized in 23631 calls.
+Loaded in 0.02 sec, 630 allocs, 0.14 MBytes serialized in 26441 calls.
 
 Object info:
 ============

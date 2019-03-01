@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00012593.upk Ver: 573/1 Engine: 4205 Names: 458 Exports: 6314 Imports: 164 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00012593.upk Ver: 573/1 Engine: 4205 Names: 459 Exports: 6314 Imports: 165 Game: 801A
 Loading Material3 AncientMechaScorpion_Beam01 from package 00012593.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 AncientMechaScorpion_Beam02 from package 00012593.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading Material3 AncientMechTwins_LightSpot_beam from package 00012593.upk
@@ -39,7 +39,7 @@ Loading Material3 Darkwind_Beam_thunder_2 from package 00012593.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 DemonEmperorFat_Beam_Mat from package 00012593.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading Material3 DemonSnakeBisho_firetrail from package 00012593.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 electronic_beam_mtl from package 00012593.upk
@@ -316,6 +316,7 @@ Loading Texture2D Glow_Twiri_001 from package 00012963.upk
 Loading Texture2D PilebunkerEmpire_Capture_lvy from package 00012963.upk
 Loading Texture2D Gradient_Color_PurpleToBlue_000 from package 00012963.upk
 Loading Texture2D T_Gradient_v001 from package 00037791.upk
+Loading Texture2D Gradient_Beam_v001 from package 00012963.upk
 Loading Texture2D Gradient_Line_010_loop from package 00012963.upk
 Loading Texture2D Gradient_Line_001_YClamp from package 00012963.upk
 Loading Texture2D Smoke_Inc_002 from package 00012963.upk
@@ -350,7 +351,7 @@ Loading Texture2D Noise_010 from package 00012963.upk
 Loading Texture2D Noise_022 from package 00012963.upk
 Loading Texture2D Gradient_Color_PtoP001_Tex from package 00012963.upk
 Loading Texture2D Gradient_Color_001 from package 00012963.upk
-Loaded in 4 sec, 7955 allocs, 5.50 MBytes serialized in 839767 calls.
+Loaded in 4.1 sec, 8028 allocs, 5.51 MBytes serialized in 840804 calls.
 
 Object info:
 ============
@@ -2245,11 +2246,12 @@ ClassName: Material3 ObjectName: Rainbow_Beam_thunder_4
     TwoSided = false
     bDisableDepthTest = false
     bIsMasked = false
-    ReferencedTextures[3] =
+    ReferencedTextures[4] =
     {
-        ReferencedTextures[0] = Texture2D'MM_return_Ink_Cloud_Blending_Tex'
-        ReferencedTextures[1] = Texture2D'Gradient_001_Right'
-        ReferencedTextures[2] = Texture2D'T_Gradient_v001'
+        ReferencedTextures[0] = Texture2D'Gradient_Beam_v001'
+        ReferencedTextures[1] = Texture2D'MM_return_Ink_Cloud_Blending_Tex'
+        ReferencedTextures[2] = Texture2D'Gradient_001_Right'
+        ReferencedTextures[3] = Texture2D'T_Gradient_v001'
     }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.1

@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00030537.upk Ver: 573/1 Engine: 4205 Names: 357 Exports: 550 Imports: 91 Game: 801A
 Loading Texture2D Game_PCPickerScene_Preview from package 00030537.upk
-Loaded in 0.003 sec, 380 allocs, 0.07 MBytes serialized in 11697 calls.
+Loaded in 0.002 sec, 380 allocs, 0.07 MBytes serialized in 11697 calls.
 
 Object info:
 ============

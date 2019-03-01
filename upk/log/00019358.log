@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00019358.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading Texture2D Shoulder_diff from package 00019358.upk
 Loading Texture2D Shoulder_em from package 00019358.upk
 Loading Texture2D Shoulder_mask from package 00019358.upk
 Loading Texture2D Shoulder_norm from package 00019358.upk
 Loading Texture2D Shoulder_spec from package 00019358.upk
-Loaded in 0.1 sec, 235 allocs, 2.85 MBytes serialized in 1447 calls.
+Loaded in 0.094 sec, 235 allocs, 2.85 MBytes serialized in 1447 calls.
 
 Object info:
 ============

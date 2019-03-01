@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00055559.upk Ver: 573/1 Engine: 4205 Names: 79 Exports: 9 Imports: 103 Game: 801A
 Loading AnimSet Move_Archer_JinF_AnimSet from package 00055559.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -30,7 +30,7 @@ WARNING: AnimSet Move_Archer_LynM_AnimSet has 0 sequences, but empty TrackBoneNa
 WARNING: AnimSet Swim_Archer_JinF_AnimSet has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Swim_Archer_LynF_AnimSet has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Swim_Archer_LynM_AnimSet has 0 sequences, but empty TrackBoneNames
-Loaded in 0.012 sec, 109 allocs, 0.01 MBytes serialized in 1281 calls.
+Loaded in 0.011 sec, 109 allocs, 0.01 MBytes serialized in 1281 calls.
 
 Object info:
 ============

@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1743 Exports: 35120 Imports: 610 Game: 801A
 Loading AnimSet MrKHat_AnimSet2 from package 00032237.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -12,7 +12,7 @@ WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 Loading AnimSequence AnimSequence_0 from package 00032237.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 Drone_Glitch_Master_MAT from package 00032237.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Drone_holo_01_MAT from package 00032237.upk
 Loading Material3 Drone_Worldposition_001_MAT from package 00032237.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
@@ -49,6 +49,7 @@ WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading MaterialInstanceConstant col1 from package 00032237.upk
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading MaterialInstanceConstant col1_HM from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_01_MAT from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_02_MAT from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_03_MAT from package 00032237.upk
@@ -58,12 +59,15 @@ Loading MaterialInstanceConstant Drone_Glitch_06_MAT from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_07_MAT from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_08_MAT from package 00032237.upk
 Loading MaterialInstanceConstant Drone_Glitch_09_MAT from package 00032237.upk
+Loading MaterialInstanceConstant HyunMu_DependencyM from package 00032237.upk
+Loading package: 00048297.upk Ver: 573/1 Engine: 4205 Names: 443 Exports: 2787 Imports: 161 Game: 801A
 Loading SkeletalMesh3 MrKHat from package 00032237.upk
 Loading SkeletalMesh3 MrKHat2 from package 00032237.upk
 Loading StaticMesh3 BlueDragonEvolve_Eyes_SM from package 00032237.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 HAT from package 00032237.upk
 Loading StaticMesh3 hex_sphere_SM from package 00032237.upk
+Loading StaticMesh3 HyunMu_DependencyMesh from package 00032237.upk
 Loading StaticMesh3 Rain from package 00032237.upk
 Loading StaticMesh3 Rudolf_Nose_SM from package 00032237.upk
 Loading StaticMesh3 SM_BunnyCard_v001 from package 00032237.upk
@@ -82,6 +86,11 @@ Loading Texture2D heart_TEX_02 from package 00032237.upk
 Loading Texture2D holo_box_TEX from package 00032237.upk
 Loading Texture2D holo_loading01_TEX from package 00032237.upk
 Loading Texture2D holo_loading02_Tex from package 00032237.upk
+Loading Texture2D HyunMu_col1_D from package 00032237.upk
+Loading Texture2D HyunMu_col1_E from package 00032237.upk
+Loading Texture2D HyunMu_col1_M from package 00032237.upk
+Loading Texture2D HyunMu_col1_N from package 00032237.upk
+Loading Texture2D HyunMu_col1_S from package 00032237.upk
 Loading Texture2D KBO2016_ball from package 00032237.upk
 Loading Texture2D KBO2016_ball_text from package 00032237.upk
 Loading Texture2D MrKEvolve_col1_DMrKEvolve_col1_D from package 00032237.upk
@@ -126,7 +135,14 @@ Loading Texture2D Normal_Ripple_000 from package 00012963.upk
 Loading Texture2D Smoke_005 from package 00012963.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
+Loading TextureCube Cube_D from package 00002640.upk
 Loading Texture2D Damage02_Fire_creake10 from package 00012963.upk
+Loading Texture2D Check_Shine_001_Tex from package 00012963.upk
+Loading Texture2D Sparkle_Ink_004 from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine4 from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine3 from package 00012963.upk
+Loading Material3 AncientMechaMonk_Square_MTotal from package 00048297.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
@@ -144,6 +160,16 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Noise_013 from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine from package 00012963.upk
+Loading Texture2D AncientMechaMonk_BoxLine2 from package 00012963.upk
+Loading Texture2D BGFX_PortalMask_00 from package 00012963.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
 Loading Texture2D Pet_MagicBunnyEvolve_col1_N from package 00054982.upk
 Loading Texture2D Pet_MagicBunnyEvolve_col1_M from package 00054982.upk
@@ -159,7 +185,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:MrKHat_AnimSet2 <- UObject::EndLoad <- LoadWholePackage:00032237 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

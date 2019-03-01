@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051354.upk Ver: 573/1 Engine: 4205 Names: 26 Exports: 2 Imports: 2 Game: 801A
 Loading Texture2D JinM_121_d from package 00051354.upk
 Loading Texture2D JinM_121_n from package 00051354.upk
-Loaded in 0.018 sec, 108 allocs, 0.37 MBytes serialized in 554 calls.
+Loaded in 0.017 sec, 108 allocs, 0.37 MBytes serialized in 554 calls.
 
 Object info:
 ============

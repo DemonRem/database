@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041733.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 8 Imports: 4 Game: 801A
 Loading Texture2D 040257_LynM_col1_D from package 00041733.upk
 Loading Texture2D 040257_LynM_col1_M from package 00041733.upk
 Loading Texture2D 040257_LynM_col1_N from package 00041733.upk
 Loading Texture2D 040257_LynM_col1_S from package 00041733.upk
-Loaded in 0.038 sec, 182 allocs, 0.15 MBytes serialized in 1105 calls.
+Loaded in 0.029 sec, 182 allocs, 0.15 MBytes serialized in 1105 calls.
 
 Object info:
 ============

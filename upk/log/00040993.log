@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00040993.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 13 Imports: 10 Game: 801A
 Loading SkeletalMesh3 Jeokpaewang_SpikeWall_001 from package 00040993.upk
 Loading package: 00040995.upk Ver: 573/1 Engine: 4205 Names: 364 Exports: 1 Imports: 37 Game: 801A
@@ -15,7 +15,7 @@ check for Parent_diffuse in 00040993
 check for Parent_diffuse in 00040995
 check for Parent_diffuse in 00040994
 WARNING: Import(Parent_normal.Parent_diffuse) was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for Parent_Mask in 00040993
 check for Parent_Mask in 00040995
 check for Parent_Mask in 00040994
@@ -101,7 +101,7 @@ Loading Texture2D Normal_Noise_000 from package 00012963.upk
 WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
 Loading Texture2D Smoke_Cloud_004 from package 00012963.upk
 Loading Texture2D Noise_Plazma_002 from package 00012963.upk
-Loaded in 0.094 sec, 2132 allocs, 0.61 MBytes serialized in 69673 calls.
+Loaded in 0.081 sec, 2169 allocs, 0.61 MBytes serialized in 70486 calls.
 
 Object info:
 ============

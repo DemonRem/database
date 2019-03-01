@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00021326.upk Ver: 573/1 Engine: 4205 Names: 5345 Exports: 5418 Imports: 2 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00021326.upk Ver: 573/1 Engine: 4205 Names: 5347 Exports: 5420 Imports: 2 Game: 801A
 Loading Texture2D AchievementComplete_01 from package 00021326.upk
 Loading Texture2D AchievementComplete_02 from package 00021326.upk
 Loading Texture2D AchievementComplete_03 from package 00021326.upk
@@ -4209,6 +4209,8 @@ Loading Texture2D EquipGem_NeukdaeMon_Pos5 from package 00021326.upk
 Loading Texture2D EquipGem_NeukdaeMon_Pos6 from package 00021326.upk
 Loading Texture2D EquipGem_NeukdaeMon_Pos7 from package 00021326.upk
 Loading Texture2D EquipGem_NeukdaeMon_Pos8 from package 00021326.upk
+Loading Texture2D EquipGem_NewTaegeuk3_BlackPink from package 00021326.upk
+Loading Texture2D EquipGem_NewTaegeuk3_BlackPink_Extra from package 00021326.upk
 Loading Texture2D EquipGem_NewTaegeuk3_BlueBlueGreen from package 00021326.upk
 Loading Texture2D EquipGem_NewTaegeuk3_BlueBlueGreen_Extra from package 00021326.upk
 Loading Texture2D EquipGem_NewTaegeuk3_BlueGreen from package 00021326.upk
@@ -5418,7 +5420,7 @@ Loading Texture2D WareHouse_Tab_All from package 00021326.upk
 Loading Texture2D WareHouse_Tab_All_01 from package 00021326.upk
 Loading Texture2D WareHouse_Tab_My from package 00021326.upk
 Loading Texture2D WareHouse_Tab_My_01 from package 00021326.upk
-Loaded in 9.3 sec, 34481 allocs, 20.06 MBytes serialized in 590490 calls.
+Loaded in 5.1 sec, 34493 allocs, 20.07 MBytes serialized in 590708 calls.
 
 Object info:
 ============
@@ -68543,6 +68545,36 @@ ClassName: Texture2D ObjectName: EquipGem_NeukdaeMon_Pos7
 Object info:
 ============
 ClassName: Texture2D ObjectName: EquipGem_NeukdaeMon_Pos8
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: EquipGem_NewTaegeuk3_BlackPink
+
+    SizeX = 64
+    SizeY = 64
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: EquipGem_NewTaegeuk3_BlackPink_Extra
 
     SizeX = 64
     SizeY = 64

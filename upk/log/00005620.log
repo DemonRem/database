@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00005620.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading Texture2D Weapon_All_Gauntlet_4_E1_col1_d from package 00005620.upk
 Loading Texture2D Weapon_All_Gauntlet_4_E1_col1_n from package 00005620.upk
 Loading Texture2D Weapon_All_Gauntlet_4_E1_col1_s from package 00005620.upk
 Loading Texture2D Wepon_020016_col2_d from package 00005620.upk
 Loading Texture2D Wepon_020016_col2_s from package 00005620.upk
-Loaded in 0.04 sec, 190 allocs, 0.09 MBytes serialized in 1120 calls.
+Loaded in 0.034 sec, 190 allocs, 0.09 MBytes serialized in 1120 calls.
 
 Object info:
 ============

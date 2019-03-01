@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010123.upk Ver: 573/1 Engine: 4205 Names: 2065 Exports: 7901 Imports: 178 Game: 801A
 Loading Texture2D Game_ArenaLobby_ConfirmScene_Preview from package 00010123.upk
 Loading Texture2D Game_ConfirmNotificationScene_Preview from package 00010123.upk
@@ -9,7 +9,7 @@ Loading Texture2D GlobalConfirmBackgroundScene_Preview from package 00010123.upk
 Loading Texture2D Lobby_ConfirmScene_Preview from package 00010123.upk
 Loading Texture2D PlayReportScene_Preview from package 00010123.upk
 Loading Texture2D WindowConfirmScene_Preview from package 00010123.upk
-Loaded in 0.023 sec, 2128 allocs, 0.72 MBytes serialized in 150228 calls.
+Loaded in 0.029 sec, 2128 allocs, 0.73 MBytes serialized in 150228 calls.
 
 Object info:
 ============

@@ -1,0 +1,51 @@
+Found 32768 game files (1766 skipped)
+Loading package: 00060847.upk Ver: 573/1 Engine: 4205 Names: 24 Exports: 3 Imports: 2 Game: 801A
+Loading Texture2D HyunMuEvolve_col1_D from package 00060847.upk
+Loading Texture2D HyunMuEvolve_col1_E from package 00060847.upk
+Loading Texture2D HyunMuEvolve_col1_S from package 00060847.upk
+Loaded in 0.041 sec, 135 allocs, 0.62 MBytes serialized in 738 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: HyunMuEvolve_col1_D
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: HyunMuEvolve_col1_E
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: HyunMuEvolve_col1_S
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

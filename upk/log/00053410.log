@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053410.upk Ver: 573/1 Engine: 4205 Names: 55 Exports: 20 Imports: 3 Game: 801A
 Loading Texture2D EventMode_01 from package 00053410.upk
 Loading Texture2D EventMode_01_Over from package 00053410.upk
@@ -10,7 +10,7 @@ Loading Texture2D EventMode_04 from package 00053410.upk
 Loading Texture2D EventMode_04_Over from package 00053410.upk
 Loading Texture2D EventMode_05 from package 00053410.upk
 Loading Texture2D EventMode_05_Over from package 00053410.upk
-Loaded in 0.027 sec, 123 allocs, 0.41 MBytes serialized in 1615 calls.
+Loaded in 0.018 sec, 123 allocs, 0.41 MBytes serialized in 1615 calls.
 
 Object info:
 ============

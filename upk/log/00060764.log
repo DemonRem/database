@@ -1,0 +1,19 @@
+Found 32768 game files (1766 skipped)
+Loading package: 00060764.upk Ver: 573/1 Engine: 4205 Names: 274 Exports: 142 Imports: 73 Game: 801A
+Loading Texture2D Game_BattleRoyalScene_Preview from package 00060764.upk
+Loaded in 0.007 sec, 297 allocs, 0.03 MBytes serialized in 3978 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Game_BattleRoyalScene_Preview
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }

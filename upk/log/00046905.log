@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00046905.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 9 Imports: 2 Game: 801A
 Loading Texture2D 10118_JinF_col1_D from package 00046905.upk
 Loading Texture2D 10118_JinF_col1_D_ac from package 00046905.upk
@@ -9,7 +9,7 @@ Loading Texture2D 10118_JinF_col1_N from package 00046905.upk
 Loading Texture2D 10118_JinF_col1_N_ac from package 00046905.upk
 Loading Texture2D 10118_JinF_col1_S from package 00046905.upk
 Loading Texture2D 10118_JinF_col1_S_ac from package 00046905.upk
-Loaded in 0.13 sec, 336 allocs, 1.86 MBytes serialized in 2089 calls.
+Loaded in 0.085 sec, 336 allocs, 1.86 MBytes serialized in 2089 calls.
 
 Object info:
 ============

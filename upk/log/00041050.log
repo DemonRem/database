@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041050.upk Ver: 573/1 Engine: 4205 Names: 45 Exports: 16 Imports: 2 Game: 801A
 Loading Texture2D FatMan_Em_NRM from package 00041050.upk
 Loading Texture2D FatMan_Em_NRM2 from package 00041050.upk
@@ -16,7 +16,7 @@ Loading Texture2D FatManGold_E from package 00041050.upk
 Loading Texture2D FatManGold_FX_Line from package 00041050.upk
 Loading Texture2D FX_Fatman_Invincible_N from package 00041050.upk
 Loading Texture2D FX_Fatman_Invincible_S from package 00041050.upk
-Loaded in 0.18 sec, 581 allocs, 5.13 MBytes serialized in 3817 calls.
+Loaded in 0.14 sec, 581 allocs, 5.13 MBytes serialized in 3817 calls.
 
 Object info:
 ============

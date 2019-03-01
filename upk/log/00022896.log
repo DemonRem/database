@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00022896.upk Ver: 573/1 Engine: 4205 Names: 186 Exports: 270 Imports: 47 Game: 801A
 Loading Material3 Basic_RuneMechaTransformB from package 00022896.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant col1_FX from package 00022896.upk
 Loading package: 00022351.upk Ver: 573/1 Engine: 4205 Names: 46 Exports: 16 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
@@ -26,7 +26,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.24 sec, 2992 allocs, 2.56 MBytes serialized in 189664 calls.
+Loaded in 0.15 sec, 3029 allocs, 2.56 MBytes serialized in 190477 calls.
 
 Object info:
 ============

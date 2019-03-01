@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00056204.upk Ver: 573/1 Engine: 4205 Names: 91 Exports: 23 Imports: 12 Game: 801A
 Loading SkeletalMesh3 990326_Autoscale from package 00056204.upk
 WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
 Loading SkeletalMeshSocket SkeletalMeshSocket_237 from package 00056204.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_238 from package 00056204.upk
-Loaded in 0.02 sec, 140 allocs, 0.54 MBytes serialized in 182067 calls.
+Loaded in 0.015 sec, 140 allocs, 0.54 MBytes serialized in 182067 calls.
 
 Object info:
 ============

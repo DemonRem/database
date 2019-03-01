@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00027285.upk Ver: 573/1 Engine: 4205 Names: 311 Exports: 10 Imports: 63 Game: 801A
 Loading MaterialInstanceConstant Beard from package 00027285.upk
 Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
@@ -9,7 +9,7 @@ Loading MaterialInstanceConstant col1_M from package 00027285.upk
 Loading package: 00007361.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 9 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading MaterialInstanceConstant eye from package 00027285.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00007428.upk Ver: 573/1 Engine: 4205 Names: 130 Exports: 48 Imports: 19 Game: 801A
 Loading MaterialInstanceConstant Face_H from package 00027285.upk
 Loading package: 00002665.upk Ver: 573/1 Engine: 4205 Names: 55 Exports: 27 Imports: 2 Game: 801A
@@ -107,7 +107,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.64 sec, 4953 allocs, 5.01 MBytes serialized in 638306 calls.
+Loaded in 0.46 sec, 4990 allocs, 5.01 MBytes serialized in 639119 calls.
 
 Object info:
 ============

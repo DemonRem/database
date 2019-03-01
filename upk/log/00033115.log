@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00033115.upk Ver: 573/1 Engine: 4205 Names: 440 Exports: 470 Imports: 156 Game: 801A
 Loading Material3 PvE_Sword_EdgeDeco from package 00033115.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant PvE_Sword_edge_INST from package 00033115.upk
 Loading package: 00028326.upk Ver: 573/1 Engine: 4205 Names: 465 Exports: 907 Imports: 177 Game: 801A
 Loading MaterialInstanceConstant PvE_Sword_EdgeDeco_bora from package 00033115.upk
@@ -19,7 +19,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_121 from package 00033115.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 PvE_sword_01 from package 00033115.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 PvE_sword_02 from package 00033115.upk
 Loading StaticMesh3 PvE_sword_03 from package 00033115.upk
 Loading Texture2D PvE_010194_mask from package 00033115.upk
@@ -71,7 +71,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.41 sec, 6193 allocs, 2.70 MBytes serialized in 472143 calls.
+Loaded in 0.26 sec, 6320 allocs, 2.74 MBytes serialized in 480667 calls.
 
 Object info:
 ============

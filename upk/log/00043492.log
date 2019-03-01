@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00043492.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 15 Imports: 4 Game: 801A
 Loading Texture2D 990237_AnthroEnt_col1_D from package 00043492.upk
 Loading Texture2D 990237_AnthroEnt_col1_M from package 00043492.upk
@@ -7,7 +7,7 @@ Loading Texture2D 990237_AnthroEnt_col1_S from package 00043492.upk
 Loading Texture2D 990237_AnthroEnt_col2_D from package 00043492.upk
 Loading Texture2D 990237_AnthroEnt_col2_E from package 00043492.upk
 Loading Texture2D 990237_AnthroEnt_col2_S from package 00043492.upk
-Loaded in 0.063 sec, 271 allocs, 0.32 MBytes serialized in 1757 calls.
+Loaded in 0.05 sec, 271 allocs, 0.32 MBytes serialized in 1757 calls.
 
 Object info:
 ============

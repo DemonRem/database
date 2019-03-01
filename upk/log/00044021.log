@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00044021.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 23 Imports: 2 Game: 801A
 Loading Texture2D Credit_01 from package 00044021.upk
 Loading Texture2D Credit_02 from package 00044021.upk
@@ -23,7 +23,7 @@ Loading Texture2D Credit_20 from package 00044021.upk
 Loading Texture2D Credit_21 from package 00044021.upk
 Loading Texture2D Credit_22 from package 00044021.upk
 Loading Texture2D Credit_NCsoft_Logo from package 00044021.upk
-Loaded in 0.13 sec, 174 allocs, 20.80 MBytes serialized in 3585 calls.
+Loaded in 0.16 sec, 174 allocs, 20.80 MBytes serialized in 3585 calls.
 
 Object info:
 ============

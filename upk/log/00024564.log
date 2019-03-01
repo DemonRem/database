@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00024564.upk Ver: 573/1 Engine: 4205 Names: 1074 Exports: 21056 Imports: 504 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00024564.upk Ver: 573/1 Engine: 4205 Names: 1093 Exports: 23219 Imports: 507 Game: 801A
 Loading Material3 M_Warlock_Nuke_Hit from package 00024564.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Rune_OffensiveBuff_MatM from package 00024564.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Rune_Spheal_MatM from package 00024564.upk
@@ -13,7 +13,7 @@ Loading Material3 Warlock_RangeMoveBlock_Mat01 from package 00024564.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00023412.upk Ver: 573/1 Engine: 4205 Names: 809 Exports: 4396 Imports: 192 Game: 801A
 Loading StaticMesh3 Warlock_Timer_Mes from package 00024564.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading Texture2D Noise_003 from package 00012963.upk
 Loading Texture2D Noise_001 from package 00012963.upk
 Loading Texture2D Rune_Target_Decal_000 from package 00012963.upk
@@ -41,7 +41,7 @@ Loading Texture2D CubemapFace3 from package 00012963.upk
 Loading Texture2D CubemapFace4 from package 00012963.upk
 Loading Texture2D CubemapFace5 from package 00012963.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 0.25 sec, 5081 allocs, 3.18 MBytes serialized in 632636 calls.
+Loaded in 0.24 sec, 5227 allocs, 3.37 MBytes serialized in 680172 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00026366.upk Ver: 573/1 Engine: 4205 Names: 141 Exports: 2 Imports: 26 Game: 801A
 Loading MaterialInstanceConstant Col_Acc from package 00026366.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
@@ -9,7 +9,7 @@ Loading Texture2D Lens_n from package 00002620.upk
 Loading TextureCube mirror2 from package 00002640.upk
 Loading TextureCube eye_s from package 00002640.upk
 Loading Material3 Lens from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 010080_JinF_col1_N from package 00026347.upk
 Loading TextureCube MatelW1 from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
@@ -43,7 +43,7 @@ Loading Texture2D Mask_Default from package 00025178.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.32 sec, 3320 allocs, 1.51 MBytes serialized in 188510 calls.
+Loaded in 0.2 sec, 3357 allocs, 1.51 MBytes serialized in 189323 calls.
 
 Object info:
 ============

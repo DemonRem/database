@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00032833.upk Ver: 573/1 Engine: 4205 Names: 459 Exports: 862 Imports: 176 Game: 801A
 Loading MaterialInstanceConstant dagger_ee_INST from package 00032833.upk
 Loading package: 00032509.upk Ver: 573/1 Engine: 4205 Names: 315 Exports: 461 Imports: 110 Game: 801A
@@ -10,7 +10,7 @@ Loading package: 00030842.upk Ver: 573/1 Engine: 4205 Names: 463 Exports: 1292 I
 Loading MaterialInstanceConstant T3_2_dagger01 from package 00032833.upk
 Loading package: 00032737.upk Ver: 573/1 Engine: 4205 Names: 380 Exports: 226 Imports: 118 Game: 801A
 Loading MaterialInstanceConstant T3_2_dagger_edge_INST from package 00032833.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00028326.upk Ver: 573/1 Engine: 4205 Names: 465 Exports: 907 Imports: 177 Game: 801A
 Loading SkeletalMesh3 120157_1_Autoscale from package 00032833.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -27,7 +27,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_188 from package 00032833.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 T3_2_Dagger1_02 from package 00032833.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 T3_2_Dagger1_03_text2 from package 00032833.upk
 Loading StaticMesh3 T3_2_Dagger1_04 from package 00032833.upk
 Loading StaticMesh3 T3_2_Dagger1_edge from package 00032833.upk
@@ -87,7 +87,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.39 sec, 6932 allocs, 3.11 MBytes serialized in 492451 calls.
+Loaded in 0.28 sec, 7059 allocs, 3.15 MBytes serialized in 500975 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00011738.upk Ver: 573/1 Engine: 4205 Names: 99 Exports: 17 Imports: 17 Game: 801A
 Loading SkeletalMesh3 060006_Autoscale from package 00011738.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -12,14 +12,14 @@ Loading Texture2D Weapon_060006_col1_n from package 00011736.upk
 Loading Texture2D Weapon_060006_col1_d from package 00011736.upk
 Loading Texture2D Weapon_060006_col1_s from package 00011736.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.077 sec, 2442 allocs, 1.06 MBytes serialized in 192463 calls.
+Loaded in 0.071 sec, 2479 allocs, 1.06 MBytes serialized in 193276 calls.
 
 Object info:
 ============

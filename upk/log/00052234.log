@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052234.upk Ver: 573/1 Engine: 4205 Names: 165 Exports: 33 Imports: 15 Game: 801A
 Loading SkeletalMesh3 1005_LynM from package 00052234.upk
 WARNING: BoolProperty "USkeletalMesh3::bHideTailMeshHeadBone" was not found
@@ -14,7 +14,7 @@ Loading Texture2D LynM_007_col1_D from package 00009829.upk
 Loading Texture2D LynM_007_col1_N from package 00009829.upk
 Loading Texture2D Nothing_A from package 00008613.upk
 Loading Material3 Beard_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 1005_JinM_col1_N from package 00052183.upk
 Loading TextureCube lenscube_a from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
@@ -36,7 +36,7 @@ Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D Mask_Default from package 00025178.upk
-Loaded in 0.37 sec, 3428 allocs, 1.92 MBytes serialized in 266472 calls.
+Loaded in 0.16 sec, 3465 allocs, 1.92 MBytes serialized in 267285 calls.
 
 Object info:
 ============

@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050961.upk Ver: 573/1 Engine: 4205 Names: 297 Exports: 351 Imports: 108 Game: 801A
 Loading Material3 soul_aura_additive from package 00050961.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading SkeletalMesh3 Item_0092 from package 00050961.upk
 WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
 Loading package: 00050963.upk Ver: 573/1 Engine: 4205 Names: 104 Exports: 2 Imports: 22 Game: 801A
@@ -64,7 +64,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.33 sec, 3728 allocs, 1.52 MBytes serialized in 216775 calls.
+Loaded in 0.28 sec, 3765 allocs, 1.52 MBytes serialized in 217588 calls.
 
 Object info:
 ============

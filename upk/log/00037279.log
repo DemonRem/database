@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037279.upk Ver: 573/1 Engine: 4205 Names: 23 Exports: 3 Imports: 2 Game: 801A
 Loading Texture2D Pohwaran_col1_d from package 00037279.upk
 Loading Texture2D Pohwaran_col1_d2 from package 00037279.upk
 Loading Texture2D Pohwaran_W from package 00037279.upk
-Loaded in 0.039 sec, 134 allocs, 0.26 MBytes serialized in 726 calls.
+Loaded in 0.036 sec, 134 allocs, 0.26 MBytes serialized in 726 calls.
 
 Object info:
 ============

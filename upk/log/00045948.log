@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045948.upk Ver: 573/1 Engine: 4205 Names: 127 Exports: 153 Imports: 14 Game: 801A
 Loading SkeletalMesh3 040221_KunN from package 00045948.upk
 Loading package: 00045950.upk Ver: 573/1 Engine: 4205 Names: 110 Exports: 2 Imports: 27 Game: 801A
@@ -14,7 +14,7 @@ Loading Texture2D 040221_KunN_col1_M from package 00045949.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Hair_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 040221_KunN_col1_1_N from package 00045949.upk
 Loading Texture2D 040221_KunN_col1_1_M from package 00045949.upk
 Loading Texture2D 040221_KunN_col1_1_D from package 00045949.upk
@@ -40,7 +40,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.37 sec, 3388 allocs, 5.73 MBytes serialized in 422533 calls.
+Loaded in 0.33 sec, 3425 allocs, 5.73 MBytes serialized in 423346 calls.
 
 Object info:
 ============

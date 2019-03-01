@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00018524.upk Ver: 573/1 Engine: 4205 Names: 171 Exports: 152 Imports: 45 Game: 801A
 Loading Material3 BaBaA_W_Basic from package 00018524.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00018524.upk
 Loading package: 00018523.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
@@ -16,7 +16,7 @@ Loading Texture2D 990128_Autoscale_col1_M from package 00018523.upk
 Loading Texture2D 990128_Autoscale_col1_D from package 00018523.upk
 Loading Texture2D 990128_Autoscale_col1_S from package 00018523.upk
 Loading Texture2D 990128_Autoscale_col1_FX from package 00018523.upk
-Loaded in 0.093 sec, 2463 allocs, 1.03 MBytes serialized in 175420 calls.
+Loaded in 0.085 sec, 2500 allocs, 1.04 MBytes serialized in 176233 calls.
 
 Object info:
 ============
