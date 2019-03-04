@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00020697.upk Ver: 573/1 Engine: 4205 Names: 53 Exports: 30 Imports: 2 Game: 801A
 Loading Texture2D Overseas10_tip1 from package 00020697.upk
 Loading Texture2D Overseas11_tip1 from package 00020697.upk
@@ -30,7 +30,7 @@ Loading Texture2D Overseas6_tip1 from package 00020697.upk
 Loading Texture2D Overseas7_tip1 from package 00020697.upk
 Loading Texture2D Overseas8_tip1 from package 00020697.upk
 Loading Texture2D Overseas9_tip1 from package 00020697.upk
-Loaded in 0.075 sec, 227 allocs, 0.43 MBytes serialized in 4065 calls.
+Loaded in 0.084 sec, 227 allocs, 0.43 MBytes serialized in 4065 calls.
 
 Object info:
 ============

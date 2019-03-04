@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00003600.upk Ver: 573/1 Engine: 4205 Names: 38 Exports: 10 Imports: 2 Game: 801A
 Loading Texture2D MO_ST_007_JW_D from package 00003600.upk
 Loading Texture2D MO_ST_007_JW_D1 from package 00003600.upk
@@ -10,7 +10,7 @@ Loading Texture2D MO_ST_007_JW_S from package 00003600.upk
 Loading Texture2D MO_ST_007_JW_S1 from package 00003600.upk
 Loading Texture2D MO_ST_007_JW_S3 from package 00003600.upk
 Loading Texture2D MO_ST_007_JW_S3_Col9 from package 00003600.upk
-Loaded in 0.085 sec, 352 allocs, 1.16 MBytes serialized in 2227 calls.
+Loaded in 0.084 sec, 352 allocs, 1.16 MBytes serialized in 2227 calls.
 
 Object info:
 ============

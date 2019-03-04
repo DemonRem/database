@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00030057.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 10 Imports: 2 Game: 801A
 Loading Texture2D 060127_Autoscale_col3_D from package 00030057.upk
 Loading Texture2D 060127_Autoscale_col3_E from package 00030057.upk
@@ -11,7 +11,7 @@ WARNING: ByteProperty "UTexture2D::ManualLoadSwitchSettings" was not found
 Loading Texture2D Weapon_060127_col1_M from package 00030057.upk
 Loading Texture2D Weapon_060127_col1_N from package 00030057.upk
 Loading Texture2D Weapon_060127_col1_S from package 00030057.upk
-Loaded in 0.087 sec, 366 allocs, 0.46 MBytes serialized in 2228 calls.
+Loaded in 0.078 sec, 366 allocs, 0.46 MBytes serialized in 2228 calls.
 
 Object info:
 ============

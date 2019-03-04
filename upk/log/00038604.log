@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00038604.upk Ver: 573/1 Engine: 4205 Names: 126 Exports: 73 Imports: 9 Game: 801A
 Loading SkeletalMesh3 TaejanggeumEvolve from package 00038604.upk
 WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
@@ -9,7 +9,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_100 from package 00038604.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_101 from package 00038604.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_98 from package 00038604.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_99 from package 00038604.upk
-Loaded in 0.008 sec, 180 allocs, 0.18 MBytes serialized in 56399 calls.
+Loaded in 0.009 sec, 180 allocs, 0.18 MBytes serialized in 56399 calls.
 
 Object info:
 ============

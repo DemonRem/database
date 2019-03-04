@@ -1,10 +1,11 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00047888.upk Ver: 573/1 Engine: 4205 Names: 71 Exports: 32 Imports: 19 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00047888.upk Ver: 573/1 Engine: 4205 Names: 77 Exports: 39 Imports: 23 Game: 801A
 Loading Texture2D GameUI_GrowthBack from package 00047888.upk
 Loading Texture2D GameUI_HeaderIcon_03 from package 00047888.upk
 Loading Texture2D GameUI_New_Scene_19 from package 00047888.upk
 Loading Texture2D GameUI_New_Scene_20 from package 00047888.upk
 Loading Texture2D GameUI_New_Scene_21 from package 00047888.upk
+Loading Texture2D GameUI_New_Scene_22 from package 00047888.upk
 Loading Texture2D GameUI_PublicRaid from package 00047888.upk
 Loading Texture2D GameUI_RandomStore2 from package 00047888.upk
 Loading Texture2D GameUI_RankingBanner from package 00047888.upk
@@ -12,7 +13,7 @@ Loading Texture2D GameUI_TargetIndicator from package 00047888.upk
 Loading Texture2D GameUI_TotalGate from package 00047888.upk
 Loading Texture2D Tooltip_Icon_AbilityScore01 from package 00047888.upk
 Loading Texture2D Tooltip_Icon_AbilityScore02 from package 00047888.upk
-Loaded in 0.05 sec, 149 allocs, 4.87 MBytes serialized in 2611 calls.
+Loaded in 0.076 sec, 160 allocs, 6.52 MBytes serialized in 3049 calls.
 
 Object info:
 ============
@@ -48,8 +49,8 @@ Object info:
 ============
 ClassName: Texture2D ObjectName: GameUI_New_Scene_19
 
-    SizeX = 1024
-    SizeY = 1024
+    SizeX = 2048
+    SizeY = 2048
     Format = PF_DXT5 (7)
     AddressX = TA_Clamp (1)
     AddressY = TA_Clamp (1)
@@ -81,6 +82,21 @@ ClassName: Texture2D ObjectName: GameUI_New_Scene_21
     SizeX = 2048
     SizeY = 2048
     Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: GameUI_New_Scene_22
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_A8R8G8B8 (2)
     AddressX = TA_Clamp (1)
     AddressY = TA_Clamp (1)
     TextureFileCacheName = None

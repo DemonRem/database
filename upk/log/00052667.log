@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052667.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading Texture2D KittyBox_Col1_D from package 00052667.upk
 Loading Texture2D KittyBox_Col1_M from package 00052667.upk
 Loading Texture2D KittyBox_Col1_N from package 00052667.upk
 Loading Texture2D KittyBox_Col1_S from package 00052667.upk
-Loaded in 0.064 sec, 172 allocs, 0.10 MBytes serialized in 981 calls.
+Loaded in 0.058 sec, 172 allocs, 0.10 MBytes serialized in 981 calls.
 
 Object info:
 ============

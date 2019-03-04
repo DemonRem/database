@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048360.upk Ver: 573/1 Engine: 4205 Names: 100 Exports: 21 Imports: 14 Game: 801A
 Loading SkeletalMesh3 040313_JinM from package 00048360.upk
 Loading package: 00003375.upk Ver: 573/1 Engine: 4205 Names: 52 Exports: 1 Imports: 16 Game: 801A
@@ -13,7 +13,7 @@ Loading Texture2D JinM_002_col1_d from package 00003373.upk
 Loading Texture2D JinM_002_col1_n from package 00003373.upk
 WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
 Loading Material3 Beard_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
 Loading Texture2D 040313_JinM_col1_N from package 00048358.upk
 Loading Texture2D 040313_JinM_col1_M from package 00048358.upk
@@ -35,7 +35,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.19 sec, 3270 allocs, 1.85 MBytes serialized in 251993 calls.
+Loaded in 0.15 sec, 3307 allocs, 1.85 MBytes serialized in 252806 calls.
 
 Object info:
 ============

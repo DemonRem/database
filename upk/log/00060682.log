@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00060682.upk Ver: 573/1 Engine: 4205 Names: 27 Exports: 4 Imports: 2 Game: 801A
 Loading Texture2D 10200_JinM_D from package 00060682.upk
 Loading Texture2D 10200_JinM_M from package 00060682.upk
 Loading Texture2D 10200_JinM_N from package 00060682.upk
 Loading Texture2D 10200_JinM_S from package 00060682.upk
-Loaded in 0.089 sec, 197 allocs, 5.99 MBytes serialized in 1405 calls.
+Loaded in 0.072 sec, 197 allocs, 5.99 MBytes serialized in 1405 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00045817.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 8 Imports: 2 Game: 801A
 Loading Texture2D 10101_KunN_col1_D from package 00045817.upk
 Loading Texture2D 10101_KunN_col1_M from package 00045817.upk
@@ -8,7 +8,7 @@ Loading Texture2D 10101_KunN_col2_D from package 00045817.upk
 Loading Texture2D 10101_KunN_col2_M from package 00045817.upk
 Loading Texture2D 10101_KunN_col2_N from package 00045817.upk
 Loading Texture2D 10101_KunN_col2_S from package 00045817.upk
-Loaded in 0.082 sec, 260 allocs, 3.31 MBytes serialized in 1828 calls.
+Loaded in 0.071 sec, 260 allocs, 3.31 MBytes serialized in 1828 calls.
 
 Object info:
 ============

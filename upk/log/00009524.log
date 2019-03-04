@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009524.upk Ver: 573/1 Engine: 4205 Names: 280 Exports: 175 Imports: 97 Game: 801A
 Loading Material3 Weapon_030007_Aura_Trail_Mat from package 00009524.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00009520.upk Ver: 573/1 Engine: 4205 Names: 305 Exports: 481 Imports: 104 Game: 801A
 Loading package: 00008334.upk Ver: 573/1 Engine: 4205 Names: 454 Exports: 329 Imports: 103 Game: 801A
 Loading MaterialInstanceConstant Weapon_030007 from package 00009524.upk
@@ -19,7 +19,7 @@ Loading Material3 Weapon_030008_Aura_Trail_Mat from package 00009520.upk
 Loading Texture2D Weapon_030008_col1_d_trail_Tex from package 00009520.upk
 Loading Texture2D JinSuYoun_Alpha_Tex3 from package 00009520.upk
 Loading Texture2D JinSuYoun_Alpha_Tex from package 00009520.upk
-Loaded in 0.1 sec, 2784 allocs, 0.51 MBytes serialized in 53550 calls.
+Loaded in 0.085 sec, 2821 allocs, 0.52 MBytes serialized in 54363 calls.
 
 Object info:
 ============

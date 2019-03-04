@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053433.upk Ver: 573/1 Engine: 4205 Names: 412 Exports: 851 Imports: 152 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco01_inst from package 00053433.upk
 Loading package: 00053434.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 2 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco03_inst from package 00053433.upk
 Loading MaterialInstanceConstant W_MeshDeco05_outline_INST from package 00053433.upk
 Loading SkeletalMesh3 020346_Autoscale_L from package 00053433.upk
@@ -27,13 +27,13 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_205 from package 00053433.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
 Loading StaticMesh3 020346_Autoscale_L001_FX_MESH001 from package 00053433.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 020346_Autoscale_R_FX_MESH001 from package 00053433.upk
 Loading Texture2D 020346_JinM_col1_FX from package 00053433.upk
 Loading Texture2D 020346_Autoscale_col1_D from package 00053434.upk
 Loading Material3 W_MeshDeco01 from package 00048300.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Material3 W_MeshDeco03 from package 00048300.upk
 Loading Material3 W_MeshDeco05_outline from package 00048300.upk
@@ -81,7 +81,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.49 sec, 5906 allocs, 3.57 MBytes serialized in 598820 calls.
+Loaded in 0.34 sec, 6060 allocs, 3.62 MBytes serialized in 610064 calls.
 
 Object info:
 ============

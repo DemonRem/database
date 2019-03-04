@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00058538.upk Ver: 573/1 Engine: 4205 Names: 46 Exports: 115 Imports: 2 Game: 801A
 Loading Texture2D Tag_Level_01 from package 00058538.upk
 Loading Texture2D Tag_Level_02 from package 00058538.upk
@@ -115,7 +115,7 @@ Loading Texture2D Tag_Number_57 from package 00058538.upk
 Loading Texture2D Tag_Number_58 from package 00058538.upk
 Loading Texture2D Tag_Number_59 from package 00058538.upk
 Loading Texture2D Tag_Number_60 from package 00058538.upk
-Loaded in 0.11 sec, 681 allocs, 0.23 MBytes serialized in 13866 calls.
+Loaded in 0.098 sec, 681 allocs, 0.23 MBytes serialized in 13866 calls.
 
 Object info:
 ============

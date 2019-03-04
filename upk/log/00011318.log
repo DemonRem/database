@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00011318.upk Ver: 573/1 Engine: 4205 Names: 714 Exports: 2002 Imports: 124 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00011318.upk Ver: 573/1 Engine: 4205 Names: 723 Exports: 2027 Imports: 134 Game: 801A
 Loading Texture2D Game_InspectorScene_Preview from package 00011318.upk
-Loaded in 0.004 sec, 737 allocs, 0.18 MBytes serialized in 39135 calls.
+Loaded in 0.004 sec, 746 allocs, 0.18 MBytes serialized in 39682 calls.
 
 Object info:
 ============

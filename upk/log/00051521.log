@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051521.upk Ver: 573/1 Engine: 4205 Names: 125 Exports: 133 Imports: 12 Game: 801A
 Loading SkeletalMesh3 dogEvolve from package 00051521.upk
 WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
@@ -19,7 +19,7 @@ Loading Texture2D dogEvolve_col1_S from package 00051522.upk
 Loading TextureCube lenscube_a from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Fur_Ac from package 00002620.upk
 Loading Texture2D Lens_n from package 00002620.upk
 Loading TextureCube Cube_Suicide2 from package 00002640.upk
@@ -56,7 +56,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.33 sec, 3542 allocs, 1.89 MBytes serialized in 298025 calls.
+Loaded in 0.27 sec, 3579 allocs, 1.89 MBytes serialized in 298838 calls.
 
 Object info:
 ============

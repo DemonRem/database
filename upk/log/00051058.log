@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051058.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 2 Game: 801A
 Loading Texture2D 10134_GonM_col1_D from package 00051058.upk
 Loading Texture2D 10134_GonM_col1_E from package 00051058.upk
@@ -9,7 +9,7 @@ Loading Texture2D 10134_GonM_col2_D from package 00051058.upk
 Loading Texture2D 10134_GonM_col2_E from package 00051058.upk
 Loading Texture2D 10134_GonM_col2_M from package 00051058.upk
 Loading Texture2D 10134_GonM_col2_S from package 00051058.upk
-Loaded in 0.1 sec, 358 allocs, 3.66 MBytes serialized in 2251 calls.
+Loaded in 0.099 sec, 358 allocs, 3.66 MBytes serialized in 2251 calls.
 
 Object info:
 ============

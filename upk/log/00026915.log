@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00026915.upk Ver: 573/1 Engine: 4205 Names: 455 Exports: 792 Imports: 77 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00026915.upk Ver: 573/1 Engine: 4205 Names: 521 Exports: 1125 Imports: 110 Game: 801A
 Loading Material3 Basic_item from package 00026915.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 box_mat01 from package 00026915.upk
 Loading Material3 Challenger_Mark_mat01 from package 00026915.upk
 Loading Material3 Indicator_attraction_running from package 00026915.upk
@@ -141,7 +141,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.86 sec, 5333 allocs, 6.97 MBytes serialized in 310970 calls.
+Loaded in 0.65 sec, 5436 allocs, 7.00 MBytes serialized in 318206 calls.
 
 Object info:
 ============

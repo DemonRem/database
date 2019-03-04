@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00008608.upk Ver: 573/1 Engine: 4205 Names: 677 Exports: 3 Imports: 914 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00008608.upk Ver: 573/1 Engine: 4205 Names: 679 Exports: 3 Imports: 916 Game: 801A
 Loading AnimSet Destroyer_GonF_Animset from package 00008608.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -21,7 +21,7 @@ WARNING: ArrayProperty "UAnimSet::ArmPhysicsBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::LegPhysicsBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::BodyPhysicsBoneNames" was not found
 WARNING: AnimSet Destroyer_GonF_Animset has 0 sequences, but empty TrackBoneNames
-Loaded in 0.001 sec, 705 allocs, 0.05 MBytes serialized in 8835 calls.
+Loaded in 0.013 sec, 707 allocs, 0.05 MBytes serialized in 8855 calls.
 
 Object info:
 ============

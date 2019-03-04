@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00008076.upk Ver: 573/1 Engine: 4205 Names: 125 Exports: 61 Imports: 14 Game: 801A
 Loading SkeletalMesh3 CommonCrane1 from package 00008076.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -14,14 +14,14 @@ Loading Texture2D D_1 from package 00008072.upk
 Loading Texture2D S_1 from package 00008072.upk
 Loading Texture2D mirror1_RT from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.099 sec, 2825 allocs, 1.27 MBytes serialized in 221737 calls.
+Loaded in 0.083 sec, 2862 allocs, 1.27 MBytes serialized in 222550 calls.
 
 Object info:
 ============

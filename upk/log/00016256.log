@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00016256.upk Ver: 573/1 Engine: 4205 Names: 219 Exports: 135 Imports: 38 Game: 801A
 Loading Texture2D Lobby_HomeBrowser_Scene_Preview from package 00016256.upk
 Loaded in 0.001 sec, 242 allocs, 0.02 MBytes serialized in 3442 calls.

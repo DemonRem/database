@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00009393.upk Ver: 573/1 Engine: 4205 Names: 1226 Exports: 783 Imports: 108 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00009393.upk Ver: 573/1 Engine: 4205 Names: 1368 Exports: 799 Imports: 114 Game: 801A
 Loading AnimSet 4_slice_leaf_01_Animset from package 00009393.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
@@ -48,6 +48,22 @@ WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_4 from package 00009393.upk
 WARNING: BoolProperty "UAnimSequence::bUseAdjustAniScale" was not found
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet BladeMaster_G3_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::WeaponRLocType" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+WARNING: ByteProperty "UAnimSequence::WeaponRLocType" was not found
+Loading AnimSet BM_G3_AnimSet from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSequence AnimSequence_1 from package 00009393.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSet Cat_NATK_1 from package 00009393.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -124,6 +140,11 @@ WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 Loading AnimSequence AnimSequence_0 from package 00009393.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_1 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet HyunMu_Snake_01_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSet LegendWeapon_Dragon_Animset from package 00009393.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -258,9 +279,18 @@ WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 Loading AnimSequence AnimSequence_1 from package 00009393.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet Yflower_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+Loading AnimSequence AnimSequence_0 from package 00009393.upk
+WARNING: BoolProperty "UAnimSequence::bServiced" was not found
+Loading AnimSet 090186_HyunMu_Animset from package 00009393.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 Loading Material3 Basic_NewSlot_Blue_col1 from package 00009393.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 NewSlot_Blue_col2 from package 00009393.upk
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading Material3 Summon_Dealer_Alpha_Mat from package 00009393.upk
@@ -275,7 +305,7 @@ Loading MaterialInstanceConstant leaf_skeletal_col3 from package 00009393.upk
 Loading MaterialInstanceConstant NewSlot_Blue_col1 from package 00009393.upk
 Loading MaterialInstanceConstant NewSlot_Red_col1 from package 00009393.upk
 Loading SkeletalMesh3 4_slice_leaf_01 from package 00009393.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading SkeletalMesh3 4_slice_leaf_02 from package 00009393.upk
 Loading SkeletalMesh3 4_slice_leaf_03 from package 00009393.upk
 Loading SkeletalMesh3 Acc_990971_RaidBossA_Reg from package 00009393.upk
@@ -294,6 +324,10 @@ Loading SkeletalMesh3 AssassinMasterSkil01l_Mesh from package 00009393.upk
 Loading SkeletalMesh3 Battle_DroneEvolve from package 00009393.upk
 WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
 Loading package: 00056102.upk Ver: 573/1 Engine: 4205 Names: 86 Exports: 1 Imports: 21 Game: 801A
+Loading SkeletalMesh3 BladeMaster_G3_Female from package 00009393.upk
+Loading SkeletalMesh3 BM_G3_SoulBlastLine from package 00009393.upk
+Loading package: 00053036.upk Ver: 573/1 Engine: 4205 Names: 792 Exports: 2075 Imports: 253 Game: 801A
+Loading SkeletalMesh3 broken_Yflower from package 00009393.upk
 Loading SkeletalMesh3 cat_Box from package 00009393.upk
 Loading SkeletalMesh3 Chinese_Sprint_Dragon from package 00009393.upk
 Loading SkeletalMesh3 coil from package 00009393.upk
@@ -306,9 +340,10 @@ Loading SkeletalMesh3 Epic_Item_Scroll from package 00009393.upk
 Loading SkeletalMesh3 EquipTrail_Mesh from package 00009393.upk
 Loading SkeletalMesh3 ForceMaster_MasterSkill01_Mesh from package 00009393.upk
 Loading SkeletalMesh3 Gardener_AntiPoison_Spawn from package 00009393.upk
-Loading package: 00053036.upk Ver: 573/1 Engine: 4205 Names: 792 Exports: 2075 Imports: 253 Game: 801A
 Loading SkeletalMesh3 GhostMaskMonsterCLine from package 00009393.upk
 Loading SkeletalMesh3 HongMunDragon_Mesh from package 00009393.upk
+Loading SkeletalMesh3 HyunMu_Snake from package 00009393.upk
+Loading package: 00061317.upk Ver: 573/1 Engine: 4205 Names: 312 Exports: 937 Imports: 60 Game: 801A
 Loading SkeletalMesh3 LegendWeapon_Dragon from package 00009393.upk
 Loading SkeletalMesh3 NewSlot_blue_LV1 from package 00009393.upk
 Loading SkeletalMesh3 NewSlot_blue_LV2 from package 00009393.upk
@@ -317,6 +352,7 @@ Loading SkeletalMesh3 NewSlot_Red_LV2 from package 00009393.upk
 Loading SkeletalMesh3 NewSlot_Red_LV3 from package 00009393.upk
 Loading SkeletalMesh3 PekingOpera_Ghost_Mesh from package 00009393.upk
 Loading SkeletalMesh3 Plask from package 00009393.upk
+Loading package: 00012538.upk Ver: 573/1 Engine: 4205 Names: 328 Exports: 492 Imports: 101 Game: 801A
 Loading SkeletalMesh3 Rosary_Mesh from package 00009393.upk
 Loading SkeletalMesh3 Shooter_MasterSkill2 from package 00009393.upk
 Loading package: 00006201.upk Ver: 573/1 Engine: 4205 Names: 87 Exports: 1 Imports: 22 Game: 801A
@@ -405,8 +441,14 @@ Loading MaterialInstanceConstant col1 from package 00042493.upk
 Loading package: 00042492.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 16 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00056102.upk
 Loading package: 00056101.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 5 Imports: 2 Game: 801A
-Loading MaterialInstanceConstant col1 from package 00035458.upk
 Loading Material3 M_PremiumBackho_Empty from package 00053036.upk
+Loading MaterialInstanceConstant col1 from package 00035458.upk
+Loading MaterialInstanceConstant col1 from package 00061317.upk
+Loading package: 00061316.upk Ver: 573/1 Engine: 4205 Names: 28 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00061315.upk Ver: 573/1 Engine: 4205 Names: 497 Exports: 1605 Imports: 162 Game: 801A
+Loading MaterialInstanceConstant Plask_col1 from package 00012538.upk
+Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
+Loading MaterialInstanceConstant Plask_col1_1 from package 00012538.upk
 Loading MaterialInstanceConstant col1 from package 00006201.upk
 Loading package: 00006200.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00047911.upk
@@ -478,6 +520,23 @@ Loading Texture2D ElectricBomd_M from package 00012963.upk
 Loading Texture2D ElectricBomd_D from package 00012963.upk
 Loading Texture2D ElectricBomd_S from package 00012963.upk
 Loading Texture2D ElectricBomd_E from package 00012963.upk
+Loading Texture2D 090186_JinM_Col1_N from package 00061316.upk
+Loading Texture2D 090186_JinM_Col1_S from package 00061316.upk
+Loading Texture2D 090186_JinM_Col1_M from package 00061316.upk
+Loading Texture2D 090186_JinM_Col1_D from package 00061316.upk
+Loading Texture2D Noise_Mix03 from package 00061317.upk
+Loading Texture2D FX_Glow_Trangition from package 00012963.upk
+Loading Texture2D 090186_FX_ADD_Wing from package 00061315.upk
+Loading Material3 Custom_B from package 00061317.upk
+Loading package: 00025178.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 46 Imports: 2 Game: 801A
+Loading Texture2D Palsk_N from package 00037791.upk
+Loading TextureCube Cube_B from package 00002640.upk
+Loading Texture2D Palsk_D_Main from package 00037791.upk
+Loading Texture2D Palsk_M from package 00037791.upk
+Loading Texture2D Plask_S from package 00037791.upk
+Loading TextureCube MatelW3 from package 00002640.upk
+Loading Material3 Blend_Bead from package 00002620.upk
+Loading Texture2D Plask_D from package 00037791.upk
 Loading Texture2D Weapon_080001_N from package 00006200.upk
 Loading Texture2D Weapon_080001_M from package 00006200.upk
 Loading Texture2D Weapon_080001_D from package 00006200.upk
@@ -514,6 +573,26 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D Mask_Default from package 00025178.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading TextureCube eye_s from package 00002640.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -600,11 +679,17 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
+*** unknown member ACF_ZOnlyRLE of enum AnimationCompressionFormat
 *** ERROR: Unknown rotation compression method: 255
 UAnimSet::ConvertAnims <- PostLoad:4_slice_leaf_01_Animset <- UObject::EndLoad <- LoadWholePackage:00009393 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

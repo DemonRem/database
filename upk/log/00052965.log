@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052965.upk Ver: 573/1 Engine: 4205 Names: 875 Exports: 49 Imports: 698 Game: 801A
 Loading AnimSet AkEmpress_Animset from package 00052965.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -61,7 +61,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:AkEmpress_Animset <- UObject::EndLoad <- LoadWholePackage:00052965 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

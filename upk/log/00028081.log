@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00028081.upk Ver: 573/1 Engine: 4205 Names: 693 Exports: 1 Imports: 619 Game: 801A
 Loading AnimSet CheonPung_Animset from package 00028081.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -6,7 +6,7 @@ WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: AnimSet CheonPung_Animset has 0 sequences, but empty TrackBoneNames
-Loaded in 0.005 sec, 714 allocs, 0.04 MBytes serialized in 6520 calls.
+Loaded in 0.006 sec, 714 allocs, 0.04 MBytes serialized in 6520 calls.
 
 Object info:
 ============

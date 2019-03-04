@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00006856.upk Ver: 573/1 Engine: 4205 Names: 50 Exports: 21 Imports: 4 Game: 801A
 Loading Texture2D 80008_GonF_col1_D from package 00006856.upk
 Loading Texture2D 80008_GonF_col1_S from package 00006856.upk
@@ -17,7 +17,7 @@ Loading Texture2D Cloth_80008_GonF_col3_N from package 00006856.upk
 Loading Texture2D Cloth_80008_GonF_col6_D from package 00006856.upk
 Loading Texture2D Cloth_80008_GonF_col6_N from package 00006856.upk
 Loading Texture2D Cloth_80008_GonF_col6_S from package 00006856.upk
-Loaded in 0.18 sec, 633 allocs, 3.31 MBytes serialized in 4123 calls.
+Loaded in 0.16 sec, 633 allocs, 3.31 MBytes serialized in 4123 calls.
 
 Object info:
 ============

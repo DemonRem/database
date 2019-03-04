@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009613.upk Ver: 573/1 Engine: 4205 Names: 79 Exports: 10 Imports: 13 Game: 801A
 Loading Texture2D Intro_MainScene_Preview from package 00009613.upk
-Loaded in 0 sec, 102 allocs, 0.00 MBytes serialized in 597 calls.
+Loaded in 0.003 sec, 102 allocs, 0.00 MBytes serialized in 597 calls.
 
 Object info:
 ============

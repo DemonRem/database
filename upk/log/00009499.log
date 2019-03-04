@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009499.upk Ver: 573/1 Engine: 4205 Names: 2124 Exports: 2202 Imports: 10 Game: 801A
 Loading Texture2D Img_Brazier_Blue from package 00009499.upk
 Loading Texture2D Img_Brazier_Gray from package 00009499.upk
@@ -1085,7 +1085,7 @@ Loading Texture2D Window_Teleport-point-possible-normal_128 from package 0000949
 Loading Texture2D Window_Teleport-point-possible-normal_32 from package 00009499.upk
 Loading Texture2D Window_Teleport-point-possible-over_32 from package 00009499.upk
 Loading Texture2D Window_Teleport-point-possible-pressed_32 from package 00009499.upk
-Loaded in 1.3 sec, 7969 allocs, 1.46 MBytes serialized in 141857 calls.
+Loaded in 0.88 sec, 7969 allocs, 1.46 MBytes serialized in 141857 calls.
 
 Object info:
 ============

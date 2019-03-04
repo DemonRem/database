@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048273.upk Ver: 573/1 Engine: 4205 Names: 247 Exports: 285 Imports: 22 Game: 801A
 Loading Texture2D GameUI_TargetIndicator_Preview from package 00048273.upk
-Loaded in 0.006 sec, 270 allocs, 0.03 MBytes serialized in 6114 calls.
+Loaded in 0.007 sec, 270 allocs, 0.03 MBytes serialized in 6114 calls.
 
 Object info:
 ============

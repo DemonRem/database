@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00023412.upk Ver: 573/1 Engine: 4205 Names: 809 Exports: 4396 Imports: 192 Game: 801A
 Loading AnimSet TrailAnim_A01_Anim from package 00023412.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -10,7 +10,7 @@ WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 Basic_Base_IF_Masked_Mat from package 00023412.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Basic_Base_IF_Mat from package 00023412.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Basic_Base_IF_Translucent_Mat from package 00023412.upk
@@ -143,7 +143,7 @@ Loading MaterialInstanceConstant Warlock_Signal_INSTMat01 from package 00023412.
 Loading MaterialInstanceConstant Warlock_SummonPoint_INSTMat01 from package 00023412.upk
 Loading SkeletalMesh3 TrailAnim_A01_Anim from package 00023412.upk
 Loading StaticMesh3 Octagon_Defualt__Mesh from package 00023412.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Octagon_reverse__01Mesh from package 00023412.upk
 Loading StaticMesh3 Octagon_reverse__Mesh from package 00023412.upk
 Loading StaticMesh3 Warlock_Bat_Mesh01 from package 00023412.upk
@@ -288,7 +288,7 @@ Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 1.4 sec, 8287 allocs, 6.77 MBytes serialized in 766724 calls.
+Loaded in 0.92 sec, 8414 allocs, 6.81 MBytes serialized in 775248 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00054299.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 7 Imports: 2 Game: 801A
 Loading Texture2D Pet_Sapsal_col1_D from package 00054299.upk
 Loading Texture2D Pet_Sapsal_col1_M from package 00054299.upk
@@ -7,7 +7,7 @@ Loading Texture2D Pet_Sapsal_col1_S from package 00054299.upk
 Loading Texture2D Pet_SapsalEvolve_col1_D from package 00054299.upk
 Loading Texture2D Pet_SapsalEvolve_col1_E from package 00054299.upk
 Loading Texture2D Pet_SapsalEvolve_col1_S from package 00054299.upk
-Loaded in 0.09 sec, 294 allocs, 4.37 MBytes serialized in 1835 calls.
+Loaded in 0.094 sec, 294 allocs, 4.37 MBytes serialized in 1835 calls.
 
 Object info:
 ============

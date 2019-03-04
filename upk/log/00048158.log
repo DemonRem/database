@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048158.upk Ver: 573/1 Engine: 4205 Names: 204 Exports: 113 Imports: 20 Game: 801A
 Loading SkeletalMesh3 10127_LynF from package 00048158.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -18,7 +18,7 @@ WARNING: StructProperty "USkeletalMesh3::HandRatio" was not found
 WARNING: ByteProperty "USkeletalMesh3::CommonPhysicsUseFlag" was not found
 Loading package: 00048160.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 2 Imports: 23 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00048160.upk
-Loading package: 00048159.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
+Loading package: 00048159.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 10 Imports: 4 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading MaterialInstanceConstant col1_Opa from package 00048160.upk
@@ -29,7 +29,7 @@ Loading Texture2D 10127_LynF_col1_S from package 00048159.upk
 Loading TextureCube Cube_Suicide2 from package 00002640.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 body_reflect from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading TextureCube cube_orb2 from package 00002640.upk
 Loading Material3 Blend_OP from package 00002620.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -50,7 +50,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.25 sec, 3271 allocs, 5.34 MBytes serialized in 658976 calls.
+Loaded in 0.26 sec, 3316 allocs, 5.34 MBytes serialized in 659935 calls.
 
 Object info:
 ============

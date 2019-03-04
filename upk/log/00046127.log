@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00046127.upk Ver: 573/1 Engine: 4205 Names: 38 Exports: 12 Imports: 2 Game: 801A
 Loading Texture2D 070009_Autoscale_col1_D from package 00046127.upk
 Loading Texture2D 070009_Autoscale_col1_M from package 00046127.upk
@@ -12,7 +12,7 @@ Loading Texture2D 070009_Autoscale_col3_D from package 00046127.upk
 Loading Texture2D 070009_Autoscale_col3_M from package 00046127.upk
 Loading Texture2D 070009_Autoscale_col3_N from package 00046127.upk
 Loading Texture2D 070009_Autoscale_col3_S from package 00046127.upk
-Loaded in 0.11 sec, 422 allocs, 0.54 MBytes serialized in 2602 calls.
+Loaded in 0.085 sec, 422 allocs, 0.54 MBytes serialized in 2602 calls.
 
 Object info:
 ============

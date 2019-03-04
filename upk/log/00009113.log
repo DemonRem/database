@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009113.upk Ver: 573/1 Engine: 4205 Names: 186 Exports: 387 Imports: 45 Game: 801A
 Loading Material3 Basic_mud from package 00009113.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Basic_MudSoldierBoss from package 00009113.upk
 Loading Material3 Mudboss_fist_FX from package 00009113.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
@@ -27,7 +27,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.14 sec, 2947 allocs, 1.25 MBytes serialized in 191545 calls.
+Loaded in 0.11 sec, 2984 allocs, 1.25 MBytes serialized in 192358 calls.
 
 Object info:
 ============

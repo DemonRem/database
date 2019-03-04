@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00006751.upk Ver: 573/1 Engine: 4205 Names: 638 Exports: 10 Imports: 915 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00006751.upk Ver: 573/1 Engine: 4205 Names: 640 Exports: 10 Imports: 920 Game: 801A
 Loading AnimSet KungfuFighter_GonF_Animset from package 00006751.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -35,7 +35,7 @@ WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::WeaponSlotSocketNames" was not found
-Loaded in 0.001 sec, 691 allocs, 0.05 MBytes serialized in 9616 calls.
+Loaded in 0.01 sec, 693 allocs, 0.05 MBytes serialized in 9657 calls.
 
 Object info:
 ============

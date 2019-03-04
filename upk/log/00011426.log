@@ -1,13 +1,13 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3054 Exports: 106036 Imports: 757 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3055 Exports: 106061 Imports: 757 Game: 801A
 Loading Material3 M_BoxLine from package 00011426.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1042 Exports: 1043 Imports: 4 Game: 801A
 Loading Material3 M_BoxLine2_Sine from package 00011426.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 M_BoxLine_Sine from package 00011426.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 M_Bubble_blue_T from package 00011426.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 M_Bubble_flashGlow from package 00011426.upk
@@ -772,7 +772,7 @@ Loading MaterialInstanceConstant Mat_exec_Bar_glow from package 00011426.upk
 Loading MaterialInstanceConstant M_Glow_INST from package 00011426.upk
 Loading MaterialInstanceConstant MM_GemCompose_Success_8INST from package 00011426.upk
 Loading StaticMesh3 Aura_Simple002_Mes from package 00011426.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Coil004_Mes from package 00011426.upk
 Loading StaticMesh3 Cylinder_Warp000_Mes from package 00011426.upk
 Loading StaticMesh3 InkSplatter001_Mes from package 00011426.upk
@@ -1803,7 +1803,7 @@ Loading Texture2D Tex_Exec_bar05 from package 00037213.upk
 Loading Texture2D Tex_gem_08 from package 00037213.upk
 Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loaded in 5.9 sec, 24881 allocs, 27.09 MBytes serialized in 4766118 calls.
+Loaded in 4.1 sec, 25010 allocs, 27.13 MBytes serialized in 4775091 calls.
 
 Object info:
 ============

@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00020769.upk Ver: 573/1 Engine: 4205 Names: 485 Exports: 6641 Imports: 152 Game: 801A
 Loading Texture2D Game_Inventory2Scene_Preview from package 00020769.upk
-Loaded in 0.015 sec, 508 allocs, 0.50 MBytes serialized in 122146 calls.
+Loaded in 0.011 sec, 508 allocs, 0.50 MBytes serialized in 122146 calls.
 
 Object info:
 ============

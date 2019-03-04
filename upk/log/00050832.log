@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050832.upk Ver: 573/1 Engine: 4205 Names: 627 Exports: 1430 Imports: 218 Game: 801A
 Loading Material3 Basic_SwordFX from package 00050832.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 FX_deco from package 00050832.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00050830.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
@@ -10,7 +10,7 @@ Loading Material3 M01_exp_sub11_Mesh from package 00050832.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading MaterialInstanceConstant Sword_INST from package 00050832.upk
 Loading MaterialInstanceConstant W_MeshDeco02_INST from package 00050832.upk
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco05_outline_INST from package 00050832.upk
 Loading MaterialInstanceConstant W_Meshdeco07_INST from package 00050832.upk
 Loading package: 00039620.upk Ver: 573/1 Engine: 4205 Names: 400 Exports: 1000 Imports: 136 Game: 801A
@@ -21,7 +21,7 @@ Loading package: 00050831.upk Ver: 573/1 Engine: 4205 Names: 103 Exports: 1 Impo
 Loading SkeletalMeshSocket SkeletalMeshSocket_162 from package 00050832.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 010345_deco01 from package 00050832.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 010345_deco02 from package 00050832.upk
 Loading StaticMesh3 010345_deco03 from package 00050832.upk
 Loading StaticMesh3 010345_deco04 from package 00050832.upk
@@ -79,7 +79,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.5 sec, 6675 allocs, 3.99 MBytes serialized in 676490 calls.
+Loaded in 0.36 sec, 6829 allocs, 4.03 MBytes serialized in 687734 calls.
 
 Object info:
 ============

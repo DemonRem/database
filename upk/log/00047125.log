@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00047125.upk Ver: 573/1 Engine: 4205 Names: 470 Exports: 1024 Imports: 168 Game: 801A
 Loading Material3 Staff_ee from package 00047125.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant Staff_Body_MAT_Trans_INST from package 00047125.upk
 Loading package: 00047133.upk Ver: 573/1 Engine: 4205 Names: 522 Exports: 1493 Imports: 192 Game: 801A
 Loading MaterialInstanceConstant staff_deco_INST from package 00047125.upk
@@ -18,7 +18,7 @@ Loading package: 00047124.upk Ver: 573/1 Engine: 4205 Names: 90 Exports: 1 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_193 from package 00047125.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 staff_deco01 from package 00047125.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 staff_deco02 from package 00047125.upk
 Loading StaticMesh3 staff_deco03 from package 00047125.upk
 Loading StaticMesh3 staff_deco04 from package 00047125.upk
@@ -70,7 +70,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.37 sec, 6642 allocs, 4.55 MBytes serialized in 662454 calls.
+Loaded in 0.29 sec, 6769 allocs, 4.59 MBytes serialized in 670978 calls.
 
 Object info:
 ============

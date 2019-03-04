@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00049182.upk Ver: 573/1 Engine: 4205 Names: 359 Exports: 499 Imports: 142 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco01 from package 00049182.upk
 Loading package: 00049183.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
@@ -22,7 +22,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_351 from package 00049182.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 120237_1_MeshDeco01 from package 00049182.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 120237_2_MeshDeco01 from package 00049182.upk
 Loading Texture2D 120237_Autoscale_col1_D from package 00049183.upk
 Loading MaterialInstanceConstant W_MeshDeco01 from package 00049176.upk
@@ -40,9 +40,9 @@ Loading Texture2D 060242_Autoscale_col1_D from package 00049177.upk
 Loading MaterialInstanceConstant W_MeshDeco01 from package 00049164.upk
 Loading package: 00049165.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco05_outline from package 00049164.upk
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading Material3 WaterSwordM from package 00049164.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 120237_Autoscale_col1_N from package 00049183.upk
 Loading Texture2D 120237_Autoscale_col1_M from package 00049183.upk
 Loading Texture2D 120237_Autoscale_col1_S from package 00049183.upk
@@ -79,7 +79,7 @@ Loading Texture2D Gradient_Flow_000 from package 00012963.upk
 Loading Texture2D Noise_013 from package 00012963.upk
 Loading Texture2D FX_Mask from package 00038770.upk
 Loading Texture2D Noise_Wave_000 from package 00012963.upk
-Loaded in 0.34 sec, 7016 allocs, 3.31 MBytes serialized in 586881 calls.
+Loaded in 0.28 sec, 7170 allocs, 3.35 MBytes serialized in 598125 calls.
 
 Object info:
 ============

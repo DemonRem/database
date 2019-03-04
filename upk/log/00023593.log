@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00023593.upk Ver: 573/1 Engine: 4205 Names: 374 Exports: 1 Imports: 39 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00023593.upk
 check for Parent_normal in 00023593
@@ -10,7 +10,7 @@ WARNING: Import(Parent_normal.RGB_Mask) was not found
 check for Parent_diffuse in 00023593
 check for Parent_diffuse in 00023592
 WARNING: Import(Parent_normal.Parent_diffuse) was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for Parent_Mask in 00023593
 check for Parent_Mask in 00023592
 check for Parent_Mask in 00012963
@@ -84,7 +84,7 @@ Loading Texture2D Normal_Noise_000 from package 00012963.upk
 WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
 Loading Texture2D Smoke_Cloud_004 from package 00012963.upk
 Loading Texture2D Noise_Plazma_002 from package 00012963.upk
-Loaded in 0.094 sec, 2103 allocs, 1.32 MBytes serialized in 35757 calls.
+Loaded in 0.087 sec, 2140 allocs, 1.32 MBytes serialized in 36570 calls.
 
 Object info:
 ============

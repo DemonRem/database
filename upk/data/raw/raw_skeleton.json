@@ -94899,14 +94899,8 @@
     "code": "090144",
     "core": "090144_LynF",
     "race": "LynF",
-    "col1Material": "00044088",
-    "texture": "00042932",
-    "textureObjs": [
-      "090144_JinM_col2_N",
-      "090144_JinM_col2_M",
-      "090144_JinM_col2_D",
-      "090144_JinM_col2_S"
-    ]
+    "col1Material": null,
+    "texture": null
   },
   "00048508": {
     "upkId": "00048508",
@@ -114271,13 +114265,10 @@
     "code": "010139",
     "core": "010139_JinM",
     "race": "JinM",
-    "col1Material": "00057098",
-    "texture": "00057097",
+    "col1Material": "00056542",
+    "texture": "00056546",
     "textureObjs": [
-      "040355_JinM_Col1_N",
-      "040355_JinM_Col1_S",
-      "040355_JinM_Col1_M",
-      "Pattern2"
+      "040355_JinF_Col1_N"
     ]
   },
   "00057096": {
@@ -114595,14 +114586,8 @@
     "code": "10181",
     "core": "10181_GonM",
     "race": "GonM",
-    "col1Material": "00057281",
-    "texture": "00057280",
-    "textureObjs": [
-      "10181_GonM_Col1_N",
-      "10181_GonM_Col1_M",
-      "10181_GonM_Col1_D",
-      "10181_GonM_Col1_S"
-    ]
+    "col1Material": null,
+    "texture": null
   },
   "00057287": {
     "upkId": "00057287",
@@ -117427,7 +117412,7 @@
     "texture": "00058325",
     "textureObjs": [
       "10181_LynF_col1_N",
-      "10181_LynF_col1_M",
+      "10181_LynF_col2_M",
       "10181_LynF_col1_D",
       "10181_LynF_col1_s",
       "10181_LynF_col1_E"
@@ -119274,6 +119259,61 @@
       "130145_Autoscale_col1_S"
     ]
   },
+  "00059195": {
+    "upkId": "00059195",
+    "code": "10188",
+    "core": "10188_JinM",
+    "race": "JinM",
+    "col1Material": "00059197",
+    "texture": "00059196",
+    "textureObjs": [
+      "10188_JinM_col1_N",
+      "10188_JinM_col1_M",
+      "10188_JinM_col1_D",
+      "10188_JinM_col1_S",
+      "10188_JinM_col1_E"
+    ]
+  },
+  "00059200": {
+    "upkId": "00059200",
+    "code": "040363",
+    "core": "040363_JinM",
+    "race": "JinM",
+    "col1Material": "00059202",
+    "texture": "00002618",
+    "textureObjs": [
+      "JinM_001_d",
+      "JinM_001_n"
+    ]
+  },
+  "00059205": {
+    "upkId": "00059205",
+    "code": "010143",
+    "core": "010143_JinM",
+    "race": "JinM",
+    "col1Material": "00059207",
+    "texture": "00059206",
+    "textureObjs": [
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_S"
+    ]
+  },
+  "00059210": {
+    "upkId": "00059210",
+    "code": "090184",
+    "core": "090184_JinM",
+    "race": "JinM",
+    "col1Material": "00059212",
+    "texture": "00059211",
+    "textureObjs": [
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_S"
+    ]
+  },
   "00059216": {
     "upkId": "00059216",
     "code": "10190",
@@ -119400,6 +119440,21 @@
       "10101_KunN_col2_D"
     ]
   },
+  "00059282": {
+    "upkId": "00059282",
+    "code": "10188",
+    "core": "10188_GonM",
+    "race": "GonM",
+    "col1Material": "00059284",
+    "texture": "00059283",
+    "textureObjs": [
+      "10188_GonM_col1_N",
+      "10188_GonM_col1_M",
+      "10188_GonM_col1_D",
+      "10188_GonM_col1_S",
+      "10188_GonM_col1_E"
+    ]
+  },
   "00059289": {
     "upkId": "00059289",
     "code": "10186",
@@ -119454,6 +119509,130 @@
       "070155_Autoscale_col1_s"
     ]
   },
+  "00059307": {
+    "upkId": "00059307",
+    "code": "010143",
+    "core": "010143_GonM",
+    "race": "GonM",
+    "col1Material": "00059309",
+    "texture": "00059308",
+    "textureObjs": [
+      "010143_GonM_col1_N",
+      "010143_GonM_col1_M",
+      "010143_GonM_col1_D",
+      "010143_GonM_col1_S"
+    ]
+  },
+  "00059312": {
+    "upkId": "00059312",
+    "code": "10188",
+    "core": "10188_JinF",
+    "race": "JinF",
+    "col1Material": "00059314",
+    "texture": "00059313",
+    "textureObjs": [
+      "10188_JinF_Col1_N",
+      "10188_JinF_Col1_M",
+      "10188_JinF_Col1_D",
+      "10188_JinF_Col1_S",
+      "10188_JinF_Col1_E"
+    ]
+  },
+  "00059316": {
+    "upkId": "00059316",
+    "code": "090184",
+    "core": "090184_GonM",
+    "race": "GonM",
+    "col1Material": "00059318",
+    "texture": "00059317",
+    "textureObjs": [
+      "090184_GonM_col1_N",
+      "090184_GonM_col1_M",
+      "090184_GonM_col1_D",
+      "090184_GonM_col1_S"
+    ]
+  },
+  "00059321": {
+    "upkId": "00059321",
+    "code": "040363",
+    "core": "040363_JinF",
+    "race": "JinF",
+    "col1Material": "00059323",
+    "texture": "00015199",
+    "textureObjs": [
+      "040049_JinF_D_Col1",
+      "040049_JinF_s_Col1",
+      "040049_JinF_N_Col1",
+      "040049_JinF_m_Col1"
+    ]
+  },
+  "00059336": {
+    "upkId": "00059336",
+    "code": "040363",
+    "core": "040363_GonM",
+    "race": "GonM",
+    "col1Material": "00059338",
+    "texture": "00002618",
+    "textureObjs": [
+      "JinM_001_d",
+      "JinM_001_n"
+    ]
+  },
+  "00059344": {
+    "upkId": "00059344",
+    "code": "10188",
+    "core": "10188_LynM",
+    "race": "LynM",
+    "col1Material": "00059346",
+    "texture": "00059345",
+    "textureObjs": [
+      "10188_LynM_col1_N",
+      "10188_LynM_col1_M",
+      "10188_LynM_col1_D",
+      "10188_LynM_col1_S",
+      "10188_LynM_col1_E"
+    ]
+  },
+  "00059348": {
+    "upkId": "00059348",
+    "code": "010143",
+    "core": "010143_LynM",
+    "race": "LynM",
+    "col1Material": "00059350",
+    "texture": "00059349",
+    "textureObjs": [
+      "010143_LynM_col1_N",
+      "010143_LynM_col1_M",
+      "010143_LynM_col1_D",
+      "010143_LynM_col1_S"
+    ]
+  },
+  "00059352": {
+    "upkId": "00059352",
+    "code": "040363",
+    "core": "040363_LynM",
+    "race": "LynM",
+    "col1Material": "00059354",
+    "texture": "00014445",
+    "textureObjs": [
+      "LynM_014_col1_D",
+      "LynM_014_col1_N"
+    ]
+  },
+  "00059356": {
+    "upkId": "00059356",
+    "code": "090184",
+    "core": "090184_LynM",
+    "race": "LynM",
+    "col1Material": "00059358",
+    "texture": "00059357",
+    "textureObjs": [
+      "090184_LynM_col1_N",
+      "090184_LynM_col1_M",
+      "090184_LynM_col1_D",
+      "090184_LynM_col1_S"
+    ]
+  },
   "00059364": {
     "upkId": "00059364",
     "code": "030370",
@@ -119494,6 +119673,34 @@
       "10101_JinF_col2_M",
       "10101_JinF_col2_D",
       "10101_JinF_col2_S"
+    ]
+  },
+  "00059372": {
+    "upkId": "00059372",
+    "code": "010143",
+    "core": "010143_JinF",
+    "race": "JinF",
+    "col1Material": "00059374",
+    "texture": "00059206",
+    "textureObjs": [
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_S"
+    ]
+  },
+  "00059377": {
+    "upkId": "00059377",
+    "code": "090184",
+    "core": "090184_JinF",
+    "race": "JinF",
+    "col1Material": "00059379",
+    "texture": "00059211",
+    "textureObjs": [
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_S"
     ]
   },
   "00059380": {
@@ -119634,6 +119841,57 @@
       "JinM_007_col1_n"
     ]
   },
+  "00059427": {
+    "upkId": "00059427",
+    "code": "10188",
+    "core": "10188_GonF",
+    "race": "GonF",
+    "col1Material": "00059428",
+    "texture": "00059429",
+    "textureObjs": [
+      "10188_GonF_Col1_N",
+      "10188_GonF_Col1_M",
+      "10188_GonF_Col1_D",
+      "10188_GonF_Col1_S",
+      "10188_GonF_Col1_E"
+    ]
+  },
+  "00059431": {
+    "upkId": "00059431",
+    "code": "040363",
+    "core": "040363_GonF",
+    "race": "GonF",
+    "col1Material": null,
+    "texture": null
+  },
+  "00059433": {
+    "upkId": "00059433",
+    "code": "010143",
+    "core": "010143_GonF",
+    "race": "GonF",
+    "col1Material": "00059374",
+    "texture": "00059206",
+    "textureObjs": [
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_S"
+    ]
+  },
+  "00059435": {
+    "upkId": "00059435",
+    "code": "090184",
+    "core": "090184_GonF",
+    "race": "GonF",
+    "col1Material": "00059379",
+    "texture": "00059211",
+    "textureObjs": [
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_S"
+    ]
+  },
   "00059438": {
     "upkId": "00059438",
     "code": "10186",
@@ -119743,6 +120001,42 @@
       "JinM_113_col1_D"
     ]
   },
+  "00059481": {
+    "upkId": "00059481",
+    "code": "010143",
+    "core": "010143_KunN",
+    "race": "KunN",
+    "col1Material": "00059374",
+    "texture": "00059206",
+    "textureObjs": [
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_S"
+    ]
+  },
+  "00059483": {
+    "upkId": "00059483",
+    "code": "040363",
+    "core": "040363_KunN",
+    "race": "KunN",
+    "col1Material": null,
+    "texture": null
+  },
+  "00059485": {
+    "upkId": "00059485",
+    "code": "090184",
+    "core": "090184_KunN",
+    "race": "KunN",
+    "col1Material": "00059379",
+    "texture": "00059211",
+    "textureObjs": [
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_S"
+    ]
+  },
   "00059488": {
     "upkId": "00059488",
     "code": "10186",
@@ -119755,6 +120049,21 @@
       "10186_KunN_col1_S",
       "10186_KunN_col1_M",
       "10186_KunN_col1_D"
+    ]
+  },
+  "00059492": {
+    "upkId": "00059492",
+    "code": "10188",
+    "core": "10188_KunN",
+    "race": "KunN",
+    "col1Material": "00059493",
+    "texture": "00059494",
+    "textureObjs": [
+      "10188_KunN_Col1_N",
+      "10188_KunN_Col1_M",
+      "10188_KunN_Col1_D",
+      "10188_KunN_Col1_S",
+      "10188_KunN_Col1_E"
     ]
   },
   "00059497": {
@@ -119931,6 +120240,21 @@
       "JinM_121_n"
     ]
   },
+  "00059571": {
+    "upkId": "00059571",
+    "code": "10188",
+    "core": "10188_LynF",
+    "race": "LynF",
+    "col1Material": "00059572",
+    "texture": "00059573",
+    "textureObjs": [
+      "10188_LynF_Col1_N",
+      "10188_LynF_Col1_M",
+      "10188_LynF_Col1_D",
+      "10188_LynF_Col1_S",
+      "10188_LynF_Col1_E"
+    ]
+  },
   "00059574": {
     "upkId": "00059574",
     "code": "130153",
@@ -119944,6 +120268,42 @@
       "130153_Autoscale_col1_D",
       "130153_Autoscale_col1_S",
       "130153_Autoscale_col1_E"
+    ]
+  },
+  "00059576": {
+    "upkId": "00059576",
+    "code": "010143",
+    "core": "010143_LynF",
+    "race": "LynF",
+    "col1Material": "00059374",
+    "texture": "00059206",
+    "textureObjs": [
+      "010143_JinM_col1_N",
+      "010143_JinM_col1_M",
+      "010143_JinM_col1_D",
+      "010143_JinM_col1_S"
+    ]
+  },
+  "00059578": {
+    "upkId": "00059578",
+    "code": "040363",
+    "core": "040363_LynF",
+    "race": "LynF",
+    "col1Material": null,
+    "texture": null
+  },
+  "00059580": {
+    "upkId": "00059580",
+    "code": "090184",
+    "core": "090184_LynF",
+    "race": "LynF",
+    "col1Material": "00059379",
+    "texture": "00059211",
+    "textureObjs": [
+      "090184_JinM_col1_N",
+      "090184_JinM_col1_M",
+      "090184_JinM_col1_D",
+      "090184_JinM_col1_S"
     ]
   },
   "00059582": {
@@ -120518,6 +120878,20 @@
       "10101_LynF_col2_S"
     ]
   },
+  "00059752": {
+    "upkId": "00059752",
+    "code": "10079",
+    "core": "10079_JinM",
+    "race": "JinM",
+    "col1Material": "00059753",
+    "texture": "00042363",
+    "textureObjs": [
+      "10079_JinM_col10_N",
+      "10079_JinM_col10_S",
+      "10079_JinM_col10_M",
+      "10079_JinM_col10_D"
+    ]
+  },
   "00059759": {
     "upkId": "00059759",
     "code": "10187",
@@ -120573,6 +120947,20 @@
       "030348_Autoscale_col1_D",
       "030348_Autoscale_col1_S",
       "Weapon_030348_col1_E"
+    ]
+  },
+  "00059787": {
+    "upkId": "00059787",
+    "code": "10079",
+    "core": "10079_JinF",
+    "race": "JinF",
+    "col1Material": "00059788",
+    "texture": "00042367",
+    "textureObjs": [
+      "10079_JinF_col10_N",
+      "10079_JinF_col10_S",
+      "10079_JinF_col10_M",
+      "10079_JinF_col10_D"
     ]
   },
   "00059806": {
@@ -120797,6 +121185,34 @@
       "060055_JinF_Hair_N"
     ]
   },
+  "00059895": {
+    "upkId": "00059895",
+    "code": "10193",
+    "core": "10193_JinM",
+    "race": "JinM",
+    "col1Material": "00059897",
+    "texture": "00059896",
+    "textureObjs": [
+      "10193_JinM_col1_N",
+      "10193_JinM_col1_S",
+      "10193_JinM_col1_M",
+      "10193_JinM_col1_D"
+    ]
+  },
+  "00059900": {
+    "upkId": "00059900",
+    "code": "040366",
+    "core": "040366_JinM",
+    "race": "JinM",
+    "col1Material": "00059902",
+    "texture": "00008702",
+    "textureObjs": [
+      "N",
+      "D",
+      "S",
+      "M"
+    ]
+  },
   "00059916": {
     "upkId": "00059916",
     "code": "10186",
@@ -120964,6 +121380,215 @@
       "10182_GonM_col10_D"
     ]
   },
+  "00059989": {
+    "upkId": "00059989",
+    "code": "10197",
+    "core": "10197_JinM",
+    "race": "JinM",
+    "col1Material": "00059991",
+    "texture": "00059990",
+    "textureObjs": [
+      "10197_JinM_col1_N",
+      "10197_JinM_col1_E",
+      "10197_JinM_col1_S",
+      "10197_JinM_col1_M",
+      "10197_JinM_col1_D"
+    ]
+  },
+  "00059993": {
+    "upkId": "00059993",
+    "code": "10197",
+    "core": "10197_JinF",
+    "race": "JinF",
+    "col1Material": "00059995",
+    "texture": "00059994",
+    "textureObjs": [
+      "10197_JinF_col1_N",
+      "10197_JinF_col1_E",
+      "10197_JinF_col1_S",
+      "10197_JinF_col1_M",
+      "10197_JinF_col1_D"
+    ]
+  },
+  "00059998": {
+    "upkId": "00059998",
+    "code": "040367",
+    "core": "040367_JinM",
+    "race": "JinM",
+    "col1Material": "00060000",
+    "texture": "00029379",
+    "textureObjs": [
+      "JinM_049_col1_D",
+      "JinM_049_col1_N"
+    ]
+  },
+  "00060002": {
+    "upkId": "00060002",
+    "code": "040367",
+    "core": "040367_JinF",
+    "race": "JinF",
+    "col1Material": "00060004",
+    "texture": "00013437",
+    "textureObjs": [
+      "JinF_028_col1_D",
+      "JinF_028_col1_N"
+    ]
+  },
+  "00060007": {
+    "upkId": "00060007",
+    "code": "010145",
+    "core": "010145_JinM",
+    "race": "JinM",
+    "col1Material": "00060009",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060011": {
+    "upkId": "00060011",
+    "code": "010145",
+    "core": "010145_JinF",
+    "race": "JinF",
+    "col1Material": "00060013",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060032": {
+    "upkId": "00060032",
+    "code": "10197",
+    "core": "10197_GonF",
+    "race": "GonF",
+    "col1Material": "00060034",
+    "texture": "00060033",
+    "textureObjs": [
+      "10197_GonF_col1_N",
+      "10197_GonF_col1_E",
+      "10197_GonF_col1_S",
+      "10197_GonF_col1_M",
+      "10197_GonF_col1_D"
+    ]
+  },
+  "00060036": {
+    "upkId": "00060036",
+    "code": "10193",
+    "core": "10193_GonM",
+    "race": "GonM",
+    "col1Material": "00060038",
+    "texture": "00060037",
+    "textureObjs": [
+      "10193_GonM_col1_N",
+      "10193_GonM_col1_S",
+      "10193_GonM_col1_M",
+      "10193_GonM_col1_D"
+    ]
+  },
+  "00060041": {
+    "upkId": "00060041",
+    "code": "010145",
+    "core": "010145_GonF",
+    "race": "GonF",
+    "col1Material": "00060013",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060046": {
+    "upkId": "00060046",
+    "code": "040367",
+    "core": "040367_GonF",
+    "race": "GonF",
+    "col1Material": "00060004",
+    "texture": "00013437",
+    "textureObjs": [
+      "JinF_028_col1_D",
+      "JinF_028_col1_N"
+    ]
+  },
+  "00060051": {
+    "upkId": "00060051",
+    "code": "040366",
+    "core": "040366_GonM",
+    "race": "GonM",
+    "col1Material": "00060053",
+    "texture": "00017896",
+    "textureObjs": [
+      "ddd_n",
+      "ddd_D"
+    ]
+  },
+  "00060066": {
+    "upkId": "00060066",
+    "code": "10197",
+    "core": "10197_KunN",
+    "race": "KunN",
+    "col1Material": "00060068",
+    "texture": "00060067",
+    "textureObjs": [
+      "10197_KunN_col1_N",
+      "10197_KunN_col1_E",
+      "10197_KunN_col1_S",
+      "10197_KunN_col1_M",
+      "10197_KunN_col1_D"
+    ]
+  },
+  "00060071": {
+    "upkId": "00060071",
+    "code": "010145",
+    "core": "010145_KunN",
+    "race": "KunN",
+    "col1Material": "00060013",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060076": {
+    "upkId": "00060076",
+    "code": "040367",
+    "core": "040367_KunN",
+    "race": "KunN",
+    "col1Material": "00060004",
+    "texture": "00013437",
+    "textureObjs": [
+      "JinF_028_col1_D",
+      "JinF_028_col1_N"
+    ]
+  },
+  "00060081": {
+    "upkId": "00060081",
+    "code": "10195",
+    "core": "10195_JinF",
+    "race": "JinF",
+    "col1Material": "00060083",
+    "texture": "00060082",
+    "textureObjs": [
+      "10195_JinF_col1_N",
+      "10195_JinF_col1_E",
+      "10195_JinF_col1_S",
+      "10195_JinF_col1_M",
+      "10195_JinF_col1_D"
+    ]
+  },
   "00060085": {
     "upkId": "00060085",
     "code": "10191",
@@ -121016,6 +121641,74 @@
       "10191_LynM_col1_D"
     ]
   },
+  "00060164": {
+    "upkId": "00060164",
+    "code": "10193",
+    "core": "10193_LynM",
+    "race": "LynM",
+    "col1Material": "00060165",
+    "texture": "00060163",
+    "textureObjs": [
+      "10193_LynM_col1_N",
+      "10193_LynM_col1_S",
+      "10193_LynM_col1_M",
+      "10193_LynM_col1_D"
+    ]
+  },
+  "00060167": {
+    "upkId": "00060167",
+    "code": "040366",
+    "core": "040366_LynM",
+    "race": "LynM",
+    "col1Material": "00060168",
+    "texture": "00019979",
+    "textureObjs": [
+      "JinF_042_col1_D",
+      "JinF_042_col1_N"
+    ]
+  },
+  "00060194": {
+    "upkId": "00060194",
+    "code": "10197",
+    "core": "10197_LynF",
+    "race": "LynF",
+    "col1Material": "00060196",
+    "texture": "00060195",
+    "textureObjs": [
+      "10197_LynF_col1_N",
+      "10197_LynF_col1_E",
+      "10197_LynF_col1_S",
+      "10197_LynF_col1_M",
+      "10197_LynF_col1_D"
+    ]
+  },
+  "00060199": {
+    "upkId": "00060199",
+    "code": "010145",
+    "core": "010145_LynF",
+    "race": "LynF",
+    "col1Material": "00060013",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060204": {
+    "upkId": "00060204",
+    "code": "040367",
+    "core": "040367_LynF",
+    "race": "LynF",
+    "col1Material": "00060004",
+    "texture": "00013437",
+    "textureObjs": [
+      "JinF_028_col1_D",
+      "JinF_028_col1_N"
+    ]
+  },
   "00060215": {
     "upkId": "00060215",
     "code": "040365",
@@ -121040,6 +121733,32 @@
       "10191_JinF_col1_S",
       "10191_JinF_col1_M",
       "10191_JinF_col1_D"
+    ]
+  },
+  "00060293": {
+    "upkId": "00060293",
+    "code": "10193",
+    "core": "10193_JinF",
+    "race": "JinF",
+    "col1Material": "00060292",
+    "texture": "00060291",
+    "textureObjs": [
+      "10193_JinF_col1_N",
+      "10193_JinF_col1_S",
+      "10193_JinF_col1_M",
+      "10193_JinF_col1_D"
+    ]
+  },
+  "00060296": {
+    "upkId": "00060296",
+    "code": "040366",
+    "core": "040366_JinF",
+    "race": "JinF",
+    "col1Material": "00060298",
+    "texture": "00009888",
+    "textureObjs": [
+      "LynF_006_col1_d",
+      "LynF_006_col1_N"
     ]
   },
   "00060308": {
@@ -121076,6 +121795,21 @@
     "textureObjs": [
       "JinF_034_col1_D",
       "JinF_034_col1_N"
+    ]
+  },
+  "00060329": {
+    "upkId": "00060329",
+    "code": "10195",
+    "core": "10195_GonF",
+    "race": "GonF",
+    "col1Material": "00060330",
+    "texture": "00060331",
+    "textureObjs": [
+      "10195_GonF_col1_N",
+      "10195_GonF_col1_E",
+      "10195_GonF_col1_S",
+      "10195_GonF_col1_M",
+      "10195_GonF_col1_D"
     ]
   },
   "00060344": {
@@ -121160,6 +121894,21 @@
       "10191_KunN_col1_D"
     ]
   },
+  "00060381": {
+    "upkId": "00060381",
+    "code": "10195",
+    "core": "10195_KunN",
+    "race": "KunN",
+    "col1Material": "00060382",
+    "texture": "00060383",
+    "textureObjs": [
+      "10195_KunN_col1_N",
+      "10195_KunN_col1_E",
+      "10195_KunN_col1_S",
+      "10195_KunN_col1_M",
+      "10195_KunN_col1_D"
+    ]
+  },
   "00060387": {
     "upkId": "00060387",
     "code": "10194",
@@ -121214,6 +121963,21 @@
       "10198_JinF_col1_D"
     ]
   },
+  "00060406": {
+    "upkId": "00060406",
+    "code": "10195",
+    "core": "10195_LynF",
+    "race": "LynF",
+    "col1Material": "00060407",
+    "texture": "00060408",
+    "textureObjs": [
+      "10195_LynF_col1_N",
+      "10195_LynF_col1_E",
+      "10195_LynF_col1_S",
+      "10195_LynF_col1_M",
+      "10195_LynF_col1_D"
+    ]
+  },
   "00060415": {
     "upkId": "00060415",
     "code": "10198",
@@ -121240,6 +122004,48 @@
       "10198_GonM_col1_S",
       "10198_GonM_col1_M",
       "10198_GonM_col1_D"
+    ]
+  },
+  "00060426": {
+    "upkId": "00060426",
+    "code": "10197",
+    "core": "10197_GonM",
+    "race": "GonM",
+    "col1Material": "00060428",
+    "texture": "00060427",
+    "textureObjs": [
+      "10197_GonM_col1_N",
+      "10197_GonM_col1_E",
+      "10197_GonM_col1_S",
+      "10197_GonM_col1_M",
+      "10197_GonM_col1_D"
+    ]
+  },
+  "00060431": {
+    "upkId": "00060431",
+    "code": "010145",
+    "core": "010145_GonM",
+    "race": "GonM",
+    "col1Material": "00060009",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060436": {
+    "upkId": "00060436",
+    "code": "040367",
+    "core": "040367_GonM",
+    "race": "GonM",
+    "col1Material": "00060000",
+    "texture": "00029379",
+    "textureObjs": [
+      "JinM_049_col1_D",
+      "JinM_049_col1_N"
     ]
   },
   "00060439": {
@@ -121340,6 +122146,63 @@
       "090181_JinF_Col10_D"
     ]
   },
+  "00060459": {
+    "upkId": "00060459",
+    "code": "10197",
+    "core": "10197_LynM",
+    "race": "LynM",
+    "col1Material": "00060461",
+    "texture": "00060460",
+    "textureObjs": [
+      "10197_LynM_col1_N",
+      "10197_LynM_col1_E",
+      "10197_LynM_col1_S",
+      "10197_LynM_col1_M",
+      "10197_LynM_col1_D"
+    ]
+  },
+  "00060464": {
+    "upkId": "00060464",
+    "code": "010145",
+    "core": "010145_LynM",
+    "race": "LynM",
+    "col1Material": "00060009",
+    "texture": "00059999",
+    "textureObjs": [
+      "040367_JinM_col1_N",
+      "040367_JinM_col1_E",
+      "040367_JinM_col1_S",
+      "040367_JinM_col1_M",
+      "040367_JinM_col1_D"
+    ]
+  },
+  "00060469": {
+    "upkId": "00060469",
+    "code": "040367",
+    "core": "040367_LynM",
+    "race": "LynM",
+    "col1Material": "00060000",
+    "texture": "00029379",
+    "textureObjs": [
+      "JinM_049_col1_D",
+      "JinM_049_col1_N"
+    ]
+  },
+  "00060564": {
+    "upkId": "00060564",
+    "code": "10195",
+    "core": "10195_JinM",
+    "race": "JinM",
+    "col1Material": "00060566",
+    "texture": "00060565",
+    "textureObjs": [
+      "10195_JinM_col1_N",
+      "10195_JinM_col1_E",
+      "10195_JinM_col1_S",
+      "10195_JinM_col1_M",
+      "10195_JinM_col1_D"
+    ]
+  },
   "00060602": {
     "upkId": "00060602",
     "code": "10198",
@@ -121366,6 +122229,55 @@
       "10198_GonF_col1_S",
       "10198_GonF_col1_M",
       "10198_GonF_col1_D"
+    ]
+  },
+  "00060617": {
+    "upkId": "00060617",
+    "code": "010381",
+    "core": "010381_Autoscale",
+    "race": null,
+    "col1Material": "00060619",
+    "texture": "00060618",
+    "textureObjs": [
+      "010381_Autoscale_col1_N",
+      "010381_Autoscale_col1_M",
+      "010381_Autoscale_col1_D",
+      "010381_Autoscale_col1_S",
+      "010381_Autoscale_col1_E"
+    ]
+  },
+  "00060647": {
+    "upkId": "00060647",
+    "code": "10079",
+    "core": "10079_GonM",
+    "race": "GonM",
+    "col1Material": "00060648",
+    "texture": "00042371",
+    "textureObjs": [
+      "10079_GonM_col10_N",
+      "10079_GonM_col10_S",
+      "10079_GonM_col10_M",
+      "10079_GonM_col10_D"
+    ]
+  },
+  "00060669": {
+    "upkId": "00060669",
+    "code": "10199",
+    "core": "10199_JinF",
+    "race": "JinF",
+    "col1Material": null,
+    "texture": null
+  },
+  "00060674": {
+    "upkId": "00060674",
+    "code": "040368",
+    "core": "040368_JinF",
+    "race": "JinF",
+    "col1Material": "00060678",
+    "texture": "00030016",
+    "textureObjs": [
+      "JinF_052_col1_D",
+      "JinF_052_col1_N"
     ]
   },
   "00060681": {
@@ -121446,6 +122358,62 @@
       "JinF_102_Col1_N"
     ]
   },
+  "00060739": {
+    "upkId": "00060739",
+    "code": "10201",
+    "core": "10201_JinF",
+    "race": "JinF",
+    "col1Material": "00060741",
+    "texture": "00060740",
+    "textureObjs": [
+      "10201_JinF_col1_N",
+      "10201_JinF_col1_S",
+      "10201_JinF_col1_M",
+      "10201_JinF_col1_D"
+    ]
+  },
+  "00060744": {
+    "upkId": "00060744",
+    "code": "040370",
+    "core": "040370_JinF",
+    "race": "JinF",
+    "col1Material": "00060746",
+    "texture": "00002617",
+    "textureObjs": [
+      "JinF_001_col1_D",
+      "JinF_001_col1_N"
+    ]
+  },
+  "00060748": {
+    "upkId": "00060748",
+    "code": "10195",
+    "core": "10195_LynM",
+    "race": "LynM",
+    "col1Material": "00060750",
+    "texture": "00060749",
+    "textureObjs": [
+      "10195_LynM_col1_N",
+      "10195_LynM_col1_E",
+      "10195_LynM_col1_S",
+      "10195_LynM_col1_M",
+      "10195_LynM_col1_D"
+    ]
+  },
+  "00060766": {
+    "upkId": "00060766",
+    "code": "10195",
+    "core": "10195_GonM",
+    "race": "GonM",
+    "col1Material": "00060768",
+    "texture": "00060767",
+    "textureObjs": [
+      "10195_GonM_col1_N",
+      "10195_GonM_col1_E",
+      "10195_GonM_col1_S",
+      "10195_GonM_col1_M",
+      "10195_GonM_col1_D"
+    ]
+  },
   "00060805": {
     "upkId": "00060805",
     "code": "060289",
@@ -121458,6 +122426,51 @@
       "060289_Autoscale_col1_M",
       "060289_Autoscale_col1_D",
       "060289_Autoscale_col1_S"
+    ]
+  },
+  "00060815": {
+    "upkId": "00060815",
+    "code": "070011",
+    "core": "070011_Autoscale_L",
+    "race": null,
+    "col1Material": "00060797",
+    "texture": "00046291",
+    "textureObjs": [
+      "070011_Autoscale_col1_N",
+      "070011_Autoscale_col20_M",
+      "070011_Autoscale_col20_D",
+      "070011_Autoscale_col20_S",
+      "070011_Autoscale_col20_E"
+    ]
+  },
+  "00060819": {
+    "upkId": "00060819",
+    "code": "130001",
+    "core": "130001_Autoscale",
+    "race": null,
+    "col1Material": "00060798",
+    "texture": "00054292",
+    "textureObjs": [
+      "130001_Autoscale_col16_N",
+      "130001_Autoscale_col20_M",
+      "130001_Autoscale_col20_D",
+      "130001_Autoscale_col20_S",
+      "130001_Autoscale_col20_E"
+    ]
+  },
+  "00060827": {
+    "upkId": "00060827",
+    "code": "090185",
+    "core": "090185_JinF",
+    "race": "JinF",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
     ]
   },
   "00060831": {
@@ -121475,6 +122488,532 @@
       "110282_Autoscale_col1_E"
     ]
   },
+  "00060885": {
+    "upkId": "00060885",
+    "code": "10193",
+    "core": "10193_GonF",
+    "race": "GonF",
+    "col1Material": "00060887",
+    "texture": "00060886",
+    "textureObjs": [
+      "10193_GonF_col1_N",
+      "10193_GonF_col1_S",
+      "10193_GonF_col1_M",
+      "10193_GonF_col1_D"
+    ]
+  },
+  "00060891": {
+    "upkId": "00060891",
+    "code": "10193",
+    "core": "10193_KunN",
+    "race": "KunN",
+    "col1Material": "00060893",
+    "texture": "00060892",
+    "textureObjs": [
+      "10193_KunN_col1_N",
+      "10193_KunN_col1_S",
+      "10193_KunN_col1_M",
+      "10193_KunN_col1_D"
+    ]
+  },
+  "00060895": {
+    "upkId": "00060895",
+    "code": "10193",
+    "core": "10193_LynF",
+    "race": "LynF",
+    "col1Material": "00060897",
+    "texture": "00060896",
+    "textureObjs": [
+      "10193_LynF_col1_N",
+      "10193_LynF_col1_S",
+      "10193_LynF_col1_M",
+      "10193_LynF_col1_D"
+    ]
+  },
+  "00060918": {
+    "upkId": "00060918",
+    "code": "090185",
+    "core": "090185_JinM",
+    "race": "JinM",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00060942": {
+    "upkId": "00060942",
+    "code": "060057",
+    "core": "060057_JinM",
+    "race": "JinM",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060943": {
+    "upkId": "00060943",
+    "code": "060057",
+    "core": "060057_JinF",
+    "race": "JinF",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060944": {
+    "upkId": "00060944",
+    "code": "060057",
+    "core": "060057_GonM",
+    "race": "GonM",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060945": {
+    "upkId": "00060945",
+    "code": "060057",
+    "core": "060057_GonF",
+    "race": "GonF",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060946": {
+    "upkId": "00060946",
+    "code": "060057",
+    "core": "060057_KunN",
+    "race": "KunN",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060947": {
+    "upkId": "00060947",
+    "code": "060057",
+    "core": "060057_LynM",
+    "race": "LynM",
+    "col1Material": "00060964",
+    "texture": "00060963",
+    "textureObjs": [
+      "060013_LynM_Col1_N",
+      "060013_LynM_Col1_D",
+      "060013_LynM_Col1_S"
+    ]
+  },
+  "00060956": {
+    "upkId": "00060956",
+    "code": "060058",
+    "core": "060058_JinF",
+    "race": "JinF",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060957": {
+    "upkId": "00060957",
+    "code": "060058",
+    "core": "060058_GonM",
+    "race": "GonM",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060958": {
+    "upkId": "00060958",
+    "code": "060058",
+    "core": "060058_GonF",
+    "race": "GonF",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060959": {
+    "upkId": "00060959",
+    "code": "060058",
+    "core": "060058_KunN",
+    "race": "KunN",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060960": {
+    "upkId": "00060960",
+    "code": "060058",
+    "core": "060058_LynM",
+    "race": "LynM",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060965": {
+    "upkId": "00060965",
+    "code": "060058",
+    "core": "060058_JinM",
+    "race": "JinM",
+    "col1Material": "00060962",
+    "texture": "00060961",
+    "textureObjs": [
+      "060058_LynM_Col1_N",
+      "060058_LynM_Col1_D",
+      "060058_LynM_Col1_S"
+    ]
+  },
+  "00060971": {
+    "upkId": "00060971",
+    "code": "10199",
+    "core": "10199_JinM",
+    "race": "JinM",
+    "col1Material": "00060973",
+    "texture": "00060972",
+    "textureObjs": [
+      "10199_JinM_col1_N",
+      "10199_JinM_col1_S",
+      "10199_JinM_col1_M",
+      "10199_JinM_col1_D"
+    ]
+  },
+  "00060975": {
+    "upkId": "00060975",
+    "code": "10199",
+    "core": "10199_GonM",
+    "race": "GonM",
+    "col1Material": "00060977",
+    "texture": "00060976",
+    "textureObjs": [
+      "10199_GonM_col1_N",
+      "10199_GonM_col1_S",
+      "10199_GonM_col1_M",
+      "10199_GonM_col1_D"
+    ]
+  },
+  "00060979": {
+    "upkId": "00060979",
+    "code": "10199",
+    "core": "10199_LynM",
+    "race": "LynM",
+    "col1Material": "00060981",
+    "texture": "00060980",
+    "textureObjs": [
+      "10199_LynM_col1_N",
+      "10199_LynM_col1_S",
+      "10199_LynM_col1_M",
+      "10199_LynM_col1_D"
+    ]
+  },
+  "00060992": {
+    "upkId": "00060992",
+    "code": "040368",
+    "core": "040368_JinM",
+    "race": "JinM",
+    "col1Material": "00060994",
+    "texture": "00014099",
+    "textureObjs": [
+      "JinM_026_col1_D",
+      "JinM_026_col1_N"
+    ]
+  },
+  "00060996": {
+    "upkId": "00060996",
+    "code": "040368",
+    "core": "040368_GonM",
+    "race": "GonM",
+    "col1Material": "00060998",
+    "texture": "00014099",
+    "textureObjs": [
+      "JinM_026_col1_D",
+      "JinM_026_col1_N"
+    ]
+  },
+  "00061000": {
+    "upkId": "00061000",
+    "code": "040368",
+    "core": "040368_LynM",
+    "race": "LynM",
+    "col1Material": "00061002",
+    "texture": "00043484",
+    "textureObjs": [
+      "JinM_114_col1_D",
+      "JinM_114_col1_N"
+    ]
+  },
+  "00061013": {
+    "upkId": "00061013",
+    "code": "040366",
+    "core": "040366_GonF",
+    "race": "GonF",
+    "col1Material": "00061014",
+    "texture": "00009888",
+    "textureObjs": [
+      "LynF_006_col1_d",
+      "LynF_006_col1_N"
+    ]
+  },
+  "00061015": {
+    "upkId": "00061015",
+    "code": "040366",
+    "core": "040366_KunN",
+    "race": "KunN",
+    "col1Material": "00061016",
+    "texture": "00009888",
+    "textureObjs": [
+      "LynF_006_col1_d",
+      "LynF_006_col1_N"
+    ]
+  },
+  "00061017": {
+    "upkId": "00061017",
+    "code": "040366",
+    "core": "040366_LynF",
+    "race": "LynF",
+    "col1Material": "00061018",
+    "texture": "00009888",
+    "textureObjs": [
+      "LynF_006_col1_d",
+      "LynF_006_col1_N"
+    ]
+  },
+  "00061026": {
+    "upkId": "00061026",
+    "code": "020375",
+    "core": "020375_Autoscale_L",
+    "race": null,
+    "col1Material": "00061028",
+    "texture": "00061027",
+    "textureObjs": [
+      "020375_Autoscale_col1_N",
+      "020375_Autoscale_col1_M",
+      "020375_Autoscale_col1_D",
+      "020375_Autoscale_col1_S"
+    ]
+  },
+  "00061062": {
+    "upkId": "00061062",
+    "code": "070163",
+    "core": "070163_Autoscale_L",
+    "race": null,
+    "col1Material": "00061064",
+    "texture": "00061063",
+    "textureObjs": [
+      "070163_Autoscale_col1_N",
+      "070163_Autoscale_col1_M",
+      "070163_Autoscale_col1_D",
+      "070163_Autoscale_col1_S",
+      "070163_Autoscale_col1_E"
+    ]
+  },
+  "00061078": {
+    "upkId": "00061078",
+    "code": "10079",
+    "core": "10079_LynM",
+    "race": "LynM",
+    "col1Material": "00061079",
+    "texture": "00042383",
+    "textureObjs": [
+      "10079_LynM_col10_N",
+      "10079_LynM_col10_S",
+      "10079_LynM_col10_M",
+      "10079_LynM_col10_D"
+    ]
+  },
+  "00061096": {
+    "upkId": "00061096",
+    "code": "060288",
+    "core": "060288_Autoscale",
+    "race": null,
+    "col1Material": "00061098",
+    "texture": "00061097",
+    "textureObjs": [
+      "060288_Autoscale_col1_N",
+      "060288_Autoscale_col1_M",
+      "060288_Autoscale_col1_D",
+      "060288_Autoscale_col1_S",
+      "060288_Autoscale_col1_E"
+    ]
+  },
+  "00061118": {
+    "upkId": "00061118",
+    "code": "040368",
+    "core": "040368_GonF",
+    "race": "GonF",
+    "col1Material": "00061119",
+    "texture": "00030016",
+    "textureObjs": [
+      "JinF_052_col1_D",
+      "JinF_052_col1_N"
+    ]
+  },
+  "00061136": {
+    "upkId": "00061136",
+    "code": "090185",
+    "core": "090185_GonM",
+    "race": "GonM",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00061137": {
+    "upkId": "00061137",
+    "code": "090185",
+    "core": "090185_GonF",
+    "race": "GonF",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00061140": {
+    "upkId": "00061140",
+    "code": "090185",
+    "core": "090185_LynF",
+    "race": "LynF",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00061141": {
+    "upkId": "00061141",
+    "code": "090185",
+    "core": "090185_LynM",
+    "race": "LynM",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00061143": {
+    "upkId": "00061143",
+    "code": "090185",
+    "core": "090185_kunN",
+    "race": "KunN",
+    "col1Material": "00060829",
+    "texture": "00060828",
+    "textureObjs": [
+      "090185_JinF_col1_N",
+      "090185_JinF_col1_S",
+      "090185_JinF_col1_M",
+      "090185_JinF_col1_D",
+      "090185_JinF_col1_E"
+    ]
+  },
+  "00061151": {
+    "upkId": "00061151",
+    "code": "040368",
+    "core": "040368_kunN",
+    "race": "KunN",
+    "col1Material": "00061152",
+    "texture": "00030016",
+    "textureObjs": [
+      "JinF_052_col1_D",
+      "JinF_052_col1_N"
+    ]
+  },
+  "00061160": {
+    "upkId": "00061160",
+    "code": "040368",
+    "core": "040368_LynF",
+    "race": "LynF",
+    "col1Material": "00061161",
+    "texture": "00030016",
+    "textureObjs": [
+      "JinF_052_col1_D",
+      "JinF_052_col1_N"
+    ]
+  },
+  "00061175": {
+    "upkId": "00061175",
+    "code": "110281",
+    "core": "110281_Autoscale",
+    "race": null,
+    "col1Material": "00061177",
+    "texture": "00061176",
+    "textureObjs": [
+      "110281_Autoscale_col1_N",
+      "110281_Autoscale_col1_M",
+      "110281_Autoscale_col1_D",
+      "110281_Autoscale_col1_S",
+      "110281_Autoscale_col1_E"
+    ]
+  },
+  "00061195": {
+    "upkId": "00061195",
+    "code": "130157",
+    "core": "130157_Autoscale",
+    "race": null,
+    "col1Material": "00061197",
+    "texture": "00061196",
+    "textureObjs": [
+      "130157_Autoscale_col1_N",
+      "130157_Autoscale_col1_M",
+      "130157_Autoscale_col1_D",
+      "130157_Autoscale_col1_S",
+      "130157_Autoscale_col1_E"
+    ]
+  },
   "00061198": {
     "upkId": "00061198",
     "code": "130018",
@@ -121488,6 +123027,20 @@
       "130018_Autoscale_col12_D",
       "130018_Autoscale_col12_S",
       "130018_Autoscale_col12_E"
+    ]
+  },
+  "00061215": {
+    "upkId": "00061215",
+    "code": "010386",
+    "core": "010386_Autoscale",
+    "race": null,
+    "col1Material": "00061217",
+    "texture": "00061216",
+    "textureObjs": [
+      "v010386_Autoscale_col1_N",
+      "010386_Autoscale_col1_M",
+      "010386_Autoscale_col1_D",
+      "010386_Autoscale_col1_S"
     ]
   },
   "00061221": {
@@ -121518,6 +123071,72 @@
       "130158_Autoscale_col1_D",
       "130158_Autoscale_col1_S",
       "130158_Autoscale_col1_E"
+    ]
+  },
+  "00061233": {
+    "upkId": "00061233",
+    "code": "030375",
+    "core": "030375_Col1_T0_Autoscale",
+    "race": null,
+    "col1Material": "00061235",
+    "texture": "00061234",
+    "textureObjs": [
+      "030375_Autoscale_col1_N",
+      "030375_Autoscale_col1_M",
+      "030375_Autoscale_col1_D",
+      "030375_Autoscale_col1_S"
+    ]
+  },
+  "00061238": {
+    "upkId": "00061238",
+    "code": "10205",
+    "core": "10205_JinM",
+    "race": "JinM",
+    "col1Material": "00061240",
+    "texture": "00061239",
+    "textureObjs": [
+      "10205_JinM_col1_N",
+      "10205_JinM_col1_S",
+      "10205_JinM_col1_M",
+      "10205_JinM_col1_D"
+    ]
+  },
+  "00061242": {
+    "upkId": "00061242",
+    "code": "10205",
+    "core": "10205_JinF",
+    "race": "JinF",
+    "col1Material": "00061244",
+    "texture": "00061243",
+    "textureObjs": [
+      "10205_JinF_col1_N",
+      "10205_JinF_col1_S",
+      "10205_JinF_col1_M",
+      "10205_JinF_col1_D"
+    ]
+  },
+  "00061247": {
+    "upkId": "00061247",
+    "code": "040374",
+    "core": "040374_JinM",
+    "race": "JinM",
+    "col1Material": "00061498",
+    "texture": "00007370",
+    "textureObjs": [
+      "JinM_007_col1_d",
+      "JinM_007_col1_n"
+    ]
+  },
+  "00061251": {
+    "upkId": "00061251",
+    "code": "040374",
+    "core": "040374_JinF",
+    "race": "JinF",
+    "col1Material": "00061253",
+    "texture": "00061252",
+    "textureObjs": [
+      "040374_JinF_hair_col1_D",
+      "040374_JinF_hair_col1_N"
     ]
   },
   "00061257": {
@@ -121559,6 +123178,21 @@
       "040369_JinF_Col1_D"
     ]
   },
+  "00061272": {
+    "upkId": "00061272",
+    "code": "120283",
+    "core": "120283_1_Autoscale",
+    "race": null,
+    "col1Material": "00061274",
+    "texture": "00061273",
+    "textureObjs": [
+      "120283_Autoscale_col1_N",
+      "120283_Autoscale_col1_M",
+      "120283_Autoscale_col1_D",
+      "120283_Autoscale_col1_S",
+      "120283_Autoscale_col1_E"
+    ]
+  },
   "00061279": {
     "upkId": "00061279",
     "code": "020376",
@@ -121585,6 +123219,69 @@
       "030376_Autoscale_col1_M",
       "030376_Autoscale_col1_D",
       "030376_Autoscale_col1_S"
+    ]
+  },
+  "00061288": {
+    "upkId": "00061288",
+    "code": "10204",
+    "core": "10204_JinM",
+    "race": "JinM",
+    "col1Material": "00061290",
+    "texture": "00061288",
+    "textureObjs": [
+      "ClothM_FX"
+    ]
+  },
+  "00061297": {
+    "upkId": "00061297",
+    "code": "010147",
+    "core": "010147_JinM",
+    "race": "JinM",
+    "col1Material": "00061299",
+    "texture": "00061311",
+    "textureObjs": [
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_D"
+    ]
+  },
+  "00061301": {
+    "upkId": "00061301",
+    "code": "010147",
+    "core": "010147_JinF",
+    "race": "JinF",
+    "col1Material": "00061303",
+    "texture": "00061311",
+    "textureObjs": [
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_D"
+    ]
+  },
+  "00061306": {
+    "upkId": "00061306",
+    "code": "040373",
+    "core": "040373_JinM",
+    "race": "JinM",
+    "col1Material": "00061308",
+    "texture": "00051773",
+    "textureObjs": [
+      "JinM_120_col1_D",
+      "JinM_120_col1_N"
+    ]
+  },
+  "00061310": {
+    "upkId": "00061310",
+    "code": "040373",
+    "core": "040373_JinF",
+    "race": "JinF",
+    "col1Material": "00061312",
+    "texture": "00044091",
+    "textureObjs": [
+      "JinF_116_col1_D",
+      "JinF_116_col1_N"
     ]
   },
   "00061321": {
@@ -121735,6 +123432,21 @@
       "070164_Autoscale_col1_S"
     ]
   },
+  "00061474": {
+    "upkId": "00061474",
+    "code": "110284",
+    "core": "110284_Autoscale",
+    "race": null,
+    "col1Material": "00061476",
+    "texture": "00061475",
+    "textureObjs": [
+      "110284_Autoscale_col1_N",
+      "110284_Autoscale_col1_M",
+      "110284_Autoscale_col1_D",
+      "110284_Autoscale_col1_S",
+      "110284_Autoscale_col1_E"
+    ]
+  },
   "00061514": {
     "upkId": "00061514",
     "code": "010382",
@@ -121747,6 +123459,156 @@
       "010382_Autoscale_col1_M",
       "010382_Autoscale_col1_D",
       "010382_Autoscale_col1_S"
+    ]
+  },
+  "00061561": {
+    "upkId": "00061561",
+    "code": "030378",
+    "core": "030378_Col1_T0_Autoscale",
+    "race": null,
+    "col1Material": "00061563",
+    "texture": "00061562",
+    "textureObjs": [
+      "030378_Autoscale_col1_N",
+      "030378_Autoscale_col1_M",
+      "030378_Autoscale_col1_D",
+      "030378_Autoscale_col1_S",
+      "030378_Autoscale_col1_E"
+    ]
+  },
+  "00061576": {
+    "upkId": "00061576",
+    "code": "040374",
+    "core": "040374_GonF",
+    "race": "GonF",
+    "col1Material": "00061578",
+    "texture": "00061252",
+    "textureObjs": [
+      "040374_JinF_hair_col1_D",
+      "040374_JinF_hair_col1_N"
+    ]
+  },
+  "00061580": {
+    "upkId": "00061580",
+    "code": "040374",
+    "core": "040374_KunN",
+    "race": "KunN",
+    "col1Material": "00061253",
+    "texture": "00061252",
+    "textureObjs": [
+      "040374_JinF_hair_col1_D",
+      "040374_JinF_hair_col1_N"
+    ]
+  },
+  "00061584": {
+    "upkId": "00061584",
+    "code": "040374",
+    "core": "040374_LynF",
+    "race": "LynF",
+    "col1Material": "00061253",
+    "texture": "00061252",
+    "textureObjs": [
+      "040374_JinF_hair_col1_D",
+      "040374_JinF_hair_col1_N"
+    ]
+  },
+  "00061599": {
+    "upkId": "00061599",
+    "code": "130160",
+    "core": "130160_Autoscale",
+    "race": null,
+    "col1Material": "00061601",
+    "texture": "00061600",
+    "textureObjs": [
+      "130160_Autoscale_col1_N",
+      "130160_Autoscale_col1_M",
+      "130160_Autoscale_col1_D",
+      "130160_Autoscale_col1_S",
+      "130160_Autoscale_col1_E"
+    ]
+  },
+  "00061625": {
+    "upkId": "00061625",
+    "code": "060059",
+    "core": "060059_JinM",
+    "race": "JinM",
+    "col1Material": "00061627",
+    "texture": "00061626",
+    "textureObjs": [
+      "060059_JinM_col1_D",
+      "060059_JinM_Col1_N"
+    ]
+  },
+  "00061628": {
+    "upkId": "00061628",
+    "code": "060059",
+    "core": "060059_JinF",
+    "race": "JinF",
+    "col1Material": "00061630",
+    "texture": "00015824",
+    "textureObjs": [
+      "KunN_022_col1_D",
+      "KunN_022_col1_N"
+    ]
+  },
+  "00061631": {
+    "upkId": "00061631",
+    "code": "060059",
+    "core": "060059_GonM",
+    "race": "GonM",
+    "col1Material": "00061627",
+    "texture": "00061626",
+    "textureObjs": [
+      "060059_JinM_col1_D",
+      "060059_JinM_Col1_N"
+    ]
+  },
+  "00061634": {
+    "upkId": "00061634",
+    "code": "060059",
+    "core": "060059_GonF",
+    "race": "GonF",
+    "col1Material": "00061630",
+    "texture": "00015824",
+    "textureObjs": [
+      "KunN_022_col1_D",
+      "KunN_022_col1_N"
+    ]
+  },
+  "00061637": {
+    "upkId": "00061637",
+    "code": "060059",
+    "core": "060059_KunN",
+    "race": "KunN",
+    "col1Material": "00061630",
+    "texture": "00015824",
+    "textureObjs": [
+      "KunN_022_col1_D",
+      "KunN_022_col1_N"
+    ]
+  },
+  "00061640": {
+    "upkId": "00061640",
+    "code": "060059",
+    "core": "060059_LynM",
+    "race": "LynM",
+    "col1Material": "00061627",
+    "texture": "00061626",
+    "textureObjs": [
+      "060059_JinM_col1_D",
+      "060059_JinM_Col1_N"
+    ]
+  },
+  "00061643": {
+    "upkId": "00061643",
+    "code": "060059",
+    "core": "060059_LynF",
+    "race": "LynF",
+    "col1Material": "00061630",
+    "texture": "00015824",
+    "textureObjs": [
+      "KunN_022_col1_D",
+      "KunN_022_col1_N"
     ]
   },
   "00061648": {
@@ -121788,5 +123650,658 @@
       "040369_JinF_Col1_M",
       "040369_JinF_Col1_D"
     ]
+  },
+  "00061664": {
+    "upkId": "00061664",
+    "code": "10205",
+    "core": "10205_GonF",
+    "race": "GonF",
+    "col1Material": "00061662",
+    "texture": "00061663",
+    "textureObjs": [
+      "10205_GonF_col1_N",
+      "10205_GonF_col1_S",
+      "10205_GonF_col1_M",
+      "10205_GonF_col1_D"
+    ]
+  },
+  "00061668": {
+    "upkId": "00061668",
+    "code": "070166",
+    "core": "070166_Autoscale_L",
+    "race": null,
+    "col1Material": "00061670",
+    "texture": "00061669",
+    "textureObjs": [
+      "070166_Autoscale_col1_N",
+      "070166_Autoscale_col1_M",
+      "070166_Autoscale_col1_D",
+      "070166_Autoscale_col1_S",
+      "070166_Autoscale_col1_E"
+    ]
+  },
+  "00061691": {
+    "upkId": "00061691",
+    "code": "10201",
+    "core": "10201_GonF",
+    "race": "GonF",
+    "col1Material": "00061959",
+    "texture": "00061692",
+    "textureObjs": [
+      "10201_GonF_col1_N",
+      "10201_GonF_col1_S",
+      "10201_GonF_col1_M",
+      "10201_GonF_col1_D"
+    ]
+  },
+  "00061695": {
+    "upkId": "00061695",
+    "code": "10201",
+    "core": "10201_KunN",
+    "race": "KunN",
+    "col1Material": "00061697",
+    "texture": "00061696",
+    "textureObjs": [
+      "10201_KunN_col1_N",
+      "10201_KunN_col1_S",
+      "10201_KunN_col1_M",
+      "10201_KunN_col1_D"
+    ]
+  },
+  "00061699": {
+    "upkId": "00061699",
+    "code": "10201",
+    "core": "10201_LynF",
+    "race": "LynF",
+    "col1Material": "00061701",
+    "texture": "00061700",
+    "textureObjs": [
+      "10201_LynF_col1_N",
+      "10201_LynF_col1_S",
+      "10201_LynF_col1_M",
+      "10201_LynF_col1_D"
+    ]
+  },
+  "00061707": {
+    "upkId": "00061707",
+    "code": "120286",
+    "core": "120286_1_Autoscale",
+    "race": null,
+    "col1Material": "00061709",
+    "texture": "00061708",
+    "textureObjs": [
+      "120286_Autoscale_col1_N",
+      "120286_Autoscale_col1_M",
+      "120286_Autoscale_col1_D",
+      "120286_Autoscale_col1_S",
+      "120286_Autoscale_col1_E"
+    ]
+  },
+  "00061711": {
+    "upkId": "00061711",
+    "code": "040370",
+    "core": "040370_JinM",
+    "race": "JinM",
+    "col1Material": "00061713",
+    "texture": "00008615",
+    "textureObjs": [
+      "JinM_014_col1_d",
+      "JinM_014_col1_n"
+    ]
+  },
+  "00061719": {
+    "upkId": "00061719",
+    "code": "10201",
+    "core": "10201_JinM",
+    "race": "JinM",
+    "col1Material": "00061721",
+    "texture": "00061720",
+    "textureObjs": [
+      "10201_JinM_col1_N",
+      "10201_JinM_col1_S",
+      "10201_JinM_col1_M",
+      "10201_JinM_col1_D",
+      "10201_JinM_Fur"
+    ]
+  },
+  "00061724": {
+    "upkId": "00061724",
+    "code": "10205",
+    "core": "10205_KunN",
+    "race": "KunN",
+    "col1Material": "00061726",
+    "texture": "00061725",
+    "textureObjs": [
+      "10205_KunN_col1_N",
+      "10205_KunN_col1_S",
+      "10205_KunN_col1_M",
+      "10205_KunN_col1_D"
+    ]
+  },
+  "00061728": {
+    "upkId": "00061728",
+    "code": "10205",
+    "core": "10205_LynF",
+    "race": "LynF",
+    "col1Material": "00061730",
+    "texture": "00061729",
+    "textureObjs": [
+      "10205_LynF_col1_N",
+      "10205_LynF_col1_S",
+      "10205_LynF_col1_M",
+      "10205_LynF_col1_D"
+    ]
+  },
+  "00061763": {
+    "upkId": "00061763",
+    "code": "040370",
+    "core": "040370_GonF",
+    "race": "GonF",
+    "col1Material": "00061765",
+    "texture": "00002617",
+    "textureObjs": [
+      "JinF_001_col1_D",
+      "JinF_001_col1_N"
+    ]
+  },
+  "00061767": {
+    "upkId": "00061767",
+    "code": "040370",
+    "core": "040370_KunN",
+    "race": "KunN",
+    "col1Material": "00061769",
+    "texture": "00002617",
+    "textureObjs": [
+      "JinF_001_col1_D",
+      "JinF_001_col1_N"
+    ]
+  },
+  "00061771": {
+    "upkId": "00061771",
+    "code": "040370",
+    "core": "040370_LynF",
+    "race": "LynF",
+    "col1Material": "00061773",
+    "texture": "00002617",
+    "textureObjs": [
+      "JinF_001_col1_D",
+      "JinF_001_col1_N"
+    ]
+  },
+  "00061779": {
+    "upkId": "00061779",
+    "code": "030208",
+    "core": "030208_Col40_T0_Autoscale",
+    "race": null,
+    "col1Material": "00061778",
+    "texture": "00028622",
+    "textureObjs": [
+      "030198_Autoscale_col1_N",
+      "030198_Autoscale_col1_M",
+      "030198_Autoscale_col1_D",
+      "030198_Autoscale_col1_S",
+      "030198_Autoscale_col1_E"
+    ]
+  },
+  "00061809": {
+    "upkId": "00061809",
+    "code": "010384",
+    "core": "010384_Autoscale",
+    "race": null,
+    "col1Material": "00061811",
+    "texture": "00061810",
+    "textureObjs": [
+      "010384_Autoscale_col1_N",
+      "010384_Autoscale_col1_M",
+      "010384_Autoscale_col1_D",
+      "010384_Autoscale_col1_S",
+      "010384_Autoscale_col1_E"
+    ]
+  },
+  "00061813": {
+    "upkId": "00061813",
+    "code": "020378",
+    "core": "020378_Autoscale_L",
+    "race": null,
+    "col1Material": "00061815",
+    "texture": "00061814",
+    "textureObjs": [
+      "020378_Autoscale_col1_N",
+      "020378_Autoscale_col1_M",
+      "020378_Autoscale_col1_D",
+      "020378_Autoscale_col1_S",
+      "020378_Autoscale_col1_E"
+    ]
+  },
+  "00061817": {
+    "upkId": "00061817",
+    "code": "060291",
+    "core": "060291_Autoscale",
+    "race": null,
+    "col1Material": "00061819",
+    "texture": "00061818",
+    "textureObjs": [
+      "060291_Autoscale_col1_N",
+      "060291_Autoscale_col1_M",
+      "060291_Autoscale_col1_D",
+      "060291_Autoscale_col1_S",
+      "060291_Autoscale_col1_E"
+    ]
+  },
+  "00061835": {
+    "upkId": "00061835",
+    "code": "020380",
+    "core": "020380_Autoscale_L",
+    "race": null,
+    "col1Material": "00061837",
+    "texture": "00061836",
+    "textureObjs": [
+      "020380_Autoscale_col1_N",
+      "020380_Autoscale_col1_M",
+      "020380_Autoscale_col1_D",
+      "020380_Autoscale_col1_S"
+    ]
+  },
+  "00061907": {
+    "upkId": "00061907",
+    "code": "10204",
+    "core": "10204_GonF",
+    "race": "GonF",
+    "col1Material": "00061909",
+    "texture": "00061908",
+    "textureObjs": [
+      "10204_GonF_col1_N",
+      "10204_GonF_col1_S",
+      "10204_GonF_col1_M",
+      "10204_GonF_col1_D"
+    ]
+  },
+  "00061911": {
+    "upkId": "00061911",
+    "code": "10204",
+    "core": "10204_KunN",
+    "race": "KunN",
+    "col1Material": "00061913",
+    "texture": "00061912",
+    "textureObjs": [
+      "10204_KunN_Col1_N",
+      "10204_KunN_Col1_S",
+      "10204_KunN_Col1_M",
+      "10204_KunN_Col1_D"
+    ]
+  },
+  "00061915": {
+    "upkId": "00061915",
+    "code": "10204",
+    "core": "10204_LynF",
+    "race": "LynF",
+    "col1Material": "00061917",
+    "texture": "00061916",
+    "textureObjs": [
+      "10204_LynF_Col1_N",
+      "10204_LynF_Col1_S",
+      "10204_LynF_Col1_M",
+      "10204_LynF_Col1_D"
+    ]
+  },
+  "00061924": {
+    "upkId": "00061924",
+    "code": "010147",
+    "core": "010147_GonF",
+    "race": "GonF",
+    "col1Material": "00061926",
+    "texture": "00061311",
+    "textureObjs": [
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_D"
+    ]
+  },
+  "00061928": {
+    "upkId": "00061928",
+    "code": "010147",
+    "core": "010147_KunN",
+    "race": "KunN",
+    "col1Material": "00061930",
+    "texture": "00061311",
+    "textureObjs": [
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_D"
+    ]
+  },
+  "00061932": {
+    "upkId": "00061932",
+    "code": "010147",
+    "core": "010147_LynF",
+    "race": "LynF",
+    "col1Material": "00061934",
+    "texture": "00061311",
+    "textureObjs": [
+      "040373_JinF_col1_N",
+      "040373_JinF_col1_S",
+      "040373_JinF_col1_M",
+      "040373_JinF_col1_D"
+    ]
+  },
+  "00061937": {
+    "upkId": "00061937",
+    "code": "040373",
+    "core": "040373_GonF",
+    "race": "GonF",
+    "col1Material": "00061939",
+    "texture": "00044091",
+    "textureObjs": [
+      "JinF_116_col1_D",
+      "JinF_116_col1_N"
+    ]
+  },
+  "00061941": {
+    "upkId": "00061941",
+    "code": "040373",
+    "core": "040373_KunN",
+    "race": "KunN",
+    "col1Material": "00061943",
+    "texture": "00044091",
+    "textureObjs": [
+      "JinF_116_col1_D",
+      "JinF_116_col1_N"
+    ]
+  },
+  "00061945": {
+    "upkId": "00061945",
+    "code": "040373",
+    "core": "040373_LynF",
+    "race": "LynF",
+    "col1Material": "00061947",
+    "texture": "00044091",
+    "textureObjs": [
+      "JinF_116_col1_D",
+      "JinF_116_col1_N"
+    ]
+  },
+  "00061960": {
+    "upkId": "00061960",
+    "code": "60120",
+    "core": "60120_JinM",
+    "race": "JinM",
+    "col1Material": "00060905",
+    "texture": "00027396",
+    "textureObjs": [
+      "60120_JinM_col2_N",
+      "60120_JinM_col2_M",
+      "60120_JinM_col2_D",
+      "60120_JinM_col2_S"
+    ]
+  },
+  "00061961": {
+    "upkId": "00061961",
+    "code": "60120",
+    "core": "60120_JinF",
+    "race": "JinF",
+    "col1Material": "00061033",
+    "texture": "00027544",
+    "textureObjs": [
+      "60120_JinF_col2_N",
+      "60120_JinF_col2_M",
+      "60120_JinF_col2_D",
+      "60120_JinF_col2_S"
+    ]
+  },
+  "00061962": {
+    "upkId": "00061962",
+    "code": "60120",
+    "core": "60120_GonM",
+    "race": "GonM",
+    "col1Material": "00061034",
+    "texture": "00035553",
+    "textureObjs": [
+      "60120_GonM_col2_N",
+      "60120_GonM_col2_M",
+      "60120_GonM_col2_D",
+      "60120_GonM_col2_S"
+    ]
+  },
+  "00061963": {
+    "upkId": "00061963",
+    "code": "60120",
+    "core": "60120_GonF",
+    "race": "GonF",
+    "col1Material": "00061035",
+    "texture": "00035556",
+    "textureObjs": [
+      "60120_GonF_col2_N",
+      "60120_GonF_col2_M",
+      "60120_GonF_col2_D",
+      "60120_GonF_col2_S"
+    ]
+  },
+  "00061964": {
+    "upkId": "00061964",
+    "code": "60120",
+    "core": "60120_KunN",
+    "race": "KunN",
+    "col1Material": "00061036",
+    "texture": "00035870",
+    "textureObjs": [
+      "60120_KunN_col2_N",
+      "60120_KunN_col2_M",
+      "60120_KunN_col2_D",
+      "60120_KunN_col2_S"
+    ]
+  },
+  "00061965": {
+    "upkId": "00061965",
+    "code": "60120",
+    "core": "60120_LynM",
+    "race": "LynM",
+    "col1Material": "00061037",
+    "texture": "00035875",
+    "textureObjs": [
+      "60120_LynM_col2_N",
+      "60120_LynM_col2_M",
+      "60120_LynM_col2_D",
+      "60120_LynM_col2_S"
+    ]
+  },
+  "00061966": {
+    "upkId": "00061966",
+    "code": "60120",
+    "core": "60120_LynF",
+    "race": "LynF",
+    "col1Material": "00061038",
+    "texture": "00035878",
+    "textureObjs": [
+      "60120_LynF_col2_N",
+      "60120_LynF_col2_M",
+      "60120_LynF_col2_D",
+      "60120_LynF_col2_S"
+    ]
+  },
+  "00061980": {
+    "upkId": "00061980",
+    "code": "030380",
+    "core": "030380_Col1_T0_Autoscale",
+    "race": null,
+    "col1Material": "00061982",
+    "texture": "00061981",
+    "textureObjs": [
+      "030380_Autoscale_col1_N",
+      "030380_Autoscale_col1_M",
+      "030380_Autoscale_col1_D",
+      "030380_Autoscale_col1_S"
+    ]
+  },
+  "00061984": {
+    "upkId": "00061984",
+    "code": "110286",
+    "core": "110286_Autoscale",
+    "race": null,
+    "col1Material": "00061986",
+    "texture": "00061985",
+    "textureObjs": [
+      "110286_Autoscale_col1_N",
+      "110286_Autoscale_col1_M",
+      "110286_Autoscale_col1_D",
+      "110286_Autoscale_col1_S"
+    ]
+  },
+  "00061989": {
+    "upkId": "00061989",
+    "code": "10205",
+    "core": "10205_GonM",
+    "race": "GonM",
+    "col1Material": "00061991",
+    "texture": "00061990",
+    "textureObjs": [
+      "10205_GonM_col1_N",
+      "10205_GonM_col1_S",
+      "10205_GonM_col1_M",
+      "10205_GonM_col1_D"
+    ]
+  },
+  "00061993": {
+    "upkId": "00061993",
+    "code": "10205",
+    "core": "10205_LynM",
+    "race": "LynM",
+    "col1Material": "00061995",
+    "texture": "00061994",
+    "textureObjs": [
+      "10205_LynM_col1_N",
+      "10205_LynM_col1_S",
+      "10205_LynM_col1_M",
+      "10205_LynM_col1_D"
+    ]
+  },
+  "00061997": {
+    "upkId": "00061997",
+    "code": "040374",
+    "core": "040374_GonM",
+    "race": "GonM",
+    "col1Material": "00061999",
+    "texture": "00007370",
+    "textureObjs": [
+      "JinM_007_col1_d",
+      "JinM_007_col1_n"
+    ]
+  },
+  "00062001": {
+    "upkId": "00062001",
+    "code": "040374",
+    "core": "040374_LynM",
+    "race": "LynM",
+    "col1Material": "00062003",
+    "texture": "00007370",
+    "textureObjs": [
+      "JinM_007_col1_d",
+      "JinM_007_col1_n"
+    ]
+  },
+  "00062006": {
+    "upkId": "00062006",
+    "code": "10210",
+    "core": "10210_JinM",
+    "race": "JinM",
+    "col1Material": "00062008",
+    "texture": "00062007",
+    "textureObjs": [
+      "10210_JinM_Col1_N",
+      "10210_JinM_Col1_S",
+      "10210_JinM_Col1_M",
+      "10210_JinM_Col1_D",
+      "fur_N",
+      "fur_D"
+    ]
+  },
+  "00062010": {
+    "upkId": "00062010",
+    "code": "10210",
+    "core": "10210_JinF",
+    "race": "JinF",
+    "col1Material": "00062012",
+    "texture": "00062011",
+    "textureObjs": [
+      "10210_JinF_Col1_N",
+      "10210_JinF_Col1_S",
+      "10210_JinF_Col1_M",
+      "10210_JinF_Col1_D"
+    ]
+  },
+  "00062015": {
+    "upkId": "00062015",
+    "code": "040377",
+    "core": "040377_JinM",
+    "race": "JinM",
+    "col1Material": "00062017",
+    "texture": "00003702",
+    "textureObjs": [
+      "JinM_005_col1_d",
+      "JinM_005_col1_n"
+    ]
+  },
+  "00062019": {
+    "upkId": "00062019",
+    "code": "040377",
+    "core": "040377_JinF",
+    "race": "JinF",
+    "col1Material": "00062021",
+    "texture": "00015824",
+    "textureObjs": [
+      "KunN_022_col1_D",
+      "KunN_022_col1_N"
+    ]
+  },
+  "00062024": {
+    "upkId": "00062024",
+    "code": "010149",
+    "core": "010149_JinM",
+    "race": "JinM",
+    "col1Material": "00062026",
+    "texture": "00062025",
+    "textureObjs": [
+      "010149_JinM_col1_N",
+      "010149_JinM_col1_S",
+      "010149_JinM_col1_M",
+      "010149_JinM_col1_D"
+    ]
+  },
+  "00062028": {
+    "upkId": "00062028",
+    "code": "010149",
+    "core": "010149_JinF",
+    "race": "JinF",
+    "col1Material": "00062030",
+    "texture": "00062020",
+    "textureObjs": [
+      "040377_JinF_Col1_N",
+      "040377_JinF_Col1_S",
+      "040377_JinF_Col1_M",
+      "040377_JinF_Col1_D"
+    ]
+  },
+  "00062102": {
+    "upkId": "00062102",
+    "code": "120288",
+    "core": "120288_Autoscale_1",
+    "race": null,
+    "col1Material": "00062104",
+    "texture": "00062103",
+    "textureObjs": [
+      "120288_Autoscale_col1_N",
+      "120288_Autoscale_col1_M",
+      "120288_Autoscale_col1_D",
+      "120288_Autoscale_col1_S"
+    ]
+  },
+  "00062106": {
+    "upkId": "00062106",
+    "code": "060293",
+    "core": "060293_Autoscale",
+    "race": null,
+    "col1Material": null,
+    "texture": null
   }
 }

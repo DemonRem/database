@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00015590.upk Ver: 573/1 Engine: 4205 Names: 938 Exports: 859 Imports: 486 Game: 801A
 Loading Texture2D ArenaOnAir_combo2 from package 00015590.upk
 Loading Texture2D Auction_BidderIcon from package 00015590.upk
@@ -199,7 +199,7 @@ Loading Texture2D TextIconSlot_Skill from package 00015590.upk
 Loading Texture2D TextIconSlot_Skill_64x64 from package 00015590.upk
 Loading Texture2D Tooltip_Max from package 00015590.upk
 Loading Texture2D Tooltip_Max2 from package 00015590.upk
-Loaded in 0.19 sec, 2023 allocs, 2.18 MBytes serialized in 39654 calls.
+Loaded in 0.26 sec, 2023 allocs, 2.18 MBytes serialized in 39654 calls.
 
 Object info:
 ============

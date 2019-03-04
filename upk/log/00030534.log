@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00030534.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 7 Imports: 2 Game: 801A
 Loading Texture2D fur_Dfur_D from package 00030534.upk
 Loading Texture2D fur_Nfur_D from package 00030534.upk
@@ -7,7 +7,7 @@ Loading Texture2D Summon_Cat_Cloth_0029_col1_D from package 00030534.upk
 Loading Texture2D Summon_Cat_Cloth_0029_col1_M from package 00030534.upk
 Loading Texture2D Summon_Cat_Cloth_0029_col1_N from package 00030534.upk
 Loading Texture2D Summon_Cat_Cloth_0029_col1_S from package 00030534.upk
-Loaded in 0.071 sec, 277 allocs, 1.31 MBytes serialized in 1689 calls.
+Loaded in 0.07 sec, 277 allocs, 1.31 MBytes serialized in 1689 calls.
 
 Object info:
 ============

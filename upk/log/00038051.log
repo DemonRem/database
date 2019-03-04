@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00038051.upk Ver: 573/1 Engine: 4205 Names: 311 Exports: 200 Imports: 79 Game: 801A
 Loading Texture2D Lobby_UniverseCombineScene_Preview from package 00038051.upk
 Loaded in 0.006 sec, 334 allocs, 0.04 MBytes serialized in 5175 calls.

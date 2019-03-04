@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00006753.upk Ver: 573/1 Engine: 4205 Names: 497 Exports: 371 Imports: 182 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00006753.upk Ver: 573/1 Engine: 4205 Names: 499 Exports: 371 Imports: 187 Game: 801A
 Loading AnimSet Shooter_JinF_Animset from package 00006753.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -205,7 +205,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:Shooter_JinF_Animset <- UObject::EndLoad <- LoadWholePackage:00006753 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

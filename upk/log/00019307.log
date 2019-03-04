@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00019307.upk Ver: 573/1 Engine: 4205 Names: 100 Exports: 3 Imports: 29 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00019307.upk
 Loading package: 00014348.upk Ver: 573/1 Engine: 4205 Names: 53 Exports: 25 Imports: 2 Game: 801A
@@ -13,7 +13,7 @@ Loading Texture2D Monster_Human_PigTribeC_col4_S from package 00014348.upk
 Loading TextureCube lenscube_a from package 00002640.upk
 Loading Texture2D PigTribeC_E from package 00014348.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Monster_Human_PigTribeB_col1_N from package 00014550.upk
 Loading Texture2D Monster_Human_PigTribeB_col1_M from package 00014550.upk
 Loading Texture2D Monster_Human_PigTribeB_col2_d from package 00014550.upk
@@ -38,7 +38,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.23 sec, 3252 allocs, 2.79 MBytes serialized in 187320 calls.
+Loaded in 0.21 sec, 3289 allocs, 2.79 MBytes serialized in 188133 calls.
 
 Object info:
 ============

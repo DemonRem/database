@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00058324.upk Ver: 573/1 Engine: 4205 Names: 199 Exports: 109 Imports: 20 Game: 801A
 Loading SkeletalMesh3 10181_LynF from package 00058324.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -18,19 +18,19 @@ WARNING: StructProperty "USkeletalMesh3::HandRatio" was not found
 WARNING: ByteProperty "USkeletalMesh3::CommonPhysicsUseFlag" was not found
 Loading package: 00058326.upk Ver: 573/1 Engine: 4205 Names: 105 Exports: 2 Imports: 25 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00058326.upk
-Loading package: 00058325.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 9 Imports: 4 Game: 801A
+Loading package: 00058325.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 13 Imports: 4 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading MaterialInstanceConstant col1_Op from package 00058326.upk
 Loading package: 00026887.upk Ver: 573/1 Engine: 4205 Names: 54 Exports: 17 Imports: 3 Game: 801A
 Loading Texture2D 10181_LynF_col1_N from package 00058325.upk
-Loading Texture2D 10181_LynF_col1_M from package 00058325.upk
+Loading Texture2D 10181_LynF_col2_M from package 00058325.upk
 Loading Texture2D 10181_LynF_col1_D from package 00058325.upk
 Loading Texture2D 10181_LynF_col1_s from package 00058325.upk
 Loading TextureCube Cube_crr from package 00002640.upk
 Loading Texture2D 10181_LynF_col1_E from package 00058325.upk
 Loading Material3 Body from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading TextureCube Cube from package 00026887.upk
 Loading Material3 Blend_OP from package 00002620.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -52,7 +52,7 @@ Loading Texture2D CubemapFace2 from package 00026887.upk
 Loading Texture2D CubemapFace3 from package 00026887.upk
 Loading Texture2D CubemapFace4 from package 00026887.upk
 Loading Texture2D CubemapFace5 from package 00026887.upk
-Loaded in 0.29 sec, 3359 allocs, 4.50 MBytes serialized in 595223 calls.
+Loaded in 0.25 sec, 3400 allocs, 4.49 MBytes serialized in 596120 calls.
 
 Object info:
 ============

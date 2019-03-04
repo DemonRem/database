@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00055994.upk Ver: 573/1 Engine: 4205 Names: 113 Exports: 3 Imports: 25 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00055994.upk
 Loading package: 00055339.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading package: 00050895.upk Ver: 573/1 Engine: 4205 Names: 153 Exports: 3 Imports: 21 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00055978.upk Ver: 573/1 Engine: 4205 Names: 194 Exports: 261 Imports: 54 Game: 801A
 Loading Texture2D 110262_Autoscale_col1_FX from package 00055994.upk
 Loading Texture2D 110262_Autoscale_col1_N from package 00055339.upk
@@ -27,7 +27,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.18 sec, 3284 allocs, 2.07 MBytes serialized in 190344 calls.
+Loaded in 0.13 sec, 3321 allocs, 2.07 MBytes serialized in 191157 calls.
 
 Object info:
 ============

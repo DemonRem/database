@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041412.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 2 Imports: 3 Game: 801A
 Loading AnimSet IceFireMarbleNew2_AnimSet from package 00041412.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -9,7 +9,7 @@ WARNING: BoolProperty "UAnimSequence::bUseSlopeRotation" was not found
 WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
-Loaded in 0.009 sec, 70 allocs, 0.00 MBytes serialized in 321 calls.
+Loaded in 0.007 sec, 70 allocs, 0.00 MBytes serialized in 321 calls.
 
 Object info:
 ============

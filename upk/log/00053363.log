@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053363.upk Ver: 573/1 Engine: 4205 Names: 215 Exports: 92 Imports: 41 Game: 801A
 Loading Texture2D Game_EventModeSelect_Preview from package 00053363.upk
-Loaded in 0.009 sec, 238 allocs, 0.02 MBytes serialized in 2677 calls.
+Loaded in 0.006 sec, 238 allocs, 0.02 MBytes serialized in 2677 calls.
 
 Object info:
 ============

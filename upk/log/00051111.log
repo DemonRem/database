@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051111.upk Ver: 573/1 Engine: 4205 Names: 306 Exports: 386 Imports: 111 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco03_inst from package 00051111.upk
 Loading package: 00051112.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco05_outline_INST from package 00051111.upk
 Loading SkeletalMesh3 120244_1_Autoscale from package 00051111.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -19,12 +19,12 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_346 from package 00051111.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 120244_1_MeshDeco from package 00051111.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 120244_1_MeshDeco01 from package 00051111.upk
 Loading StaticMesh3 120244_2_MeshDeco from package 00051111.upk
 Loading Texture2D 120244_Autoscale_col1_D from package 00051112.upk
 Loading Material3 W_MeshDeco03 from package 00048300.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Material3 W_MeshDeco05_outline from package 00048300.upk
 Loading MaterialInstanceConstant col1 from package 00051113.upk
@@ -58,7 +58,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.29 sec, 5897 allocs, 3.65 MBytes serialized in 585097 calls.
+Loaded in 0.23 sec, 6051 allocs, 3.69 MBytes serialized in 596341 calls.
 
 Object info:
 ============

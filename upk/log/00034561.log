@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00034561.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 8 Imports: 4 Game: 801A
 Loading Texture2D 65076_JinM_col1_M from package 00034561.upk
 Loading Texture2D Attach_col1_D from package 00034561.upk
@@ -7,7 +7,7 @@ Loading Texture2D Attach_col1_N from package 00034561.upk
 Loading Texture2D Attach_col1_S from package 00034561.upk
 Loading Texture2D JinTaePyeong_mask from package 00034561.upk
 Loading Texture2D Fx_JinTaePyeong_D from package 00034561.upk
-Loaded in 0.077 sec, 282 allocs, 1.60 MBytes serialized in 1718 calls.
+Loaded in 0.073 sec, 282 allocs, 1.60 MBytes serialized in 1718 calls.
 
 Object info:
 ============

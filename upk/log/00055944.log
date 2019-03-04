@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00055944.upk Ver: 573/1 Engine: 4205 Names: 231 Exports: 4 Imports: 197 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00055944.upk Ver: 573/1 Engine: 4205 Names: 251 Exports: 6 Imports: 217 Game: 801A
 Loading AnimSet Warrior_GonF_AnimSet from package 00055944.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -24,11 +24,25 @@ WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
 WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
+Loading AnimSet Warrior_LynF_AnimSet from package 00055944.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
+WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
+WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
+Loading AnimSet Warrior_LynM_Animset from package 00055944.upk
+WARNING: BoolProperty "UAnimSet::bServiced" was not found
+WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
+WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
+WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
+WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: AnimSet Warrior_GonF_AnimSet has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Warrior_GonM_AnimSet has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Warrior_JinF_AnimSet has 0 sequences, but empty TrackBoneNames
 WARNING: AnimSet Warrior_JinM_AnimSet has 0 sequences, but empty TrackBoneNames
-Loaded in 0.019 sec, 261 allocs, 0.01 MBytes serialized in 2409 calls.
+WARNING: AnimSet Warrior_LynF_AnimSet has 0 sequences, but empty TrackBoneNames
+WARNING: AnimSet Warrior_LynM_Animset has 0 sequences, but empty TrackBoneNames
+Loaded in 0.018 sec, 287 allocs, 0.02 MBytes serialized in 2771 calls.
 
 Object info:
 ============
@@ -132,6 +146,60 @@ ClassName: AnimSet ObjectName: Warrior_JinM_AnimSet
     }
     ForceMeshTranslationBoneNames[0] = {}
     PreviewSkelMeshName = None
+    BulkDataBlocks[0] = {}
+    KeyFrameSize = 0
+    RotationChannels = 0
+    TranslationChannels = 0
+    m_pBioAnimSetData = None
+
+Object info:
+============
+ClassName: AnimSet ObjectName: Warrior_LynF_AnimSet
+
+    bAnimRotationOnly = true
+    TrackBoneNames[0] = {}
+    Sequences[0] = {}
+    UseTranslationBoneNames[9] =
+    {
+        UseTranslationBoneNames[0] = Bip01
+        UseTranslationBoneNames[1] = WeaponL
+        UseTranslationBoneNames[2] = WeaponR
+        UseTranslationBoneNames[3] = AdB01LForearmMuscleBone
+        UseTranslationBoneNames[4] = AdB01RForearmMuscleBone
+        UseTranslationBoneNames[5] = AdB01LHipBone
+        UseTranslationBoneNames[6] = AdB01RHipBone
+        UseTranslationBoneNames[7] = AdB01LKneeBone
+        UseTranslationBoneNames[8] = AdB01RKneeBone
+    }
+    ForceMeshTranslationBoneNames[0] = {}
+    PreviewSkelMeshName = None
+    BulkDataBlocks[0] = {}
+    KeyFrameSize = 0
+    RotationChannels = 0
+    TranslationChannels = 0
+    m_pBioAnimSetData = None
+
+Object info:
+============
+ClassName: AnimSet ObjectName: Warrior_LynM_Animset
+
+    bAnimRotationOnly = true
+    TrackBoneNames[0] = {}
+    Sequences[0] = {}
+    UseTranslationBoneNames[9] =
+    {
+        UseTranslationBoneNames[0] = Bip01
+        UseTranslationBoneNames[1] = WeaponL
+        UseTranslationBoneNames[2] = WeaponR
+        UseTranslationBoneNames[3] = AdB01LForearmMuscleBone
+        UseTranslationBoneNames[4] = AdB01RForearmMuscleBone
+        UseTranslationBoneNames[5] = AdB01LHipBone
+        UseTranslationBoneNames[6] = AdB01RHipBone
+        UseTranslationBoneNames[7] = AdB01LKneeBone
+        UseTranslationBoneNames[8] = AdB01RKneeBone
+    }
+    ForceMeshTranslationBoneNames[0] = {}
+    PreviewSkelMeshName = 00004247.00001_LynM
     BulkDataBlocks[0] = {}
     KeyFrameSize = 0
     RotationChannels = 0

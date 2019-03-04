@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00054399.upk Ver: 573/1 Engine: 4205 Names: 137 Exports: 77 Imports: 11 Game: 801A
 Loading SkeletalMesh3 Alpaca from package 00054399.upk
 WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
@@ -14,7 +14,7 @@ Loading Texture2D Alpaca_col1_D from package 00054396.upk
 Loading Texture2D Alpaca_Col1_S from package 00054396.upk
 Loading TextureCube lenscube_a from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Fur_Ac from package 00002620.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -29,7 +29,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
-Loaded in 0.18 sec, 3046 allocs, 3.07 MBytes serialized in 268385 calls.
+Loaded in 0.14 sec, 3083 allocs, 3.08 MBytes serialized in 269198 calls.
 
 Object info:
 ============

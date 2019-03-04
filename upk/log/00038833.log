@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00038833.upk Ver: 573/1 Engine: 4205 Names: 320 Exports: 529 Imports: 118 Game: 801A
 Loading MaterialInstanceConstant Dagger1_INST from package 00038833.upk
 Loading package: 00038770.upk Ver: 573/1 Engine: 4205 Names: 403 Exports: 594 Imports: 140 Game: 801A
@@ -20,12 +20,12 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_225 from package 00038833.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 120070_1_Autoscale001_FX_MESH001 from package 00038833.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 120070_2_Autoscale001_FX_MESH001 from package 00038833.upk
 Loading Texture2D FX_Mask from package 00038833.upk
 Loading Material3 FX_deco1 from package 00038770.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 FX_deco from package 00038770.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading MaterialInstanceConstant col1 from package 00038832.upk
@@ -66,7 +66,7 @@ Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.27 sec, 5175 allocs, 2.61 MBytes serialized in 413254 calls.
+Loaded in 0.22 sec, 5302 allocs, 2.65 MBytes serialized in 421778 calls.
 
 Object info:
 ============

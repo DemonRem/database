@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00012585.upk Ver: 573/1 Engine: 4205 Names: 383 Exports: 3180 Imports: 151 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00012585.upk Ver: 573/1 Engine: 4205 Names: 462 Exports: 4426 Imports: 188 Game: 801A
 Loading Material3 AncientMechTwins_LightSpot from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00012585
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
@@ -10,6 +10,13 @@ Loading Material3 arua_Line_mix_mat from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 arua_Line_mix_mat2 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Atan_pan_MAT001 from package 00012585.upk
+Loading Material3 aura_blackhole_001_MAT from package 00012585.upk
+Loading Material3 Aura_energy_001_MAT from package 00012585.upk
+check for smoke_sam in 00012585
+check for smoke_sam in 00012963
+WARNING: Import(Cine_Effect_TEXTURE.smoke_sam) was not found
+Loading Material3 Aura_Fire01_MAT from package 00012585.upk
 Loading Material3 AuraTrail001_MatM from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 AuraTrail001_MatM2 from package 00012585.upk
@@ -38,6 +45,7 @@ Loading Material3 AXE_edge from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Axe_ee from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 blackhole_edgestar_MAT from package 00012585.upk
 Loading Material3 Blood_arua_mix4_mat from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Dagger_edge from package 00012585.upk
@@ -57,6 +65,23 @@ WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 DistortionMesh000_MatM from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Escape_Mat from package 00012585.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Fire_Type15_World from package 00012585.upk
+Loading Material3 Fire_Type15_WorldPosition from package 00012585.upk
+check for T01_test in 00012585
+check for T01_test in 00012963
+WARNING: Import(Cine_Effect_TEXTURE.T01_test) was not found
+check for T01_Dst_P_5 in 00012585
+check for T01_Dst_P_5 in 00012963
+WARNING: Import(Cine_Effect_TEXTURE.T01_Dst_P_5) was not found
+check for T_Smoke_thin_17 in 00012585
+check for T_Smoke_thin_17 in 00012963
+WARNING: Import(Cine_Effect_TEXTURE.T_Smoke_thin_17) was not found
+Loading Material3 GlowMoon002_Gray_MatM from package 00012585.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 GlowMoon002_MatM from package 00012585.upk
+WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 GlowMoon002_RED_MatM from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Guntlet_edge from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
@@ -78,22 +103,31 @@ Loading Material3 Login_SoulFighter_Marble007 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 M_DistortionMatB_01 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 M_SphereMaterial_v001 from package 00012585.upk
+Loading Material3 Marble_MAT02 from package 00012585.upk
+WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading Material3 None_Trail_Beam_Noise_Trs33 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Phillar000_MatB from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Portal_Buff_Aura_MAT01 from package 00012585.upk
+Loading Material3 Portal_Buff_Aura_MAT02 from package 00012585.upk
 Loading Material3 RuneMechaTransform_Buff_01 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 RuneMechaTransform_Buff_01_2 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 RuneMechaTransform_Weapon_gem3 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Scan005_MatM from package 00012585.upk
 Loading Material3 Staff_e from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Staff_edge from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Staff_ee from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Success_Buff_Aura_MAT01 from package 00012585.upk
+Loading Material3 Success_Buff_Aura_MAT02 from package 00012585.upk
+Loading Material3 Success_buff_glowAura from package 00012585.upk
 Loading Material3 Summon_Hole from package 00012585.upk
 Loading Material3 Summon_Hole2 from package 00012585.upk
 Loading Material3 Summon_Root01 from package 00012585.upk
@@ -112,6 +146,8 @@ Loading Material3 Test_TakgiBuff_Aura from package 00012585.upk
 Loading Material3 Test_TakgiBuff_Aura3 from package 00012585.upk
 Loading Material3 Test_Takgibuff_wind from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Trail_mat from package 00012585.upk
+Loading package: 00009520.upk Ver: 573/1 Engine: 4205 Names: 305 Exports: 481 Imports: 104 Game: 801A
 Loading Material3 Twins_Wave_Line_Mat from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Wave_Line_Fire_MatM from package 00012585.upk
@@ -144,6 +180,7 @@ Loading Material3 Wave_Line_murky_MatM3 from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Wave_Line_murky_MatM3_white from package 00012585.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
+Loading Material3 Wave_power_001_MAT from package 00012585.upk
 Loading MaterialInstanceConstant AuraTrail002_INST from package 00012585.upk
 Loading MaterialInstanceConstant Axe_e_INST_Red from package 00012585.upk
 Loading MaterialInstanceConstant Axe_e_INST_White from package 00012585.upk
@@ -155,6 +192,8 @@ Loading MaterialInstanceConstant Dagger_edge_INST_Red from package 00012585.upk
 Loading MaterialInstanceConstant Dagger_edge_INST_White from package 00012585.upk
 Loading MaterialInstanceConstant Guntlet_edge_INST_Red from package 00012585.upk
 Loading MaterialInstanceConstant Guntlet_edge_INST_White from package 00012585.upk
+Loading MaterialInstanceConstant LineBlueBlur01_MI from package 00012585.upk
+Loading MaterialInstanceConstant MI_SphereMaterial_v001 from package 00012585.upk
 Loading MaterialInstanceConstant Staff_e_INST_Red from package 00012585.upk
 Loading MaterialInstanceConstant Staff_e_INST_White from package 00012585.upk
 Loading MaterialInstanceConstant Staff_edge_INST_Red from package 00012585.upk
@@ -169,6 +208,7 @@ Loading MaterialInstanceConstant Sword_ee_INST_Red from package 00012585.upk
 Loading MaterialInstanceConstant Sword_ee_INST_White from package 00012585.upk
 Loading MaterialInstanceConstant Test_TakgiBuff_Aura_INST from package 00012585.upk
 Loading MaterialInstanceConstant Test_Takgibuff_wind_Inst_Bora from package 00012585.upk
+Loading MaterialInstanceConstant Trail_mat_INST from package 00012585.upk
 Loading Texture2D Gradient_007 from package 00012963.upk
 Loading Texture2D Gradient_Line_010 from package 00012963.upk
 Loading Texture2D Gradient_Light_Line_000_V from package 00012963.upk
@@ -176,17 +216,24 @@ Loading Texture2D Glow_Twiri_000 from package 00012963.upk
 Loading Texture2D Gradient_Half_000 from package 00012963.upk
 Loading Texture2D Gradient_Beam_002 from package 00012963.upk
 Loading Texture2D Smoke_Blur_000 from package 00012963.upk
+Loading Texture2D Noise_Wave_000 from package 00012963.upk
+Loading Texture2D Glow_ShockWave_008 from package 00012963.upk
+Loading Texture2D T_Smoke_thin_03 from package 00012963.upk
+Loading Texture2D T_Smoke_thin_01 from package 00012963.upk
+Loading Texture2D Smoke_000a from package 00012963.upk
+Loading Texture2D Normal_Noise_004 from package 00012963.upk
+Loading Texture2D Gradient_Slash_000 from package 00012963.upk
+Loading Texture2D Smoke_Dusts_002 from package 00012963.upk
+Loading Texture2D Noise_Plazma_002 from package 00012963.upk
 Loading Texture2D Smoke_Cloud_005 from package 00012963.upk
 Loading Texture2D Noise_006 from package 00012963.upk
 Loading Texture2D Ring_Shockwave_003 from package 00012963.upk
 Loading Texture2D Gradient_001 from package 00012963.upk
 Loading Texture2D Smoke_005 from package 00012963.upk
-Loading Texture2D Noise_Wave_000 from package 00012963.upk
 Loading Texture2D Noise_Bubble_000 from package 00012963.upk
 Loading Texture2D Ref_Cool from package 00012963.upk
 Loading Texture2D Unique_Stone_001 from package 00012963.upk
 Loading Texture2D Axe_alpha from package 00012963.upk
-Loading Texture2D Noise_Plazma_002 from package 00012963.upk
 Loading Texture2D Gradient_Line_R from package 00012963.upk
 Loading Texture2D Noise_013 from package 00012963.upk
 Loading Texture2D Dragon_body_outside_NRM from package 00012963.upk
@@ -197,6 +244,7 @@ Loading Texture2D Gradient_004 from package 00012963.upk
 Loading Texture2D Axe_Edge_alpha from package 00012963.upk
 Loading Texture2D Gradient_Beam_007 from package 00012963.upk
 Loading Texture2D Noise_Plazma_000 from package 00012963.upk
+Loading Texture2D Env_Fx_Fire_Seed from package 00012963.upk
 Loading Texture2D Aura_Blood_000 from package 00012963.upk
 Loading Texture2D Glow_008 from package 00012963.upk
 Loading Texture2D Dagger_Opa2 from package 00012963.upk
@@ -216,6 +264,10 @@ WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
 Loading Texture2D Gradient_Flow_000 from package 00012963.upk
 Loading Texture2D Noise_010 from package 00012963.upk
 Loading Texture2D Env_Fx_LightningCloud_Lightning from package 00012963.upk
+Loading Texture2D T_Smoke_thin_02 from package 00012963.upk
+Loading Texture2D Noise_020 from package 00012963.upk
+Loading Texture2D Normal_Noise_002 from package 00012963.upk
+Loading Texture2D Glow_Half_000 from package 00012963.upk
 Loading Texture2D Smoke_Inc_002 from package 00012963.upk
 Loading Texture2D Aura_Blood_002 from package 00012963.upk
 Loading Texture2D Aura_Blood_001 from package 00012963.upk
@@ -236,17 +288,23 @@ Loading Texture2D Gradient_Beam_005_YClamp from package 00012963.upk
 Loading Texture2D Smoke_Fractal_002 from package 00012963.upk
 Loading Texture2D Glow_ShockWave_004 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_001 from package 00012963.upk
+Loading Texture2D t_Glow_Flar_012_2 from package 00012963.upk
+Loading Texture2D Sparkle_000 from package 00012963.upk
 Loading Texture2D Targeting_Start_Mask01 from package 00012963.upk
 Loading Texture2D Ring_Skew_000 from package 00012963.upk
 Loading Texture2D Smoke_009 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_007 from package 00012963.upk
 Loading Texture2D Gradient_010 from package 00012963.upk
-Loading Texture2D Glow_ShockWave_008 from package 00012963.upk
 Loading Texture2D Ring_Bubble_000 from package 00012963.upk
 Loading Texture2D Noise_003 from package 00012963.upk
 Loading Texture2D Ring_Thick_000 from package 00012963.upk
 Loading Texture2D Ring_ShockWave_001 from package 00012963.upk
 Loading Texture2D Noise_017 from package 00012963.upk
+Loading Texture2D Normal_Stone_000 from package 00012963.upk
+WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
+Loading Texture2D Sparkle_Ink_000 from package 00012963.upk
+Loading Texture2D Sparkle_Ink_011 from package 00012963.upk
+Loading Texture2D Glow_007 from package 00012963.upk
 Loading Texture2D Gradient_Color_PurpleToBlue_000 from package 00012963.upk
 Loading Texture2D Gradient_009 from package 00012963.upk
 Loading Texture2D T_Liquid_SM_NanoBlack_Mask_01 from package 00012963.upk
@@ -259,12 +317,17 @@ Loading Texture2D Smoke_000 from package 00012963.upk
 Loading Texture2D Glow_Twiri_001 from package 00012963.upk
 Loading Texture2D Gradient_Color_BtoS000_Tex from package 00012963.upk
 Loading Texture2D Sparkle_005 from package 00012963.upk
+Loading Texture2D Force_Body from package 00009520.upk
+Loading Texture2D Glow_Trail_001 from package 00012963.upk
+Loading Texture2D Gradient_001_Right from package 00012963.upk
+Loading Texture2D Gradient_Beam_000 from package 00012963.upk
 Loading Texture2D Unique_Stone_000 from package 00012963.upk
 Loading Texture2D Unique_Bone_N_000 from package 00012963.upk
 Loading Texture2D Smoke_Ice_000 from package 00012963.upk
 Loading Texture2D Fire_004 from package 00012963.upk
+Loading Texture2D Buff104_Defend_mask from package 00012963.upk
 Loading Texture2D Smoke_013_Mask from package 00012963.upk
-Loaded in 3.5 sec, 4530 allocs, 2.80 MBytes serialized in 110060 calls.
+Loaded in 3.6 sec, 5618 allocs, 3.51 MBytes serialized in 149712 calls.
 
 Object info:
 ============
@@ -327,6 +390,91 @@ ClassName: Material3 ObjectName: arua_Line_mix_mat2
         ReferencedTextures[1] = Texture2D'Gradient_Half_000'
         ReferencedTextures[2] = Texture2D'Gradient_Beam_002'
         ReferencedTextures[3] = None
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Atan_pan_MAT001
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Noise_Wave_000' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: aura_blackhole_001_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Glow_ShockWave_008' }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Aura_energy_001_MAT
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'T_Smoke_thin_03'
+        ReferencedTextures[1] = Texture2D'T_Smoke_thin_01'
+        ReferencedTextures[2] = Texture2D'Smoke_000a'
+        ReferencedTextures[3] = None
+        ReferencedTextures[4] = Texture2D'Noise_Wave_000'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Aura_Fire01_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Normal_Noise_004'
+        ReferencedTextures[1] = Texture2D'Gradient_Slash_000'
+        ReferencedTextures[2] = Texture2D'Smoke_Dusts_002'
+        ReferencedTextures[3] = Texture2D'Noise_Plazma_002'
     }
     BlendMode = BLEND_Translucent (2)
     OpacityMaskClipValue = 0.333
@@ -503,6 +651,24 @@ ClassName: Material3 ObjectName: Axe_ee
         ReferencedTextures[5] = Texture2D'Gradient_Line_R'
         ReferencedTextures[6] = Texture2D'Noise_013'
     }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: blackhole_edgestar_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Env_Fx_Fire_Seed' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -713,6 +879,107 @@ ClassName: Material3 ObjectName: Escape_Mat
         ReferencedTextures[2] = Texture2D'Env_Fx_LightningCloud_Lightning'
         ReferencedTextures[3] = Texture2D'Gradient_001'
     }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Fire_Type15_World
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'T_Smoke_thin_03'
+        ReferencedTextures[1] = Texture2D'T_Smoke_thin_01'
+        ReferencedTextures[2] = Texture2D'T_Smoke_thin_02'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Fire_Type15_WorldPosition
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { None, None, None }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: GlowMoon002_Gray_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Noise_020', Texture2D'Normal_Noise_002', None }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: GlowMoon002_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[4] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_006'
+        ReferencedTextures[1] = Texture2D'Glow_Half_000'
+        ReferencedTextures[2] = Texture2D'Normal_Noise_002'
+        ReferencedTextures[3] = None
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: GlowMoon002_RED_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] = { Texture2D'Noise_020', Texture2D'Normal_Noise_002', None }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -1010,6 +1277,47 @@ ClassName: Material3 ObjectName: M_DistortionMatB_01
 
 Object info:
 ============
+ClassName: Material3 ObjectName: M_SphereMaterial_v001
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[0] = {}
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Marble_MAT02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Noise_005'
+        ReferencedTextures[1] = Texture2D'Gradient_Light_Line_000_V'
+        ReferencedTextures[2] = Texture2D'Gradient_001'
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
 ClassName: Material3 ObjectName: None_Trail_Beam_Noise_Trs33
 
     TwoSided = false
@@ -1046,6 +1354,42 @@ ClassName: Material3 ObjectName: Phillar000_MatB
         ReferencedTextures[2] = Texture2D'Sparkle_Ink_001'
     }
     BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Portal_Buff_Aura_MAT01
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Normal_Noise_003', Texture2D't_Glow_Flar_012_2' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Portal_Buff_Aura_MAT02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Normal_Noise_003', Texture2D'Sparkle_000' }
+    BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
     MobileBaseTexture = None
@@ -1138,6 +1482,24 @@ ClassName: Material3 ObjectName: RuneMechaTransform_Weapon_gem3
 
 Object info:
 ============
+ClassName: Material3 ObjectName: Scan005_MatM
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { None }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
 ClassName: Material3 ObjectName: Staff_e
 
     TwoSided = false
@@ -1208,6 +1570,60 @@ ClassName: Material3 ObjectName: Staff_ee
         ReferencedTextures[7] = Texture2D'Noise_017'
     }
     BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Success_Buff_Aura_MAT01
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Normal_Stone_000', Texture2D'Sparkle_Ink_000' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Success_Buff_Aura_MAT02
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[2] = { Texture2D'Normal_Noise_003', Texture2D'Sparkle_Ink_011' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Success_buff_glowAura
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'Glow_007' }
+    BlendMode = BLEND_Translucent (2)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
     MobileBaseTexture = None
@@ -1496,6 +1912,33 @@ ClassName: Material3 ObjectName: Test_Takgibuff_wind
         ReferencedTextures[6] = Texture2D'Sparkle_Ink_007'
         ReferencedTextures[7] = Texture2D'Gradient_001_Left'
         ReferencedTextures[8] = None
+    }
+    BlendMode = BLEND_Translucent (2)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: Trail_mat
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[7] =
+    {
+        ReferencedTextures[0] = Texture2D'Force_Body'
+        ReferencedTextures[1] = Texture2D'Glow_Trail_001'
+        ReferencedTextures[2] = Texture2D'Gradient_001'
+        ReferencedTextures[3] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[4] = Texture2D'Noise_Wave_000'
+        ReferencedTextures[5] = Texture2D'Gradient_001_Right'
+        ReferencedTextures[6] = Texture2D'Gradient_Beam_000'
     }
     BlendMode = BLEND_Translucent (2)
     OpacityMaskClipValue = 0.333
@@ -1901,6 +2344,29 @@ ClassName: Material3 ObjectName: Wave_Line_murky_MatM3_white
 
 Object info:
 ============
+ClassName: Material3 ObjectName: Wave_power_001_MAT
+
+    TwoSided = true
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[3] =
+    {
+        ReferencedTextures[0] = Texture2D'Smoke_Fractal_002'
+        ReferencedTextures[1] = Texture2D'Buff104_Defend_mask'
+        ReferencedTextures[2] = Texture2D'Gradient_Beam_007'
+    }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
 ClassName: MaterialInstanceConstant ObjectName: AuraTrail002_INST
 
     ScalarParameterValues[0] = {}
@@ -2177,6 +2643,57 @@ ClassName: MaterialInstanceConstant ObjectName: Guntlet_edge_INST_White
         }
     }
     Parent = Material3'Guntlet_edge'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: LineBlueBlur01_MI
+
+    ScalarParameterValues[1] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Desaturation, ParameterValue=1 }
+    }
+    TextureParameterValues[0] = {}
+    VectorParameterValues[0] = {}
+    Parent = Material3'LineBlueBlur01_mat'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: MI_SphereMaterial_v001
+
+    ScalarParameterValues[7] =
+    {
+        ScalarParameterValues[0] = { ParameterName=Emissive02_SpdV, ParameterValue=10 }
+        ScalarParameterValues[1] = { ParameterName=Emissive02_SpdU, ParameterValue=10 }
+        ScalarParameterValues[2] = { ParameterName=Emissive02_Power, ParameterValue=5 }
+        ScalarParameterValues[3] = { ParameterName=RowCounter, ParameterValue=2 }
+        ScalarParameterValues[4] = { ParameterName=Rotator, ParameterValue=0.75 }
+        ScalarParameterValues[5] = { ParameterName=Fresnel, ParameterValue=3 }
+        ScalarParameterValues[6] = { ParameterName=Fresnel02, ParameterValue=0.05 }
+    }
+    TextureParameterValues[0] = {}
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = None
+            ParameterValue = { R=0, G=0, B=5, A=1 }
+        }
+    }
+    Parent = Material3'M_SphereMaterial_v001'
     FlattenedTexture = None
     MobileBaseTexture = None
     MobileNormalTexture = None
@@ -2540,6 +3057,29 @@ ClassName: MaterialInstanceConstant ObjectName: Test_Takgibuff_wind_Inst_Bora
         }
     }
     Parent = Material3'Test_Takgibuff_wind'
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: MaterialInstanceConstant ObjectName: Trail_mat_INST
+
+    ScalarParameterValues[0] = {}
+    TextureParameterValues[0] = {}
+    VectorParameterValues[1] =
+    {
+        VectorParameterValues[0] =
+        {
+            ParameterName = Color
+            ParameterValue = { R=3, G=3, B=4, A=1 }
+        }
+    }
+    Parent = Material3'Trail_mat'
     FlattenedTexture = None
     MobileBaseTexture = None
     MobileNormalTexture = None

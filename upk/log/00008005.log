@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00008005.upk Ver: 573/1 Engine: 4205 Names: 386 Exports: 872 Imports: 66 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00008005.upk Ver: 573/1 Engine: 4205 Names: 403 Exports: 969 Imports: 66 Game: 801A
 Loading Texture2D Game_BattleScene_Preview from package 00008005.upk
 Loading Texture2D Game_HUDHigh_Preview from package 00008005.upk
-Loaded in 0.002 sec, 414 allocs, 0.09 MBytes serialized in 17465 calls.
+Loaded in 0.003 sec, 431 allocs, 0.09 MBytes serialized in 19262 calls.
 
 Object info:
 ============

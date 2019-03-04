@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010080.upk Ver: 573/1 Engine: 4205 Names: 1329 Exports: 24987 Imports: 573 Game: 801A
 Loading Material3 bird_color_copy from package 00010080.upk
 Loading Material3 CTF_shield from package 00010080.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading Material3 CTF_shield2 from package 00010080.upk
 check for Cube_D in 00010080
 check for Cube_D in 00012963
@@ -135,7 +135,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.81 sec, 8450 allocs, 6.94 MBytes serialized in 1321353 calls.
+Loaded in 0.68 sec, 8490 allocs, 6.95 MBytes serialized in 1322196 calls.
 
 Object info:
 ============

@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00034433.upk Ver: 573/1 Engine: 4205 Names: 999 Exports: 23037 Imports: 432 Game: 801A
 Loading StaticMesh3 BackPos_Mesh01 from package 00034433.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Breakaway_Mesh01 from package 00034433.upk
 Loading StaticMesh3 FinalAttack_Exec01 from package 00034433.upk
 Loading StaticMesh3 RealAttack_Exec02 from package 00034433.upk
@@ -17,7 +17,7 @@ Loading Material3 001_Mesh_Default_MatM from package 00012892.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 0.081 sec, 2390 allocs, 4.04 MBytes serialized in 983774 calls.
+Loaded in 0.11 sec, 2480 allocs, 4.07 MBytes serialized in 991485 calls.
 
 Object info:
 ============

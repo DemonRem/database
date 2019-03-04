@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00013865.upk Ver: 573/1 Engine: 4205 Names: 39 Exports: 9 Imports: 2 Game: 801A
 Loading Texture2D 990034_col1_d from package 00013865.upk
 Loading Texture2D 990034_col1_FX_Line from package 00013865.upk
@@ -9,7 +9,7 @@ Loading Texture2D 990034_NaHanThunder_col9_d from package 00013865.upk
 Loading Texture2D 990034_NaHanThunder_col9_M from package 00013865.upk
 Loading Texture2D 990034_NaHanThunder_col9_n from package 00013865.upk
 Loading Texture2D 990034_NaHanThunder_col9_S from package 00013865.upk
-Loaded in 0.074 sec, 315 allocs, 1.00 MBytes serialized in 1988 calls.
+Loaded in 0.09 sec, 315 allocs, 1.00 MBytes serialized in 1988 calls.
 
 Object info:
 ============

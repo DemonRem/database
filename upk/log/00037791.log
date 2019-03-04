@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
 Loading Texture2D FX_T_0007 from package 00037791.upk
 Loading Texture2D FX_T_0035 from package 00037791.upk
@@ -62,7 +62,7 @@ Loading Texture2D VortextTemple_cloud05 from package 00037791.upk
 Loading Texture2D Weapon_020181_col1_DD from package 00037791.upk
 Loading Texture2D Weapon_020181_col1_FX from package 00037791.upk
 Loading Texture2D YeonHwaLin_HealStamp_decal08 from package 00037791.upk
-Loaded in 0.65 sec, 2010 allocs, 5.71 MBytes serialized in 12680 calls.
+Loaded in 0.5 sec, 2010 allocs, 5.71 MBytes serialized in 12680 calls.
 
 Object info:
 ============

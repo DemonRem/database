@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00017401.upk Ver: 573/1 Engine: 4205 Names: 60 Exports: 5 Imports: 8 Game: 801A
 Loading SkeletalMesh3 010028_GonM from package 00017401.upk
 Loading package: 00011677.upk Ver: 573/1 Engine: 4205 Names: 71 Exports: 1 Imports: 15 Game: 801A
@@ -9,14 +9,14 @@ Loading Texture2D DarkCrazyTribeMaskA_n_col1 from package 00011676.upk
 Loading Texture2D DarkCrazyTribeMaskA_d_col2 from package 00011676.upk
 Loading Texture2D DarkCrazyTribeMaskA_s_col2 from package 00011676.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.081 sec, 2402 allocs, 0.99 MBytes serialized in 183334 calls.
+Loaded in 0.088 sec, 2439 allocs, 0.99 MBytes serialized in 184147 calls.
 
 Object info:
 ============

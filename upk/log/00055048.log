@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00055048.upk Ver: 573/1 Engine: 4205 Names: 81 Exports: 14 Imports: 9 Game: 801A
 Loading SkeletalMesh3 990210_Autoscale from package 00055048.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_109 from package 00055048.upk
@@ -6,7 +6,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_227 from package 00055048.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_228 from package 00055048.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_54 from package 00055048.upk
 Loading SkeletalMeshSocket SkeletalMeshSocket_55 from package 00055048.upk
-Loaded in 0.01 sec, 133 allocs, 0.22 MBytes serialized in 64251 calls.
+Loaded in 0.012 sec, 133 allocs, 0.22 MBytes serialized in 64251 calls.
 
 Object info:
 ============

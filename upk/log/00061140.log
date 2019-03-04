@@ -1,0 +1,144 @@
+Found 32768 game files (1766 skipped)
+Loading package: 00061140.upk Ver: 573/1 Engine: 4205 Names: 126 Exports: 54 Imports: 17 Game: 801A
+Loading SkeletalMesh3 090185_LynF from package 00061140.upk
+Loading package: 00060829.upk Ver: 573/1 Engine: 4205 Names: 210 Exports: 3 Imports: 25 Game: 801A
+Loading SkeletalMeshSocket SkeletalMeshSocket_67 from package 00061140.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_68 from package 00061140.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_69 from package 00061140.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_72 from package 00061140.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading SkeletalMeshSocket SkeletalMeshSocket_76 from package 00061140.upk
+WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
+WARNING: BoolProperty "USkeletalMeshSocket::bParticleAttachPosOnly" was not found
+Loading MaterialInstanceConstant col1 from package 00060829.upk
+Loading package: 00060828.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
+Loading package: 00025178.upk Ver: 573/1 Engine: 4205 Names: 76 Exports: 46 Imports: 2 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
+Loading Texture2D 090185_JinF_col1_N from package 00060828.upk
+Loading Texture2D 090185_JinF_col1_S from package 00060828.upk
+Loading Texture2D 090185_JinF_col1_M from package 00060828.upk
+Loading Texture2D 090185_JinF_col1_D from package 00060828.upk
+Loading Texture2D Mask_Default from package 00025178.upk
+Loading Texture2D FX_Glow_Trangition from package 00012963.upk
+Loading TextureCube lenscube from package 00002640.upk
+Loading Texture2D 090185_JinF_col1_E from package 00060828.upk
+Loading Texture2D 090185_FX_mask02_512 from package 00060829.upk
+Loading Texture2D Noise_Mix03 from package 00048300.upk
+Loading Material3 Custom_B_wing from package 00048300.upk
+Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
+Loading Texture2D CubemapFace0 from package 00002640.upk
+Loading Texture2D CubemapFace1 from package 00002640.upk
+Loading Texture2D CubemapFace2 from package 00002640.upk
+Loading Texture2D CubemapFace3 from package 00002640.upk
+Loading Texture2D CubemapFace4 from package 00002640.upk
+Loading Texture2D CubemapFace5 from package 00002640.upk
+Loading Texture2D check from package 00002620.upk
+Loading Texture2D check_n from package 00002620.upk
+Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
+Loaded in 0.15 sec, 4134 allocs, 2.64 MBytes serialized in 472783 calls.
+
+Object info:
+============
+ClassName: SkeletalMesh3 ObjectName: 090185_LynF
+
+    LODInfo[1] =
+    {
+        LODInfo[0] =
+        {
+            DisplayFactor = 0
+            LODHysteresis = 0.02
+            LODMaterialMap[0] = {}
+            bEnableShadowCasting[1] = { true }
+        }
+    }
+    Sockets[5] =
+    {
+        Sockets[0] = SkeletalMeshSocket'090185_LynF.SkeletalMeshSocket_72'
+        Sockets[1] = SkeletalMeshSocket'090185_LynF.SkeletalMeshSocket_76'
+        Sockets[2] = SkeletalMeshSocket'090185_LynF.SkeletalMeshSocket_68'
+        Sockets[3] = SkeletalMeshSocket'090185_LynF.SkeletalMeshSocket_69'
+        Sockets[4] = SkeletalMeshSocket'090185_LynF.SkeletalMeshSocket_67'
+    }
+    bHasVertexColors = false
+    EnableTwistBoneFixers = true
+    EnableClavicleFixer = true
+    Materials[1] = { MaterialInstanceConstant'col1' }
+
+
+    Lods[1] =
+    {
+        Lods[0] =
+        {
+            Sections[1] =
+            {
+                Sections[0] = { Material=MaterialInstanceConstant'col1', FirstIndex=0, NumFaces=4371 }
+            }
+            NumVerts = 3770
+            IndexCount = 13113
+            NumTexCoords = 1
+        }
+    }
+    LodCount = 1
+    MeshOrigin = { X=-0, Y=-0, Z=-0 }
+    MeshScale = { X=1, Y=1, Z=1 }
+    RotOrigin = { Yaw=0, Pitch=0, Roll=0 }
+    BoneCount = 17
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_67
+
+    SocketName = FX_butterfly
+    BoneName = Bone_Spine2_L01_Root
+    RelativeLocation = { X=0, Y=6.43003, Z=0 }
+    RelativeRotation = { Yaw=0, Pitch=0, Roll=0 }
+    RelativeScale = { X=0.5, Y=0.5, Z=0.5 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_68
+
+    SocketName = FX_deco02_R
+    BoneName = Bone_Spine2_R02_Root
+    RelativeLocation = { X=-3.23106, Y=4.42324, Z=1.92307 }
+    RelativeRotation = { Yaw=40960, Pitch=32768, Roll=0 }
+    RelativeScale = { X=0.2, Y=0.2, Z=0.2 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_69
+
+    SocketName = FX_deco02
+    BoneName = Bone_Spine2_L01_Root
+    RelativeLocation = { X=-2.16656, Y=4.11369, Z=-2.80666 }
+    RelativeRotation = { Yaw=32768, Pitch=0, Roll=-3640 }
+    RelativeScale = { X=0.4, Y=0.4, Z=0.4 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_72
+
+    SocketName = FX_deco01
+    BoneName = Bone_Spine2_R02_Root
+    RelativeLocation = { X=0, Y=0.582132, Z=0 }
+    RelativeRotation = { Yaw=-16384, Pitch=-16384, Roll=0 }
+    RelativeScale = { X=0.5, Y=0.5, Z=0.5 }
+
+Object info:
+============
+ClassName: SkeletalMeshSocket ObjectName: SkeletalMeshSocket_76
+
+    SocketName = FX_deco01_L
+    BoneName = Bone_Spine2_L01_Root
+    RelativeLocation = { X=0, Y=0, Z=0 }
+    RelativeRotation = { Yaw=-16384, Pitch=-16384, Roll=0 }
+    RelativeScale = { X=0.6, Y=0.6, Z=0.6 }

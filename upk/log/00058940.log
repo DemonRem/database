@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00058940.upk Ver: 573/1 Engine: 4205 Names: 134 Exports: 1 Imports: 24 Game: 801A
 Loading MaterialInstanceConstant col1 from package 00058940.upk
 Loading package: 00058939.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading package: 00058938.upk Ver: 573/1 Engine: 4205 Names: 326 Exports: 351 Imports: 121 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading Texture2D 130133_Autoscale_col1_N from package 00058939.upk
 Loading Texture2D 130133_Autoscale_col1_M from package 00058939.upk
 Loading Texture2D 130133_Autoscale_col1_D from package 00058939.upk
@@ -28,7 +28,7 @@ Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.19 sec, 4132 allocs, 2.82 MBytes serialized in 342305 calls.
+Loaded in 0.15 sec, 4196 allocs, 2.84 MBytes serialized in 345838 calls.
 
 Object info:
 ============

@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00012582.upk Ver: 573/1 Engine: 4205 Names: 318 Exports: 1549 Imports: 130 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00012582.upk Ver: 573/1 Engine: 4205 Names: 321 Exports: 1549 Imports: 132 Game: 801A
 Loading Material3 AddMat_Lightning from package 00012582.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 AncientMechDragon_Electric_Decal_matM from package 00012582.upk
 Loading Material3 AncientMechDragon_Electric_Decal_matM02 from package 00012582.upk
 Loading Material3 AncientMechDragon_Electric_Decal_matM03_sine from package 00012582.upk
@@ -184,6 +184,8 @@ Loading Texture2D Noise_015 from package 00012963.upk
 Loading Texture2D Smoke_003 from package 00012963.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Line_2 from package 00023713.upk
+Loading Texture2D YellowElectric_Sprite_000 from package 00012963.upk
+Loading Texture2D YellowElectric_Sprite_001 from package 00012963.upk
 Loading Texture2D Electric_Lightning_Straight_01 from package 00012963.upk
 Loading Texture2D Electric_Lightning_Straight_02 from package 00012963.upk
 Loading Texture2D Electric1_sample_002 from package 00012963.upk
@@ -191,7 +193,7 @@ Loading Texture2D Electric1_sample_003 from package 00012963.upk
 Loading Texture2D Electric1_sample_004 from package 00012963.upk
 Loading Texture2D Electric1_sample_005 from package 00012963.upk
 Loading Texture2D Electric1_Sample_006 from package 00012963.upk
-Loaded in 2 sec, 4192 allocs, 12.45 MBytes serialized in 78224 calls.
+Loaded in 1.5 sec, 4306 allocs, 13.76 MBytes serialized in 79550 calls.
 
 Object info:
 ============
@@ -1264,7 +1266,7 @@ ClassName: Material3 ObjectName: YellowLightning_Sprite000_MatB
     TwoSided = false
     bDisableDepthTest = false
     bIsMasked = false
-    ReferencedTextures[0] = {}
+    ReferencedTextures[1] = { Texture2D'YellowElectric_Sprite_000' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -1282,7 +1284,7 @@ ClassName: Material3 ObjectName: YellowLightning_Sprite000_MatM
     TwoSided = true
     bDisableDepthTest = false
     bIsMasked = false
-    ReferencedTextures[0] = {}
+    ReferencedTextures[1] = { Texture2D'YellowElectric_Sprite_000' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -1300,7 +1302,7 @@ ClassName: Material3 ObjectName: YellowLightning_Sprite001_MatB
     TwoSided = false
     bDisableDepthTest = false
     bIsMasked = false
-    ReferencedTextures[0] = {}
+    ReferencedTextures[1] = { Texture2D'YellowElectric_Sprite_001' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None
@@ -1318,7 +1320,7 @@ ClassName: Material3 ObjectName: YellowLightning_Sprite001_MatM
     TwoSided = true
     bDisableDepthTest = false
     bIsMasked = false
-    ReferencedTextures[0] = {}
+    ReferencedTextures[1] = { Texture2D'YellowElectric_Sprite_001' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None

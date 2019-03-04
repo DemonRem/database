@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00019858.upk Ver: 573/1 Engine: 4205 Names: 68 Exports: 8 Imports: 10 Game: 801A
 Loading Material3 col2_parent from package 00019858.upk
 Loading package: 00014986.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant col2 from package 00019858.upk
 Loading Texture2D 990104_col2_D from package 00014986.upk
-Loaded in 0.014 sec, 164 allocs, 0.07 MBytes serialized in 1011 calls.
+Loaded in 0.011 sec, 164 allocs, 0.07 MBytes serialized in 1011 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00008410.upk Ver: 573/1 Engine: 4205 Names: 215 Exports: 362 Imports: 19 Game: 801A
 Loading SkeletalMesh3 GhostMaskMonsterC from package 00008410.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -29,7 +29,7 @@ Loading TextureCube Cube_cr from package 00002640.upk
 Loading Texture2D GhostMaskMonsterC_Col1_Em from package 00008408.upk
 Loading Texture2D GhostMaskMonsterC_Col1_FX from package 00008408.upk
 Loading Material3 body_FX from package 00008409.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D GhostMaskMonsterC_Col2_N from package 00008408.upk
 Loading Texture2D GhostMaskMonsterC_Col2_M from package 00008408.upk
 Loading Texture2D GhostMaskMonsterC_Col2_D from package 00008408.upk
@@ -49,7 +49,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.23 sec, 3425 allocs, 2.17 MBytes serialized in 379818 calls.
+Loaded in 0.17 sec, 3462 allocs, 2.17 MBytes serialized in 380631 calls.
 
 Object info:
 ============

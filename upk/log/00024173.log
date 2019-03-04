@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00024173.upk Ver: 573/1 Engine: 4205 Names: 54 Exports: 20 Imports: 4 Game: 801A
 Loading Texture2D 990117_DemonAShield_col1_D from package 00024173.upk
 Loading Texture2D 990117_DemonAShield_col1_E from package 00024173.upk
@@ -11,7 +11,7 @@ Loading Texture2D 990117_DemonAShield_col2_E from package 00024173.upk
 Loading Texture2D 990117_DemonAShield_col2_M from package 00024173.upk
 Loading Texture2D 990117_DemonAShield_col2_N from package 00024173.upk
 Loading Texture2D 990117_DemonAShield_col2_S from package 00024173.upk
-Loaded in 0.087 sec, 380 allocs, 0.44 MBytes serialized in 2479 calls.
+Loaded in 0.08 sec, 380 allocs, 0.44 MBytes serialized in 2479 calls.
 
 Object info:
 ============

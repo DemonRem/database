@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00009076.upk Ver: 573/1 Engine: 4205 Names: 736 Exports: 746 Imports: 174 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00009076.upk Ver: 573/1 Engine: 4205 Names: 742 Exports: 752 Imports: 174 Game: 801A
 Loading Texture2D ArenaDungeonTooltip_01 from package 00009076.upk
 Loading Texture2D Attendance_Chance_Slot_Boom from package 00009076.upk
 Loading Texture2D Attendance_Chance_Slot_GoToStart from package 00009076.upk
@@ -38,6 +38,7 @@ Loading Texture2D GameUI_Coin_GoodsStone_007 from package 00009076.upk
 Loading Texture2D GameUI_Coin_GoodsStone_008 from package 00009076.upk
 Loading Texture2D GameUI_Coin_GoodsStone_009 from package 00009076.upk
 Loading Texture2D GameUI_Coin_Silver from package 00009076.upk
+Loading Texture2D GameUI_Coin_SkillPoint from package 00009076.upk
 Loading Texture2D GameUI_DuelBack from package 00009076.upk
 Loading Texture2D GameUI_Gauge from package 00009076.upk
 Loading Texture2D GameUI_HeaderIcon from package 00009076.upk
@@ -151,7 +152,7 @@ Loading Texture2D Tooltip_LevelDotImage from package 00009076.upk
 Loading Texture2D Tooltip_SlotItem_marketBusiness_01 from package 00009076.upk
 Loading Texture2D Tooltip_SlotItem_privateSale_01 from package 00009076.upk
 Loading Texture2D Venom from package 00009076.upk
-Loaded in 0.3 sec, 1563 allocs, 26.43 MBytes serialized in 32476 calls.
+Loaded in 0.32 sec, 1574 allocs, 26.46 MBytes serialized in 32703 calls.
 
 Object info:
 ============
@@ -711,6 +712,21 @@ ClassName: Texture2D ObjectName: GameUI_Coin_GoodsStone_009
 Object info:
 ============
 ClassName: Texture2D ObjectName: GameUI_Coin_Silver
+
+    SizeX = 32
+    SizeY = 32
+    Format = PF_A8R8G8B8 (2)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: GameUI_Coin_SkillPoint
 
     SizeX = 32
     SizeY = 32

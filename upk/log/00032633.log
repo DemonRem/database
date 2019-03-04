@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00032633.upk Ver: 573/1 Engine: 4205 Names: 43 Exports: 14 Imports: 2 Game: 801A
 Loading Texture2D 10006_KunN_col2_D from package 00032633.upk
 Loading Texture2D 10006_KunN_col2_E from package 00032633.upk
@@ -14,7 +14,7 @@ Loading Texture2D 10006_KunN_E from package 00032633.upk
 Loading Texture2D 10006_KunN_M from package 00032633.upk
 Loading Texture2D 10006_KunN_N from package 00032633.upk
 Loading Texture2D 10006_KunN_S from package 00032633.upk
-Loaded in 0.15 sec, 485 allocs, 3.95 MBytes serialized in 3163 calls.
+Loaded in 0.14 sec, 485 allocs, 3.95 MBytes serialized in 3163 calls.
 
 Object info:
 ============

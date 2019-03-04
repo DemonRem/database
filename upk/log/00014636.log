@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00014636.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 8 Imports: 2 Game: 801A
 Loading Texture2D Human_MuseongM_D from package 00014636.upk
 Loading Texture2D Human_MuseongM_E from package 00014636.upk
@@ -8,7 +8,7 @@ Loading Texture2D Human_MuseongM_S from package 00014636.upk
 Loading Texture2D Monster_Human_MuseongM_Col2_D from package 00014636.upk
 Loading Texture2D Monster_Human_MuseongM_Col2_S from package 00014636.upk
 Loading Texture2D MuseongM_FXmask from package 00014636.upk
-Loaded in 0.077 sec, 313 allocs, 2.63 MBytes serialized in 1923 calls.
+Loaded in 0.081 sec, 313 allocs, 2.63 MBytes serialized in 1923 calls.
 
 Object info:
 ============

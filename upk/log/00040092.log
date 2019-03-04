@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00040092.upk Ver: 573/1 Engine: 4205 Names: 2000 Exports: 67871 Imports: 809 Game: 801A
 Loading Material3 TriHeadDragon_AddFX from package 00040092.upk
 Loading package: 00027513.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 7 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00046059.upk Ver: 573/1 Engine: 4205 Names: 41 Exports: 14 Imports: 4 Game: 801A
 Loading MaterialInstanceConstant TriHeadDragon_AddFX_INST from package 00040092.upk
 Loading Texture2D RuneMechaKingAsura_col1_D from package 00027513.upk
@@ -21,7 +21,7 @@ Loading Texture2D CubemapFace2 from package 00012963.upk
 Loading Texture2D CubemapFace3 from package 00012963.upk
 Loading Texture2D CubemapFace4 from package 00012963.upk
 Loading Texture2D CubemapFace5 from package 00012963.upk
-Loaded in 0.26 sec, 3863 allocs, 6.50 MBytes serialized in 1265074 calls.
+Loaded in 0.27 sec, 3900 allocs, 6.50 MBytes serialized in 1265887 calls.
 
 Object info:
 ============

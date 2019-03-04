@@ -910,5 +910,89 @@
     "notFound": [],
     "invalid": {},
     "noTexture": "00059136"
+  },
+  "00060829": {
+    "upkId": "00060829",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00060829"
+  },
+  "00060865": {
+    "upkId": "00060865",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00060865"
+  },
+  "00060904": {
+    "upkId": "00060904",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061041": {
+    "upkId": "00061041",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061041"
+  },
+  "00061171": {
+    "upkId": "00061171",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061171"
+  },
+  "00061179": {
+    "upkId": "00061179",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061179"
+  },
+  "00061225": {
+    "upkId": "00061225",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061225"
+  },
+  "00061456": {
+    "upkId": "00061456",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061478": {
+    "upkId": "00061478",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061478"
+  },
+  "00061500": {
+    "upkId": "00061500",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061501": {
+    "upkId": "00061501",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061502": {
+    "upkId": "00061502",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061521": {
+    "upkId": "00061521",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": null
+  },
+  "00061557": {
+    "upkId": "00061557",
+    "notFound": [],
+    "invalid": {},
+    "noTexture": "00061557"
   }
 }

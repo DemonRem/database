@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048253.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading Texture2D RoseFish_Col1_D from package 00048253.upk
 Loading Texture2D RoseFish_Col1_M from package 00048253.upk
 Loading Texture2D RoseFish_Col1_N from package 00048253.upk
 Loading Texture2D RoseFish_Col1_S from package 00048253.upk
-Loaded in 0.044 sec, 184 allocs, 1.51 MBytes serialized in 1090 calls.
+Loaded in 0.041 sec, 184 allocs, 1.51 MBytes serialized in 1090 calls.
 
 Object info:
 ============

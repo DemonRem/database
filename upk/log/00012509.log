@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00012509.upk Ver: 573/1 Engine: 4205 Names: 351 Exports: 502 Imports: 88 Game: 801A
 Loading AnimSet KungfuFighter_Martial_Anim from package 00012509.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -29,7 +29,7 @@ WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 Decal_Dragon_Normal_MatM from package 00012509.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 FireDecal001_Dragon_MatM from package 00012509.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Ground_MeshPar_Mat from package 00012509.upk
@@ -45,14 +45,14 @@ Loading Material3 KungfuFighter_DragonIce_Decal_2 from package 00012509.upk
 Loading Material3 KungfuFighter_Heavypunch_Exe from package 00012509.upk
 Loading Material3 KungfuFighter_Heavypunch_Exe2 from package 00012509.upk
 Loading Material3 KungfuFighter_Heavypunch_MatM from package 00012509.upk
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading Material3 KungfuFighter_Martial_MatM from package 00012509.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Kungufighter_HeavyFunch_Wave from package 00012509.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Tiger_Tooth_mat from package 00012509.upk
 Loading SkeletalMesh3 KungfuFighter_Mesh from package 00012509.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading SkeletalMesh3 KungFuFighter_Tiger from package 00012509.upk
 Loading StaticMesh3 Kungfufighter_Dragon_Mesh from package 00012509.upk
 Loading StaticMesh3 KungfuFighter_DragonIce01_Mesh from package 00012509.upk
@@ -122,7 +122,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:KungfuFighter_Martial_Anim <- UObject::EndLoad <- LoadWholePackage:00012509 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

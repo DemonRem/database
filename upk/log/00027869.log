@@ -1,18 +1,18 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00027869.upk Ver: 573/1 Engine: 4205 Names: 1778 Exports: 73176 Imports: 619 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00027869.upk Ver: 573/1 Engine: 4205 Names: 1791 Exports: 74083 Imports: 622 Game: 801A
 Loading Material3 FX_Leaf_001_Mat from package 00027869.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading package: 00023713.upk Ver: 573/1 Engine: 4205 Names: 101 Exports: 81 Imports: 4 Game: 801A
 Loading Material3 FX_Leaf_002_Mat from package 00027869.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 M_HongMoonSuryunOne from package 00027869.upk
-Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1042 Exports: 1043 Imports: 4 Game: 801A
 Loading Material3 M_HongMoonSuryunOne_02 from package 00027869.upk
 Loading Material3 M_JangbiItemBox from package 00027869.upk
 Loading Material3 M_JangbiItemBox_02 from package 00027869.upk
 Loading Material3 M_Snow from package 00027869.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 M_UI_check_shine from package 00027869.upk
 Loading Material3 M_fight_Glow from package 00027869.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
@@ -45,6 +45,7 @@ Loading Material3 M_FightGauge_Ice2 from package 00027869.upk
 Loading Material3 M_Flare_03_ab from package 00027869.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 M_HongMoonGage_grow from package 00027869.upk
+Loading Material3 M_HongMoonGage_grow_02 from package 00027869.upk
 Loading Material3 M_HongMoonGageSlide from package 00027869.upk
 Loading Material3 M_JangbiSearching from package 00027869.upk
 Loading Material3 M_JangbiSlide from package 00027869.upk
@@ -134,7 +135,7 @@ Loading MaterialInstanceConstant M_JangbiItemBox2_INST from package 00027869.upk
 Loading MaterialInstanceConstant M_JangbiSquare_INST from package 00027869.upk
 Loading MaterialInstanceConstant M_FightGauge_IceSub from package 00027869.upk
 Loading MaterialInstanceConstant M_Mugong_piece01_INST from package 00027869.upk
-Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3054 Exports: 106036 Imports: 757 Game: 801A
+Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3055 Exports: 106061 Imports: 757 Game: 801A
 Loading MaterialInstanceConstant M_Mugong_piece02_INST from package 00027869.upk
 Loading MaterialInstanceConstant M_Mugong_piece03_INST from package 00027869.upk
 Loading MaterialInstanceConstant M_Mugong_piece04_INST from package 00027869.upk
@@ -322,7 +323,7 @@ Loading MaterialInstanceConstant M_treasureBox_shadow_5d_03 from package 0002786
 Loading MaterialInstanceConstant M_treasureBox_shadow_loop_5d from package 00027869.upk
 Loading MaterialInstanceConstant M_trophy from package 00027869.upk
 Loading StaticMesh3 BG_FX_Mesh_FlowerLeaf_002 from package 00027869.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 UI_gauge from package 00027869.upk
 Loading StaticMesh3 UI_mesh from package 00027869.upk
 Loading Texture2D box_BG from package 00027869.upk
@@ -477,6 +478,7 @@ Loading Texture2D T_IceBar from package 00037213.upk
 Loading Texture2D Tex_highlight_Gradient_004_ from package 00037213.upk
 Loading Texture2D T_grow_shine_light from package 00037213.upk
 Loading Texture2D T_HongMoonGageBar from package 00037213.upk
+Loading Texture2D UI_Field_Brake_bar01 from package 00037213.upk
 Loading Texture2D T_gra_01 from package 00037213.upk
 Loading Texture2D T_Tex_cooltime11 from package 00037213.upk
 Loading Texture2D T_JangbiEnd from package 00037213.upk
@@ -735,7 +737,7 @@ WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Texture2D Tex_Inventory_ExpandNotice from package 00037213.upk
 Loading Texture2D T_dolimpan_Number1_ara from package 00037213.upk
 Loading Texture2D Cube000_Tex from package 00023713.upk
-Loaded in 2 sec, 14268 allocs, 16.98 MBytes serialized in 3610492 calls.
+Loaded in 1.4 sec, 14441 allocs, 17.08 MBytes serialized in 3636094 calls.
 
 Object info:
 ============
@@ -1316,6 +1318,24 @@ ClassName: Material3 ObjectName: M_HongMoonGage_grow
     bDisableDepthTest = false
     bIsMasked = false
     ReferencedTextures[1] = { Texture2D'T_HongMoonGageBar' }
+    BlendMode = BLEND_Additive (3)
+    OpacityMaskClipValue = 0.333
+    FlattenedTexture = None
+    MobileBaseTexture = None
+    MobileNormalTexture = None
+    bUseMobileSpecular = false
+    MobileSpecularPower = 16
+    MobileSpecularMask = MSM_Constant (0)
+    MobileMaskTexture = None
+
+Object info:
+============
+ClassName: Material3 ObjectName: M_HongMoonGage_grow_02
+
+    TwoSided = false
+    bDisableDepthTest = false
+    bIsMasked = false
+    ReferencedTextures[1] = { Texture2D'UI_Field_Brake_bar01' }
     BlendMode = BLEND_Additive (3)
     OpacityMaskClipValue = 0.333
     FlattenedTexture = None

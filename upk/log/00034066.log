@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00034066.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 14 Imports: 2 Game: 801A
 Loading Texture2D ElephantMage_col1_D from package 00034066.upk
 Loading Texture2D ElephantMage_col1_E from package 00034066.upk
@@ -14,7 +14,7 @@ Loading Texture2D ElephantMage_col9_D from package 00034066.upk
 Loading Texture2D ElephantMage_col9_M from package 00034066.upk
 Loading Texture2D ElephantMage_col9_N from package 00034066.upk
 Loading Texture2D ElephantMage_col9_S from package 00034066.upk
-Loaded in 0.16 sec, 514 allocs, 5.78 MBytes serialized in 3305 calls.
+Loaded in 0.15 sec, 514 allocs, 5.78 MBytes serialized in 3305 calls.
 
 Object info:
 ============

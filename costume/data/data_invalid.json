@@ -6,10 +6,52 @@
     ],
     "invalid": []
   },
-  "41001": {
-    "code": "41001",
+  "10100": {
+    "code": "10100",
+    "notFound": [],
+    "invalid": [
+      "material:[skeleton:00044657,texture:00044658,material:00044659]"
+    ]
+  },
+  "10124": {
+    "code": "10124",
+    "notFound": [],
+    "invalid": [
+      "material:[skeleton:00049720,texture:00049706,material:00049707]"
+    ]
+  },
+  "10138": {
+    "code": "10138",
+    "notFound": [],
+    "invalid": [
+      "material:[skeleton:00050780,texture:00050779,material:00050781]"
+    ]
+  },
+  "10175": {
+    "code": "10175",
+    "notFound": [],
+    "invalid": [
+      "material:[skeleton:00056419,texture:00056420,material:00056421]"
+    ]
+  },
+  "10181": {
+    "code": "10181",
     "notFound": [
-      "texture:[skeleton:00016068,texture:null]"
+      "texture:[skeleton:00057279,texture:null]"
+    ],
+    "invalid": []
+  },
+  "10199": {
+    "code": "10199",
+    "notFound": [
+      "texture:[skeleton:00060669,texture:null]"
+    ],
+    "invalid": []
+  },
+  "10204": {
+    "code": "10204",
+    "notFound": [
+      "texture:[skeleton:00061288,texture:00061288]"
     ],
     "invalid": []
   },

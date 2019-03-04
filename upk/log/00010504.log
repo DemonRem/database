@@ -1,13 +1,13 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010504.upk Ver: 573/1 Engine: 4205 Names: 1217 Exports: 38096 Imports: 508 Game: 801A
 Loading Material3 Assassin_Tree000_MatM from package 00010504.upk
 Loading package: 00007928.upk Ver: 573/1 Engine: 4205 Names: 1161 Exports: 849 Imports: 143 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Assassin_Tree000_N_Tex from package 00007928.upk
 Loading Texture2D Assassin_Tree000_D_Tex from package 00007928.upk
 Loading Texture2D Assassin_Tree000_S_Tex from package 00007928.upk
 Loading Texture2D Noise_002 from package 00012963.upk
-Loaded in 0.11 sec, 3876 allocs, 2.98 MBytes serialized in 741473 calls.
+Loaded in 0.11 sec, 3913 allocs, 2.98 MBytes serialized in 742286 calls.
 
 Object info:
 ============

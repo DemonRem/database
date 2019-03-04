@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00012581.upk Ver: 573/1 Engine: 4205 Names: 387 Exports: 3719 Imports: 166 Game: 801A
 Loading Material3 Aura_OutRing_mat_FireBall from package 00012581.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00012581
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
@@ -314,7 +314,7 @@ Loading Texture2D Noise_Fractal_004 from package 00012963.upk
 Loading Texture2D Fire_Flash_Sprite_000 from package 00012963.upk
 Loading Texture2D Noise_010 from package 00012963.upk
 Loading Texture2D Gradient_001 from package 00012963.upk
-Loaded in 3 sec, 5030 allocs, 5.44 MBytes serialized in 123202 calls.
+Loaded in 1.3 sec, 5067 allocs, 5.45 MBytes serialized in 124015 calls.
 
 Object info:
 ============

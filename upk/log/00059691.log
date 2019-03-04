@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00059691.upk Ver: 573/1 Engine: 4205 Names: 29 Exports: 2 Imports: 2 Game: 801A
 Loading Texture2D 060055_JinF_Hair_D from package 00059691.upk
 Loading Texture2D 060055_JinF_Hair_N from package 00059691.upk
-Loaded in 0.046 sec, 123 allocs, 2.69 MBytes serialized in 708 calls.
+Loaded in 0.032 sec, 123 allocs, 2.69 MBytes serialized in 708 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00032773.upk Ver: 573/1 Engine: 4205 Names: 410 Exports: 569 Imports: 147 Game: 801A
 Loading MaterialInstanceConstant T3_2_Aura01 from package 00032773.upk
 Loading package: 00028250.upk Ver: 573/1 Engine: 4205 Names: 414 Exports: 696 Imports: 153 Game: 801A
@@ -52,11 +52,11 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_158 from package 00032773.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 T3_2_Aura01 from package 00032773.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 T3_2_Aura02 from package 00032773.upk
 Loading Texture2D T3_2_mask from package 00032773.upk
 Loading Material3 legend_weapon from package 00028250.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading Texture2D 030202_Autoscale_col1_S from package 00028786.upk
 Loading Material3 Guntlet_ee from package 00032509.upk
@@ -95,7 +95,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.31 sec, 5693 allocs, 2.47 MBytes serialized in 484398 calls.
+Loaded in 0.23 sec, 5820 allocs, 2.50 MBytes serialized in 492922 calls.
 
 Object info:
 ============

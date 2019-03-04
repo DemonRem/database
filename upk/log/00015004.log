@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00015004.upk Ver: 573/1 Engine: 4205 Names: 47 Exports: 17 Imports: 2 Game: 801A
 Loading Texture2D 990088_Autoscale_col5_D from package 00015004.upk
 Loading Texture2D 990088_Autoscale_col5_E from package 00015004.upk
@@ -19,7 +19,7 @@ Loading Texture2D Weapon_990088_col4_D from package 00015004.upk
 Loading Texture2D Weapon_990088_col4_E from package 00015004.upk
 Loading Texture2D Weapon_990088_col4_S from package 00015004.upk
 Loading Texture2D Weapon_990088_FX from package 00015004.upk
-Loaded in 0.15 sec, 591 allocs, 0.82 MBytes serialized in 3645 calls.
+Loaded in 0.13 sec, 591 allocs, 0.82 MBytes serialized in 3645 calls.
 
 Object info:
 ============

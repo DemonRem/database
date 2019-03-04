@@ -1,11 +1,11 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00007177.upk Ver: 573/1 Engine: 4205 Names: 290 Exports: 2 Imports: 150 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00007177.upk Ver: 573/1 Engine: 4205 Names: 315 Exports: 2 Imports: 175 Game: 801A
 Loading AnimSet GonM_Facial_AnimSet from package 00007177.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::UseMovementBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::RefSequences" was not found
-Loaded in 0 sec, 312 allocs, 0.01 MBytes serialized in 2168 calls.
+Loaded in 0.014 sec, 337 allocs, 0.02 MBytes serialized in 2418 calls.
 
 Object info:
 ============

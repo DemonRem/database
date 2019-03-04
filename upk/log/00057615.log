@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057615.upk Ver: 573/1 Engine: 4205 Names: 354 Exports: 698 Imports: 135 Game: 801A
 Loading MaterialInstanceConstant Sword1_INST from package 00057615.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading MaterialInstanceConstant Sword1_INST1 from package 00057615.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading SkeletalMesh3 130020_Autoscale from package 00057615.upk
@@ -14,7 +14,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_514 from package 00057615.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 130020_Deco1 from package 00057615.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 130020_deco2 from package 00057615.upk
 Loading Texture2D 130020_FX_mask from package 00057615.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
@@ -55,7 +55,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.34 sec, 5541 allocs, 3.77 MBytes serialized in 585890 calls.
+Loaded in 0.23 sec, 5695 allocs, 3.81 MBytes serialized in 597134 calls.
 
 Object info:
 ============

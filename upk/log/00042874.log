@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00042874.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 7 Imports: 2 Game: 801A
 Loading Texture2D 990220_BerserkWolf_D from package 00042874.upk
 Loading Texture2D 990220_BerserkWolf_D_col2 from package 00042874.upk
@@ -7,7 +7,7 @@ Loading Texture2D 990220_BerserkWolf_M from package 00042874.upk
 Loading Texture2D 990220_BerserkWolf_N from package 00042874.upk
 Loading Texture2D 990220_BerserkWolf_S from package 00042874.upk
 Loading Texture2D 990220_BerserkWolf_S_col2 from package 00042874.upk
-Loaded in 0.08 sec, 289 allocs, 2.04 MBytes serialized in 1710 calls.
+Loaded in 0.07 sec, 289 allocs, 2.04 MBytes serialized in 1710 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00033726.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 13 Imports: 3 Game: 801A
 Loading Texture2D 10010_JinM_Col1_D from package 00033726.upk
 Loading Texture2D 10010_JinM_Col1_M from package 00033726.upk
@@ -13,7 +13,7 @@ Loading Texture2D cube_Up from package 00033726.upk
 Loading Texture2D Fur_Tape1_D from package 00033726.upk
 Loading Texture2D Fur_Tape1_N from package 00033726.upk
 Loading TextureCube Cube from package 00033726.upk
-Loaded in 0.089 sec, 366 allocs, 1.58 MBytes serialized in 2453 calls.
+Loaded in 0.1 sec, 366 allocs, 1.58 MBytes serialized in 2453 calls.
 
 Object info:
 ============

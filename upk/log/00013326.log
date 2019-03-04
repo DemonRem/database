@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00013326.upk Ver: 573/1 Engine: 4205 Names: 1051 Exports: 3153 Imports: 181 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00013326.upk Ver: 573/1 Engine: 4205 Names: 1052 Exports: 3157 Imports: 181 Game: 801A
 Loading Texture2D Game_BossScene_Preview from package 00013326.upk
-Loaded in 0.008 sec, 1074 allocs, 0.27 MBytes serialized in 61263 calls.
+Loaded in 0.007 sec, 1075 allocs, 0.27 MBytes serialized in 61338 calls.
 
 Object info:
 ============

@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00024354.upk Ver: 573/1 Engine: 4205 Names: 185 Exports: 179 Imports: 48 Game: 801A
 Loading Material3 MookJum_FX from package 00024354.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading MaterialInstanceConstant col3 from package 00024354.upk
 Loading package: 00014718.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 16 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
@@ -20,7 +20,7 @@ Loading Texture2D CrocodileSharkTribeC2_S3 from package 00014718.upk
 Loading Texture2D cube_c_BK from package 00002640.upk
 Loading Texture2D CrocodileSharkTribeC2_em3 from package 00014718.upk
 Loading Texture2D CrocodileSharkTribeC2_FX from package 00014718.upk
-Loaded in 0.12 sec, 2886 allocs, 1.72 MBytes serialized in 186906 calls.
+Loaded in 0.12 sec, 2923 allocs, 1.73 MBytes serialized in 187719 calls.
 
 Object info:
 ============

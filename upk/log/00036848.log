@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00036848.upk Ver: 573/1 Engine: 4205 Names: 194 Exports: 253 Imports: 18 Game: 801A
 Loading SkeletalMesh3 RuneMechaChameleon from package 00036848.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -33,7 +33,7 @@ Loading Texture2D RuneMechaChameleon_col1_D from package 00036846.upk
 Loading Texture2D RuneMechaChameleon_col1_S from package 00036846.upk
 Loading TextureCube cube_orb from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 990202_ChameleonTribe_col1_N from package 00036850.upk
 Loading Texture2D 990202_ChameleonTribe_col1_M from package 00036850.upk
 Loading Texture2D 990202_ChameleonTribe_col1_D from package 00036850.upk
@@ -58,7 +58,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.33 sec, 3533 allocs, 5.31 MBytes serialized in 468193 calls.
+Loaded in 0.29 sec, 3570 allocs, 5.31 MBytes serialized in 469006 calls.
 
 Object info:
 ============

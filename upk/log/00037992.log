@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00037992.upk Ver: 573/1 Engine: 4205 Names: 44 Exports: 13 Imports: 2 Game: 801A
 Loading Texture2D ElephankingAllWeapon_col1_D from package 00037992.upk
 Loading Texture2D ElephankingAllWeapon_col1_E from package 00037992.upk
@@ -13,7 +13,7 @@ Loading Texture2D ElephantKing_col1_S from package 00037992.upk
 Loading Texture2D FX_Mask03 from package 00037992.upk
 Loading Texture2D FX_Mask_ElephantKing from package 00037992.upk
 Loading Texture2D FX_Mask_Weapon from package 00037992.upk
-Loaded in 0.13 sec, 478 allocs, 2.48 MBytes serialized in 2970 calls.
+Loaded in 0.12 sec, 478 allocs, 2.48 MBytes serialized in 2970 calls.
 
 Object info:
 ============

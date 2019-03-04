@@ -1,13 +1,13 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00059413.upk Ver: 573/1 Engine: 4205 Names: 401 Exports: 462 Imports: 155 Game: 801A
 Loading MaterialInstanceConstant 070160_GUN_Edge_MI from package 00059413.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00048085.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 12 Imports: 2 Game: 801A
 Loading package: 00037791.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 63 Imports: 4 Game: 801A
 Loading package: 00059390.upk Ver: 573/1 Engine: 4205 Names: 499 Exports: 752 Imports: 190 Game: 801A
 Loading MaterialInstanceConstant 070160_GUN_EE_MI from package 00059413.upk
 Loading MaterialInstanceConstant 070160_GUN_Mesh_MI from package 00059413.upk
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading SkeletalMesh3 070160_Autoscale_L from package 00059413.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
 WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
@@ -31,7 +31,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_158 from package 00059413.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
 Loading StaticMesh3 FX_Mesh01 from package 00059413.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 FX_Mesh02 from package 00059413.upk
 Loading Texture2D Gradient_Line_R from package 00012963.upk
 Loading Texture2D 070032_Autoscale_col1_D from package 00048085.upk
@@ -87,7 +87,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.42 sec, 7091 allocs, 3.40 MBytes serialized in 673301 calls.
+Loaded in 0.29 sec, 7245 allocs, 3.45 MBytes serialized in 684545 calls.
 
 Object info:
 ============

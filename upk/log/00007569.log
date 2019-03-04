@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00007569.upk Ver: 573/1 Engine: 4205 Names: 372 Exports: 1657 Imports: 68 Game: 801A
 Loading Material3 body from package 00007569.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
@@ -73,7 +73,7 @@ Loading Texture2D SagistUnderclass_s from package 00003571.upk
 Loading Texture2D eye0_KunN00 from package 00007428.upk
 Loading TextureCube eye_s1 from package 00002640.upk
 Loading Material3 eye from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -103,7 +103,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.5 sec, 4502 allocs, 4.40 MBytes serialized in 387857 calls.
+Loaded in 0.39 sec, 4539 allocs, 4.40 MBytes serialized in 388670 calls.
 
 Object info:
 ============

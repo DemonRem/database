@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00004218.upk Ver: 573/1 Engine: 4205 Names: 177 Exports: 284 Imports: 47 Game: 801A
 Loading Material3 Basic_FX from package 00004218.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Basic_Pest from package 00004218.upk
 Loading MaterialInstanceConstant Pest_col1 from package 00004218.upk
 Loading package: 00004217.upk Ver: 573/1 Engine: 4205 Names: 49 Exports: 21 Imports: 2 Game: 801A
@@ -26,7 +26,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.14 sec, 2949 allocs, 1.05 MBytes serialized in 189432 calls.
+Loaded in 0.11 sec, 2986 allocs, 1.06 MBytes serialized in 190245 calls.
 
 Object info:
 ============

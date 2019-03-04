@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00030432.upk Ver: 573/1 Engine: 4205 Names: 305 Exports: 397 Imports: 95 Game: 801A
 Loading SkeletalMesh3 020213_Autoscale_L from package 00030432.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -24,9 +24,9 @@ WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not fou
 Loading Texture2D 020213_FX_mask from package 00030432.upk
 Loading MaterialInstanceConstant col1 from package 00030431.upk
 Loading package: 00030433.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading Texture2D 020213_Autoscale_col1_N from package 00030433.upk
 Loading Texture2D 020213_Autoscale_col1_M from package 00030433.upk
 Loading Texture2D 020213_Autoscale_col1_D from package 00030433.upk
@@ -47,7 +47,7 @@ Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.19 sec, 4121 allocs, 2.32 MBytes serialized in 456513 calls.
+Loaded in 0.16 sec, 4185 allocs, 2.34 MBytes serialized in 460046 calls.
 
 Object info:
 ============

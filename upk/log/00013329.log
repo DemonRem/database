@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00013329.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 1321 Imports: 80 Game: 801A
 Loading Texture2D Game_SkillMap_Force_Master_Scene_Preview from package 00013329.upk
-Loaded in 0.008 sec, 314 allocs, 0.12 MBytes serialized in 25300 calls.
+Loaded in 0.017 sec, 314 allocs, 0.12 MBytes serialized in 25300 calls.
 
 Object info:
 ============

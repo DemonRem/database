@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00010573.upk Ver: 573/1 Engine: 4205 Names: 112 Exports: 194 Imports: 15 Game: 801A
 Loading SkeletalMesh3 Rick from package 00010573.upk
 WARNING: ObjectProperty "USkeletalMesh3::PlaySoundSet" was not found
@@ -9,7 +9,7 @@ Loading package: 00010572.upk Ver: 573/1 Engine: 4205 Names: 194 Exports: 257 Im
 Loading SkeletalMesh3 Rick_attach from package 00010573.upk
 Loading Material3 Basic_Bead_FX from package 00010572.upk
 Loading package: 00010571.upk Ver: 573/1 Engine: 4205 Names: 68 Exports: 45 Imports: 3 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading MaterialInstanceConstant Basic_Bead_INST from package 00010572.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
@@ -72,7 +72,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.76 sec, 4039 allocs, 1.90 MBytes serialized in 289655 calls.
+Loaded in 0.4 sec, 4076 allocs, 1.90 MBytes serialized in 290468 calls.
 
 Object info:
 ============

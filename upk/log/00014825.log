@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00014825.upk Ver: 573/1 Engine: 4205 Names: 64 Exports: 36 Imports: 2 Game: 801A
 Loading Texture2D PileBunkerBigulBogul_col1_D from package 00014825.upk
 Loading Texture2D PileBunkerBigulBogul_col1_M from package 00014825.upk
@@ -36,7 +36,7 @@ Loading Texture2D PilebunkerEmpire_M5 from package 00014825.upk
 Loading Texture2D PilebunkerEmpire_N from package 00014825.upk
 Loading Texture2D PilebunkerEmpire_S from package 00014825.upk
 Loading Texture2D PilebunkerEmpire_S5 from package 00014825.upk
-Loaded in 0.46 sec, 1267 allocs, 12.41 MBytes serialized in 8329 calls.
+Loaded in 0.4 sec, 1267 allocs, 12.41 MBytes serialized in 8329 calls.
 
 Object info:
 ============

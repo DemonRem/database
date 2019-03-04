@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00035326.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 9 Imports: 8 Game: 801A
 Loading Texture2D Dandi_col2_D from package 00035326.upk
 Loading Texture2D Dandi_col2_M from package 00035326.upk
@@ -7,7 +7,7 @@ Loading Texture2D Dandi_d from package 00035326.upk
 Loading Texture2D Dandi_m from package 00035326.upk
 Loading Texture2D Dandi_n from package 00035326.upk
 Loading Texture2D Dandi_s from package 00035326.upk
-Loaded in 0.065 sec, 278 allocs, 0.93 MBytes serialized in 1719 calls.
+Loaded in 0.058 sec, 278 allocs, 0.93 MBytes serialized in 1719 calls.
 
 Object info:
 ============

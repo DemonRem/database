@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00028206.upk Ver: 573/1 Engine: 4205 Names: 142 Exports: 246 Imports: 2 Game: 801A
 Loading Texture2D RandomAbility_Tag_max from package 00028206.upk
 Loading Texture2D Tag_001 from package 00028206.upk
@@ -246,7 +246,7 @@ Loading Texture2D Tag_Level_53 from package 00028206.upk
 Loading Texture2D Tag_Level_54 from package 00028206.upk
 Loading Texture2D Tag_Level_55 from package 00028206.upk
 Loading Texture2D Tag_Space from package 00028206.upk
-Loaded in 0.25 sec, 1480 allocs, 0.52 MBytes serialized in 29730 calls.
+Loaded in 0.21 sec, 1480 allocs, 0.52 MBytes serialized in 29730 calls.
 
 Object info:
 ============

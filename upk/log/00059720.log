@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00059720.upk Ver: 573/1 Engine: 4205 Names: 216 Exports: 125 Imports: 23 Game: 801A
 Loading SkeletalMesh3 10182_JinF_col10 from package 00059720.upk
 WARNING: FloatProperty "USkeletalMesh3::AutoScale" was not found
@@ -30,7 +30,7 @@ Loading Texture2D 10182_JinF_Col10_M from package 00057690.upk
 Loading Texture2D 10182_JinF_col10_D from package 00057690.upk
 Loading Texture2D Mask_Default from package 00025178.upk
 Loading Material3 Custom_B from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 10182_JinF_Col1_N from package 00057690.upk
 Loading Texture2D 10182_JinF_Col1_D from package 00057690.upk
 Loading Texture2D 10182_JinF_Col1_S from package 00057690.upk
@@ -54,7 +54,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.28 sec, 3548 allocs, 4.83 MBytes serialized in 445604 calls.
+Loaded in 0.22 sec, 3585 allocs, 4.83 MBytes serialized in 446417 calls.
 
 Object info:
 ============

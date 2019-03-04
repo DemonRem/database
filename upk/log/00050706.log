@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00050706.upk Ver: 573/1 Engine: 4205 Names: 139 Exports: 89 Imports: 11 Game: 801A
 Loading SkeletalMesh3 RussianOwlEvolve from package 00050706.upk
 WARNING: ByteProperty "USkeletalMesh3::ItemPreviewLocType" was not found
@@ -14,7 +14,7 @@ Loading Texture2D RussianOwlEvolve_col1_D from package 00050704.upk
 Loading Texture2D RussianOwlEvolve_col1_S from package 00050704.upk
 Loading TextureCube lenscube from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Fur_Ac from package 00002620.upk
 Loading Texture2D CubemapFace0 from package 00002640.upk
@@ -29,7 +29,7 @@ Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
-Loaded in 0.17 sec, 3040 allocs, 1.83 MBytes serialized in 305520 calls.
+Loaded in 0.13 sec, 3077 allocs, 1.84 MBytes serialized in 306333 calls.
 
 Object info:
 ============

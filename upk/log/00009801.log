@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00009801.upk Ver: 573/1 Engine: 4205 Names: 1315 Exports: 61727 Imports: 535 Game: 801A
 Loading Material3 M_AuraMaster_EnergyWall_Cast_MatM from package 00009801.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D Noise_000 from package 00012963.upk
-Loaded in 0.14 sec, 2718 allocs, 4.44 MBytes serialized in 1146982 calls.
+Loaded in 0.13 sec, 2755 allocs, 4.45 MBytes serialized in 1147795 calls.
 
 Object info:
 ============

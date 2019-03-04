@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00027918.upk Ver: 573/1 Engine: 4205 Names: 930 Exports: 938 Imports: 7 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00027918.upk Ver: 573/1 Engine: 4205 Names: 934 Exports: 942 Imports: 7 Game: 801A
 Loading Texture2D Duel_1vs1 from package 00027918.upk
 Loading Texture2D Duel_3vs3 from package 00027918.upk
 Loading Texture2D Duel_Img_Match_1vs1_01 from package 00027918.upk
@@ -7,6 +7,7 @@ Loading Texture2D Duel_Unrated from package 00027918.upk
 Loading Texture2D Dungeon_Img_BaekCheong_Sulokgoong_Boss1 from package 00027918.upk
 Loading Texture2D Dungeon_Img_BaekCheong_Sulokgoong_Boss2 from package 00027918.upk
 Loading Texture2D Dungeon_Img_BaekCheong_Sulokgoong_Boss3 from package 00027918.upk
+Loading Texture2D Dungeon_Img_Battle_RoyalField from package 00027918.upk
 Loading Texture2D Dungeon_Img_BimilJeondang_Boss1 from package 00027918.upk
 Loading Texture2D Dungeon_Img_BimilJeondang_Boss2 from package 00027918.upk
 Loading Texture2D Dungeon_Img_BubGiGongJang from package 00027918.upk
@@ -36,6 +37,7 @@ Loading Texture2D Dungeon_Img_HeaSangMuDom_50Lv_Boss2 from package 00027918.upk
 Loading Texture2D Dungeon_Img_HeaSangMuDom_Boss1 from package 00027918.upk
 Loading Texture2D Dungeon_Img_HeaSangMuDom_Boss2 from package 00027918.upk
 Loading Texture2D Dungeon_Img_Hongsil_Event from package 00027918.upk
+Loading Texture2D Dungeon_Img_HongsilSecret_Event from package 00027918.upk
 Loading Texture2D Dungeon_Img_Hookcanyon_Boss1 from package 00027918.upk
 Loading Texture2D Dungeon_Img_Ice_Shooting from package 00027918.upk
 Loading Texture2D Dungeon_Img_InfiniteTower from package 00027918.upk
@@ -465,7 +467,7 @@ Loading Texture2D RaidDungeon_Img_PaCheon_Fortress_Boss2 from package 00027918.u
 Loading Texture2D RaidDungeon_Img_PaCheon_Fortress_Boss3 from package 00027918.upk
 Loading Texture2D RaidDungeon_Img_PaCheon_Fortress_Boss4 from package 00027918.upk
 Loading Texture2D RaidDungeon_Img_RaidDungeon_SkyPlayground from package 00027918.upk
-Loaded in 0.63 sec, 3471 allocs, 11.50 MBytes serialized in 60790 calls.
+Loaded in 0.47 sec, 3485 allocs, 11.55 MBytes serialized in 61050 calls.
 
 Object info:
 ============
@@ -560,6 +562,21 @@ ClassName: Texture2D ObjectName: Dungeon_Img_BaekCheong_Sulokgoong_Boss2
 Object info:
 ============
 ClassName: Texture2D ObjectName: Dungeon_Img_BaekCheong_Sulokgoong_Boss3
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Dungeon_Img_Battle_RoyalField
 
     SizeX = 256
     SizeY = 256
@@ -995,6 +1012,21 @@ ClassName: Texture2D ObjectName: Dungeon_Img_HeaSangMuDom_Boss2
 Object info:
 ============
 ClassName: Texture2D ObjectName: Dungeon_Img_Hongsil_Event
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Dungeon_Img_HongsilSecret_Event
 
     SizeX = 256
     SizeY = 256

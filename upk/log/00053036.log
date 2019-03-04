@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053036.upk Ver: 573/1 Engine: 4205 Names: 792 Exports: 2075 Imports: 253 Game: 801A
 Loading AnimSet BackHo_Primium_FX_AnimSet from package 00053036.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -9,7 +9,7 @@ Loading AnimSequence AnimSequence_1 from package 00053036.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 M_PremiumBackho1 from package 00053036.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00053036
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
@@ -36,7 +36,7 @@ Loading package: 00054069.upk Ver: 573/1 Engine: 4205 Names: 189 Exports: 1 Impo
 Loading SkeletalMesh3 backho_Primium_Trail_FX_01 from package 00053036.upk
 Loading SkeletalMesh3 backho_Primium_Trail_FX_02 from package 00053036.upk
 Loading StaticMesh3 Premium_BackHoCrystal from package 00053036.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading Texture2D 10153_FX from package 00053036.upk
 Loading Texture2D Noise_006 from package 00012963.upk
 Loading Texture2D Glow_Half_000 from package 00012963.upk
@@ -79,7 +79,7 @@ Loading Texture2D Mask_Default from package 00025178.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
-Loaded in 0.38 sec, 5805 allocs, 5.76 MBytes serialized in 929084 calls.
+Loaded in 0.32 sec, 5932 allocs, 5.79 MBytes serialized in 937608 calls.
 
 Object info:
 ============

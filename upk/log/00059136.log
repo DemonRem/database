@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00059136.upk Ver: 573/1 Engine: 4205 Names: 376 Exports: 821 Imports: 143 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco04_00059136 from package 00059136.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading MaterialInstanceConstant W_MeshDeco12_00059136 from package 00059136.upk
 Loading MaterialInstanceConstant Weapon_Deco_INST_Sword from package 00059136.upk
 Loading SkeletalMesh3 130054_Autoscale from package 00059136.upk
@@ -14,7 +14,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_221 from package 00059136.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 130054_deco01 from package 00059136.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 130054_deco02 from package 00059136.upk
 Loading StaticMesh3 130054_deco03 from package 00059136.upk
 Loading StaticMesh3 130054_deco04 from package 00059136.upk
@@ -76,7 +76,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.42 sec, 6005 allocs, 3.76 MBytes serialized in 526560 calls.
+Loaded in 0.34 sec, 6159 allocs, 3.80 MBytes serialized in 537804 calls.
 
 Object info:
 ============

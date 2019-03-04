@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00047139.upk Ver: 573/1 Engine: 4205 Names: 481 Exports: 1183 Imports: 178 Game: 801A
 Loading Material3 Sword_ee from package 00047139.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00047140.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant Sword_Deco_INST from package 00047139.upk
 Loading package: 00039551.upk Ver: 573/1 Engine: 4205 Names: 524 Exports: 1255 Imports: 196 Game: 801A
@@ -13,7 +13,7 @@ Loading package: 00047138.upk Ver: 573/1 Engine: 4205 Names: 182 Exports: 189 Im
 Loading SkeletalMeshSocket SkeletalMeshSocket_62 from package 00047139.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 sword_deco02 from package 00047139.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 sword_deco01 from package 00047139.upk
 Loading StaticMesh3 sword_deco03 from package 00047139.upk
 Loading Texture2D FX_Mask from package 00047139.upk
@@ -55,7 +55,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.29 sec, 5525 allocs, 2.82 MBytes serialized in 492877 calls.
+Loaded in 0.22 sec, 5652 allocs, 2.86 MBytes serialized in 501401 calls.
 
 Object info:
 ============

@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00018120.upk Ver: 573/1 Engine: 4205 Names: 201 Exports: 426 Imports: 52 Game: 801A
 Loading Material3 AncientAdamantineMan_FX_Col1 from package 00018120.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00018119.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 2 Game: 801A
 Loading Material3 Basic_FX from package 00018120.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
@@ -33,7 +33,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.22 sec, 3176 allocs, 4.78 MBytes serialized in 193447 calls.
+Loaded in 0.18 sec, 3213 allocs, 4.79 MBytes serialized in 194260 calls.
 
 Object info:
 ============

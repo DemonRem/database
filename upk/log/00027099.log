@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00027099.upk Ver: 573/1 Engine: 4205 Names: 27 Exports: 6 Imports: 2 Game: 801A
 Loading Texture2D 990003_Acc_BoneMaskBigA_col3_D from package 00027099.upk
 Loading Texture2D 990003_Acc_BoneMaskBigA_col3_E from package 00027099.upk
@@ -6,7 +6,7 @@ Loading Texture2D 990003_Acc_BoneMaskBigA_col3_S from package 00027099.upk
 Loading Texture2D 990003_Acc_BoneMaskBigA_col4_D from package 00027099.upk
 Loading Texture2D 990003_Acc_BoneMaskBigA_col4_E from package 00027099.upk
 Loading Texture2D 990003_Acc_BoneMaskBigA_col4_S from package 00027099.upk
-Loaded in 0.044 sec, 219 allocs, 0.22 MBytes serialized in 1300 calls.
+Loaded in 0.039 sec, 219 allocs, 0.22 MBytes serialized in 1300 calls.
 
 Object info:
 ============

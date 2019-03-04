@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00019624.upk Ver: 573/1 Engine: 4205 Names: 1657 Exports: 5218 Imports: 159 Game: 801A
 Loading Texture2D ArenaLobby_DuelScene_Preview from package 00019624.upk
 Loading Texture2D ArenaLobby_SpectateDuelListScene_Preview from package 00019624.upk
-Loaded in 0.015 sec, 1685 allocs, 0.47 MBytes serialized in 100157 calls.
+Loaded in 0.017 sec, 1685 allocs, 0.46 MBytes serialized in 100157 calls.
 
 Object info:
 ============

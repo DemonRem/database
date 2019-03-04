@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00022768.upk Ver: 573/1 Engine: 4205 Names: 86 Exports: 25 Imports: 10 Game: 801A
 Loading SkeletalMesh3 990104_NahanB from package 00022768.upk
 Loading package: 00022767.upk Ver: 573/1 Engine: 4205 Names: 170 Exports: 151 Imports: 46 Game: 801A
@@ -13,7 +13,7 @@ Loading TextureCube MatelW1 from package 00002640.upk
 Loading Texture2D 990104_NahanB_col1_fx from package 00022766.upk
 Loading Material3 Basic_nahan_acc from package 00022767.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -26,7 +26,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.15 sec, 3031 allocs, 1.33 MBytes serialized in 228203 calls.
+Loaded in 0.13 sec, 3068 allocs, 1.33 MBytes serialized in 229016 calls.
 
 Object info:
 ============

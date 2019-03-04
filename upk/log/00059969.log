@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00059969.upk Ver: 573/1 Engine: 4205 Names: 703 Exports: 2512 Imports: 221 Game: 801A
 Loading AnimSet 090183_JinM_Wing_AnimSet from package 00059969.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -78,14 +78,14 @@ WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading AnimSequence AnimSequence_6 from package 00059969.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 Gradient_Aura_MatB from package 00059969.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00059969
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
 Loading Material3 hand_Trail_01 from package 00059969.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 holo_Ground_MAT_02 from package 00059969.upk
-Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1743 Exports: 35120 Imports: 610 Game: 801A
 Loading Material3 holo_Wing_MAT from package 00059969.upk
 WARNING: StructProperty "UMaterial3::WorldPositionOffset" was not found
 Loading Material3 Run_holo_01_MAT from package 00059969.upk
@@ -193,7 +193,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:090183_JinM_Wing_AnimSet <- UObject::EndLoad <- LoadWholePackage:00059969 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

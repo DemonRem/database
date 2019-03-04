@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00057939.upk Ver: 573/1 Engine: 4205 Names: 560 Exports: 1782 Imports: 215 Game: 801A
 Loading Material3 FX_Darksuit_pixel_01 from package 00057939.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 FX_Pan_Top from package 00057939.upk
 Loading package: 00055736.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 6 Imports: 2 Game: 801A
 Loading Material3 M01_Beam_Noise_soul_add from package 00057939.upk
@@ -20,7 +20,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_308 from package 00057939.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 010373_Autoscale_FX_MESH001 from package 00057939.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 010373_Autoscale_FX_MESH002 from package 00057939.upk
 Loading StaticMesh3 010373_Autoscale_FX_MESH003 from package 00057939.upk
 Loading StaticMesh3 HEXGRID_01 from package 00057939.upk
@@ -82,7 +82,7 @@ Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.53 sec, 5634 allocs, 5.97 MBytes serialized in 766365 calls.
+Loaded in 0.41 sec, 5761 allocs, 6.00 MBytes serialized in 774889 calls.
 
 Object info:
 ============

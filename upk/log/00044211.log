@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00044211.upk Ver: 573/1 Engine: 4205 Names: 335 Exports: 317 Imports: 95 Game: 801A
 Loading Texture2D Game_JumpingLevel_Preview from package 00044211.upk
-Loaded in 0.007 sec, 358 allocs, 0.04 MBytes serialized in 7465 calls.
+Loaded in 0.009 sec, 358 allocs, 0.04 MBytes serialized in 7465 calls.
 
 Object info:
 ============

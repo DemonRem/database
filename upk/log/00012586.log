@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00012586.upk Ver: 573/1 Engine: 4205 Names: 620 Exports: 9979 Imports: 243 Game: 801A
 Loading Material3 AncientDokgo_Noise_trans from package 00012586.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 BerserkWolfA_Line_Boom from package 00012586.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Blob_volume from package 00012586.upk
@@ -480,7 +480,7 @@ Loading Texture2D Smoke_Dusts_001 from package 00012963.upk
 Loading Texture2D Decal_Mask_000 from package 00012963.upk
 Loading Texture2D T_Noise_v002 from package 00037791.upk
 Loading Texture2D T_White_v001 from package 00037791.upk
-Loaded in 6.1 sec, 7957 allocs, 6.47 MBytes serialized in 399404 calls.
+Loaded in 5.5 sec, 7994 allocs, 6.47 MBytes serialized in 400217 calls.
 
 Object info:
 ============

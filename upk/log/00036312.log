@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00036312.upk Ver: 573/1 Engine: 4205 Names: 92 Exports: 25 Imports: 10 Game: 801A
 Loading SkeletalMesh3 LynF_109 from package 00036312.upk
 Loading package: 00016921.upk Ver: 573/1 Engine: 4205 Names: 52 Exports: 1 Imports: 16 Game: 801A
@@ -8,7 +8,7 @@ Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 I
 Loading Texture2D GonM_024_D_col1 from package 00016922.upk
 Loading Texture2D GonM_024_N_col1 from package 00016922.upk
 Loading Material3 Beard_Ac from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00008613.upk Ver: 573/1 Engine: 4205 Names: 95 Exports: 6 Imports: 12 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
@@ -18,7 +18,7 @@ Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D check from package 00002620.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Nothing_A from package 00008613.upk
-Loaded in 0.093 sec, 2526 allocs, 1.35 MBytes serialized in 220894 calls.
+Loaded in 0.081 sec, 2563 allocs, 1.36 MBytes serialized in 221707 calls.
 
 Object info:
 ============

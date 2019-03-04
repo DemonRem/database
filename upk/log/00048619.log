@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048619.upk Ver: 573/1 Engine: 4205 Names: 388 Exports: 481 Imports: 138 Game: 801A
 Loading MaterialInstanceConstant Gauntlet_Body_MAT_Trans_INST from package 00048619.upk
 Loading package: 00047133.upk Ver: 573/1 Engine: 4205 Names: 522 Exports: 1493 Imports: 192 Game: 801A
 Loading MaterialInstanceConstant W_Meshdeco08_070059 from package 00048619.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
-Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 813 Exports: 8063 Imports: 209 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
+Loading package: 00048300.upk Ver: 573/1 Engine: 4205 Names: 840 Exports: 8203 Imports: 226 Game: 801A
 Loading SkeletalMesh3 070056_Autoscale_L from package 00048619.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
 WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
@@ -27,7 +27,7 @@ Loading SkeletalMeshSocket SkeletalMeshSocket_124 from package 00048619.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 WARNING: BoolProperty "USkeletalMeshSocket::bParticleApplyAutoScale" was not found
 Loading StaticMesh3 070056_meshdeco01 from package 00048619.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 070056_meshdeco02 from package 00048619.upk
 Loading Texture2D 070056_fx_mask from package 00048619.upk
 Loading Material3 Dagger_Body_MAT_Trans from package 00047133.upk
@@ -73,7 +73,7 @@ Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.34 sec, 6408 allocs, 3.32 MBytes serialized in 670880 calls.
+Loaded in 0.26 sec, 6562 allocs, 3.37 MBytes serialized in 682124 calls.
 
 Object info:
 ============

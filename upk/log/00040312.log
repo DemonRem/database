@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00040312.upk Ver: 573/1 Engine: 4205 Names: 21 Exports: 2 Imports: 2 Game: 801A
 Loading Texture2D IkSanun_col1_D from package 00040312.upk
 Loading Texture2D IkSanun_col2_D from package 00040312.upk
-Loaded in 0.023 sec, 103 allocs, 0.26 MBytes serialized in 526 calls.
+Loaded in 0.022 sec, 103 allocs, 0.26 MBytes serialized in 526 calls.
 
 Object info:
 ============

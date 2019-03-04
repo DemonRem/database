@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00014425.upk Ver: 573/1 Engine: 4205 Names: 118 Exports: 86 Imports: 19 Game: 801A
 Loading Texture2D eye0_cat001 from package 00014425.upk
 Loading Texture2D eye0_cat002 from package 00014425.upk
@@ -42,7 +42,7 @@ Loading Texture2D Face_0001_Col8_D from package 00014425.upk
 Loading Texture2D Face_0001_Col8_S from package 00014425.upk
 Loading Texture2D Face_0001_Col9_D from package 00014425.upk
 Loading Texture2D Face_0001_Col9_S from package 00014425.upk
-Loaded in 0.56 sec, 1492 allocs, 7.14 MBytes serialized in 10426 calls.
+Loaded in 0.4 sec, 1492 allocs, 7.14 MBytes serialized in 10426 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041875.upk Ver: 573/1 Engine: 4205 Names: 801 Exports: 1752 Imports: 201 Game: 801A
 Loading AnimSet 090135_JinM_circle_Animset from package 00041875.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -205,7 +205,7 @@ WARNING: BoolProperty "UAnimSequence::bUseCustomForceAnim" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 BoostTrailRing000_Mat from package 00041875.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 check for DefaultTexture in 00041875
 check for DefaultTexture in 00012963
 WARNING: Import(EngineResources.DefaultTexture) was not found
@@ -245,7 +245,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_143 from package 00041875.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 WingCircleFX_SM from package 00041875.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading Texture2D WingCircleFX001_Tex from package 00041875.upk
 Loading Texture2D WingCircleFX002_Tex from package 00041875.upk
 Loading Texture2D Ring_Thick_000 from package 00012963.upk
@@ -382,7 +382,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:090135_JinM_circle_Animset <- UObject::EndLoad <- LoadWholePackage:00041875 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

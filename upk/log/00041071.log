@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00041071.upk Ver: 573/1 Engine: 4205 Names: 57 Exports: 8 Imports: 8 Game: 801A
 Loading AnimSet Jeokpaewang_SpikeWall_AnimSet from package 00041071.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -26,7 +26,7 @@ Loading AnimSequence AnimSequence_8 from package 00041071.upk
 WARNING: BoolProperty "UAnimSequence::bIgnoreAimControl" was not found
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 WARNING: ByteProperty "UAnimSequence::NamePlateControlMode" was not found
-Loaded in 0.023 sec, 147 allocs, 0.01 MBytes serialized in 811 calls.
+Loaded in 0.016 sec, 147 allocs, 0.01 MBytes serialized in 811 calls.
 
 Object info:
 ============

@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00010245.upk Ver: 573/1 Engine: 4205 Names: 631 Exports: 2 Imports: 697 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00010245.upk Ver: 573/1 Engine: 4205 Names: 633 Exports: 2 Imports: 699 Game: 801A
 Loading AnimSet Assassin_JinF_Animset from package 00010245.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
 WARNING: ArrayProperty "UAnimSet::AdjustAniScaleBoneNames" was not found
@@ -17,7 +17,7 @@ WARNING: ArrayProperty "UAnimSet::RefAnimSetGroup" was not found
 WARNING: ArrayProperty "UAnimSet::PhysicalHitBoneNames" was not found
 WARNING: ArrayProperty "UAnimSet::WeaponSlotSocketNames" was not found
 WARNING: AnimSet Assassin_JinM_Animset has 0 sequences, but empty TrackBoneNames
-Loaded in 0 sec, 659 allocs, 0.04 MBytes serialized in 7142 calls.
+Loaded in 0.008 sec, 661 allocs, 0.04 MBytes serialized in 7162 calls.
 
 Object info:
 ============

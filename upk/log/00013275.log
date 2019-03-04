@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00013275.upk Ver: 573/1 Engine: 4205 Names: 388 Exports: 585 Imports: 93 Game: 801A
 Loading Texture2D Game_SurveyScene_Preview from package 00013275.upk
-Loaded in 0.001 sec, 411 allocs, 0.06 MBytes serialized in 12434 calls.
+Loaded in 0.003 sec, 411 allocs, 0.06 MBytes serialized in 12434 calls.
 
 Object info:
 ============

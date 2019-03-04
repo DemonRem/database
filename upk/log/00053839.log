@@ -1,9 +1,9 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00053839.upk Ver: 573/1 Engine: 4205 Names: 607 Exports: 1572 Imports: 153 Game: 801A
 Loading Material3 Basic_StaticMesh from package 00053839.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
 Loading package: 00050895.upk Ver: 573/1 Engine: 4205 Names: 153 Exports: 3 Imports: 21 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 Basic_StaticMesh01 from package 00053839.upk
 Loading Material3 Basic_StaticMesh02 from package 00053839.upk
 Loading Material3 Basic_StaticMesh03 from package 00053839.upk
@@ -22,7 +22,7 @@ Loading Material3 SkillSkin_Xmas_Acc02 from package 00053839.upk
 Loading Material3 SkillSkin_Xmas_Seed_Center from package 00053839.upk
 Loading Material3 spore01_material from package 00053839.upk
 Loading Material3 Xmas_Deco02 from package 00053839.upk
-Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1650 Exports: 31758 Imports: 575 Game: 801A
+Loading package: 00032237.upk Ver: 573/1 Engine: 4205 Names: 1743 Exports: 35120 Imports: 610 Game: 801A
 Loading MaterialInstanceConstant INST_Basic_Acc05 from package 00053839.upk
 Loading package: 00030043.upk Ver: 573/1 Engine: 4205 Names: 35 Exports: 7 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant INST_Basic_Acc20 from package 00053839.upk
@@ -32,7 +32,7 @@ Loading MaterialInstanceConstant INST_Basic_Deco15 from package 00053839.upk
 Loading MaterialInstanceConstant INST_Basic_Deco16 from package 00053839.upk
 Loading package: 00036193.upk Ver: 573/1 Engine: 4205 Names: 33 Exports: 5 Imports: 2 Game: 801A
 Loading MaterialInstanceConstant INST_SnowIce_deco05 from package 00053839.upk
-Loading package: 00012584.upk Ver: 573/1 Engine: 4205 Names: 321 Exports: 2089 Imports: 108 Game: 801A
+Loading package: 00012584.upk Ver: 573/1 Engine: 4205 Names: 324 Exports: 2091 Imports: 109 Game: 801A
 Loading MaterialInstanceConstant INST_SnowIce_star from package 00053839.upk
 Loading package: 00052507.upk Ver: 573/1 Engine: 4205 Names: 40 Exports: 15 Imports: 4 Game: 801A
 Loading MaterialInstanceConstant Inst_StaticMesh02_Deco08 from package 00053839.upk
@@ -68,7 +68,7 @@ Loading MaterialInstanceConstant Xmas_Star01Mat_INST from package 00053839.upk
 Loading MaterialInstanceConstant XmasStar_col1_Xmas from package 00053839.upk
 Loading MaterialInstanceConstant XmasStar_col1_Xmas02 from package 00053839.upk
 Loading StaticMesh3 Soul2Effect_WhiteDeer_test from package 00053839.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Xmas_cookie01 from package 00053839.upk
 Loading StaticMesh3 Xmas_Deco00 from package 00053839.upk
 Loading StaticMesh3 Xmas_Deco01 from package 00053839.upk
@@ -303,7 +303,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 2.5 sec, 14382 allocs, 16.52 MBytes serialized in 1629482 calls.
+Loaded in 1.7 sec, 14605 allocs, 16.78 MBytes serialized in 1699098 calls.
 
 Object info:
 ============

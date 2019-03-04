@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00010047.upk Ver: 573/1 Engine: 4205 Names: 641 Exports: 766 Imports: 84 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00010047.upk Ver: 573/1 Engine: 4205 Names: 648 Exports: 790 Imports: 85 Game: 801A
 Loading Texture2D AchievementAbility_01 from package 00010047.upk
 Loading Texture2D AchievementAbility_02 from package 00010047.upk
 Loading Texture2D AchievementAbility_03 from package 00010047.upk
@@ -188,7 +188,7 @@ Loading Texture2D Tooltip_Gem09_Image from package 00010047.upk
 Loading Texture2D Tooltip_Gem10_Disable_Image from package 00010047.upk
 Loading Texture2D Tooltip_Gem10_Image from package 00010047.upk
 Loading Texture2D Wardrobe_Favorite from package 00010047.upk
-Loaded in 0.19 sec, 1665 allocs, 2.67 MBytes serialized in 33265 calls.
+Loaded in 0.18 sec, 1672 allocs, 2.68 MBytes serialized in 33725 calls.
 
 Object info:
 ============

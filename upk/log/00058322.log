@@ -1,11 +1,15 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00058322.upk Ver: 573/1 Engine: 4205 Names: 27 Exports: 5 Imports: 2 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00058322.upk Ver: 573/1 Engine: 4205 Names: 31 Exports: 9 Imports: 2 Game: 801A
 Loading Texture2D 10181_KunN_Col1_D from package 00058322.upk
 Loading Texture2D 10181_KunN_col1_E from package 00058322.upk
 Loading Texture2D 10181_KunN_col1_M from package 00058322.upk
 Loading Texture2D 10181_KunN_col1_N from package 00058322.upk
 Loading Texture2D 10181_KunN_col1_S from package 00058322.upk
-Loaded in 0.084 sec, 217 allocs, 2.49 MBytes serialized in 1314 calls.
+Loading Texture2D 10181_KunN_Col2_D from package 00058322.upk
+Loading Texture2D 10181_KunN_col2_E from package 00058322.upk
+Loading Texture2D 10181_KunN_col2_M from package 00058322.upk
+Loading Texture2D 10181_KunN_col2_S from package 00058322.upk
+Loaded in 0.11 sec, 358 allocs, 4.31 MBytes serialized in 2265 calls.
 
 Object info:
 ============
@@ -70,6 +74,66 @@ ClassName: Texture2D ObjectName: 10181_KunN_col1_N
 Object info:
 ============
 ClassName: Texture2D ObjectName: 10181_KunN_col1_S
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 10181_KunN_Col2_D
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 10181_KunN_col2_E
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 10181_KunN_col2_M
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: 10181_KunN_col2_S
 
     SizeX = 1024
     SizeY = 1024

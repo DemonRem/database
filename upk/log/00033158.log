@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00033158.upk Ver: 573/1 Engine: 4205 Names: 374 Exports: 470 Imports: 144 Game: 801A
 Loading MaterialInstanceConstant PvE_Axe_Body_INST from package 00033158.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00033031.upk Ver: 573/1 Engine: 4205 Names: 435 Exports: 317 Imports: 150 Game: 801A
 Loading MaterialInstanceConstant PvE_Axe_deco_INST from package 00033158.upk
 Loading package: 00032737.upk Ver: 573/1 Engine: 4205 Names: 380 Exports: 226 Imports: 118 Game: 801A
@@ -22,7 +22,7 @@ WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not 
 Loading SkeletalMeshSocket SkeletalMeshSocket_279 from package 00033158.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 Axe_01 from package 00033158.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Axe_02 from package 00033158.upk
 Loading StaticMesh3 AXE_edge from package 00033158.upk
 Loading Texture2D 110093_mask from package 00033158.upk
@@ -76,7 +76,7 @@ Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.45 sec, 7071 allocs, 2.85 MBytes serialized in 473330 calls.
+Loaded in 0.26 sec, 7198 allocs, 2.89 MBytes serialized in 481854 calls.
 
 Object info:
 ============

@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00007540.upk Ver: 573/1 Engine: 4205 Names: 81 Exports: 17 Imports: 8 Game: 801A
 Loading SkeletalMesh3 KwimoonChargeSpear from package 00007540.upk
 WARNING: FloatProperty "USkeletalMesh3::AnimNameHeight" was not found
 WARNING: FloatProperty "USkeletalMesh3::NormalNameHeight" was not found
 WARNING: FloatProperty "USkeletalMesh3::LowNameHeight" was not found
-Loaded in 0.006 sec, 125 allocs, 0.18 MBytes serialized in 53569 calls.
+Loaded in 0.008 sec, 125 allocs, 0.18 MBytes serialized in 53569 calls.
 
 Object info:
 ============

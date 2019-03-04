@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00034956.upk Ver: 573/1 Engine: 4205 Names: 36 Exports: 6 Imports: 2 Game: 801A
 Loading Texture2D 040214_JinF_col1_D from package 00034956.upk
 Loading Texture2D 040214_JinF_col1_M from package 00034956.upk
@@ -7,7 +7,7 @@ Loading Texture2D 040214_JinF_col1_S from package 00034956.upk
 Loading Texture2D KunN_022_col1_D from package 00034956.upk
 Loading Texture2D KunN_022_col1_N from package 00034956.upk
 WARNING: BoolProperty "UTexture2D::bDisableLoadSwitch" was not found
-Loaded in 0.057 sec, 237 allocs, 0.80 MBytes serialized in 1438 calls.
+Loaded in 0.059 sec, 237 allocs, 0.80 MBytes serialized in 1438 calls.
 
 Object info:
 ============

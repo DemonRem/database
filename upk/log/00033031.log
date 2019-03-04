@@ -1,8 +1,8 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00033031.upk Ver: 573/1 Engine: 4205 Names: 435 Exports: 317 Imports: 150 Game: 801A
 Loading Material3 PvE_Sword_Body from package 00033031.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading package: 00033115.upk Ver: 573/1 Engine: 4205 Names: 440 Exports: 470 Imports: 156 Game: 801A
 Loading MaterialInstanceConstant FX_col1 from package 00033031.upk
 Loading package: 00028885.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 14 Imports: 2 Game: 801A
@@ -55,7 +55,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 0.36 sec, 4776 allocs, 1.80 MBytes serialized in 275466 calls.
+Loaded in 0.24 sec, 4813 allocs, 1.81 MBytes serialized in 276279 calls.
 
 Object info:
 ============

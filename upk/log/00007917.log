@@ -1,10 +1,10 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00007917.upk Ver: 573/1 Engine: 4205 Names: 1320 Exports: 5314 Imports: 498 Game: 801A
 Loading Texture2D Xmas_T_lollipop_D from package 00007917.upk
 Loading Texture2D Xmas_T_lollipop_M from package 00007917.upk
 Loading Texture2D Xmas_T_lollipop_N from package 00007917.upk
 Loading Texture2D Xmas_T_lollipop_S from package 00007917.upk
-Loaded in 0.051 sec, 1466 allocs, 0.69 MBytes serialized in 103865 calls.
+Loaded in 0.046 sec, 1466 allocs, 0.69 MBytes serialized in 103865 calls.
 
 Object info:
 ============

@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00035689.upk Ver: 573/1 Engine: 4205 Names: 220 Exports: 59 Imports: 19 Game: 801A
 Loading AnimSet 090095_JinM_Animset from package 00035689.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -57,7 +57,7 @@ Loading Texture2D 090095_JinM_col1_D from package 00035687.upk
 Loading Texture2D 090095_JinM_col1_S from package 00035687.upk
 Loading Texture2D check from package 00002620.upk
 Loading Material3 Basic from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D check_n from package 00002620.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Line_003 from package 00012963.upk
@@ -71,7 +71,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:090095_JinM_Animset <- UObject::EndLoad <- LoadWholePackage:00035689 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

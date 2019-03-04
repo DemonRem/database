@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00028201.upk Ver: 573/1 Engine: 4205 Names: 261 Exports: 173 Imports: 85 Game: 801A
 Loading SkeletalMesh3 010199_Autoscale from package 00028201.upk
 WARNING: ObjectProperty "USkeletalMesh3::MeshFactorSet" was not found
@@ -7,7 +7,7 @@ Loading package: 00028202.upk Ver: 573/1 Engine: 4205 Names: 96 Exports: 2 Impor
 Loading SkeletalMeshSocket SkeletalMeshSocket_91 from package 00028201.upk
 WARNING: ObjectProperty "USkeletalMeshSocket::DependencyParticleSystem" was not found
 Loading StaticMesh3 Cutlassfish_Mes from package 00028201.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading MaterialInstanceConstant col1_ac from package 00028202.upk
 Loading package: 00028199.upk Ver: 573/1 Engine: 4205 Names: 32 Exports: 4 Imports: 2 Game: 801A
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
@@ -21,7 +21,7 @@ Loading Texture2D 010199_Autoscale_col1_D from package 00028199.upk
 Loading Texture2D 010199_Autoscale_col1_S from package 00028199.upk
 Loading TextureCube Cube_D from package 00002640.upk
 Loading Material3 Blend_OP_TSx from package 00002620.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 010199_Autoscale_col1_M from package 00028199.upk
 Loading TextureCube lenscube_a from package 00002640.upk
 Loading Material3 Basic from package 00002620.upk
@@ -44,7 +44,7 @@ Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.2 sec, 4451 allocs, 1.73 MBytes serialized in 327924 calls.
+Loaded in 0.17 sec, 4578 allocs, 1.76 MBytes serialized in 336448 calls.
 
 Object info:
 ============

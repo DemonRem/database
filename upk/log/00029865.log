@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00029865.upk Ver: 573/1 Engine: 4205 Names: 2390 Exports: 135615 Imports: 787 Game: 801A
 Loading AnimSet Bam_Animset_duel from package 00029865.upk
 WARNING: BoolProperty "UAnimSet::bServiced" was not found
@@ -7,7 +7,7 @@ Loading AnimSequence AnimSequence_0 from package 00029865.upk
 WARNING: BoolProperty "UAnimSequence::bServiced" was not found
 Loading Material3 M01_exp_sub4_duel from package 00029865.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 M01_exp_sub7_duel from package 00029865.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 FireBall_SmokeVolume_MatB_duel from package 00029865.upk
@@ -22,7 +22,7 @@ Loading Material3 Ring005_MatB_duel from package 00029865.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
 Loading Material3 Weapon_gem_3_duel from package 00029865.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
-Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1042 Exports: 1043 Imports: 4 Game: 801A
 Loading Material3 Bloodsparkle000_MatB1_duel from package 00029865.upk
 Loading Material3 Lightning_Sprite000_Fade_duel from package 00029865.upk
 WARNING: BoolProperty "UMaterial3::bAcceptRenderDecal" was not found
@@ -317,7 +317,7 @@ Loading Material3 M_text_WindSlash01 from package 00029865.upk
 Loading Material3 M_text_WindSlash01_BG from package 00029865.upk
 Loading MaterialInstanceConstant col1_duel from package 00029865.upk
 Loading MaterialInstanceConstant M_Battle_Text_1 from package 00029865.upk
-Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3054 Exports: 106036 Imports: 757 Game: 801A
+Loading package: 00011426.upk Ver: 573/1 Engine: 4205 Names: 3055 Exports: 106061 Imports: 757 Game: 801A
 Loading MaterialInstanceConstant M_Battle_Text_1_china from package 00029865.upk
 Loading MaterialInstanceConstant M_Battle_Text_1_de from package 00029865.upk
 Loading MaterialInstanceConstant M_Battle_Text_1_eng from package 00029865.upk
@@ -342,7 +342,7 @@ Loading MaterialInstanceConstant M_Battle_Text_1blur_taiwan from package 0002986
 Loading MaterialInstanceConstant M_Battle_Text_1blur_Thailand from package 00029865.upk
 Loading MaterialInstanceConstant M_Battle_Text_1blur_VietNam from package 00029865.upk
 Loading MaterialInstanceConstant M_ShooterSlide_INST from package 00029865.upk
-Loading package: 00027869.upk Ver: 573/1 Engine: 4205 Names: 1778 Exports: 73176 Imports: 619 Game: 801A
+Loading package: 00027869.upk Ver: 573/1 Engine: 4205 Names: 1791 Exports: 74083 Imports: 622 Game: 801A
 Loading MaterialInstanceConstant M_ShooterSlide_INST_china from package 00029865.upk
 Loading MaterialInstanceConstant M_ShooterSlide_INST_de from package 00029865.upk
 Loading MaterialInstanceConstant M_ShooterSlide_INST_eng from package 00029865.upk
@@ -528,7 +528,7 @@ Loading StaticMesh3 Sphere_Hemi_ZAxis000_Mes_duel from package 00029865.upk
 Loading StaticMesh3 Swordtrail_expand_duel from package 00029865.upk
 Loading StaticMesh3 Thornbus_Needle_duel from package 00029865.upk
 Loading StaticMesh3 geosphere_spiral001 from package 00029865.upk
-Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1018 Exports: 5834 Imports: 361 Game: 801A
+Loading package: 00012892.upk Ver: 573/1 Engine: 4205 Names: 1108 Exports: 6240 Imports: 380 Game: 801A
 Loading StaticMesh3 Sphere_Hemi_-ZAxis000_Mes_UV2 from package 00029865.upk
 Loading Texture2D Fire_Sprite_002_duel from package 00029865.upk
 Loading Texture2D Fire_Sprite_005_duel from package 00029865.upk
@@ -1367,7 +1367,7 @@ Error: Command failed: umodel.exe -dump -path="D:/Program Files (x86)/NCSOFT/BnS
 UAnimSet::ConvertAnims <- PostLoad:Bam_Animset_duel <- UObject::EndLoad <- LoadWholePackage:00029865 <- Main
 
 
-    at ChildProcess.exithandler (child_process.js:289:12)
+    at ChildProcess.exithandler (child_process.js:294:12)
     at ChildProcess.emit (events.js:182:13)
     at maybeClose (internal/child_process.js:962:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:251:5)

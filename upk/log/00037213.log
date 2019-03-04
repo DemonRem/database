@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1041 Exports: 1042 Imports: 4 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00037213.upk Ver: 573/1 Engine: 4205 Names: 1042 Exports: 1043 Imports: 4 Game: 801A
 Loading Texture2D Blood_Sparkle000_Tex_duel from package 00037213.upk
 Loading Texture2D Box_01 from package 00037213.upk
 Loading Texture2D box_01_G from package 00037213.upk
@@ -1033,7 +1033,8 @@ Loading Texture2D Tex_StylePoint_number03 from package 00037213.upk
 Loading Texture2D Tex_StylePoint_number2 from package 00037213.upk
 Loading Texture2D Tex_StylePoint_number4 from package 00037213.upk
 Loading Texture2D Tex_StylePoint_number5 from package 00037213.upk
-Loaded in 2.2 sec, 8642 allocs, 12.30 MBytes serialized in 107058 calls.
+Loading Texture2D UI_Field_Brake_bar01 from package 00037213.upk
+Loaded in 1.6 sec, 8672 allocs, 12.30 MBytes serialized in 107256 calls.
 
 Object info:
 ============
@@ -16526,6 +16527,21 @@ ClassName: Texture2D ObjectName: Tex_StylePoint_number5
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: UI_Field_Brake_bar01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }

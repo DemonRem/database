@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00051006.upk Ver: 573/1 Engine: 4205 Names: 34 Exports: 6 Imports: 2 Game: 801A
 Loading Texture2D 040320_LynM_col1_D from package 00051006.upk
 Loading Texture2D 040320_LynM_col1_M from package 00051006.upk
@@ -6,7 +6,7 @@ Loading Texture2D 040320_LynM_col1_N from package 00051006.upk
 Loading Texture2D 040320_LynM_col1_S from package 00051006.upk
 Loading Texture2D Hair_JinF_053_D from package 00051006.upk
 Loading Texture2D Hair_JinF_053_N from package 00051006.upk
-Loaded in 0.06 sec, 238 allocs, 0.74 MBytes serialized in 1432 calls.
+Loaded in 0.045 sec, 238 allocs, 0.74 MBytes serialized in 1432 calls.
 
 Object info:
 ============

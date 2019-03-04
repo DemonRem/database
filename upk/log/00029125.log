@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00029125.upk Ver: 573/1 Engine: 4205 Names: 42 Exports: 16 Imports: 2 Game: 801A
 Loading Texture2D DemonEmperorFat_col1_D from package 00029125.upk
 Loading Texture2D DemonEmperorFat_col1_D_fx from package 00029125.upk
@@ -16,7 +16,7 @@ Loading Texture2D DemonEmperorFat_col4_D from package 00029125.upk
 Loading Texture2D DemonEmperorFat_col4_E from package 00029125.upk
 Loading Texture2D DemonEmperorFat_col4_S from package 00029125.upk
 Loading Texture2D DemonEmperorFat_FXMask from package 00029125.upk
-Loaded in 0.19 sec, 614 allocs, 10.04 MBytes serialized in 3946 calls.
+Loaded in 0.18 sec, 614 allocs, 10.04 MBytes serialized in 3946 calls.
 
 Object info:
 ============

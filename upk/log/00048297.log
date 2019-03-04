@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00048297.upk Ver: 573/1 Engine: 4205 Names: 443 Exports: 2787 Imports: 161 Game: 801A
 Loading Material3 01 from package 00048297.upk
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Material3 AncientMechamonk_circle from package 00048297.upk
 Loading Material3 AncientMechamonk_DecalMat from package 00048297.upk
 Loading Material3 AncientMechaMonk_Foot from package 00048297.upk
@@ -65,7 +65,7 @@ Loading MaterialInstanceConstant Chromatic_Mesh_INST from package 00048297.upk
 Loading MaterialInstanceConstant Chromatic_weapon_glow from package 00048297.upk
 Loading MaterialInstanceConstant DemonGoldenBat_Wing_Inst from package 00048297.upk
 Loading package: 00057139.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 2 Game: 801A
-Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1924 Exports: 31631 Imports: 705 Game: 801A
+Loading package: 00012850.upk Ver: 573/1 Engine: 4205 Names: 1927 Exports: 31631 Imports: 708 Game: 801A
 Loading MaterialInstanceConstant dog_Chromatic_attack02_MITV from package 00048297.upk
 Loading MaterialInstanceConstant dog_Chromatic_attack_MITV from package 00048297.upk
 Loading MaterialInstanceConstant dog_Chromatic_Flare_01 from package 00048297.upk
@@ -181,7 +181,7 @@ Loading Texture2D AncientMechaGoat_col1_N from package 00047628.upk
 Loading Texture2D AncientMechaGoat_col1_D from package 00047628.upk
 Loading Material3 AncientMechaGoat_Jaw_M from package 00012850.upk
 Loading Texture2D T_wave from package 00012963.upk
-Loaded in 1.9 sec, 8373 allocs, 9.92 MBytes serialized in 918792 calls.
+Loaded in 1.7 sec, 8413 allocs, 9.93 MBytes serialized in 919635 calls.
 
 Object info:
 ============

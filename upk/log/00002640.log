@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00002640.upk Ver: 573/1 Engine: 4205 Names: 291 Exports: 507 Imports: 3 Game: 801A
 Loading Texture2D ban_cube01 from package 00002640.upk
 Loading Texture2D ban_cube02 from package 00002640.upk
@@ -507,7 +507,7 @@ Loading Texture2D CubemapFace2 from package 00002640.upk
 Loading Texture2D CubemapFace3 from package 00002640.upk
 Loading Texture2D CubemapFace4 from package 00002640.upk
 Loading Texture2D CubemapFace5 from package 00002640.upk
-Loaded in 5.9 sec, 11568 allocs, 2.08 MBytes serialized in 85155 calls.
+Loaded in 2.9 sec, 11568 allocs, 2.08 MBytes serialized in 85155 calls.
 
 Object info:
 ============

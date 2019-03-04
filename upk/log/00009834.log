@@ -1,7 +1,7 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00009834.upk Ver: 573/1 Engine: 4205 Names: 1177 Exports: 3420 Imports: 101 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00009834.upk Ver: 573/1 Engine: 4205 Names: 1233 Exports: 3655 Imports: 102 Game: 801A
 Loading Texture2D Game_ToolTipScene_Preview from package 00009834.upk
-Loaded in 0.007 sec, 1200 allocs, 0.30 MBytes serialized in 65887 calls.
+Loaded in 0.005 sec, 1256 allocs, 0.32 MBytes serialized in 70292 calls.
 
 Object info:
 ============

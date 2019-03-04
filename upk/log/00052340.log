@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00052340.upk Ver: 573/1 Engine: 4205 Names: 57 Exports: 5 Imports: 11 Game: 801A
 Loading SkeletalMesh3 990323_Autoscale from package 00052340.upk
 WARNING: ObjectProperty "USkeletalMesh3::PhysMaterialOverride" was not found
@@ -14,7 +14,7 @@ Loading TextureCube lenscube_a from package 00002640.upk
 Loading Texture2D 990323_Autoscale_col1_fx from package 00052342.upk
 Loading Material3 body_FX from package 00052342.upk
 Loading package: 00002620.upk Ver: 573/1 Engine: 4205 Names: 576 Exports: 7687 Imports: 96 Game: 801A
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D CubemapFace0 from package 00002640.upk
 Loading Texture2D CubemapFace1 from package 00002640.upk
 Loading Texture2D CubemapFace2 from package 00002640.upk
@@ -29,7 +29,7 @@ Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Smoke_Pattern_001 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
-Loaded in 0.2 sec, 3095 allocs, 1.57 MBytes serialized in 248738 calls.
+Loaded in 0.16 sec, 3132 allocs, 1.57 MBytes serialized in 249551 calls.
 
 Object info:
 ============

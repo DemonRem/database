@@ -1,5 +1,5 @@
-Found 32768 game files (1222 skipped)
-Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1349 Exports: 1323 Imports: 10 Game: 801A
+Found 32768 game files (1766 skipped)
+Loading package: 00012963.upk Ver: 573/1 Engine: 4205 Names: 1386 Exports: 1362 Imports: 10 Game: 801A
 Loading Texture2D 090096_JinM_col1_Red_mask from package 00012963.upk
 Loading Texture2D 090098_JinF_col1_D_re_mask from package 00012963.upk
 Loading Texture2D YeonHwaLin_HealStamp_decal07_n from package 00012963.upk
@@ -23,6 +23,7 @@ Loading Texture2D Aura_Blood_002 from package 00012963.upk
 Loading Texture2D Aura_Blood_003 from package 00012963.upk
 Loading Texture2D Aura_BlurBlue_000 from package 00012963.upk
 Loading Texture2D Aura_Flame_000 from package 00012963.upk
+Loading Texture2D aura_light_001 from package 00012963.upk
 Loading Texture2D Aura_Ripple_000 from package 00012963.upk
 Loading Texture2D Aura_Ripple_001 from package 00012963.upk
 Loading Texture2D Aura_Tail_000 from package 00012963.upk
@@ -30,6 +31,7 @@ Loading Texture2D Aura_Tail_001 from package 00012963.upk
 Loading Texture2D Aura_Tail_002 from package 00012963.upk
 Loading Texture2D Axe_alpha from package 00012963.upk
 Loading Texture2D Axe_Edge_alpha from package 00012963.upk
+Loading Texture2D bar_noise_gra01 from package 00012963.upk
 Loading Texture2D Barrier_signal from package 00012963.upk
 Loading Texture2D Beam from package 00012963.upk
 Loading Texture2D Bee_D from package 00012963.upk
@@ -73,6 +75,7 @@ Loading Texture2D Catt_n from package 00012963.upk
 Loading Texture2D Catt_s from package 00012963.upk
 Loading Texture2D Check_Shine_001_Tex from package 00012963.upk
 Loading Texture2D cloud_Wide_Tex from package 00012963.upk
+Loading Texture2D coin_tex from package 00012963.upk
 Loading Texture2D Color_Ring_000 from package 00012963.upk
 Loading Texture2D Color_Ring_001 from package 00012963.upk
 Loading Texture2D Color_Ring_002 from package 00012963.upk
@@ -83,6 +86,7 @@ Loading Texture2D crack_tile_nomal from package 00012963.upk
 Loading Texture2D crushU_text from package 00012963.upk
 Loading Texture2D crushU_text_line from package 00012963.upk
 Loading Texture2D Dagger_Opa2 from package 00012963.upk
+Loading Texture2D Damage02_Fire_crack10 from package 00012963.upk
 Loading Texture2D Damage02_Fire_creake10 from package 00012963.upk
 Loading Texture2D Damage02_Fire_Decal_mask3 from package 00012963.upk
 Loading Texture2D Damage02_Fire_Signal_Decal_main08 from package 00012963.upk
@@ -100,6 +104,9 @@ Loading Texture2D Damage_Re_mask from package 00012963.upk
 Loading Texture2D Damage_Re_normal from package 00012963.upk
 Loading Texture2D Damage_Re_Specular from package 00012963.upk
 Loading Texture2D Dandleion from package 00012963.upk
+Loading Texture2D Dandleion2 from package 00012963.upk
+Loading Texture2D Dandleion3 from package 00012963.upk
+Loading Texture2D Dandleion5_N from package 00012963.upk
 Loading Texture2D Decal_Crack_000 from package 00012963.upk
 Loading Texture2D Decal_Crack_001 from package 00012963.upk
 Loading Texture2D Decal_Crack_002 from package 00012963.upk
@@ -249,6 +256,7 @@ Loading Texture2D Fire_Sprite_005_Half from package 00012963.upk
 Loading Texture2D Fire_Sprite_006 from package 00012963.upk
 Loading Texture2D Fire_Sprite_007 from package 00012963.upk
 Loading Texture2D Fire_Torch_Sample_001_D from package 00012963.upk
+Loading Texture2D FireSmoke_SQ8x8 from package 00012963.upk
 Loading Texture2D FireWork_Burst_Heart_02 from package 00012963.upk
 Loading Texture2D FireWork_Burst_Heart_03 from package 00012963.upk
 Loading Texture2D FireWork_Burst_Heart_04 from package 00012963.upk
@@ -345,6 +353,7 @@ Loading Texture2D Gradient_Beam_007 from package 00012963.upk
 Loading Texture2D Gradient_Beam_007_Clamp from package 00012963.upk
 Loading Texture2D Gradient_Beam_008 from package 00012963.upk
 Loading Texture2D Gradient_Beam_Clamp from package 00012963.upk
+Loading Texture2D Gradient_Beam_v001 from package 00012963.upk
 Loading Texture2D Gradient_Color_001 from package 00012963.upk
 Loading Texture2D Gradient_Color_BlueToPurple_000 from package 00012963.upk
 Loading Texture2D Gradient_Color_BlueToPurple_001 from package 00012963.upk
@@ -394,6 +403,7 @@ Loading Texture2D Gradient_Trail_004 from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask from package 00012963.upk
 Loading Texture2D Gradient_Wipe_BurnOut_Mask_TEST from package 00012963.upk
 Loading Texture2D Hammer_FractalLine from package 00012963.upk
+Loading Texture2D Headline_Flare_03 from package 00012963.upk
 Loading Texture2D Heal_signal from package 00012963.upk
 Loading Texture2D Heal_signal_outLine from package 00012963.upk
 Loading Texture2D Hex000_Tex from package 00012963.upk
@@ -450,6 +460,8 @@ Loading Texture2D Item_CommonAddHp_01 from package 00012963.upk
 Loading Texture2D Item_CommonAddHp_02 from package 00012963.upk
 Loading Texture2D j_decal_circle008 from package 00012963.upk
 Loading Texture2D Jaket000_Tex from package 00012963.upk
+Loading Texture2D JR_T_Flame01_Sequnce8x8 from package 00012963.upk
+Loading Texture2D JR_T_Flame02_Sequnce8x8 from package 00012963.upk
 Loading Texture2D lava01 from package 00012963.upk
 Loading Texture2D lava01N from package 00012963.upk
 Loading Texture2D Leaf from package 00012963.upk
@@ -476,6 +488,7 @@ Loading Texture2D MuseongM_decal06 from package 00012963.upk
 Loading Texture2D MuseongM_GradientLine from package 00012963.upk
 Loading Texture2D MuseongM_Hand02 from package 00012963.upk
 Loading Texture2D MuseongM_pizzacircle from package 00012963.upk
+Loading Texture2D MuseongM_pizzacircle120 from package 00012963.upk
 Loading Texture2D MuseongM_shockwave from package 00012963.upk
 Loading Texture2D Nail_decal_01 from package 00012963.upk
 Loading Texture2D Nail_decal_01_NRM from package 00012963.upk
@@ -507,6 +520,7 @@ Loading Texture2D Noise_019 from package 00012963.upk
 Loading Texture2D Noise_020 from package 00012963.upk
 Loading Texture2D Noise_021 from package 00012963.upk
 Loading Texture2D Noise_022 from package 00012963.upk
+Loading Texture2D noise_aura01 from package 00012963.upk
 Loading Texture2D Noise_Bubble_000 from package 00012963.upk
 Loading Texture2D Noise_Crack_000 from package 00012963.upk
 Loading Texture2D Noise_Distortion_000 from package 00012963.upk
@@ -528,6 +542,7 @@ Loading Texture2D Noise_Fractal_009_Blur from package 00012963.upk
 Loading Texture2D Noise_Glass_000 from package 00012963.upk
 Loading Texture2D Noise_Glow_000 from package 00012963.upk
 Loading Texture2D Noise_Glow_000_Out from package 00012963.upk
+Loading Texture2D Noise_ground_001 from package 00012963.upk
 Loading Texture2D Noise_Plazma_000 from package 00012963.upk
 Loading Texture2D Noise_Plazma_001 from package 00012963.upk
 Loading Texture2D Noise_Plazma_002 from package 00012963.upk
@@ -574,6 +589,7 @@ Loading Texture2D Plant_004_06_D from package 00012963.upk
 Loading Texture2D Plant_004_06_M from package 00012963.upk
 Loading Texture2D Plant_004_06_moss01 from package 00012963.upk
 Loading Texture2D Plant_004_06_N from package 00012963.upk
+Loading Texture2D Plant_decal_01 from package 00012963.upk
 Loading Texture2D Poison_Deca02_D from package 00012963.upk
 Loading Texture2D Poison_Deca02_N from package 00012963.upk
 Loading Texture2D Poison_Floor_1 from package 00012963.upk
@@ -648,8 +664,12 @@ Loading Texture2D Rune_Potal_001_Line from package 00012963.upk
 Loading Texture2D Rune_Target_Decal_000 from package 00012963.upk
 Loading Texture2D Rune_Text_Sprite_000 from package 00012963.upk
 Loading Texture2D RunnemechaAsura_handpress_decal from package 00012963.upk
+Loading Texture2D SaintTurtle_zzz_02 from package 00012963.upk
 Loading Texture2D Seed_2 from package 00012963.upk
 Loading Texture2D Seed_3 from package 00012963.upk
+Loading Texture2D SeqT_JR_GhostSmoke001_8x8 from package 00012963.upk
+Loading Texture2D SeqT_JR_GhostSmoke002_8x8 from package 00012963.upk
+Loading Texture2D SeqT_JR_GhostSmoke003_8x8 from package 00012963.upk
 Loading Texture2D SM from package 00012963.upk
 Loading Texture2D Smoke_000 from package 00012963.upk
 Loading Texture2D Smoke_000a from package 00012963.upk
@@ -748,6 +768,7 @@ Loading Texture2D Sparkle_Ink_015 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_016 from package 00012963.upk
 Loading Texture2D Sparkle_ink_017 from package 00012963.upk
 Loading Texture2D Sparkle_ink_018 from package 00012963.upk
+Loading Texture2D Sparkle_Ink_019 from package 00012963.upk
 Loading Texture2D Sparkle_Ink_Small from package 00012963.upk
 Loading Texture2D Sparkle_ShockWave_005 from package 00012963.upk
 Loading Texture2D Sparkle_Sprite_000 from package 00012963.upk
@@ -786,17 +807,23 @@ Loading Texture2D SystemDecal_Triangle from package 00012963.upk
 Loading Texture2D SystemDecal_Triangle_noClamp from package 00012963.upk
 Loading Texture2D T01_Dst_P_4 from package 00012963.upk
 Loading Texture2D T01_fire_dist_re from package 00012963.upk
+Loading Texture2D T_BM_G3_SoulBlast from package 00012963.upk
 Loading Texture2D T_Box from package 00012963.upk
 Loading Texture2D T_BunnyCard_v001_D from package 00012963.upk
 Loading Texture2D T_BunnyCard_v001_N from package 00012963.upk
 Loading Texture2D T_BunnyCard_v002_D from package 00012963.upk
 Loading Texture2D T_BunnyCard_v003_D from package 00012963.upk
+Loading Texture2D T_Decal_MagicRec001 from package 00012963.upk
 Loading Texture2D T_Decal_Taegeuk_01 from package 00012963.upk
 Loading Texture2D T_Decal_Taegeuk_02 from package 00012963.upk
+Loading Texture2D T_GhostDecal_SemiCircle001 from package 00012963.upk
+Loading Texture2D T_GhostMask_Mask01 from package 00012963.upk
 Loading Texture2D T_GL_WaterNormal_02_Macro from package 00012963.upk
 Loading Texture2D t_Glow_Flar_012_2 from package 00012963.upk
+Loading Texture2D t_Glow_Flar_012_3 from package 00012963.upk
 Loading Texture2D T_Gradation_g from package 00012963.upk
 Loading Texture2D T_GS_Ice_02_D from package 00012963.upk
+Loading Texture2D T_JR_Decal_MagicCircle_001 from package 00012963.upk
 Loading Texture2D T_Liquid_SM_NanoBlack_Mask_01 from package 00012963.upk
 Loading Texture2D T_Liquid_SM_Waterfall_01 from package 00012963.upk
 Loading Texture2D T_MukHwa_d2 from package 00012963.upk
@@ -810,6 +837,9 @@ Loading Texture2D T_MukHwa_s2 from package 00012963.upk
 Loading Texture2D T_return_dragon_07 from package 00012963.upk
 Loading Texture2D T_return_dragon_10_GreenGradation_small from package 00012963.upk
 Loading Texture2D T_Return_Trail_Gradient_clamp from package 00012963.upk
+Loading Texture2D T_Smoke_thin_01 from package 00012963.upk
+Loading Texture2D T_Smoke_thin_02 from package 00012963.upk
+Loading Texture2D T_Smoke_thin_03 from package 00012963.upk
 Loading Texture2D T_Snow from package 00012963.upk
 Loading Texture2D T_teageuk_Center_01_inverse_NRM from package 00012963.upk
 Loading Texture2D T_teageuk_edge_01_inverse_NRM1 from package 00012963.upk
@@ -897,6 +927,8 @@ Loading Texture2D Waveform_001 from package 00012963.upk
 Loading Texture2D Wing from package 00012963.upk
 Loading Texture2D XXXXXXX from package 00012963.upk
 Loading Texture2D YachaC_arrow_image from package 00012963.upk
+Loading Texture2D YellowElectric_Sprite_000 from package 00012963.upk
+Loading Texture2D YellowElectric_Sprite_001 from package 00012963.upk
 Loading Texture2D YeonHwaLin_AccBomb_D from package 00012963.upk
 Loading Texture2D YeonHwaLin_AccBomb_mask from package 00012963.upk
 Loading Texture2D YeonHwaLin_AccBomb_N from package 00012963.upk
@@ -913,8 +945,13 @@ Loading Texture2D YeonHwaLin_LandMine_D from package 00012963.upk
 Loading Texture2D YeonHwaLin_LandMine_FxMask from package 00012963.upk
 Loading Texture2D YeonHwaLin_LandMine_N from package 00012963.upk
 Loading Texture2D YeonHwaLin_LandMine_S from package 00012963.upk
+Loading Texture2D zone_01 from package 00012963.upk
+Loading Texture2D zone_02 from package 00012963.upk
+Loading Texture2D zone_center01 from package 00012963.upk
+Loading Texture2D zone_main from package 00012963.upk
+Loading Texture2D zone_sub from package 00012963.upk
 Loading TextureCube Cube_001 from package 00012963.upk
-Loaded in 12 sec, 27187 allocs, 43.70 MBytes serialized in 186628 calls.
+Loaded in 7.1 sec, 28369 allocs, 48.30 MBytes serialized in 194325 calls.
 
 Object info:
 ============
@@ -1263,6 +1300,21 @@ ClassName: Texture2D ObjectName: Aura_Flame_000
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: aura_light_001
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Aura_Ripple_000
 
     SizeX = 256
@@ -1362,6 +1414,21 @@ ClassName: Texture2D ObjectName: Axe_Edge_alpha
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: bar_noise_gra01
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -2013,6 +2080,21 @@ ClassName: Texture2D ObjectName: cloud_Wide_Tex
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: coin_tex
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Color_Ring_000
 
     SizeX = 256
@@ -2153,6 +2235,21 @@ ClassName: Texture2D ObjectName: Dagger_Opa2
     SizeX = 256
     SizeY = 128
     Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Damage02_Fire_crack10
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
     AddressX = TA_Wrap (0)
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
@@ -2404,6 +2501,51 @@ ClassName: Texture2D ObjectName: Damage_Re_Specular
 Object info:
 ============
 ClassName: Texture2D ObjectName: Dandleion
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Dandleion2
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Dandleion3
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Dandleion5_N
 
     SizeX = 128
     SizeY = 128
@@ -4623,6 +4765,21 @@ ClassName: Texture2D ObjectName: Fire_Torch_Sample_001_D
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: FireSmoke_SQ8x8
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: FireWork_Burst_Heart_02
 
     SizeX = 256
@@ -6063,6 +6220,21 @@ ClassName: Texture2D ObjectName: Gradient_Beam_Clamp
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: Gradient_Beam_v001
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Gradient_Color_001
 
     SizeX = 32
@@ -6792,6 +6964,21 @@ ClassName: Texture2D ObjectName: Hammer_FractalLine
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Headline_Flare_03
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -7634,6 +7821,36 @@ ClassName: Texture2D ObjectName: Jaket000_Tex
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: JR_T_Flame01_Sequnce8x8
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: JR_T_Flame02_Sequnce8x8
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: lava01
 
     SizeX = 256
@@ -8010,6 +8227,21 @@ ClassName: Texture2D ObjectName: MuseongM_Hand02
 Object info:
 ============
 ClassName: Texture2D ObjectName: MuseongM_pizzacircle
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MuseongM_pizzacircle120
 
     SizeX = 128
     SizeY = 128
@@ -8489,6 +8721,21 @@ ClassName: Texture2D ObjectName: Noise_022
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: noise_aura01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Noise_Bubble_000
 
     SizeX = 128
@@ -8798,6 +9045,21 @@ ClassName: Texture2D ObjectName: Noise_Glow_000_Out
     AddressY = TA_Clamp (1)
     TextureFileCacheName = None
     MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Noise_ground_001
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -9413,6 +9675,21 @@ ClassName: Texture2D ObjectName: Plant_004_06_N
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Plant_decal_01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -10514,6 +10791,21 @@ ClassName: Texture2D ObjectName: RunnemechaAsura_handpress_decal
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: SaintTurtle_zzz_02
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Seed_2
 
     SizeX = 64
@@ -10538,6 +10830,51 @@ ClassName: Texture2D ObjectName: Seed_3
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SeqT_JR_GhostSmoke001_8x8
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SeqT_JR_GhostSmoke002_8x8
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: SeqT_JR_GhostSmoke003_8x8
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -12014,6 +12351,21 @@ ClassName: Texture2D ObjectName: Sparkle_ink_018
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: Sparkle_Ink_019
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_G8 (3)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: Sparkle_Ink_Small
 
     SizeX = 64
@@ -12584,6 +12936,21 @@ ClassName: Texture2D ObjectName: T01_fire_dist_re
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: T_BM_G3_SoulBlast
+
+    SizeX = 256
+    SizeY = 512
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: T_Box
 
     SizeX = 32
@@ -12659,6 +13026,21 @@ ClassName: Texture2D ObjectName: T_BunnyCard_v003_D
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: T_Decal_MagicRec001
+
+    SizeX = 256
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: T_Decal_Taegeuk_01
 
     SizeX = 256
@@ -12689,6 +13071,36 @@ ClassName: Texture2D ObjectName: T_Decal_Taegeuk_02
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: T_GhostDecal_SemiCircle001
+
+    SizeX = 1024
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T_GhostMask_Mask01
+
+    SizeX = 512
+    SizeY = 512
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: T_GL_WaterNormal_02_Macro
 
     SizeX = 128
@@ -12705,6 +13117,21 @@ ClassName: Texture2D ObjectName: T_GL_WaterNormal_02_Macro
 Object info:
 ============
 ClassName: Texture2D ObjectName: t_Glow_Flar_012_2
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: t_Glow_Flar_012_3
 
     SizeX = 128
     SizeY = 128
@@ -12743,6 +13170,21 @@ ClassName: Texture2D ObjectName: T_GS_Ice_02_D
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T_JR_Decal_MagicCircle_001
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }
@@ -12935,6 +13377,51 @@ ClassName: Texture2D ObjectName: T_Return_Trail_Gradient_clamp
     SizeY = 64
     Format = PF_G8 (3)
     AddressX = TA_Clamp (1)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 7
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T_Smoke_thin_01
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT1 (5)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T_Smoke_thin_02
+
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 8
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: T_Smoke_thin_03
+
+    SizeX = 128
+    SizeY = 128
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 7
@@ -14247,6 +14734,36 @@ ClassName: Texture2D ObjectName: YachaC_arrow_image
 
 Object info:
 ============
+ClassName: Texture2D ObjectName: YellowElectric_Sprite_000
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: YellowElectric_Sprite_001
+
+    SizeX = 1024
+    SizeY = 1024
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 10
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
 ClassName: Texture2D ObjectName: YeonHwaLin_AccBomb_D
 
     SizeX = 256
@@ -14481,6 +14998,81 @@ ClassName: Texture2D ObjectName: YeonHwaLin_LandMine_S
     AddressY = TA_Wrap (0)
     TextureFileCacheName = None
     MipTailBaseIdx = 9
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: zone_01
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: zone_02
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: zone_center01
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: zone_main
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Clamp (1)
+    AddressY = TA_Clamp (1)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+
+Object info:
+============
+ClassName: Texture2D ObjectName: zone_sub
+
+    SizeX = 2048
+    SizeY = 2048
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 11
     bForcePVRTC4 = false
     UnpackMin[4] = { 0, 0, 0, 0 }
     UnpackMax[4] = { 1, 1, 1, 1 }

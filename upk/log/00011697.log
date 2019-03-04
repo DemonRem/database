@@ -1,4 +1,4 @@
-Found 32768 game files (1222 skipped)
+Found 32768 game files (1766 skipped)
 Loading package: 00011697.upk Ver: 573/1 Engine: 4205 Names: 37 Exports: 9 Imports: 4 Game: 801A
 Loading Texture2D Weapon_110006_col1_d from package 00011697.upk
 Loading Texture2D Weapon_110006_col1_m from package 00011697.upk
@@ -8,7 +8,7 @@ Loading Texture2D Weapon_110006_col2_d from package 00011697.upk
 Loading Texture2D Weapon_110006_col2_s from package 00011697.upk
 Loading Texture2D Weapon_110006_col3_d from package 00011697.upk
 Loading Texture2D Weapon_110006_col3_s from package 00011697.upk
-Loaded in 0.076 sec, 302 allocs, 0.85 MBytes serialized in 1846 calls.
+Loaded in 0.065 sec, 302 allocs, 0.85 MBytes serialized in 1846 calls.
 
 Object info:
 ============
